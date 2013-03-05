@@ -1,0 +1,756 @@
+0
+170
+Resistance to IL-10 inhibition of interferon gamma production and expression of suppressor of cytokine signaling 1 in CD4+ T cells from patients with rheumatoid arthritis
+172
+180
+Abstract
+182
+299
+IL-10 has been shown to block the antigen-specific T-cell cytokine response by inhibiting the CD28 signaling pathway.
+300
+635
+We found that peripheral blood CD4+ T cells from patients with active rheumatoid arthritis (RA) were able to produce greater amounts of interferon gamma after CD3 and CD28 costimulation in the presence of 1 ng/ml IL-10 than were normal control CD4+ T cells, although their surface expression of the type 1 IL-10 receptor was increased.
+636
+836
+The phosphorylation of signal transducer and activator of transcription 3 was sustained in both blood and synovial tissue CD4+ T cells of RA, but it was not augmented by the presence of 1 ng/ml IL-10.
+837
+1020
+Sera from RA patients induced signal transducer and activator of transcription 3 phosphorylation in normal CD4+ T cells, which was mostly abolished by neutralizing anti-IL-6 antibody.
+1021
+1133
+Preincubation of normal CD4+ T cells with IL-6 reduced IL-10-mediated inhibition of interferon gamma production.
+1134
+1359
+Blood CD4+ T cells from RA patients contained higher levels of suppressor of cytokine signaling 1 but lower levels of suppressor of cytokine signaling 3 mRNA compared with control CD4+ T cells, as determined by real-time PCR.
+1360
+1679
+These results indicate that RA CD4+ T cells become resistant to the immunosuppressive effect of IL-10 before migration into synovial tissue, and this impaired IL-10 signaling may be associated with sustained signal transducer and activator of transcription 3 activation and suppressor of cytokine signaling 1 induction.
+1681
+1693
+Introduction
+1695
+1835
+IL-10 is a key cytokine in regulating inflammatory responses, mainly by inhibiting the production and function of proinflammatory cytokines.
+1836
+2028
+IL-10 binds to the IL-10 receptor (IL-10R) complex that is composed of two subunits, the primary ligand-binding component type 1 IL-10R (IL-10R1) and the accessory component type 2 IL-10R [1].
+2029
+2220
+The interaction of IL-10 and IL-10R engages the Janus kinase (JAK) family tyrosine kinases Jak1 and Tyk2, which are constitutively associated with IL-10R1 and type 2 IL-10R, respectively [2].
+2221
+2385
+IL-10 induces tyrosine phosphorylation and activation of the latent transcriptional factors signal transducer and activator of transcription (STAT) 3 and STAT1 [3].
+2386
+2536
+Upon phosphorylation, STAT1 and STAT3 proteins form homodimers or heterodimers, rapidly translocate into the nucleus, and modulate gene transcription.
+2537
+2662
+Intriguingly, STAT3 is indispensable for both IL-10-derived anti-inflammatory and IL-6-derived proinflammatory responses [4].
+2663
+2919
+Studies of cell-type-specific STAT3-deficient mice have shown that STAT3 activation is essential for IL-10-mediated anti-inflammatory reactions in macrophages and neutrophils [5], but is responsible for IL-6-mediated prevention of apoptosis in T cells [6].
+2920
+3214
+The suppressor of cytokine signaling (SOCS) proteins have been identified as a family of endogenous JAK kinase inhibitors that can act in classic feedback inhibition loops, but their roles as the mediators of crosstalk inhibition by opposing cytokine signaling pathways have been clarified [7].
+3215
+3415
+Recent studies indicate that SOCS3 plays a key role in regulating the divergent action of IL-10 and IL-6, by specifically blocking STAT3 activation induced by IL-6 but not that induced by IL-10 [8,9].
+3418
+3656
+The synovial membrane of rheumatoid arthritis (RA) is characterized by an infiltrate of a variety of inflammatory cells, such as lymphocytes, macrophages, and dendritic cells, together with proliferation of synovial fibroblast-like cells.
+3657
+3810
+Numerous cytokines are overproduced in the inflamed joint, and macrophages and synovial fibroblasts are an important source of proinflammatory cytokines.
+3811
+4138
+Tumor necrosis factor alpha (TNF-α) and IL-1, two major macrophage products, are crucial in the process of chronic inflammation and joint destruction, and they give rise to effector components, including other inflammatory cytokines, chemokines, growth factors, matrix proteases, nitric oxide, and reactive oxygen species [10].
+4139
+4405
+IL-6 is a pleiotropic cytokine produced substantially by activated fibroblasts, and its proinflammatory actions include simulating the acute-phase response, B-cell maturation into plasma cells, T-cell functions, and hematopoietic precursor cell differentiation [11].
+4408
+4519
+However, anti-inflammatory cytokines and cytokine inhibitors are also present in large quantities in RA joints.
+4520
+4772
+IL-10, produced by macrophages and partly by T cells in the synovial tissue (ST), is best known as a negative regulator for macrophage and Th1 cells, but the expression level is insufficient to counterbalance the cascade of proinflammatory events [12].
+4773
+4912
+In addition, the anti-inflammatory action of IL-10 appears to be modulated at the level of signal transduction during chronic inflammation.
+4913
+5059
+IL-10 signaling is impaired in macrophages upon chronic exposure to proinflammatory cytokines such as TNF-α and IL-1 and immune complexes [13,14].
+5060
+5236
+Cell surface expression of IL-10R1 is decreased in synovial fluid dendritic cells due to the presence of TNF-α, IL-1, and granulocyte–macrophage colony-stimulating factor [15].
+5239
+5361
+CD4+ T cells may be activated by arthritogenic antigens, in conjunction with CD28-mediated costimulatory signaling, in RA.
+5362
+5675
+The significance of this autoimmune process has been supported by the linkage of the MHC class II antigens HLA-DRB1*0404 and HLA-DRB1*0401 with disease susceptibility and severity [16,17], and by the high-level expression of MHC class II molecules and both CD28 ligands, CD80 and CD86, in the inflamed ST [18-20].
+5676
+6017
+The continuing emergence of activated CD4+ T cells, even though few in number, may be crucial in sustaining the activation of macrophages and synovial fibroblasts through cell surface signaling by means of cell surface CD69 and CD11, as well as the release of proinflammatory Th1 cytokines such as interferon gamma (IFN)-γ and IL-17 [21,22].
+6018
+6163
+In addition, CD4+ T cells could stimulate B-cell production of autoantibodies such as rheumatoid factor and osteoclast-mediated bone destruction.
+6164
+6484
+Their obligatory role in RA synovitis was recently proved by successful treatment of active disease by selective inhibition of T-cell activation with fusion protein of cytotoxic T-cell-associated antigen 4 (CD152)-IgG, which can block the engagement of CD28 on T cells by binding to CD80 and CD86 with high avidity [23].
+6487
+6686
+IL-10 efficiently blocks the antigen-specific T-cell cytokine response by inhibiting the CD28 signaling pathway [24], as well as indirectly by downregulating the function of antigen-presenting cells.
+6687
+7020
+To elucidate the resistance of CD4+ T cells to this direct inhibition in RA, we investigated the production of IFN-γ after CD3 and CD28 costimulation in the presence of IL-10, the induction of STAT1 and STAT3 phosphorylation by IL-10, and the expression of SOCS1 and SOCS3 mRNA in peripheral blood (PB) CD4+ T cells from RA patients.
+7023
+7044
+Materials and methods
+7046
+7325
+The total patient population consisted of 32 patients with RA (25 women and seven men; mean ± standard deviation age, 52.8 ± 12.4 years) diagnosed according to the revised 1987 criteria of the American College of Rheumatology (formally, the American Rheumatism Association) [25].
+7326
+7424
+All patients were receiving prednisolone (≤ 7.5 mg/day) and disease-modifying antirheumatic drugs.
+7425
+7675
+Clinical parameters in the study patients were as follows (mean ± standard deviation): erythrocyte sedimentation rate, 55.9 ± 35.4 mm/hour; serum C-reactive protein (CRP) level, 32.0 ± 32.0 mg/l; and IgM class rheumatoid factor titer, 142 ± 158 U/ml.
+7676
+7978
+Patients were divided into two groups: 24 patients with active disease, who had multiple tender and/or swollen joints and elevated serum CRP level (≥ 10 mg/l); and eight patients with inactive disease, who satisfied the American College of Rheumatology preliminary criteria for clinical remission [26].
+7979
+8073
+Sixteen healthy volunteers (11 women and five men; age, 45.8 ± 11.2 years) served as controls.
+8074
+8156
+ST samples were obtained from three RA patients undergoing total knee replacement.
+8157
+8192
+All patients gave informed consent.
+8195
+8367
+Peripheral blood mononuclear cells (PBMC) were prepared from heparinized blood samples by centrifugation over Ficoll-Hypaque density gradients (Pharmacia, Uppsala, Sweden).
+8368
+8551
+CD4+ T cells were purified from PBMC by positive selection using anti-CD4 mAb-coated magnetic beads (Miltenyi Biotec, Gladbach, Germany), according to the manufacturer's instructions.
+8552
+8625
+CD4+ T cells were isolated from ST samples, as previously described [27].
+8626
+8727
+Briefly, fresh ST samples were fragmented and digested with collagenase and DNase for 1 hour at 37°C.
+8728
+9136
+After removing tissue debris, ST cell suspensions in culture medium (RPMI 1640 medium; Life Technologies, Gaithersburg, MD, USA) supplemented with 25 mM HEPES (2 mM L-glutamine, 2% nonessential amino acids, 100 IU/ml penicillin, and 100 mg/ml streptomycin; Life Technologies) with 10% heat-inactivated FCS (Life Technologies) were incubated at 37°C in six-well plates (Coster, Cambridge, MA, USA) for 45 min.
+9137
+9245
+Non-adherent cells were harvested and CD4+ T cells were purified by positive selection as already described.
+9248
+9518
+PB CD4+ T-cell populations were resuspended at a density of 1 × 106 cells/ml in culture medium with 10% FCS, and 0.5 ml cell suspensions were dispensed into the wells of 24-well microtiter plates (Coster) coated with 1 μg/ml anti-CD3 mAb (Immunotech, Marseille, France).
+9519
+9748
+The cells were incubated with 1 μg/ml anti-CD28 mAb (Immunotech) in the presence or absence of the indicated concentrations of IL-10 (Becton Dickinson, San Jose, CA, USA) at 37°C in a humidified atmosphere containing 5% CO2 [28].
+9749
+9864
+Culture supernatants were collected 36 hours later and cell-free samples were stored at -30°C until cytokine assay.
+9867
+10089
+To examine the effect of IL-6 on T-cell responsiveness to IL-10, CD4+ T cells from healthy controls were incubated in culture medium with 10% FCS in the presence or absence of 10 ng/ml IL-6 (Becton Dickinson) for 36 hours.
+10090
+10210
+Cells were then stimulated for 36 hours with anti-CD3 mAb and anti-CD28 mAb in the presence or absence of 1 ng/ml IL-10.
+10211
+10271
+Culture supernatants were measured for IFN-γ concentrations.
+10274
+10343
+A sample of 5 × 105 cells of PBMC was resuspended in PBS with 1% FCS.
+10344
+10642
+PBMC were incubated with saturating concentrations of anti-IL-10R1 mAb (IgG1; R&D systems, Minneapolis, MN, USA) or with isotype-matched control mAb (Immunotech), followed by incubation with FITC-conjugated goat anti-mouse IgG1 polyclonal antibody (Santa Cruz Biotechnologies, Santa Cruz, CA, USA).
+10643
+10731
+Cells were then incubated with phycoerythrin-conjugated anti-CD4 mAb (Becton Dickinson).
+10732
+10791
+Cells were washed well with 1% FCS/PBS between incubations.
+10792
+10862
+Analysis was performed on a FACScan flow cytometer (Becton Dickinson).
+10865
+11168
+Concentrations of IFN-γ and IL-2 in culture supernatants of CD4+ T cells were measured in duplicate by the quantitative sandwich ELISA using cytokine-specific capture with biotinylated detection mAb and recombinant cytokine proteins (all from Becton Dickinson), according to the manufacturer's protocol.
+11169
+11223
+The detection limits for IFN-γ and IL-2 were 15 pg/ml.
+11226
+11398
+Total cellular RNA was extracted from PB CD4+ T cells using an RNA isolation kit (RNeasy Mini kit; Qiagen, Valencia, CA, USA), according to the manufacturer's instructions.
+11399
+11581
+cDNA was synthesized from total RNA with Molony murine leukemia virus reverse transcriptase (US Biochemical, Cleveland, OH, USA) and oligo-(dT)15 primers (Promega, Madison, WI, USA).
+11582
+11702
+Real-time PCR was performed with the LightCycler Instrument (Roche Diagnostics, Penzberg, Germany) in glass capillaries.
+11703
+11915
+The reaction mix containing Taq DNA polymerase and DNA double-strand-specific SYBR Green I dye (Lightcycler FastStart DNA Master SYBR Green I; Roche Diagnostics) and specific primers were added to cDNA dilutions.
+11918
+12210
+The cDNA samples were denatured at 95° C for 10 min, and were then amplified for 40–50 cycles: at 95° C (10 s), at 65° C (15 s), and 72° C (22 s) for β-actin; at 95° C (10 s), at 62° C (15 s), and at 72° C (10 s) for SOCS1; and at 96° C (10 s), at 68° C (15 s), and at 72° C (15 s) for SOCS3.
+12211
+12342
+Amplification curves of the fluorescence values versus cycle number were obtained, and a melting curve analysis was then performed.
+12343
+12446
+The levels of SOCS1 and SOCS3 expression were determined by normalizing relative to β-actin expression.
+12447
+12713
+The forward and reverse primers were as follows: for β-actin, 5'-GTGGGGCGCCCCAGGCACCA-3' and 5'-CTCCTTAATGTCACGCACGATTTC-3' ; for SOCS1, 5'-AGACCCCTTCTCACCTCTTG-3' and 5'-GCACAGCAGAAAAATAAAGC-3' ; and for SOCS3, 5'-CCCGCCGGCACCTTTCTG-3' and 5'-AGGGGCCGGCTCAACACC-3'.
+12716
+12874
+CD4+ T cells were stimulated for 20 min by the indicated concentrations of IL-10 and IL-6 at a density of 5 × 105 cells in 0.5 ml culture medium with 10% FCS.
+12875
+13151
+To examine the effect of serum IL-6 on STAT phosphorylation, normal CD4+ T cells were stimulated for 20 min with 30% active RA serum in culture medium with 40 μg/ml neutralizing goat anti-IL-6 polyclonal antibody (IgG; Techne, Princeton, NJ, USA) or control goat IgG (Techne).
+13152
+13324
+Whole cell lysates were prepared by placing cells in 100 μl SDS lysing buffer (62.5 mM Tris–HCl [pH 6.8], 2% SDS, 10% glycerol, 50 mM dithiothreitol, 0.1% bromphenol blue).
+13325
+13573
+Then 20 μl protein samples were fractionated on 10% SDS-polyacrylamide gels and were transferred to nitrocellulose membranes (Amersham, Buckinghamshire, UK), and the membrane was blocked with 5% skim milk in Tris-buffered saline with 0.1% Tween 20.
+13576
+13756
+Tyrosine phosphorylation of STAT1 and STAT3 was detected using commercial available kits (Cell Signaling Technology, Beverly, MA, USA) according to the manufacturer's instructions.
+13757
+14066
+Briefly, the membrane was incubated with the antibodies (rabbit IgG) anti-STAT1 antibody, anti-phosphorylated tyrosine 701 of STAT1 antibody, anti-STAT3 antibody, and anti-phosphorylated tyrosine 705 of STAT3 antibody, diluted as recommended at 1/2000 with Tris-buffered saline with 0.1% Tween 20 with 5% BSA.
+14067
+14287
+Antibody binding was detected by horseradish peroxidase-conjugated anti-rabbit IgG antibody diluted at 1/4000 with Tris-buffered saline with 0.1% Tween 20 with 5% BSA, and was revealed using the chemiluminescence system.
+14288
+14436
+Protein bands were quantified by densitometry using NIH-Image analysis, and STAT phosphorylation was compared with the total amount of STAT protein.
+14437
+14524
+IFN-γ-stimulated Hela cells were used as a positive control for STAT1 phosophorylation.
+14527
+14606
+Data are expressed as the mean value ± standard error of the mean or box plots.
+14607
+14745
+The statistical significance of differences between two groups was determined by the Mann–Whitney U test or the Wilcoxon signed rank test.
+14746
+14782
+P < 0.05 was considered significant.
+14785
+14792
+Results
+14794
+15035
+The CD28 costimulatory pathway is crucial for effective antigen-specific T-cell cytokine production, and IL-10 can directly suppress this response by inhibiting CD28 tyrosine phosphorylation and binding of phosphatidylinositol 3-kinase [24].
+15036
+15365
+To evaluate the responsiveness of RA CD4+ T cells to IL-10, purified PB CD4+ T cells from three patients with active RA and from three healthy controls were stimulated by immobilized anti-CD3 antibody and anti-CD28 antibody with or without diluted concentrations of IL-10 for 36 hours, and IFN-γ production was measured by ELISA.
+15366
+15499
+As shown in Fig. 1, IFN-γ production by activated normal CD4+ T cells was mostly inhibited at concentrations as low as 1 ng/ml IL-10.
+15500
+15691
+However, RA CD4+ T cells were able to produce significant amounts of IFN-γ in the presence of 1 ng/ml IL-10, and the maximal but not complete inhibition by IL-10 was obtained at 10–100 ng/ml.
+15694
+15997
+We thus compared the levels of IFN-γ production by CD4+ T cells after CD3 and CD28 costimulation in the presence of 1 ng/ml IL-10 in RA patients with active disease (multiple inflammatory joints, CRP level ≥ 10 mg/l) and inactive disease (in remission, CRP level < 10 mg/l) [26] and in healthy controls.
+15998
+16390
+There were no statistically significant differences in IFN-γ production without IL-10 among these three groups (Fig. 2a), but the inhibitory effect of IL-10 on IFN-γ production was significantly limited in the active RA group as compared with the inactive RA group and healthy controls (percentage decrease: active RA, 2.9 ± 14.4%; inactive RA, 45.6 ± 14.4%; controls, 65.8 ± 7.9%) (Fig. 2b).
+16391
+16550
+As a consequence, CD4+ T cells from active RA patients produced higher levels of IFN-γ in the presence of 1 ng/ml IL-10 than did normal CD4+ T cells (Fig. 2a).
+16553
+16714
+In addition, we compared IL-2 production by CD4+ T cells after CD3 and CD28 costimulation in the presence of IL-10 in active RA patients and in healthy controls.
+16715
+16908
+Similarly, IL-2 production was not affected by 1 ng/ml IL-10 in RA patients (percentage decrease, -2.1 ± 13.8%), while it was significantly reduced in healthy controls (61.1 ± 13.7%; P < 0.05).
+16909
+17057
+Taken together, these results indicate that RA CD4+ T cells become less susceptible to the immunoregulatory effect of IL-10 during the active phase.
+17060
+17218
+The functional receptor complex of IL-10 consists of two subunits, the primary ligand-binding component IL-10R1 and the accessory component type 2 IL-10R [1].
+17219
+17296
+IL-10R1 expression plays a critical role in cellular responses to IL-10 [29].
+17297
+17561
+To examine whether the resistance to IL-10 inhibition in RA CD4+ T cells was due to limited receptor expression, the cell surface expression of IL-10R1 on PB CD4+ T cells from active RA patients and from healthy controls was determined by flow cytometric analysis.
+17562
+17715
+As shown in Fig. 3a,3b, the intensity of IL-10R1 expression on CD4+ T cells was significantly increased in RA patients compared with in healthy controls.
+17716
+17843
+These results suggest that the intracellular signal transduction pathway of IL-10 may be impaired in CD4+ T cells of active RA.
+17846
+17987
+The interaction of IL-10R with IL-10 induces tyrosine phosphorylation and activation of the latent transcription factors STAT1 and STAT3 [3].
+17988
+18239
+Macrophage-specific STAT3-deficient mice demonstrated that STAT3 plays a dominant role in IL-10-mediated anti-inflammatory responses [5], which has recently been confirmed in human macrophages by studies of dominant-negative STAT3 overexpression [30].
+18240
+18403
+The induction of STAT1 and STAT3 phosphorylation by IL-10 in PB CD4+ T cells from active RA patients and from healthy controls was examined using western blotting.
+18404
+18525
+STAT3 phosphorylation was dose-dependently induced after IL-10 activation for 20 min in normal CD4+ T cells (Fig. 4a,4b).
+18526
+18679
+In contrast, STAT3 was phosphorylated in freshly isolated PB CD4+ cells from RA patients and this STAT3 phosphorylation was detectable for up to 6 hours.
+18680
+18765
+STAT3 phosphorylation was augmented only when activated by as much as 10 ng/ml IL-10.
+18766
+18896
+Both sustained STAT3 phosphorylation and defective IL-10-induced STAT3 phosphorylation were found in RA ST CD4+ T cells (Fig. 4c).
+18897
+19028
+On the other hand, IL-10-induced STAT1 phosphorylation was not detected in either RA CD4+ T cells or normal CD4+ T cells (Fig. 4a).
+19029
+19233
+These results indicate that STAT3 is the major IL-10-activated STAT in CD4+ T cells, and IL-10-induced STAT3 activation may be diminished in active RA, in association with sustained STAT3 phosphorylation.
+19236
+19639
+STAT3 is activated by many cytokines and growth factors such as the IL-6 family of cytokines (IL-6, IL-11, leukemia inhibitory factor, and oncostatin M), platelet-derived growth factor, and epidermal growth factor, in addition to IL-10 [4], but previous studies have demonstrated that IL-6 is the major factor in RA synovial fluid that induces constitutive activation of STAT3 in mononuclear cells [31].
+19640
+19951
+Since IL-6 is also abundant in sera of active RA patients, frequently detected at > 1 ng/ml [27], we examined whether persistent exposure of CD4+ T cells to high concentrations of IL-6 in the blood circulation was responsible for their sustained STAT3 activation and resistance to IL-10 inhibition in active RA.
+19952
+20096
+Both STAT1 and STAT3 phosphorylation was activated by IL-6 in normal CD4+ T cells (data not shown), in agreement with previous observations [4].
+20097
+20333
+Normal CD4+ T cells were thus incubated for 20 min with culture medium containing 30% serum from active RA patients and neutralizing anti-IL-6 antibody or control antibody, and STAT phosphorylation was examined by western blot analysis.
+20334
+20503
+RA serum was able to induce tyrosine phosphorylation of STAT3 but not STAT1, and this STAT3 activation was mostly abolished by neutralization of IL-6 activity (Fig. 5a).
+20504
+20617
+These results indicate that IL-6 is the dominant STAT3-activating factor contained in sera of active RA patients.
+20618
+20845
+The lack of STAT1 activation by RA serum suggests that much higher concentrations of IL-6 may be required for STAT1 activation as compared with STAT3 activation, or that inhibitors of STAT1 signaling may be present in RA serum.
+20848
+20957
+We next examined whether IL-6 could suppress the effect of IL-10 to inhibit IFN-γ production by CD4+ T cells.
+20958
+21193
+After preincubation with or without 10 ng/ml IL-6 for 36 hours, normal CD4+ T cells were stimulated by CD3 and CD28 costimulation in the presence or absence of 1 ng/ml IL-10 for 36 hours, and the IFN-γ production was measured by ELISA.
+21194
+21383
+IL-6 pretreatment of normal cells reduced IL-10-mediated inhibition of IFN-γ production (Fig. 5b), indicating that high concentrations of IL-6 could modulate T-cell responsiveness to IL-10.
+21384
+21592
+Taken together, these findings suggest that persistent exposure to serum IL-6 may have a role in both the induction of STAT3 activation and the resistance to the inhibitory effect of IL-10 in RA CD4+ T cells.
+21595
+21830
+IL-6 induces two potent inhibitors of JAKs (SOCS1 and SOCS3 proteins) that not only act as mediators of negative feedback inhibition, but also play a major role in crosstalk inhibition by opposing other cytokine-signaling pathways [7].
+21831
+22000
+SOCS3 has recently been shown to specifically inhibit STAT3 activation induced by IL-6 but not by IL-10, thereby regulating the divergent action of IL-6 and IL-10 [8,9].
+22001
+22157
+On the contrary, SOCS1 is able to partially inhibit IL-10-mediated STAT3 activation and cellular responses, as well as IFN-γ-mediated STAT1 activation [32].
+22158
+22430
+To determine whether SOCSs were involved in the defective IL-10-induced STAT3 activation of RA CD4+ T cells, the levels of SOCS1 and SOCS3 mRNA expression in PB CD4+ T cells from active RA patients and from healthy controls were compared by semiquantitative real-time PCR.
+22431
+22562
+The RA CD4+ T cells contained higher levels of SOCS1 but lower levels of SOCS3 transcripts than did control CD4+ T cells (Fig. 6a).
+22563
+22756
+Constitutive expression of SOCS1 mRNA in RA CD4+ T cells was comparable with the expression in normal CD4+ T cells stimulated by 10 ng/ml IL-6 (Fig. 6b), supporting its functional significance.
+22757
+22887
+Defective IL-10-induced STAT3 activation therefore appears to be due at least in part to an abundance of SOCS1 in RA CD4+ T cells.
+22890
+22900
+Discussion
+22902
+22981
+CD4+ T cells orchestrate the Th1-type cell-mediated immune response in RA [22].
+22982
+23223
+Activated CD4+ T cells stimulate macrophages, synovial fibroblasts, B cells, and osteoclasts through the expression of cell surface molecules and Th1 cytokines, thereby contributing to both the chronic inflammation and the joint destruction.
+23224
+23333
+CD4+ T cells require two signals to be activated; antigen receptor occupancy and CD28-mediated costimulation.
+23334
+23531
+In the ST lesion, the CD28 ligands, both CD80 and CD86, together with MHC class II antigens, are substantially expressed by antigen-presenting cells such as macrophages and dendritic cells [18-20].
+23532
+23742
+The significance of CD28 engagement in the T-cell-mediated disease process has recently been proven by the clinical efficacy of its blocker cytotoxic T-cell-associated antigen 4 (CD152)-IgG in RA patients [23].
+23745
+23887
+IL-10 plays a predominant role in limiting immune and inflammatory responses by regulating the function of both macrophages and Th1 cells [1].
+23888
+24064
+IL-10 inhibits the tyrosine phosphorylation of the CD28 molecule and the subsequent phosphatidylinositol 3-kinase binding in T cells, and thereby directly acts on T cells [24].
+24065
+24274
+In the present study, we found that PB CD4+ T cells from patients with active RA, in the presence of IL-10, are able to produce higher levels of IFN-γ after CD3 and CD28 costimulation than normal CD4+ T cells.
+24275
+24533
+Despite high-level IL-10R1 expression and constitutive STAT3 activation, IL-10-induced tyrosine phosphorylation of STAT3 is suppressed in RA CD4+ T cells, in contrast to normal CD4+ T cells, where STAT3 phosphorylation is dose-dependently inducible by IL-10.
+24534
+24712
+Serum IL-6 from RA patients induces STAT3 but not STAT1 phosphorylation in normal CD4+ T cells, and exogenous IL-6 induces the resistance to IL-10 inhibition of IFN-γ production.
+24713
+24845
+RA CD4+ T cells contain higher levels of SOCS1 but contain lower levels of SOCS3 transcripts in comparison with normal CD4+ T cells.
+24846
+25149
+These findings indicate that CD4+ T cells become resistant to the inhibitory effect of IL-10 before migration into the inflamed ST, and suggest that this resistance may be attributable to impaired IL-10-dependent STAT3 activation, in association with sustained STAT3 phosphorylation and SOCS1 induction.
+25152
+25307
+IL-10-mediated inhibition of CD4+ T-cell cytokine production is principally dependent on its inhibition of macrophage antigen-presenting cell function [1].
+25308
+25543
+However, this indirect inhibitory effect is thought to be restricted at the site of T-cell activation in RA, because macrophages in the ST express high levels of cytokines, CD80 and CD86 molecules, and MHC class II antigens [10,18-20].
+25544
+25684
+More recently, IL-10 has been shown to induce the antigen-specific T-cell unresponsiveness by inhibiting CD28 tyrosine phosphorylation [33].
+25685
+25868
+This direct effect also may be limited in active RA patients, because their PB CD4+ T cells showed a defective IL-10 inhibition of CD28-costimulated production of both IFN-γ and IL-2.
+25871
+26062
+Numerous cytokines, both proinflammatory and anti-inflammatory, have been detected in the ST of RA, and the balance between these opposing cytokine activities regulates disease severity [10].
+26063
+26187
+Endogenous IL-10, produced mainly by macrophages and T cells, inhibits proinflammatory cytokine production by ST cells [12].
+26188
+26273
+However, this regulatory activity seems to be restricted during chronic inflammation.
+26274
+26488
+The activation of both the extracellular stimulus-regulated kinase and p38 kinase pathways, induced by TNF-α and IL-1, inhibits the Jak1–STAT3 signaling pathway shared by IL-10 and IL-6 in adhered macrophages [13].
+26489
+26589
+More importantly, IL-10-mediated STAT3 activation is mostly undetectable in RA synovial macrophages.
+26590
+26904
+This impaired IL-10 signaling is probably induced by chronic exposure to immune complexes in vivo, because both cell surface IL-10R1 expression and IL-10-induced Jak1 activation are suppressed in IFN-γ-primed macrophages by a protein kinase C-dependent pathway following ligation of the IgG Fc gamma receptor [14].
+26905
+27195
+Furthermore, dendritic cells from RA synovial fluids are resistant to the immunoregulatory effect of IL-10 due to decreased transport of intracellular IL-10R1 in the presence of proinflammatory cytokine stimuli such as TNF-α, IL-1, and granulocyte–macrophage colony-stimulating factor [15].
+27196
+27364
+We have demonstrated that the resistance of RA CD4+ T cells to IL-10 may be associated with defective IL-10-dependent STAT3 activation, but not with IL-10R1 expression.
+27365
+27539
+Inhibitory effects of IL-10 on these inflammatory cell types are therefore differentially modulated at the signal transduction level under the inflammatory environment in RA.
+27542
+27739
+In association with impaired IL-10-mediated STAT3 activation, STAT3 was found to be tyrosine phosphorylated persistently (up to 6 hours) in freshly isolated PB and ST CD4+ T cells from RA patients.
+27740
+27828
+STAT3 is activated by a variety of cytokines, notably the IL-6 family of cytokines (e.g.
+27829
+27933
+IL-6, IL-11, leukemia inhibitory factor, and oncostatin M) and growth factors, in addition to IL-10 [4].
+27934
+28122
+Of these cytokines, IL-6 plays a predominant role in eliciting a systemic reaction such as the acute phase response in active RA, due mainly to its abundance in the blood circulation [27].
+28123
+28350
+Consistent with this notion, IL-6 was the major STAT3-activating factor contained in the serum of active RA patients, and the responsiveness to IL-10 was suppressed in normal CD4+ T cells after 36 hours of incubation with IL-6.
+28351
+28561
+These results suggest that both the sustained STAT3 activation and the resistance to IL-10 inhibition found in RA CD4+ T cells may be induced after chronic exposure in vivo to high concentrations of serum IL-6.
+28562
+28836
+However, it is also possible that STAT3 activity could be constitutively induced in CD4+ T cells by their own IL-10 secretion, leading to the loss of sensitivity to exogenous IL-10, because RA CD4+ T cells in the ST are capable of producing significant levels of IL-10 [34].
+28839
+28945
+CD4+ T cells isolated from the ST of RA also showed a defect in the IL-10-induced STAT3 signaling pathway.
+28946
+29142
+It is most probable that the resistance of CD4+ T cells to IL-10 can be even augmented after migration into the inflamed ST, because IL-6 is highly concentrated compared with the blood level [27].
+29143
+29451
+In addition, the involvement of other essential proinflammatory cytokines in this process was suggested by our preliminary experiments demonstrating that IL-10-mediated IFN-γ inhibition in CD4+ T cells was reduced by pretreatment with IL-1β and TNF-α, although less effectively than by IL-6 (data not shown).
+29452
+29636
+Furthermore, IFN-γ and IL-10 produced by CD4+ T cells themselves could be responsible for impaired IL-10 signaling in the ST, because T-cell infiltrates produce both cytokines [34,35].
+29637
+29796
+In an autocrine fashion, IL-10 may persistently stimulate STAT3 activation and IFN-γ can induce SOCS1 protein as a crosstalk inhibitor of IL-10 signaling [32].
+29797
+29987
+The T-cell-inhibitory effect of IL-10 may therefore be modulated complicatedly upon exposure to an inflammatory environment in RA joints, where many cytokines are present substantially [10].
+29990
+30053
+STAT3 activation has been implicated in the pathogenesis of RA.
+30054
+30153
+Active STAT3 is constitutively expressed in synovial fluid mononuclear cells from RA patients [36].
+30154
+30376
+IL-6 is the major STAT3-activating factor present in synovial fluid, which has a crucial role in the activation of monocyte functions such as gene expression of the Fc gamma receptor type I and type III and of HLA-DR [31].
+30377
+30605
+More recently, high levels of activated STAT3, thought to be induced mainly by IL-6, have been detected in the ST, and STAT3 activation has been shown to be involved in synovial fibroblast proliferation and IL-6 production [37].
+30606
+30723
+In this regard, STAT3 is critical in the survival and expansion of growth factor-dependent synovial fibroblasts [38].
+30724
+31076
+Furthermore, the significance of persistent STAT3 signaling in Th1-cell-dominated autoimmune arthritis has been suggested by studies of the gp130F759/F759 mice, in which the Src homology phosphatase-2 binding site of gp130 (the transmembrane glycoprotein β subunit of the IL-6 family cytokine receptor), tyrosine 759, was mutated to phenylalanine [39].
+31077
+31264
+In the gp130F759/F759 mice, T cells, particularly the CD4+ T-cell subset, are chronically activated and resistant to activation-induced cell death through gp130-mediated STAT3 activation.
+31267
+31381
+The longevity of cytokine signals transduced by the JAK–STAT pathway is regulated by the SOCS family proteins [7].
+31382
+31533
+We found that CD4+ T cells from patients with active RA expressed higher levels of SOCS1, but lower levels of SOCS3, compared with normal CD4+ T cells.
+31534
+31724
+SOCS1 prevents activation of JAK by directly binding to JAK, and SOCS3 inhibits the action of JAK by binding to the Src homology phosphatase-2-binding domain of receptors such as gp130 [40].
+31725
+31864
+SOCS1 and SOCS3 are induced by various cytokines, including IL-6 and IL-10, as mediators of negative feedback and crosstalk inhibition [7].
+31865
+32002
+Recent studies with mice lacking SOCS3 or SOCS1 revealed that SOCS3 is a negative regulator of IL-6 signaling but not of IL-10 signaling.
+32003
+32175
+Studies of conditional SOCS3-deficient mice have shown that SOCS3 deficiency, but not SOCS1 deficiency, results in sustained activation of STAT3 in response to IL-6 [8,41].
+32176
+32318
+The analysis of SOCS3-deficient macrophages has indicated that SOCS3 is a crucial inhibitor of the IL-6-induced transcriptional response [42].
+32319
+32452
+However, SOCS3 is dispensable for both the negative feedback inhibition and the immunoregulatory action of IL-10 in macrophages [41].
+32453
+32536
+On the contrary, SOCS1 was found to directly inhibit IL-10-mediated signaling [43].
+32537
+32806
+Increased SOCS1 expression in RA CD4+ T cells may therefore be associated with both the impaired responsiveness to IL-10 and to IL-10-mediated STAT3 activation, and defective SOCS3 expression may be responsible for persistent STAT3 activation in response to serum IL-6.
+32809
+33086
+There is a possibility that SOCS1 induction may be associated with the ability of CD4+ T cells to produce IFN-γ, because CD4+ T cells from active RA could produce high levels of IFN-γ in the presence of IL-10, and because IFN-γ has been known as a potent inducer of SOCS1 [32].
+33087
+33228
+It is of interest in this regard to indicate that polarized Th1 and Th2 cells express high levels of SOCS1 and SOCS3 mRNA, respectively [44].
+33229
+33389
+IL-12-induced STAT4 activation is inhibited by SOCS3 induction in Th2 cells, whereas IL-4-induced STAT6 signaling is diminished by SOCS1 induction in Th1 cells.
+33390
+33583
+SOCS1 and SOCS3 may thus have important roles as Th1-specific and Th2-specific, mutually exclusive, cross-talk repressors of the IL-4–STAT6 and the IL-12–STAT4 signaling pathways, respectively.
+33584
+33807
+Consistent with this notion, PB T cells from patients with allergic diseases significantly express high levels of SOCS3 transcripts, and the SOCS3 expression correlates well with serum IgE levels and disease pathology [45].
+33808
+34056
+Higher SOCS1 expression with lower SOCS3 expression in PB CD4+ T cells from RA patients, compared with healthy controls, is therefore probably consistent with their systemic bias towards a Th1 phenotype, as has previously been demonstrated [46-49].
+34059
+34069
+Conclusion
+34071
+34274
+CD4+ T cells from active RA patients are characterized by their resistance to IL-10 inhibition of IFN-γ production, due to constitutive STAT3 phosphorylation and impaired IL-10-mediated STAT3 activation.
+34275
+34363
+The defective STAT3 signaling is possibly associated with SOCS1 predominance over SOCS3.
+34364
+34484
+These abnormalities in active RA are thought to be induced mainly after chronic exposure to high concentrations of IL-6.
+34485
+34644
+The limited efficacy of IL-10 treatment of RA patients [50] may be explained in part by the unresponsiveness to IL-10 of inflammatory cells, including T cells.
+34645
+34882
+On the contrary, the therapeutic efficacy of anti-IL-6 receptor antibody has been reported in RA patients [51], and one of the effects of this therapy may be to normalize T cells through the inhibition of IL-6-dependent STAT3 activation.
+34883
+35061
+More specific therapy targeting STAT3 activation will be awaited; for example, the induction of the SOCS3 gene, the efficacy of which has been demonstrated in animal models [37].
+35064
+35077
+Abbreviations
+35079
+35807
+BSA = bovine serum albumin; CRP = C-reactive protein; ELISA = enzyme-linked immunosorbent assay; Fc = crystallazibe fragment; FCS = fetal calf serum; FITC = fluorescein isothiocyanate; IFN-γ = interferon gamma; IL = interleukin; IL-10R = interleukin-10 receptor; IL-10R1 = type 1 interleukin-10 receptor; JAK = Janus kinase; mAb = monoclonal antibody; MHC = major histocompatibility complex; PB = peripheral blood; PBMC = peripheral blood mononuclear cells; PBS = phosphate-buffered saline; PCR = polymerase chain reaction; RA = rheumatoid arthritis; SOXS = suppressor of cytokine signaling; ST = synovial tissue; STAT = signal transducer and activator of transcription; Th = T helper cells; TNF-α = tumor necrosis factor alpha.
+35810
+35829
+Competing interests
+35831
+35891
+The author(s) declare that they have no competing interests.
+35894
+35916
+Authors' contributions
+35918
+36005
+Jiro Yamana was responsible for the experiments and data analysis and wrote the report.
+36006
+36101
+Masahiro Yamamura was responsible for the planning of the research and wrote up the manuscript.
+36102
+36197
+Akira Okamoto, Tetsushi Aita, Mitsuhiro Iwahashi, and Katsue Sunahori assisted the experiments.
+36198
+36245
+Hirofumi Makino critically read the manuscript.
+36248
+36273
+Figure and Table captions
+36275
+36479
+Figure 1: Dose response of IL-10 inhibition of interferon gamma (IFN-γ) production by CD4+ T cells after CD3 and CD28 costimulation in patients with rheumatoid arthritis (RA) and in healthy controls (HC).
+36480
+36626
+CD4+ T cells were purified from peripheral blood mononuclear cells of three RA patients and three HC by positive selection with anti-CD4 antibody.
+36627
+36838
+CD4+ T cells (5 × 105 cells in 0.5 ml culture medium with 10% FCS) were stimulated by immobilized anti-CD3 antibody and anti-CD28 antibody in the presence or absence of diluted IL-10 concentrations for 36 hours.
+36839
+36911
+Culture supernatants were measured for concentrations of IFN-γ by ELISA.
+36912
+36986
+IFN-γ production with IL-10 expressed as % IFN-γ production without IL-10.
+36987
+37036
+Values are the mean ± standard error of the mean.
+37038
+37227
+Figure 2: (a) Interferon gamma (IFN-γ) production by CD3 and CD28 costimulated CD4+ T cells in the presence of IL-10 in patients with rheumatoid arthritis (RA) and in healthy controls (HC).
+37228
+37385
+CD4+ T cells (5 × 105 cells in 0.5 ml culture medium with 10% FCS) were stimulated by anti-CD3 antibody and anti-CD28 antibody with or without 1 ng/ml IL-10.
+37386
+37470
+Concentrations of IFN-γ in culture supernatants were measured in duplicate by ELISA.
+37471
+37641
+RA patients were divided into those with active disease (multiple inflammatory joints and CRP level ≥ 10 mg/l) and inactive disease (in remission and CRP level ≤ 4 mg/l).
+37642
+37833
+The results are represented as a box plot; upper and lower bars, 90th and 10th percentiles, respectively; upper, center and lower lines of box, 75th, 50th, and 25th percentiles, respectively.
+37834
+37869
+(b) Percentage of IFN-γ production.
+37870
+37944
+IFN-γ production with IL-10 expressed as % IFN-γ production without IL-10.
+37945
+37994
+Values are the mean ± standard error of the mean.
+37995
+38023
+n, number of samples tested.
+38025
+38199
+Figure 3: (a) Cell surface expression of type 1 interleukin-10 receptor (IL-10R1) on CD4+ T cells from patients with rheumatoid arthritis (RA) and from healthy controls (HC).
+38200
+38468
+Peripheral blood mononuclear cells were stained with anti-IL-10R1 antibody or with isotype-matched control antibody, followed by incubation with FITC-conjugated goat anti-mouse IgG1 polyclonal antibody, and were then stained with phycoerythrin-conjugated anti-CD4 mAb.
+38469
+38546
+The expression of CD4 and IL-10R1 was determined by flow cytometric analysis.
+38547
+38656
+Representative histographic patterns of IL-10R1 expression on CD4+ T cells from RA patients and HC are shown.
+38657
+38820
+(b) The intensity of IL-10R1 on CD4+ T cells was expressed as the ratio of the mean fluorescence intensity (MFI) of staining with anti-IL-10R1 to control antibody.
+38821
+38870
+Values are the mean ± standard error of the mean.
+38871
+38899
+n, number of samples tested.
+38901
+39109
+Figure 4: (a) IL-10-mediated phosphorylation of signal transducer and activator of transcription (STAT) 1 and STAT3 in CD4+ T cells from patients with rheumatoid arthritis (RA) and from healthy controls (HC).
+39110
+39269
+CD4+ T cells (5 × 105 cells in 0.5 ml culture medium with 10% FCS) were incubated with or without IL-10 (1 and 10 ng/ml) and cells were harvested 20 min later.
+39270
+39431
+Whole cell extracts were prepared by placing cells in SDS buffer, and tyrosine phosophorylation (p-Tyr) of STAT1 and STAT3 was detected by western blot analysis.
+39432
+39518
+IFN-γ-stimulated Hela cells were used as a positive control for STAT1 phosphorylation.
+39519
+39620
+(b) Percentage of IL-10-activated STAT3 phosphorylation in CD4+ T cells from RA patients and from HC.
+39621
+39758
+Protein bands were quantified by densitometry using NIH-Image analysis, and STAT3 phosphorylation was expressed as % total STAT3 protein.
+39759
+39821
+(c) STAT3 phosphorylation in ST CD4+ T cells from RA patients.
+39822
+39987
+Representative results of STAT3 phosphorylation in CD4+ T cells from three synovial tissue samples of RA patients and three peripheral blood samples of HC are shown.
+39988
+40037
+Values are the mean ± standard error of the mean.
+40038
+40066
+n, number of samples tested.
+40068
+40236
+Figure 5: (a) Activation of signal transducer and activator of transcription (STAT) 3 in normal CD4+ T cells by serum IL-6 from patients with rheumatoid arthritis (RA).
+40237
+40457
+CD4+ T cells from healthy controls (5 × 105 cells in 0.5 ml culture medium) were stimulated by 30% RA serum in the presence of neutralizing anti-IL-6 antibody (Ab) (40 μg/ml) or of control antibody (40 μg/ml) for 20 min.
+40458
+40535
+Phosophorylation of STAT1 and STAT3 was detected by western blot analysis.(b)
+40536
+40620
+Effect of IL-6 pretreatment on IL-10 inhibition of IFN-γ production by CD4+ T cells.
+40621
+40877
+CD4+ T cells (5 × 105 cells in 0.5 ml culture medium with 10% FCS) were incubated with or without IL-6 (10 ng/ml) for 36 hours, and were then stimulated by anti-CD3 antibody and anti-CD28 antibody in the presence or absence of IL-10 (1 ng/ml) for 36 hours.
+40878
+40962
+Concentrations of IFN-γ in culture supernatants were measured in duplicate by ELISA.
+40963
+41041
+IFN-γ production with IL-10 was expressed as % IFN-γ production without IL-10.
+41042
+41091
+Values are the mean ± standard error of the mean.
+41092
+41120
+n, number of samples tested.
+41121
+41154
+P-Tyr, tyrosine phosophorylation.
+41156
+41273
+Figure 6: (a) The mRNA expression of SOCS1 and SOCS3 in CD4+ T cells from patients with RA and healthy controls (HC).
+41274
+41448
+Total cellular RNA was extracted from freshly isolated CD4+ T cells and mRNA expression of SOCS1 and SOCS3 was analyzed by real time-PCR as described in Patients and Methods.
+41449
+41528
+Levels of SOCS1 and SOCS3 mRNAs were normalized relative to β-actin expression.
+41529
+41585
+Values are the mean ± SEM. n = number of samples tested.
+41586
+41660
+(b) Kinetics of IL-6-induced SOCS1 mRNA expression in normal CD4+ T cells.
+41661
+41857
+CD4+ T cells from HC (5 × 105 cells in 0.5 ml of culture medium with 10% FCS) were stimulated with IL-6 (10 ng/ml) and SOCS1 mRNA expression was determined at the indicated time after stimulation.

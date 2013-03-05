@@ -1,0 +1,6079 @@
+
+(
+  (S
+    (NP
+      (NP (NN Haploinsufficiency))
+      (PP (IN for)
+        (NP (NN BRCA1))))
+    (VP (VBZ is)
+      (VP (VBN associated)
+        (PP (IN with)
+          (NP
+            (NP (JJ normal) (NNS levels))
+            (PP (IN of)
+              (NP
+                (NP (NN DNA) (NN nucleotide) (NN excision) (NN repair))
+                (PP (IN in)
+                  (NP
+                    (NP (NN breast) (NN tissue))
+                    (CC and)
+                    (NP (NN blood) (NNS lymphocytes))))))))))))
+
+(
+  (S
+    (NP (NN Abstract))))
+
+(
+  (S
+    (NP
+      (NP (NN Background))
+      (: :)
+      (S
+        (NP (NN Screening) (NN mammography))
+        (VP (VBZ has)
+          (VP
+            (VP (VBD had)
+              (NP (DT a) (JJ positive) (NN impact))
+              (PP (IN on)
+                (NP (NN breast) (NN cancer) (NN mortality))))
+            (CC but)
+            (VP (MD cannot)
+              (VP (VB detect)
+                (NP (DT all) (NN breast) (NNS tumors)))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT a) (JJ small) (NN study)))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD confirmed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ low)
+                (NP (NN power) (JJ magnetic) (NN resonance))
+                (NN imaging))
+              (PRN (-LRB- -LRB-)
+                (NP (NN MRI))
+                (-RRB- -RRB-)))
+            (VP (MD could)
+              (VP (VB identify)
+                (NP
+                  (ADJP (RB mammographically) (JJ undetectable))
+                  (NNS tumors))
+                (PP (IN by)
+                  (S
+                    (VP (VBG applying)
+                      (NP (PRP it))
+                      (PP (TO to)
+                        (NP (DT a) (JJ high) (NN risk) (NN population))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Tumors))
+        (VP (VBN detected)
+          (PP (IN by)
+            (NP (DT this) (JJ new) (NN technology)))))
+      (VP
+        (VP (MD could)
+          (VP (VB have)
+            (NP (JJ unique)
+              (NP
+                (NP (NNS etiologies))
+                (CC and/or)
+                (NP (NNS presentations))))))
+        (, ,)
+        (CC and)
+        (VP (MD may)
+          (VP (VB represent)
+            (NP
+              (NP (DT an) (VBG increasing) (NN proportion))
+              (PP (IN of)
+                (NP (JJ clinical) (NN practice))))
+            (SBAR (IN as)
+              (S
+                (NP (JJ new) (NN screening) (NNS methods))
+                (VP (VBP are)
+                  (VP
+                    (VP (VBN validated))
+                    (CC and)
+                    (VP (VBN applied))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A)
+          (ADJP (RB very) (JJ important))
+          (NN aspect))
+        (PP (IN of)
+          (NP (DT this) (NN etiology))))
+      (VP (VBZ is)
+        (NP
+          (NP (JJ genomic) (NN instability))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (VP (VBN associated)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NN loss))
+                      (PP (IN of)
+                        (NP
+                          (NP (NN activity))
+                          (PP (IN of)
+                            (NP (DT the) (NN breast) (JJ cancer-predisposing) (NNS genes)
+                              (NP
+                                (NP (NN BRCA1))
+                                (CC and)
+                                (NP (NN BRCA2))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (JJ sporadic) (NN breast) (NN cancer)))
+      (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (NN evidence))
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (DT the) (NN involvement))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (JJ different) (NN pathway))
+                    (PP (IN of)
+                      (NP (NN DNA) (NN repair))))))
+              (, ,)
+              (NP
+                (NP (NN nucleotide) (NN excision) (NN repair))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN NER))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ remediates)
+                    (NP
+                      (NP (NNS lesions))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP cause)
+                            (NP
+                              (NP (DT a) (NN distortion))
+                              (PP (IN of)
+                                (NP (DT the) (NN DNA) (NN helix))))
+                            (, ,)
+                            (S
+                              (VP (VBG including)
+                                (NP (NN DNA) (NNS cross-links))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Case) (NN presentation))
+      (: :)
+      (S
+        (NP (PRP We))
+        (VP (VBP describe)
+          (NP
+            (NP (DT a) (NN breast) (NN cancer) (NN patient))
+            (PP (IN with)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB mammographically) (JJ undetectable))
+                  (NN stage) (NN I) (NN tumor))
+                (VP (VBN identified)
+                  (PP (IN in)
+                    (NP (PRP$ our) (NN MRI) (NN screening) (NN study)))))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP
+        (VP (VBD was)
+          (ADVP (RB originally))
+          (VP (VBN considered)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (PP (IN at)
+                    (NP
+                      (NP (JJ high) (NN risk))
+                      (PP (IN due) (TO to)
+                        (NP
+                          (NP (DT the) (JJ familial) (NN occurrence))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN breast))
+                              (CC and)
+                              (NP
+                                (NP (JJ other) (NNS types))
+                                (PP (IN of)
+                                  (NP (NN cancer)))))))))))))))
+        (, ,)
+        (CC and)
+        (PP (IN after)
+          (NP (NN diagnosis)))
+        (VP (VBD was)
+          (VP (VBN confirmed)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN carrier))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NN Q1200X) (NN mutation))
+                    (PP (IN in)
+                      (NP (DT the) (NN BRCA1) (NN gene)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (ADJP (FW In) (FW vitro))
+          (NN analysis))
+        (PP (IN of)
+          (NP (PRP$ her) (JJ normal) (NN breast) (NN tissue))))
+      (VP (VBD showed)
+        (NP
+          (NP (DT no) (NNS differences))
+          (PP (IN in)
+            (NP
+              (NP (NN growth) (NN rate))
+              (CC or)
+              (NP (NN differentiation) (NN potential))))
+          (PP (IN from)
+            (NP (JJ disease-free) (NNS controls))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Analysis))
+        (PP (IN of)
+          (NP
+            (NP (VBN cultured) (NN blood) (NN lymphocyte)
+              (CC and)
+              (NN breast) (NN epithelial) (NN cell) (NNS samples))
+            (PP (IN with)
+              (NP (DT the) (JJ unscheduled) (NN DNA) (NN synthesis) (-LRB- -LRB-) (NN UDS) (-RRB- -RRB-) (NN assay))))))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT no) (NN deficiency))
+          (PP (IN in)
+            (NP (NN NER))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Conclusion))
+      (: :)
+      (S
+        (SBAR (IN As)
+          (S
+            (NP (JJ new) (NN breast) (NN cancer) (NN screening) (NNS methods))
+            (VP (VBP become)
+              (ADJP
+                (ADJP (JJ available))
+                (CC and)
+                (ADJP (NN cost) (JJ effective))))))
+        (, ,)
+        (NP
+          (NP (NNS patients))
+          (PP (JJ such) (IN as)
+            (NP (DT this) (NN one))))
+        (MD will)
+        (VP (VBP constitute)
+          (NP
+            (NP (DT an) (VBG increasing) (NN proportion))
+            (PP (IN of)
+              (NP (DT the) (JJ incident) (NN population))))
+          (, ,)
+          (SBAR (IN so)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (ADJP (JJ important))
+                (S
+                  (VP (TO to)
+                    (VP (VB determine)
+                      (SBAR (IN whether)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP differ)
+                            (PP (IN from)
+                              (NP (JJ current) (NNS patients)))
+                            (PP (IN in)
+                              (NP (DT any)
+                                (ADJP (RB clinically) (JJ important))
+                                (NNS ways))))))))))))))
+      (. .))))
+
+(
+  (S
+    (PP (IN Despite)
+      (NP
+        (NP (PRP$ her) (NN status))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN BRCA1) (NN mutation) (NN carrier))
+            (, ,)
+            (CC and)
+            (NP (PRP$ her)
+              (ADJP (RB mammographically) (JJ dense))
+              (NN breast) (NN tissue))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD did) (RB not)
+      (VP (VB find)
+        (NP
+          (NP
+            (NP (VBN increased) (NN cell) (NN proliferation))
+            (CC or)
+            (NP (JJ deficient) (NN differentiation) (NN potential)))
+          (PP (IN in)
+            (NP
+              (NP (NN breast) (JJ epithelial) (NNS cells))
+              (PP (IN from)
+                (NP
+                  (NP (DT this) (NN patient))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (MD might)
+                        (VP (VB have)
+                          (VP (VBN contributed)
+                            (PP (TO to)
+                              (NP (PRP$ her) (NN cancer) (NN susceptibility)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NN NER) (NN deficiency))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (VP (VBN demonstrated)
+              (ADVP (RB repeatedly))
+              (PP (IN in)
+                (NP
+                  (NP (NN blood) (NNS samples))
+                  (PP (IN from)
+                    (NP (JJ sporadic) (NN breast) (NN cancer) (NNS patients))))))))))
+    (, ,)
+    (NP
+      (NP (NN analysis))
+      (PP (IN of)
+        (NP
+          (NP (NN blood) (VBN cultured) (NNS lymphocytes))
+          (CC and)
+          (NP (NN breast) (JJ epithelial) (NNS cells))))
+      (PP (IN for)
+        (NP (DT this) (NN patient))))
+    (VP (VBZ proves)
+      (ADVP (RB definitively))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN heterozygosity))
+            (PP (IN for)
+              (NP
+                (NP (NN inactivation))
+                (PP (IN of)
+                  (NP (NN BRCA1))))))
+          (VP (VBZ does) (RB not)
+            (ADVP (RB intrinsically))
+            (VP (VB confer)
+              (NP
+                (NP (DT this) (NN type))
+                (PP (IN of)
+                  (NP (JJ genetic) (NN instability)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS data))
+      (VP (VBP suggest)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN mechanism))
+              (PP (IN of)
+                (NP
+                  (NP (JJ genomic) (NN instability))
+                  (VP (VBG driving)
+                    (NP (DT the) (NN carcinogenic) (NN process))))))
+            (VP (MD may)
+              (VP (VB be)
+                (ADJP (RB fundamentally) (JJ different)
+                  (PP (IN in)
+                    (NP (JJ hereditary)
+                      (CC and)
+                      (JJ sporadic) (NN breast) (NN cancer))))
+                (, ,)
+                (S
+                  (VP (VBG resulting)
+                    (PP (IN in)
+                      (NP
+                        (NP (JJ different) (JJ genotoxic) (NNS susceptibilities))
+                        (, ,)
+                        (NP (NN oncogene) (NNS mutations))
+                        (, ,)
+                        (CC and)
+                        (NP (DT a) (JJ different) (JJ molecular) (NN pathogenesis))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Background))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN reduction))
+        (PP (IN in)
+          (NP (NN breast) (NN cancer) (NN mortality))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN observed)
+            (PP (IN in)
+              (NP
+                (NP (JJ recent) (NNS years))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ has)
+                      (VP (VBN been)
+                        (ADVP (RB partially))
+                        (VP (VBN attributed)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT the) (JJ widespread) (NN adoption))
+                              (PP (IN of)
+                                (NP (NN screening) (NN mammography) (CD -LSB-1) (-RRB- -RSB-))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Traditional) (NN screening) (NN mammography))
+      (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (VP (VBZ fails)
+        (S
+          (VP (TO to)
+            (VP (VB detect)
+              (NP
+                (NP (CD 15) (NN %))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ incident) (NNS cancers))
+                    (PRN (NN -LSB-2) (-RRB- -RSB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ New) (, ,) (JJ complementary) (NN imaging) (NNS techniques))
+      (VP (VBP are)
+        (ADVP (RB therefore))
+        (PP (IN under)
+          (NP
+            (NP (NN development))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD may)
+                  (VP (VB increase)
+                    (NP
+                      (NP (DT the) (NN accuracy))
+                      (PP (IN of)
+                        (NP (JJ primary) (NN screening))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (PRP We))
+    (VP (VBD performed)
+      (NP
+        (NP (DT a) (JJ small) (NN study))
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB validate)
+                (NP
+                  (NP (DT the) (NN use))
+                  (PP (IN of)
+                    (NP (JJ low) (NN power)
+                      (NP
+                        (NP (JJ magnetic) (NN resonance) (VBG imaging))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN MRI))
+                          (-RRB- -RRB-)))))
+                  (S
+                    (VP (TO to)
+                      (ADVP (RB prospectively))
+                      (VP (VB detect)
+                        (NP
+                          (NP (NN breast) (NNS alterations))
+                          (CC and)
+                          (NP (NN malignancy)))))))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB determine)
+                (NP
+                  (NP (DT the) (NN feasibility))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG applying)
+                        (NP (DT this) (NN technique))
+                        (PP (TO to)
+                          (NP
+                            (NP (DT a) (JJ high-risk) (NN population))
+                            (PRN (NN -LSB-3) (-RRB- -RSB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP present)
+        (ADVP (RB here))
+        (NP
+          (NP (DT a) (NN subject))
+          (PP (IN from)
+            (NP (DT that) (NN study)))
+          (SBAR
+            (WHNP (WP$ whose) (JJ early) (NN stage) (NN tumor))
+            (S
+              (VP (VBD was) (RB not)
+                (ADJP (JJ detectable)
+                  (PP (IN by)
+                    (NP (NN mammography))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN patient))
+      (VP (VBD was)
+        (VP (VBN enrolled)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ screening) (NN study))
+              (ADJP (JJ due)
+                (PP (TO to)
+                  (NP
+                    (NP (PRP$ her) (NN family) (NN history))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN breast))
+                        (CC and)
+                        (NP (JJ other) (NNS neoplasias))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN After)
+        (NP (NN tumor) (NN diagnosis)))
+      (, ,)
+      (NP (PRP she))
+      (VP (VBD was)
+        (VP (VBN determined)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ heterozygous)
+                  (PP (IN for)
+                    (NP
+                      (NP (DT a) (JJ putative) (VBG inactivating) (NN mutation))
+                      (PP (IN in)
+                        (NP (DT the) (NN BRCA1) (NN gene))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP (PRP she))
+      (VP (VBD had)
+        (NP
+          (NP (JJ dense) (NN breast) (NN tissue))
+          (, ,)
+          (NP
+            (NP (DT an) (NN impediment))
+            (PP (TO to)
+              (NP (NN mammography)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (PP (IN in)
+                    (NP (PRP itself)))
+                  (NP
+                    (NP (DT a) (NN risk) (NN factor))
+                    (PP (IN for)
+                      (NP (NN breast) (NN cancer) (CD -LSB-4))))
+                  (-RRB- -RSB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Breast) (NN development))
+        (CC and)
+        (NP (JJ lactational) (NN differentiation)))
+      (ADVP (RB also))
+      (VP (VBP appear)
+        (S
+          (VP (TO to)
+            (ADVP (RB individually))
+            (VP (VB modify)
+              (NP (NN breast) (NN cancer) (NN risk)))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (JJ early) (NN term) (NN pregnancy))
+            (VP (VBG conferring)
+              (NP (DT a) (JJ persistent) (JJ protective) (NN effect) (CD -LSB-5) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Exposure))
+        (PP (TO to)
+          (NP (VBG ionizing) (NN radiation))))
+      (, ,)
+      (PP (IN while)
+        (NP
+          (NP (DT a) (JJ lifetime) (NN risk) (NN factor))
+          (PP (IN for)
+            (NP (NN breast) (NN cancer)))))
+      (, ,)
+      (VP (VBZ appears)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RBR more) (JJ dangerous)))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP it))
+                (VP (VBZ occurs)
+                  (PP (IN during)
+                    (NP
+                      (NP (JJ alveolar) (NN differentiation))
+                      (PP (IN of)
+                        (NP (DT the) (NN breast)))))
+                  (PP (IN at)
+                    (NP (NN adolescence) (CD -LSB-6))))
+                (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (VP (VBG Using)
+        (NP (DT a) (JJ novel) (NN tissue) (NN engineering) (NN system) (CD -LSB-7)))
+      (-RRB- -RSB-))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB therefore))
+    (VP (VBD examined)
+      (NP
+        (NP (DT the)
+          (NP
+            (NP (NN growth))
+            (CC and)
+            (NP (NN differentiation))))
+        (PP (IN of)
+          (NP
+            (NP (JJ normal) (NN breast) (JJ epithelial) (NNS samples))
+            (PP (IN from)
+              (NP (DT this) (NN patient))))))
+      (PP (IN via)
+        (NP (JJ live-cell) (NN imaging))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN BRCA1)
+        (NP (JJ hereditary) (NN breast) (NN cancer))
+        (NN gene))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN shown)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN involved)
+                    (PP (IN in)
+                      (NP (NN DNA) (JJ double) (NN strand) (NN break) (NN repair) (CD -LSB-8,9) (-RRB- -RSB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (NN DNA) (NN repair))
+          (NNS defects))
+        (VP (VBP have)
+          (ADVP (RB also))
+          (VP (VBN been)
+            (VP (VBN identified)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ peripheral) (NN blood) (NNS cells))
+                  (PP (IN of)
+                    (NP (JJ sporadic) (NN breast) (NN cancer) (NNS patients) (CD -LSB-10-13) (-RRB- -RSB-)))))))))
+      (, ,)
+      (CC but)
+      (S (, ,)
+        (PP (IN in)
+          (NP (DT this) (NN case)))
+        (, ,)
+        (NP (PRP it))
+        (VP (VBZ seems)
+          (S
+            (VP (TO to)
+              (VP (VB involve)
+                (NP
+                  (NP (DT a) (JJ different) (NN pathway))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN DNA) (NN repair))
+                      (, ,)
+                      (NP (NN nucleotide) (NN excision) (NN repair))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN NER))
+                        (-RRB- -RRB-))
+                      (NP (NN -LSB-14-16))
+                      (-RRB- -RSB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP (VBN extended)
+          (NP
+            (NP
+              (NP (DT this) (NN observation))
+              (PP (IN of)
+                (NP (NN NER) (NN deficiency)))
+              (PP (TO to)
+                (NP (DT the) (NN tumor) (PRP itself))))
+            (, ,)
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (DT the) (JJ adjoining) (JJ non-diseased) (JJ normal) (NN breast) (NN tissue) (CD -LSB-17))
+            (-RRB- -RSB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NER))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ complex) (NN pathway))
+          (PP (IN of)
+            (NP (NN DNA) (NN repair) (CD -LSB-18) (-RRB- -RSB-)))
+          (VP
+            (ADVP (RB normally))
+            (VBN associated)
+            (PP (IN with)
+              (NP
+                (NP (NN removal))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (JJ pyrimidine-pyrimidine) (JJ intrastrand) (NNS crosslinks))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN “dimers) (NN ''))
+                        (-RRB- -RRB-)))
+                    (VP (VBN caused)
+                      (PP (IN by)
+                        (NP
+                          (NP (NN exposure))
+                          (PP (TO to)
+                            (NP (NN UV) (NN light))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NER) (NN deficiency))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN basis))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (JJ hereditary) (NN xeroderma) (NN pigmentosum))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN XP) (-RRB- -RRB-) (CD -LSB-19))
+                  (-RRB- -RSB-)))
+              (, ,)
+              (NP
+                (NP (DT a) (NN disease))
+                (PP (IN with)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RB 1200-fold))
+                      (NN increase))
+                    (PP (IN in)
+                      (NP
+                        (NP (NN incidence))
+                        (PP (IN of)
+                          (NP (NN skin) (NN cancer) (CD -LSB-20)))))))
+                (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN signal))
+        (PP (IN for)
+          (NP
+            (NP (NN activation))
+            (PP (IN of)
+              (NP (DT the) (NN NER) (NN pathway))))))
+      (VP (VBZ is)
+        (ADVP (RB actually))
+        (ADJP (RB very) (JJ general))))
+    (: ;)
+    (S
+      (NP (DT any) (NN lesion))
+      (VP (VBG causing)
+        (NP
+          (NP (DT a) (NN distortion))
+          (PP (IN in)
+            (NP (DT the) (NN DNA) (NN helix)))
+          (, ,)
+          (PP (VBG including)
+            (NP
+              (NP (NNS crosslinks))
+              (VP (VBN caused)
+                (PP (IN by)
+                  (NP
+                    (NP
+                      (NP (JJ oxidative) (NNS radicals))
+                      (, ,)
+                      (NP
+                        (NP (JJ certain) (NNS types))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNS mismatches))
+                            (PRN (-LRB- -LRB-)
+                              (NP
+                                (NP (NN purine-purine))
+                                (CC or)
+                                (NP (NN pyrimidine-pyrimidine)))
+                              (-RRB- -RRB-)))))
+                      (CC and)
+                      (NP
+                        (ADJP (RB so) (VBN called))
+                        (NN “bulky) (NN '') (NNS adducts)))
+                    (VP (VBN caused)
+                      (PP (IN by)
+                        (NP
+                          (NP (NN phase) (NN I) (NN metabolism))
+                          (PP (IN of)
+                            (NP (NN polyaromatic) (NNS hydrocarbons) (CD -LSB-21) (-RRB- -RSB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ has)
+        (ADVP (RB recently))
+        (VP (VBN been)
+          (VP (VBN shown)
+            (SBAR (IN that)
+              (S
+                (NP (NN BRCA1) (NN expression))
+                (VP (MD can)
+                  (VP (VB enhance)
+                    (NP (NN NER) (NN activity))
+                    (, ,)
+                    (SBAR (IN although)
+                      (S
+                        (NP (DT this) (NN analysis))
+                        (VP (VBD was) (RB not)
+                          (VP (VBN performed)
+                            (PP (IN in)
+                              (NP (NN breast) (NNS cells)))
+                            (NP (CD -LSB-22,23))
+                            (-RRB- -RSB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (RB therefore))
+      (VP (VBN applied)
+        (NP
+          (NP (DT the) (JJ functional) (JJ unscheduled) (NN DNA) (NN synthesis) (-LRB- -LRB-) (NN UDS) (-RRB- -RRB-) (NN assay))
+          (PP (IN for)
+            (NP (NN NER) (NN capacity))))
+        (PP (TO to)
+          (NP
+            (NP (JJ multiple) (NNS samples))
+            (PP (IN of)
+              (NP
+                (NP (JJ normal) (NN tissue))
+                (PP (IN from)
+                  (NP (DT this) (NN patient)))))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB determine)
+              (SBAR (IN whether)
+                (S
+                  (NP
+                    (NP (NN haploinsufficiency))
+                    (PP (IN for)
+                      (NP (NN BRCA1))))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT a) (NN mechanism))
+                      (PP (IN of)
+                        (NP (NN NER) (NN deficiency))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP (VBN developed)
+          (NP
+            (NP (DT a) (NN method))
+            (S
+              (VP (TO to)
+                (ADVP (RB reliably))
+                (VP (NN culture)
+                  (NP
+                    (NP
+                      (NP (JJ non-diseased) (NN breast) (NN tissue))
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN with)
+                          (NP
+                            (NP (DT a) (NN success) (NN rate))
+                            (PP (IN of)
+                              (NP (CD 100) (NN %)))))
+                        (-RRB- -RRB-)))
+                    (CC and)
+                    (NP
+                      (NP (NN breast) (NNS tumors))
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN with)
+                          (NP
+                            (NP (DT a) (NN success) (NN rate))
+                            (PP (IN of)
+                              (NP (CD 85) (NN %)))))
+                        (-RRB- -RRB-)
+                        (NP (CD -LSB-7,17))
+                        (-RRB- -RSB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Case) (NN presentation))))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP describe)
+        (NP
+          (NP (DT a) (NN breast) (NN cancer) (NN patient))
+          (SBAR
+            (WHNP (WP$ whose) (NN tumor))
+            (S
+              (VP (VBD was)
+                (VP (VBN detected)
+                  (PP (IN by)
+                    (NP (NN MRI))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD was)
+        (VP (VBN enrolled)
+          (PP (IN into)
+            (NP
+              (NP (DT a) (NN pilot) (NN screening) (NN study))
+              (PP (IN of)
+                (NP
+                  (NP (JJ low) (NN power) (NN MRI))
+                  (PP (IN due) (TO to)
+                    (NP (PRP$ her) (JJ familial) (NN risk))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (PRP She))
+        (VP (VBD had)
+          (NP
+            (ADJP (RB mammographically) (JJ dense))
+            (NNS breasts))))
+      (CC and)
+      (S
+        (NP (PRP$ her) (NN tumor))
+        (VP (VBD was)
+          (ADJP (JJ undetectable)
+            (ADVP (RB mammographically))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN patient))
+      (VP (VBD was)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 35.7) (NN year) (JJ old))
+            (NN woman))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD presented)
+                (PP (IN with)
+                  (NP
+                    (NP
+                      (NP (DT a)
+                        (ADJP (RB very) (JJ strong))
+                        (NN family) (NN history))
+                      (PP (IN of)
+                        (NP (NN breast) (NN cancer)))
+                      (SBAR (IN as)
+                        (S
+                          (VP (VBN depicted)
+                            (PP (IN in)
+                              (NP (NN Figure) (CD 1))))))
+                      (, ,))
+                    (CC and)
+                    (NP (JJ negative)
+                      (ADJP
+                        (ADJP (JJ physical))
+                        (CC and)
+                        (ADJP (JJ mammographic)))
+                      (NN examination))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD had)
+        (NP
+          (NP
+            (NP
+              (ADJP (RB extremely) (JJ dense))
+              (NN breast) (NN tissue) (NN bilaterally))
+            (PP (IN by)
+              (NP (NN mammography))))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (JJ fibrocystic) (NN breast) (NN tissue)))
+        (PP (IN by)
+          (NP (JJ physical) (NN examination)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD had)
+        (NP
+          (NP (DT no) (JJ previous) (JJ personal) (NN history))
+          (PP (IN of)
+            (NP
+              (NP (NN breast) (NN biopsy))
+              (CC or)
+              (NP (JJ abnormal) (NNS mammograms)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The)
+            (ADJP (CD 5) (NN year))
+            (NN breast) (NN cancer) (NN risk))
+          (PP (IN for)
+            (NP
+              (NP (DT this) (NN patient))
+              (SBAR (IN as)
+                (S
+                  (VP (VBN calculated)
+                    (PP (IN by)
+                      (NP (DT the) (NN BRCAPRO) (NN model)))))))))
+        (VP (VBD was)
+          (NP (CD 5.7) (NN %))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (PRP$ her) (NN probability))
+          (PP (IN of)
+            (S
+              (VP (VBG being)
+                (NP (DT a)
+                  (NP
+                    (NP (NN BRCA1))
+                    (CC or)
+                    (NP (NN BRCA2)))
+                  (NN carrier))))))
+        (VP (VBD was)
+          (NP (CD 0.47)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN Gail) (NN model) (NN risk) (NN assessment))
+      (VP (VBD was)
+        (VP (VBN calculated)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (VBG following) (NN information))
+                (: :)
+                (NP (NN Race-Caucasian))
+                (: ;)
+                (NP (NN Age-35))
+                (: ;)
+                (NP
+                  (NP (NN Age))
+                  (PP (IN at)
+                    (NP (JJ first) (NN menses-12))))
+                (: ;)
+                (NP
+                  (NP (NN Age))
+                  (PP (IN at)
+                    (NP (JJ first) (JJ live) (NN birth-nulliparous))))
+                (: ;)
+                (NP
+                  (NP (NN Number))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ first-degree) (NNS relatives))
+                      (PP (IN with)
+                        (NP (NN breast) (NN cancer-2))))))
+                (: ;)
+                (NP
+                  (NP (NN Number))
+                  (PP (IN of)
+                    (NP (JJ previous) (NN breast) (NN biopsies-0))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (DT The) (VBN calculated)
+          (ADJP (CD 5) (NN year))
+          (NN Gail) (NN risk))
+        (VP (VBD was)
+          (NP (CD 1.0) (NN %))))
+      (CC and)
+      (S
+        (NP (PRP$ her) (NN lifetime) (NN risk))
+        (VP (VBD was)
+          (NP (CD 31.3) (NN %)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (VBG Following)
+        (NP (JJ genetic) (NN counseling)))
+      (, ,)
+      (NP (DT the) (NN patient))
+      (VP (VBD elected)
+        (S
+          (VP (TO to)
+            (VP (VB undergo)
+              (NP
+                (NP (NN DNA) (NN sequencing))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the)
+                      (NP
+                        (NP (NN BRCA1))
+                        (CC and)
+                        (NP (NN BRCA2)))
+                      (NNS genes))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD revealed)
+                          (NP
+                            (NP (DT a) (JJ Q1200X) (NN truncation) (NN mutation))
+                            (PP (IN in)
+                              (NP
+                                (NP (CD one))
+                                (PP (IN of)
+                                  (NP (PRP$ her) (NN BRCA1) (NNS alleles)))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN C) (TO to) (NN T) (NN mutation))
+        (PP (IN at)
+          (NP (NN codon) (CD 1200)))
+        (PP (IN in)
+          (NP (NN exon) (CD 11))))
+      (VP (VBZ results)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN change))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN amino) (NN acid) (NN glutamine))
+                (PP (TO to)
+                  (NP (DT a) (NN stop) (NN codon)))
+                (PP (IN with)
+                  (NP
+                    (NP (VBG resulting) (NN protein) (NN truncation))
+                    (CC and)
+                    (NP
+                      (NP (NN loss))
+                      (PP (IN of)
+                        (NP (NN function))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Exon) (CD 11))
+      (VP
+        (VP (VBZ is)
+          (NP
+            (NP (DT the) (JJS largest) (NN exon))
+            (PP (IN in)
+              (NP (NN BRCA1)))))
+        (CC and)
+        (VP (VBZ has)
+          (NP
+            (NP (DT the) (JJS highest) (NN frequency))
+            (PP (IN of)
+              (NP (VBN reported) (NNS mutations)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN Q1200X) (NN mutation))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADVP (RB independently))
+          (VP (VBN observed)
+            (NP (JJ several) (NNS times) (CD -LSB-24) (-RRB- -RSB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ bilateral) (NN screening) (NN mammogram))
+      (VP (VBD was)
+        (VP (VBN compared)
+          (PP (TO to)
+            (NP
+              (NP (JJ previous) (NNS films))
+              (PP (IN from)
+                (NP (DT another) (NN hospital))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN breast) (NN tissue))
+      (VP (VBD was)
+        (VP (VBN described)
+          (PP (IN as)
+            (ADJP (RB heterogeneously) (JJ dense)))
+          (, ,)
+          (S
+            (ADVP (RB thus))
+            (VP (VBG lowering)
+              (NP (DT the) (NN sensitivity)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (EX There))
+        (VP (VBD were)
+          (NP
+            (NP (DT no) (NNS masses))
+            (, ,)
+            (NP
+              (NP (JJ significant) (NNS calcifications))
+              (CC or)
+              (NP (JJ other) (NNS findings))))))
+      (CC and)
+      (S
+        (NP (DT the) (NN mammogram))
+        (VP (VBD was)
+          (VP (VBN interpreted)
+            (PP (IN as)
+              (NP (JJ negative) (NN bilaterally)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT A) (JJ one-year) (NN follow-up))
+      (VP (VBD was)
+        (VP (VBN recommended))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN patient))
+      (VP (VBD was)
+        (ADVP (RB then))
+        (VP (NN MRI) (VBN scanned)
+          (PP (IN as)
+            (NP
+              (ADJP (RB previously) (VBN described))
+              (NN -LSB-3) (-RRB- -RSB-)))
+          (, ,)
+          (PP (IN with)
+            (NP
+              (NP
+                (ADJP
+                  (ADJP (JJ pre-))
+                  (CC and)
+                  (ADJP (JJ post-gadolinium)))
+                (NN enhancement) (NNS images))
+              (VP (VBG evaluating)
+                (NP (DT both) (NNS breasts))
+                (PP
+                  (ADVP (RB simultaneously))
+                  (IN in)
+                  (NP (DT the) (JJ axial) (NN plane)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (JJ upper-outer) (JJ left) (NN breast)))
+      (NP (EX there))
+      (VP (VBD was)
+        (NP (DT a)
+          (ADJP
+            (ADJP (JJ small)
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (QP (RB approximately) (CD 1))
+                  (NN cm))
+                (-RRB- -RRB-)))
+            (, ,)
+            (ADJP (JJ round))
+            (, ,)
+            (ADJP (JJ well-demarcated)))
+          (NN enhancing) (NN lesion))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN lesion))
+      (VP (VBD was)
+        (VP (VBN seen)
+          (PP (IN on)
+            (NP (CC both)
+              (NP
+                (NP (DT the) (JJ initial) (NN delay))
+                (PP (IN after)
+                  (NP (NN contrast) (NN injection))))
+              (CC and)
+              (NP (DT the) (VBN delayed)
+                (ADJP
+                  (NP (NN contrast))
+                  (VBN enhanced))
+                (NN subtraction) (NNS images)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN lesion))
+      (VP (VBD appeared)
+        (S
+          (VP (TO to)
+            (VP (VB accumulate)
+              (NP
+                (NP (NN contrast))
+                (PP (TO to)
+                  (NP (DT a) (JJR greater) (NN extent))))
+              (PP (IN on)
+                (NP (DT the) (VBN delayed) (NN subtraction) (NNS images)))
+              (PP (IN with)
+                (NP
+                  (NP (DT an) (JJ additional) (NN lesion))
+                  (ADJP (JJ adjacent)
+                    (PP (TO to)
+                      (NP (DT the) (JJ first)))))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (JJ medial) (NN aspect))
+        (PP (IN of)
+          (NP (DT the) (JJ mid) (JJ right) (NN breast)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP (JJ several) (JJ small) (NN punctate) (NNS areas))
+        (PP (IN of)
+          (NP (NN enhancement)))
+        (PP (IN on)
+          (NP (CC both)
+            (NP (DT the) (JJ immediate))
+            (CC and)
+            (NP (VBN delayed) (NN subtraction) (NNS views))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Also))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ right) (NN breast))
+          (PP
+            (ADVP (RB just))
+            (IN above)
+            (NP
+              (NP (DT the) (NN nipple) (NN level))
+              (ADJP
+                (ADJP (JJ medial))
+                (CC and)
+                (ADJP (JJ close)
+                  (PP (TO to)
+                    (NP (DT the) (NN chest) (NN wall)))))))))
+      (NP (DT an) (JJ additional) (NN enhancing) (NN lesion))
+      (VP (VBD was)
+        (VP (VBN seen))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN lesion))
+      (VP
+        (VP (VBD was)
+          (ADJP
+            (ADJP
+              (QP (RB approximately) (CD 1.5))
+              (NN cm))
+            (, ,)
+            (ADJP (JJ round))
+            (, ,)
+            (ADJP (JJ well-demarcated))))
+        (CC and)
+        (VP (VBD continued)
+          (S
+            (VP (TO to)
+              (VP (VB accumulate)
+                (NP
+                  (NP (NN contrast))
+                  (PP (IN on)
+                    (NP (DT the) (VBN delayed) (NN subtraction) (NNS images))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN lesion))
+      (VP (VBD appeared)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (DT a) (JJ small) (JJ non-enhancing) (NN septation)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN Under)
+        (NP (NN ultrasound)))
+      (, ,)
+      (NP
+        (NP (DT the) (NN lesion))
+        (PP (IN of)
+          (NP (NN concern)))
+        (PP (IN in)
+          (NP (DT the) (JJ left) (NN breast))))
+      (VP (VBD was)
+        (VP
+          (VP (VBN identified))
+          (CC and)
+          (VP (VBN biopsied))))
+      (, ,)
+      (CONJP (RB as) (RB well) (IN as))
+      (NP
+        (NP (CD one) (NN lesion))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ right) (NN breast))
+            (PRN (-LRB- -LRB-)
+              (NP (NN Figure) (CD 2))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN core) (NN biopsy))
+        (PP (IN of)
+          (NP (DT the) (JJ left) (NN breast))))
+      (VP (VBD revealed)
+        (NP
+          (NP
+            (NP (JJ infiltrating) (JJ ductal) (NN carcinoma))
+            (PP (IN in)
+              (NP
+                (NP (CD 2))
+                (PP (IN of)
+                  (NP (CD 5) (NN core) (NNS fragments))))))
+          (: ;)
+          (NP (JJ high) (JJ nuclear) (NN grade)))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT no) (JJ lymphatic) (NN invasion))
+            (VP (VBN seen))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN core) (NN biopsy))
+        (PP (IN of)
+          (NP (DT the) (JJ right) (NN breast))))
+      (VP (VBD demonstrated)
+        (NP (JJ benign) (NN pathology))
+        (, ,)
+        (ADVP (RB specifically))
+        (, ,)
+        (NP (NN fibrosis))
+        (PP (IN with)
+          (NP (JJ focal) (JJ ductal) (NN epithelial) (NN hyperplasia)))))
+    (. .)))
+
+(
+  (S
+    (PP (IN Although)
+      (NP
+        (NP (DT a) (JJ surgical) (NN candidate))
+        (PP (IN for)
+          (NP
+            (NP (NN lumpectomy))
+            (CC and)
+            (NP (NN radiation))))))
+    (, ,)
+    (NP (DT the) (NN patient))
+    (VP (VBP chose)
+      (S
+        (VP (TO to)
+          (VP (VB undergo)
+            (NP
+              (NP (JJ left) (JJ modified) (NN radical) (NN mastectomy))
+              (PP (IN with)
+                (NP
+                  (NP (JJ left) (NN axillary) (NN lymph) (NN node) (NN dissection))
+                  (CC and)
+                  (NP (JJ contralateral) (JJ prophylactic) (JJ total) (NN mastectomy)))))
+            (PP (IN because) (IN of)
+              (NP (PRP$ her) (JJ genetic) (NN risk) (NN status)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN pathology))
+        (PP (IN in)
+          (NP (DT the) (JJ left) (NN breast))))
+      (VP (VBD was)
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP
+              (NP (DT the)
+                (NP (NN imaging))
+                (CC and)
+                (NP (NN core) (NN biopsy)))
+              (PP (IN in)
+                (NP
+                  (NP (NN size))
+                  (CC and)
+                  (NP (NN description)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (NN Tumor) (NN size))
+        (VP (VBD was)
+          (ADJP (CD 8) (NN mm))
+          (PP (IN in)
+            (NP
+              (NP (JJS greatest) (NN dimension))
+              (, ,)
+              (NP
+                (NP (JJ nuclear) (NN grade) (CD III))
+                (, ,)
+                (NP (NN ER/PR))
+                (CC and)
+                (NP (NN Her2/neu) (JJ negative)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (DT the) (JJ nodal) (NN status))
+          (PRN (-LRB- -LRB-)
+            (NP (NN 0/4))
+            (-RRB- -RRB-)))
+        (VP (VBD was)
+          (ADJP
+            (ADJP (JJ negative))
+            (PRN (-LRB- -LRB-)
+              (NP (NN stage) (CD TIaN0M0))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN patient))
+      (VP
+        (VP (VBD underwent)
+          (NP
+            (NP (CD 4) (NNS cycles))
+            (PP (IN of)
+              (NP (NN chemotherapy)))))
+        (CC and)
+        (VP (VBZ has)
+          (VP (VBN been)
+            (ADJP (RB reportedly) (JJ healthy))
+            (ADVP (IN since))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN Because)
+        (PP (IN of)
+          (NP (DT the) (JJ positive) (NN BRCA1) (NN mutation) (NNS results))))
+      (, ,)
+      (NP (PRP she))
+      (ADVP (RB subsequently))
+      (VP (VBD underwent)
+        (NP (JJ prophylactic) (JJ bilateral) (NN salpingo-oophorectomy))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN number))
+        (PP (IN of)
+          (NP (NN life) (NN history) (NNS factors))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN associated)
+            (PP (IN with)
+              (NP
+                (NP (NN breast) (NN cancer) (NN incidence))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP are)
+                      (ADVP (RB widely))
+                      (VP (VBN interpreted)
+                        (PP (IN as)
+                          (S
+                            (VP (VBG representing)
+                              (NP
+                                (NP (JJ lifetime) (NN exposure))
+                                (PP (IN of)
+                                  (NP (DT the) (NN breast) (NN tissue)))
+                                (PP (TO to)
+                                  (NP (JJ estrogen-induced) (NN mitogenesis) (CD -LSB-25)))))
+                            (-RRB- -RSB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT An) (JJ alternative) (NN interpretation))
+        (, ,)
+        (VP (VBN based)
+          (PP (IN on)
+            (NP (JJ epithelial) (NN cell) (NN differentiation))))
+        (, ,))
+      (VP (VBZ suggests)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ lactational) (NN differentiation))
+              (, ,)
+              (SBAR (JJ such) (IN as)
+                (S
+                  (VP (VBZ occurs)
+                    (PP (IN during)
+                      (NP (NN term) (NN pregnancy))))))
+              (, ,))
+            (VP (VBZ confers)
+              (NP
+                (NP (NN resistance))
+                (PP (TO to)
+                  (NP (NN carcinogenesis) (CD -LSB-26,27)))))
+            (-RRB- -RSB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP (VBN developed)
+          (NP
+            (NP (DT a) (JJ novel) (JJ human) (JJ mammary) (NN epithelial) (-LRB- -LRB-) (NN HME) (-RRB- -RRB-) (NN tissue) (NN engineering) (NN system) (NN wherein))
+            (S
+              (NP
+                (NP (JJ many) (NNS aspects))
+                (PP (IN of)
+                  (NP (JJ organotypic) (NN differentiation))))
+              (VP (VBP are)
+                (VP (VBN reiterated)
+                  (NP
+                    (ADJP (FW in) (FW vitro))
+                    (NN -LSB-28))))
+              (-RRB- -RSB-))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (DT this) (NN system)))
+    (, ,)
+    (NP (NN breast) (NN epithelial) (NNS cells))
+    (ADVP (RB initially))
+    (VP (VBP retain)
+      (NP (JJ cell-to-cell) (NN contact))
+      (SBAR (IN while)
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBP proliferate))
+            (, ,)
+            (VP
+              (ADVP (RB then))
+              (VBP undergo)
+              (NP (DT an) (JJ architectural) (NN reorganization)))
+            (, ,)
+            (ADVP (RB first))
+            (S
+              (VP (TO to)
+                (VP (VB form)
+                  (NP
+                    (NP (JJ three-dimensional) (NNS mammospheres))
+                    (, ,)
+                    (CC and)
+                    (NP
+                      (NP (JJ later) (JJ vast) (NNS networks))
+                      (PP (IN of)
+                        (NP (NN branching) (JJ ductal)
+                          (CC and)
+                          (JJ lobular) (NNS structures))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Tumor))
+        (CC and)
+        (NP (DT some) (JJ pre-neoplastic) (NNS samples)))
+      (VP (VBP fail)
+        (S
+          (VP (TO to)
+            (VP (VB form)
+              (NP (JJ such) (NN architecture)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Normal) (NN tissue))
+        (PP (IN from)
+          (NP
+            (NP (DT this) (NN patient))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP
+                  (VP (VBZ is)
+                    (NP (PDT both) (DT a) (NN BRCA1) (NN mutation) (NN carrier)))
+                  (CC and)
+                  (VP (VBZ has)
+                    (NP (JJ dense) (NNS breasts))))))
+            (, ,))))
+      (VP (VBD was)
+        (VP (VBN evaluated)
+          (S
+            (VP (TO to)
+              (VP (VB determine)
+                (SBAR (IN whether)
+                  (S
+                    (NP
+                      (NP (DT either))
+                      (PP (IN of)
+                        (NP (DT these) (NNS factors))))
+                    (VP (VBD affected)
+                      (NP
+                        (ADJP (FW de) (FW novo))
+                        (NN differentiation))
+                      (PP (IN in)
+                        (NP (DT this) (NN system))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (CD Four) (JJ discrete) (NNS pieces))
+        (PP (IN of)
+          (NP (JJ fresh) (NN tissue))))
+      (VP (VBD were)
+        (VP (VBN provided)
+          (PP (IN for)
+            (NP
+              (NP (JJ live-cell) (NN analysis))
+              (PP (IN from)
+                (NP
+                  (NP (DT each))
+                  (PP (IN of)
+                    (NP
+                      (ADJP
+                        (ADJP
+                          (NP (DT the) (NN patient) (POS 's))
+                          (JJ ipsilateral))
+                        (CC and)
+                        (ADJP (JJ contralateral)))
+                      (NNS breasts))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (DT the) (NN case))
+          (PP (IN of)
+            (NP (DT the) (JJ ipsilateral) (NN breast)))))
+      (, ,)
+      (NP (DT this) (NN tissue))
+      (VP (VBD was)
+        (VP (VBN provided)
+          (PP (IN at)
+            (S
+              (VP (VBG increasing)
+                (NP
+                  (NP (NN distance))
+                  (PP (IN from)
+                    (NP (DT the) (NN tumor) (NN margin))))
+                (PP (IN in)
+                  (NP (CD 1) (NN cm) (NNS increments)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT All))
+        (PP (IN of)
+          (NP (DT these) (JJ normal) (NNS samples)))
+        (VP (VBN attached)))
+      (VP (CC and)
+        (VP (VBD grew)
+          (PP (IN in)
+            (NP (PRP$ our) (NN culture) (NN system))))
+        (CC and)
+        (VP (VBD were)
+          (VP (VBN examined)
+            (PP (IN for)
+              (NP
+                (NP (JJ cell-to-cell) (NNS interactions))
+                (CC and)
+                (NP (NN morphology))))
+            (PP (IN over)
+              (NP
+                (NP (DT a) (NN period))
+                (PP (IN of)
+                  (NP (CD one) (NN month)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In) (DT the) (NN context) (IN of)
+        (NP
+          (NP (NN breast) (NN reduction) (NN explant) (NNS cultures))
+          (PP (IN from)
+            (NP
+              (NP (CD 22) (NNS patients))
+              (PP (IN with)
+                (NP (DT no) (NN breast) (NN disease)))))))
+      (, ,)
+      (NP (DT these) (NN patient) (NNS samples))
+      (VP (VBN manifested)
+        (NP
+          (NP (JJ typical) (NNS mixtures))
+          (PP (IN of)
+            (NP (JJ fibroblastic)
+              (CC and)
+              (JJ epithelial) (NNS cells))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP
+        (NP (JJ several) (NNS days))
+        (PP (IN in)
+          (NP
+            (NP (NN culture))
+            (PP (IN without)
+              (NP (NN passaging)))))))
+    (, ,)
+    (NP (DT the) (JJ epithelial) (NNS cells))
+    (VP
+      (VP (VBD began)
+        (S
+          (VP (TO to)
+            (VP (VB self-organize) (, ,)
+              (S
+                (ADVP (RB initially))
+                (VP (VBG forming)
+                  (NP
+                    (NP (JJ three-dimensional) (NNS mammospheres))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Figure) (NN 3A))
+                      (-RRB- -RRB-)))))))))
+      (, ,)
+      (CC and)
+      (, ,)
+      (PP (IN after)
+        (NP
+          (NP (CD 2) (NNS weeks))
+          (PP (IN in)
+            (NP (NN culture)))))
+      (, ,)
+      (NP
+        (NP
+          (ADJP (RBR more) (JJ complex))
+          (JJ pre-ductal) (NN linear) (NNS columns))
+        (PP (IN of)
+          (NP
+            (NP (JJ epithelial) (NNS cells))
+            (PRN (-LRB- -LRB-)
+              (NP (NN Figure) (NN 3B))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN tissue) (NNS explants))
+        (PP (IN from)
+          (NP (DT both) (NNS breasts))))
+      (VP (VBD showed)
+        (NP
+          (NP (JJ similar) (NNS patterns))
+          (PP (IN of)
+            (NP (NN behavior))))
+        (PRN (-LRB- -LRB-)
+          (NP (NN Figure) (CD 3))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Tissue))
+        (VP (VBN cultured)
+          (PP (IN from)
+            (NP
+              (NP (DT a) (JJ contemporaneous) (JJ disease-free) (NN control))
+              (CC and)
+              (NP
+                (NP (DT the) (JJ contralateral) (NN breast))
+                (PP (IN of)
+                  (NP (DT a) (JJ sporadic) (NN breast) (NN cancer) (NN patient))))))))
+      (VP (VBD showed)
+        (NP
+          (NP (JJ similar) (NN morphology))
+          (CC and)
+          (NP (NN architecture)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NNS data))
+            (VP (RB not) (VBN shown)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN suggested)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN association))
+                  (PP (IN between)
+                    (NP
+                      (NP (NN breast) (NN density))
+                      (CC and)
+                      (NP
+                        (NP (NN risk))
+                        (PP (IN of)
+                          (NP (NN breast) (NN cancer)))))))
+                (VP (VBZ is)
+                  (ADJP (JJ due)
+                    (PP (TO to)
+                      (NP (VBN increased) (NN cell) (NN proliferation) (CD -LSB-29) (-RRB- -RSB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (CD One) (NN measure))
+        (PP (IN of)
+          (NP
+            (NP (NN cell) (NN growth))
+            (CC and)
+            (NP (NN viability)))))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (DT the) (NN S-phase) (NN index))
+            (PRN (-LRB- -LRB-)
+              (NP (NN SPI))
+              (-RRB- -RRB-)))
+          (CC or)
+          (NP
+            (NP (DT the) (NN percentage))
+            (PP (IN of)
+              (NP
+                (NP (NNS cells))
+                (VP (VBG incorporating)
+                  (NP (VBN radiolabeled) (NN thymidine))
+                  (PP (IN over)
+                    (NP
+                      (NP (DT a) (JJ specific) (NN incubation) (NN period))
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN in)
+                          (NP (PRP$ our) (NN case)))
+                        (, ,)
+                        (NP (CD 2) (NNS hours))
+                        (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJ previous) (NN study))
+        (PP (IN with)
+          (NP (CD 22) (JJ normal)
+            (NP (NN breast) (NN reduction) (NN epithelium) (NN -LSB-BRE))
+            (-RRB- -RSB-) (NNS cultures)))))
+    (NP (PRP we))
+    (VP (VBD observed)
+      (NP
+        (NP (DT a) (JJ wide) (NN range))
+        (PP (IN of)
+          (NP (NN proliferation) (NNS rates))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (NN SPI))
+          (VP (VBG ranging)
+            (PP (IN from)
+              (NP
+                (NP (DT a) (JJ low))
+                (PP (IN of)
+                  (NP (CD 0.2) (NN %)))))
+            (PP (TO to)
+              (NP
+                (NP (DT a) (JJ high) (IN of) (CD 46.0) (NN %))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN mean) (IN of) (CD 18.3) (NN ±) (CD 2.6) (NN %) (-RRB- -RRB-) (CD -LSB-30))
+                  (-RRB- -RSB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ contemporaneous) (NN control) (NN sample))
+        (PP (IN from)
+          (NP (DT a) (JJ disease-free) (NN breast) (NN reduction) (NN patient))))
+      (VP (VBD had)
+        (NP
+          (NP (DT an) (NN SPI))
+          (PP (IN of)
+            (NP (CD 30.9) (NN %))))
+        (, ,)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (JJR higher) (NN end))
+            (PP (IN of)
+              (NP (DT this) (JJ normal) (NN range)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (ADJP
+            (ADJP (JJ ipsilateral))
+            (CC and)
+            (ADJP (JJ contralateral)))
+          (NN tissue) (NNS samples))
+        (PP (IN from)
+          (NP (DT the) (JJ hereditary) (NN breast) (NN cancer) (NN patient))))
+      (VP (VBD exhibited)
+        (NP
+          (NP (NN SPI))
+          (PP (IN of)
+            (NP
+              (NP (CD 26.6) (NN %))
+              (CC and)
+              (NP (CD 26.2) (NN %))
+              (, ,)
+              (ADVP (RB respectively)))))
+        (, ,)
+        (S
+          (VP (VBG placing)
+            (NP (PRP them))
+            (PP (IN at)
+              (NP
+                (NP (RB slightly))
+                (PP (IN over)
+                  (NP
+                    (NP (DT the) (JJ 70th) (NN percentile))
+                    (PP (IN for)
+                      (NP (NN growth) (NN rate)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ contralateral) (NN sample))
+        (PP (IN from)
+          (NP (DT the) (JJ sporadic) (NN breast) (NN cancer) (NN patient))))
+      (VP (VBD had)
+        (NP
+          (NP (DT an) (NN SPI))
+          (PP (IN of)
+            (NP (CD 17.0) (NN %))))
+        (, ,)
+        (S
+          (VP (VBG placing)
+            (NP (PRP it))
+            (ADVP (RB slightly))
+            (PP (IN under)
+              (NP (DT the) (CD 50th) (NN percentile)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Thus))
+      (, ,)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP (DT these) (NN breast) (NN cancer) (NN patient) (NNS samples))))
+      (VP (VBD appeared)
+        (S
+          (VP (TO to)
+            (VP (VB grow)
+              (ADVP (RB well))
+              (PP (IN in)
+                (NP (PRP$ our) (NN system)))
+              (, ,)
+              (PP (IN with)
+                (NP
+                  (NP (NN SPI))
+                  (PP
+                    (ADVP (RB well))
+                    (IN within)
+                    (NP
+                      (NP (DT the) (NN range))
+                      (PP (IN of)
+                        (NP (PRP$ our) (JJ normal) (NNS samples))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN similarity))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN SPI) (NNS values))
+            (PP (IN from)
+              (NP
+                (NP (DT the) (CD two) (NNS samples))
+                (PP (IN from)
+                  (NP (DT the) (NN BRCA1) (NN mutation) (NN carrier))))))))
+      (VP (VBZ does) (RB not)
+        (VP (VB appear)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ accidental))))))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT the) (NNS chances))
+        (PP (IN of)
+          (S
+            (VP (VBG selecting)
+              (NP
+                (NP (CD two) (NNS samples))
+                (PP (IN from)
+                  (NP (DT the) (JJ normal) (NN population)))
+                (PP (IN with)
+                  (NP (NNS values))))
+              (PP (IN as)
+                (ADJP
+                  (ADJP (JJ close))
+                  (CC or)
+                  (ADJP (JJR closer))))))))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ small)
+          (PRN (-LRB- -LRB-)
+            (NP (NN P) (JJ =) (CD 0.026))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (JJ Peripheral) (NN blood) (NNS lymphocytes))
+          (CC and)
+          (NP (JJ normal) (NN breast) (JJ epithelial) (NN tissue)))
+        (PP (IN from)
+          (NP (DT the) (JJ hereditary) (NN cancer) (NN patient))))
+      (VP (VBD were)
+        (ADVP (RB then))
+        (VP (VBN cultured)
+          (PP (IN for)
+            (NP
+              (NP (NN performance))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ functional) (NN UDS) (NN assay))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ requires)
+                        (NP (VBG living) (NNS cells))
+                        (PP (IN for)
+                          (NP
+                            (NP (NN radiolabel) (NN incorporation))
+                            (PP (IN during)
+                              (NP
+                                (NP (NN DNA) (NN repair) (NN synthesis))
+                                (PP (VBG following)
+                                  (NP (NN UV) (NN exposure)))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN assay))
+      (VP (VBZ is)
+        (ADJP (JJ diagnostic)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (VBN inherited) (NN cancer-prone) (NN disease) (NN XP))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ is)
+                    (ADVP (RB usually))
+                    (VP (VBN performed)
+                      (PP (IN in)
+                        (NP
+                          (NP (NNS lymphocytes))
+                          (CC or)
+                          (NP (NN skin) (NNS fibroblasts)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP$ Our) (JJ novel) (NN HME) (NN tissue) (NN engineering) (NN system))
+      (VP (VBZ allows)
+        (S
+          (NP (PRP us))
+          (VP (TO to)
+            (VP (VB apply)
+              (NP
+                (NP (DT the) (NN assay))
+                (PP (TO to)
+                  (NP (NN breast) (JJ epithelial) (NNS cells)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP have)
+        (ADVP (RB previously))
+        (VP (VBN demonstrated)
+          (NP
+            (NP (NN tissue-specificity))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN NER) (NN capacity))
+                (PP (IN of)
+                  (NP (DT these) (NNS cells)))))
+            (PP (IN in)
+              (NP
+                (NP (JJ normal) (NNS samples))
+                (PP (IN from)
+                  (NP
+                    (NP (NNS patients))
+                    (VP (VBG undergoing)
+                      (NP (NN breast) (NN reduction) (NN mammoplasty) (NN -LSB-30)))))))
+            (-RRB- -RSB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Patient) (NNS data))
+      (VP (VBZ is)
+        (ADVP (RB therefore))
+        (VP (VBN expressed)
+          (PP (JJ relative) (TO to)
+            (NP
+              (NP (DT the) (NN average))
+              (PP (IN of)
+                (NP (PRP$ our) (NN breast) (NN reduction) (NNS controls))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Analysis))
+      (PP (IN of)
+        (NP
+          (NP (VBN cultured) (NN blood) (NNS lymphocytes))
+          (PP (IN from)
+            (NP (DT the) (NN patient))))))
+    (VP (VBD established)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBD had)
+            (NP
+              (NP
+                (NP (JJ normal) (NN NER) (NN capacity))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (CD 99.6) (NN %))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN average))
+                        (PP (IN of)
+                          (NP (PRP$ our)
+                            (NP (CD 33) (JJ normal) (NNS samples)))))))
+                  (-RRB- -RRB-)))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Figure) (CD 4))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (ADVP (RB well))
+        (PP (IN above)
+          (NP
+            (NP (DT the) (JJ cut-off)
+              (ADJP (JJ established)
+                (PP (IN in)
+                  (NP (PRP$ our) (JJ sporadic) (NN breast) (NN cancer))))
+              (NN population))
+            (PRN (, ,)
+              (NP
+                (NP
+                  (QP (RB <) (CD 70))
+                  (NN %))
+                (NP
+                  (NP (JJ average) (JJ normal) (NN activity))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (VP (VBN applied)
+                            (PP (TO to)
+                              (NP (PRP$ our)
+                                (NP (NNS cases))
+                                (CC and)
+                                (NP (NNS controls)))))))
+                      (VP (VBD yielded)
+                        (NP
+                          (NP (DT a)
+                            (NP (JJ significant) (NNS odds))
+                            (NN ratio))
+                          (PP (IN of)
+                            (NP (CD 37.4) (NN -LSB-31)))))))))
+              (-RRB- -RSB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN trend))
+        (PP (IN towards)
+          (NP (NN age) (NN dependence))))
+      (VP (VBD had)
+        (VP (VBN been)
+          (VP (VBN noted)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN analysis))
+                (PP (IN of)
+                  (S
+                    (NP
+                      (NP (DT the) (NN UDS) (NN data))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (JJ normal) (NNS controls))
+                          (PRN (-LRB- -LRB-)
+                            (NP (NN P) (JJ =) (CD 0.059) (-RRB- -RRB-) (CD -LSB-30))
+                            (-RRB- -RSB-)))))
+                    (: ;)
+                    (S
+                      (NP
+                        (NP (NN addition))
+                        (PP (IN of)
+                          (NP (DT the) (NN patient) (NN sample))))
+                      (VP (VBZ supports)
+                        (NP (DT this) (NN trend))))
+                    (, ,)
+                    (CC but)
+                    (S
+                      (NP (PRP it))
+                      (ADVP (RB still))
+                      (VP (VBZ fails)
+                        (S
+                          (VP (TO to)
+                            (VP (VB reach)
+                              (NP
+                                (NP (NN significance))
+                                (PRN (-LRB- -LRB-)
+                                  (NP (NN P) (JJ =) (CD 0.056))
+                                  (-RRB- -RRB-))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (DT The) (JJ functional) (NN NER) (NN assay))
+    (VP (VBD was)
+      (ADVP (RB then))
+      (VP (VBN applied)
+        (PP
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ contemporaneous) (JJ disease-free) (NN breast) (NN reduction) (NN control) (NN sample))
+              (, ,)
+              (NP
+                (NP
+                  (NP (CD one) (NN sample))
+                  (NP (DT each)))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the)
+                      (ADJP
+                        (ADJP (JJ ipsilateral))
+                        (CC and)
+                        (ADJP (JJ contralateral)))
+                      (NNS breasts))
+                    (PP (IN of)
+                      (NP (DT the) (NN patient))))))))
+          (, ,)
+          (CC and)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN sample))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (JJ contralateral) (NN breast))
+                  (PP (IN of)
+                    (NP (DT an)
+                      (ADJP (RB apparently) (JJ sporadic))
+                      (NN breast) (NN cancer) (NN patient))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN NER))
+        (PP (IN of)
+          (NP (DT the) (NN BRE) (JJ non-diseased) (NN control))))
+      (VP (VBD was)
+        (NP (CD 1.82) (NNS times))
+        (NP
+          (NP (DT the) (NN average))
+          (PP (IN of)
+            (NP (PRP$ our) (JJ normal) (NN data) (NN set)))
+          (PP
+            (PP (IN for)
+              (NP (DT this) (NN tissue)))
+            (CC and)
+            (PP (IN within)
+              (NP
+                (NP (DT the) (NN range))
+                (PP (IN of)
+                  (NP (JJ normal)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN NER) (NN capacity))
+        (PP (IN of)
+          (NP (DT the) (JJ ipsilateral) (NN breast) (NN epithelial) (NN sample))))
+      (VP (VBD was)
+        (NP
+          (NP (CD 1.05) (NNS times))
+          (NP
+            (NP (DT the) (NN average))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ our) (NN population))
+                (PP (IN of)
+                  (NP (NN BRE) (NNS controls)))))))
+        (, ,)
+        (S
+          (ADVP (RB clearly))
+          (VP (VBG exhibiting)
+            (NP
+              (NP (DT no) (JJ overt) (NN DNA) (NN repair) (NN deficiency))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Figure) (CD 5))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ contralateral) (NN sample))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ similar) (, ,)
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN NER) (NN capacity))
+              (PP (IN of)
+                (NP
+                  (NP (CD 1.17) (NNS times))
+                  (ADJP (NN BRE) (JJ normal)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP
+            (NP (DT the) (NN NER) (NNS values))
+            (PP (IN of)
+              (NP
+                (NP (DT these) (CD two) (NNS samples))
+                (PP (IN from)
+                  (NP (DT the) (JJ same) (NN patient))))))
+          (VP (VBP are)
+            (ADJP (JJ similar)))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBP are) (RB not)
+        (ADJP (JJ close)
+          (S
+            (ADVP (RB enough))
+            (VP (TO to)
+              (VP (VB distinguish)
+                (NP (PRP themselves))
+                (PP (IN as)
+                  (S
+                    (VP (VBG coming)
+                      (PP (IN from)
+                        (NP
+                          (NP (DT the) (JJ same) (NN individual))
+                          (PRN (-LRB- -LRB-)
+                            (NP (NN P) (JJ =) (NN 0.16))
+                            (-RRB- -RRB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN NER) (NN capacity))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ contralateral) (NN sample))
+            (PP (IN from)
+              (NP (DT the) (JJ sporadic) (NN breast) (NN cancer) (NN patient))))))
+      (VP (VBD was)
+        (NP (CD 1.62) (NNS times))
+        (NP
+          (NP (DT the) (NN average))
+          (PP (IN of)
+            (NP (DT the) (NN BRE) (NNS controls))))
+        (, ,)
+        (ADVP (RB also))
+        (PP (IN in)
+          (NP (DT the) (JJ normal) (NN range)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (PRP$ Our) (JJR earlier) (NN analysis))
+        (PP (IN of)
+          (NP
+            (NP (NN NER))
+            (PP (IN in)
+              (NP (PRP$ our) (JJ normal) (NN population))))))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT no) (NNS effects))
+          (PP (IN of)
+            (NP
+              (NP (NN age))
+              (CC or)
+              (NP (NN cell) (NN proliferation))))
+          (PRN (-LRB- -LRB-)
+            (SBAR (IN as)
+              (S
+                (VP (VBN represented)
+                  (PP (IN by)
+                    (NP (DT the) (NN SPI))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT All))
+        (PP (IN of)
+          (NP (DT these) (JJ additional) (NN patient) (NNS samples))))
+      (VP (VBP are)
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP (DT those) (NNS results))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Discussion))))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (QP (IN At) (JJS least) (CD two))
+          (NNS types))
+        (PP (IN of)
+          (NP (NN breast) (NNS tumors))))
+      (VP (VBP are) (RB not)
+        (ADVP (RB accurately))
+        (VP (VBN detected)
+          (PP (IN by)
+            (NP (JJ traditional) (NN screening) (NN mammography)))
+          (: :)
+          (NP
+            (NP
+              (ADJP (`` ``) (NN interval) (JJ ''))
+              (NNS tumors))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP arise)
+                  (ADVP (RB quickly))
+                  (PP (IN between)
+                    (NP
+                      (NP
+                        (NP (NNS screenings))
+                        (, ,)
+                        (CC and)
+                        (NP (NNS tumors)))
+                      (SBAR
+                        (WHNP (WP$ whose) (NN density))
+                        (S
+                          (VP (VBZ is) (RB not)
+                            (ADJP (JJ sufficient)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB distinguish)
+                                    (NP (PRP them))
+                                    (PP (IN from)
+                                      (NP (DT the) (JJ surrounding) (JJ normal) (NN tissue)))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ latter) (NN situation))
+      (VP (VBZ is)
+        (ADJP (RBR more) (JJ likely))
+        (S
+          (VP (TO to)
+            (VP (VB occur)
+              (PP (IN in)
+                (NP
+                  (NP (NNS women))
+                  (PP (IN with)
+                    (NP
+                      (NP (JJ dense) (JJ normal) (NN breast) (NN tissue))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S (, ,)
+                          (PP (IN in)
+                            (NP (NN turn)))
+                          (, ,)
+                          (VP (VBZ is)
+                            (ADJP (RBR more) (JJ typical)
+                              (PP (IN of)
+                                (NP (JJR younger) (NNS women))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Thus))
+    (, ,)
+    (NP
+      (ADJP (RB mammographically) (JJ undetectable))
+      (NNS tumors))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP
+              (NP (NNS characteristics))
+              (, ,)
+              (PP (JJ such) (IN as)
+                (NP
+                  (NP
+                    (NP (JJ fast) (NN growth))
+                    (, ,)
+                    (NP (JJ low) (NN density))
+                    (, ,)
+                    (NP (JJ early) (NN onset))
+                    (CC and/or)
+                    (NP (NN occurrence)))
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ dense) (NNS breasts))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (MD might)
+                            (VP (VB distinguish)
+                              (NP (PRP them))
+                              (PP (IN from)
+                                (NP
+                                  (NP
+                                    (ADJP (RB mammographically) (JJ detectable))
+                                    (NNS tumors))
+                                  (PP (IN in)
+                                    (NP
+                                      (NP (NNS terms))
+                                      (PP (IN of)
+                                        (NP
+                                          (NP
+                                            (NP (JJ molecular) (NN etiology))
+                                            (CC and)
+                                            (NP (JJ clinical) (NNS parameters)))
+                                          (PP (IN of)
+                                            (NP
+                                              (NP (NN prognosis))
+                                              (CC and)
+                                              (NP (NN response)))))))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ present) (NN patient))
+      (VP
+        (VP (VBD had)
+          (NP (DT an) (JJ early) (NN onset) (NN breast) (NN tumor)))
+        (, ,)
+        (CC but)
+        (VP (VBD had)
+          (NP (CC both)
+            (NP
+              (NP (JJ hereditary) (NN susceptibility))
+              (PP (IN due) (TO to)
+                (NP (PRP$ her) (NN BRCA1) (NN mutation))))
+            (CC and)
+            (NP (JJ dense) (NNS breasts))))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (PRP$ her) (NN presentation))
+            (VP (VBZ is) (RB not)
+              (ADJP (JJ unusual)
+                (PP (IN in)
+                  (NP (DT this) (NN context)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ possible))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN breast) (NNS tumors))
+              (VP (VBN detected)
+                (PP (IN by)
+                  (NP (JJ complementary) (NN screening) (NNS methods)))
+                (PP (IN in)
+                  (NP (DT the) (JJ future)))))
+            (VP (MD will)
+              (VP (VB demonstrate)
+                (NP (JJ unique)
+                  (ADJP
+                    (ADJP (JJ clinical))
+                    (CC and)
+                    (ADJP (JJ molecular)))
+                  (NNS features)))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ becomes)
+                    (ADJP (JJ feasible)
+                      (S
+                        (VP (TO to)
+                          (VP (VB perform)
+                            (NP (JJ such) (NN screening))
+                            (PP (IN in)
+                              (NP (DT the) (JJ general) (NN population)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (DT the) (NN BRCA1) (NN gene) (NN product))
+        (VP (VBZ is)
+          (VP (VBN known)
+            (S
+              (VP (TO to)
+                (VP (VB play)
+                  (NP (DT a) (NN role))
+                  (PP (IN in)
+                    (NP (NN DNA) (JJ double) (NN strand) (NN break) (NN repair) (CD -LSB-8,9))))))))
+        (-RRB- -RSB-)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN suggested)
+          (SBAR (IN that)
+            (S
+              (NP (VBN decreased) (NN repair) (NN capacity))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT the) (NN basis))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN breast) (NN cancer) (NN predisposition))
+                      (VP (VBN observed)
+                        (PP (IN in)
+                          (NP (NN mutation) (NNS carriers) (CD -LSB-32-35) (-RRB- -RSB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PDT Such) (DT a) (JJ cellular) (NN phenotype))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (JJ difficult)
+            (S
+              (VP (TO to)
+                (VP (VB demonstrate)
+                  (PRN (, ,)
+                    (FRAG
+                      (ADVP (RB however))
+                      (NP (NN -LSB-36-39)))
+                    (-RRB- -RSB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT An) (JJ alternate) (NN possibility))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN mutation))
+            (VP (VBZ affects)
+              (NP
+                (NP (DT the)
+                  (NP (NN growth))
+                  (CC or)
+                  (NP (NN differentiation)))
+                (PP (IN of)
+                  (NP (NN breast) (NN epithelial) (NNS cells))))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NN manner))
+                  (ADJP (JJ consistent)
+                    (PP (IN with)
+                      (NP (NN cancer) (NN susceptibility)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN suggested)
+            (SBAR (IN that)
+              (S
+                (NP (JJ dense) (NN breast) (NN tissue))
+                (VP (VBZ is)
+                  (ADJP (JJ indicative)
+                    (PP (IN of)
+                      (NP
+                        (NP (VBN generalized) (NN hyperproliferation))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD might)
+                              (VP (VB promote)
+                                (NP (NN oncogenesis) (CD -LSB-29) (-RRB- -RSB-))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP$ Our) (NNS findings))
+      (VP (VBP show)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT all) (CD 8) (NNS samples))
+              (, ,)
+              (VP (VBN derived)
+                (PP (IN from)
+                  (NP (CC both)
+                    (NP (DT the) (VBN involved))
+                    (CC and)
+                    (NP
+                      (NP (DT the) (JJ uninvolved) (NNS breasts))
+                      (PP (IN of)
+                        (NP (DT a) (JJ hereditary) (NN breast) (NN cancer) (NN patient))))))))
+            (VP (VBP develop)
+              (NP (JJ normal) (JJ epithelial) (NN architecture))
+              (PP (IN in)
+                (NP (FW vitro)))
+              (, ,)
+              (S
+                (VP (VBG implying)
+                  (SBAR (IN that)
+                    (S
+                      (NP
+                        (NP (DT the) (JJ epithelial/stromal) (-LRB- -LRB-) (JJ paracrine) (-RRB- -RRB-) (NNS interactions))
+                        (ADJP (JJ necessary)
+                          (PP (IN for)
+                            (NP
+                              (NP (DT the) (NN development))
+                              (PP (IN of)
+                                (NP (DT this) (JJ complex) (NN architecture)))))))
+                      (VP (VBP are)
+                        (ADJP
+                          (ADJP (JJ intact))
+                          (CC and)
+                          (ADJP (JJ normal))
+                          (PP (IN in)
+                            (NP (NN BRCA1) (NNS heterozygotes))))
+                        (PP (IN despite)
+                          (NP
+                            (NP (PRP$ their) (JJR greater) (NN risk))
+                            (PP (IN of)
+                              (NP (NN breast) (NN cancer)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (DT The) (NN SPI) (NNS results))
+    (ADVP (RB also))
+    (VP (VBP indicate)
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (JJ non-diseased) (JJ epithelial) (NN tissue))
+          (VP
+            (VP (VBZ falls)
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (JJ typical) (NN range))
+                  (PP (IN of)
+                    (NP (JJ normal)))
+                  (PP (IN for)
+                    (NP (NN BRE) (NN control) (NNS cultures))))))
+            (CC and)
+            (VP (VBZ is)
+              (S
+                (VP (VBG demonstrating)
+                  (NP (JJ typical) (NN growth))
+                  (PP (IN in)
+                    (NP (PRP$ our) (NN HME) (NN tissue) (NN engineering) (NN system))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NER) (NN deficiency))
+      (VP (VBZ is)
+        (ADVP (RBS most) (RB often))
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP
+              (NP (NN XP))
+              (, ,)
+              (NP
+                (NP (NN sensitivity))
+                (PP (TO to)
+                  (NP (JJ UV-induced) (NN DNA) (NN damage))))
+              (CC and)
+              (NP (NN skin) (NN cancer) (CD -LSB-18-21) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN NER) (NN deficiency))
+        (PP (IN of)
+          (NP (NN XP) (NNS patients))))
+      (VP (VBZ is)
+        (VP (VBN manifested)
+          (PP (IN in)
+            (NP (JJ other) (NNS tissues)))
+          (, ,)
+          (ADVP (RB however))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (VP (VBN shown)
+                (PP (IN by)
+                  (NP
+                    (NP
+                      (NP (PRP$ their) (JJ high) (JJ spontaneous) (NN frequency))
+                      (PP (IN of)
+                        (NP
+                          (NP (NN mutation))
+                          (PP (IN in)
+                            (NP (NN blood) (NNS lymphocytes) (CD -LSB-40) (-RRB- -RSB-))))))
+                    (CC and)
+                    (NP
+                      (NP (DT the) (NN occurrence))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ other) (NNS types))
+                          (PP (IN of)
+                            (NP (NNS tumors) (CD -LSB-41) (-RRB- -RSB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN observation)
+        (SBAR (IN that)
+          (S
+            (NP (JJ sporadic) (NN breast) (NN cancer) (NNS patients))
+            (VP (VBP have)
+              (NP
+                (NP (JJ low) (NNS levels))
+                (PP (IN of)
+                  (NP (NN NER))))
+              (PP (IN in)
+                (NP (JJ peripheral) (NNS lymphocytes)))))))
+      (VP (VBZ suggests)
+        (SBAR (IN that)
+          (S
+            (NP (JJ sporadic) (NN breast) (NN cancer))
+            (VP (VBZ is)
+              (VP (VBN associated)
+                (PP (IN with)
+                  (NP
+                    (NP
+                      (ADJP (RB constitutively) (JJ low))
+                      (NNS levels))
+                    (PP (IN of)
+                      (NP (NN NER) (NN -LSB-14-16) (-RRB- -RSB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (PRP$ Our) (NNS results))
+        (PP (IN from)
+          (NP (DT a) (JJ single) (NN patient))))
+      (VP (VBP demonstrate) (, ,)
+        (ADVP (RB however))
+        (, ,)
+        (SBAR (IN that)
+          (S
+            (SBAR (IN while)
+              (S
+                (NP
+                  (NP (NN overexpression))
+                  (PP (IN of)
+                    (NP (NN BRCA1))))
+                (VP (MD may)
+                  (VP (VB enhance)
+                    (NP (NN NER) (NN -LSB-22))))
+                (-RRB- -RSB-)))
+            (, ,)
+            (NP
+              (NP (NN haploinsufficiency))
+              (PP (IN for)
+                (NP (DT this) (NN gene))))
+            (VP (VBZ does) (RB not)
+              (ADVP (RB necessarily))
+              (VP (VB result)
+                (PP (IN in)
+                  (NP (JJ detectable) (NN NER) (NN deficiency)))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (JJ clear))
+          (SBAR (IN that)
+            (S
+              (NP (JJ genomic) (NN instability))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT a) (JJ necessary) (NN prerequisite))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NN completion))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (JJ complex) (JJ multi-step) (JJ carcinogenic) (NN pathway) (-LRB- -LRB-) (NNS s) (-RRB- -RRB-))
+                          (VP (VBN involved)
+                            (PP (IN in)
+                              (NP (NN breast) (NN cancer)))))))))))))))
+    (, ,)
+    (NP
+      (NP (DT a) (JJ fundamental) (NN difference))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNS mechanisms))
+          (PP (IN of)
+            (NP
+              (NP (JJ genomic) (NN instability))
+              (VP (VBG arising)
+                (PP (IN in)
+                  (NP
+                    (ADJP
+                      (ADJP (JJ hereditary))
+                      (CC and)
+                      (ADJP (JJ sporadic)))
+                    (NN breast) (NNS tumors)))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB translate)
+                (PP (IN into)
+                  (NP
+                    (NP
+                      (ADJP (RB fundamentally) (JJ different))
+                      (NNS patterns))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ molecular) (NN pathogenesis))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD could)
+                              (VP (NN impact)
+                                (PP (IN on)
+                                  (NP (JJ clinical) (NN management)))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ relative) (NN NER) (NNS capacities))
+        (PP (IN of)
+          (NP
+            (NP (NN tumor))
+            (CC and)
+            (NP (JJ normal) (NN tissue)))))
+      (VP (MD may)
+        (VP (VB have)
+          (NP (JJ important) (JJ practical) (NNS implications)))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN If)
+      (S
+        (NP
+          (NP (NN breast) (NNS tumors))
+          (PP (IN from)
+            (NP (JJ hereditary) (NNS patients))))
+        (VP (VBP exhibit)
+          (NP
+            (NP (NN NER) (NN deficiency))
+            (ADJP (JJ similar)
+              (PP (TO to)
+                (NP
+                  (NP (DT that))
+                  (VP (VBN observed)
+                    (PP (IN in)
+                      (NP (JJ sporadic) (NNS patients))))))))
+          (, ,)
+          (SBAR (IN while)
+            (S
+              (NP (PRP$ their) (JJ normal) (NNS tissues))
+              (VP (VBP exhibit)
+                (NP
+                  (NP (JJ normal) (NNS levels))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT this) (NN type))
+                      (PP (IN of)
+                        (NP (NN DNA) (NN repair))))))))))))
+    (, ,)
+    (ADVP (RB then))
+    (NP (DT the) (NNS tumors))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ hypersensitive)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN range))
+              (PP (IN of)
+                (NP
+                  (NP (JJ chemotherapeutic) (NNS drugs))
+                  (, ,)
+                  (PP (VBG including)
+                    (NP
+                      (NP
+                        (NP (JJ alkylating) (NNS agents))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN cyclosphosphamide))
+                          (-RRB- -RRB-)))
+                      (, ,)
+                      (NP
+                        (NP (JJ cross-linking) (NNS agents))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN cis-platinum))
+                          (-RRB- -RRB-)))
+                      (CC and)
+                      (NP
+                        (NP (JJ bulky) (NN DNA) (NN adducting) (NNS agents))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN melphalan))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Individualization))
+        (PP (IN of)
+          (NP (NN chemotherapy)))
+        (PP (VBN based)
+          (PP (IN on)
+            (NP
+              (NP (DT some) (NN aspect))
+              (PP (IN of)
+                (NP (NN NER) (NN expression)))))))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN pursued)
+            (PP (IN in)
+              (NP
+                (NP (NN colon) (CD -LSB-42) (-RRB- -RSB-))
+                (, ,)
+                (NP (NN testicular) (CD -LSB-43,44) (-RRB- -RSB-))
+                (CC and)
+                (NP
+                  (NP (JJ ovarian) (NN cancer))
+                  (CD -LSB-45) (-RRB- -RSB-))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Conclusion))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT This) (NN patient))
+        (CC and)
+        (NP (PRP$ her) (NN tumor)))
+      (VP (VBP represent)
+        (NP
+          (NP (DT the) (NN vanguard))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ new) (NN population))
+              (PP (IN of)
+                (NP (JJ early) (NN stage) (NN breast) (NN cancer) (NNS patients)))))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD will)
+                (VP (VB be)
+                  (ADVP (RB increasingly))
+                  (VP (VBN diagnosed)
+                    (SBAR (IN as)
+                      (S
+                        (NP
+                          (NP (JJ new) (NN screening) (NNS technologies))
+                          (ADJP (JJ complementary)
+                            (PP (TO to)
+                              (NP (NN mammography)))))
+                        (VP
+                          (VP (VBP are)
+                            (ADJP (JJ validated)))
+                          (CC and)
+                          (VP (VBP become)
+                            (ADJP (JJ practicable))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP (VBN shown)
+          (SBAR (IN that)
+            (S
+              (NP (JJ low) (NN power) (NN MRI))
+              (VP (MD can)
+                (VP (VB detect)
+                  (NP (DT a) (NN stage) (NN I) (NN tumor))
+                  (PP (IN in)
+                    (NP (JJ dense) (NN breast) (NN tissue))))))))))
+    (: ;)
+    (S
+      (NP (DT the) (JJ same) (NN technology))
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (NN impact)
+          (PP (IN upon)
+            (NP (JJ interval) (NNS tumors)))
+          (PP (IN by)
+            (S
+              (VP
+                (VP (VBG staggering)
+                  (NP
+                    (NP (DT the) (NN procedure))
+                    (PP (IN with)
+                      (NP (NN mammography)))))
+                (CONJP (RB rather) (IN than))
+                (VP (VBG applying)
+                  (NP (PRP them))
+                  (ADVP (RB coincidently)))))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP we))
+        (VP (VBD did) (RB not)
+          (VP (VB observe)
+            (NP
+              (NP (JJ obvious) (NNS differences))
+              (PP (IN in)
+                (NP
+                  (NP (DT the)
+                    (NP (NN growth) (NN rate))
+                    (CC or)
+                    (NP (NN differentiation) (NN potential)))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (JJ dense) (NN breast) (NN tissue))
+                      (PP (IN from)
+                        (NP (DT this) (NN patient))))))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP cannot)
+      (NP (NN rule))
+      (PP (IN out)
+        (NP (DT the) (NN possibility)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP
+                  (NP (DT some))
+                  (CC or)
+                  (NP (DT all)))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NNS tumors))
+                    (ADJP (JJ detectable)
+                      (PP
+                        (ADVP (RB only))
+                        (IN by)
+                        (NP (JJ complementary) (NN screening) (NNS procedures)))))))
+              (VP (MD will)
+                (VP (VB differ)
+                  (PP (IN from)
+                    (NP
+                      (NP (DT the) (JJ present) (JJ clinical) (VBP experience))
+                      (PP (IN in)
+                        (NP (JJ important) (NNS ways))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (PRP$ Our) (JJ live-cell) (NN analysis))
+        (VP (VBZ takes)
+          (NP
+            (NP (DT a) (NN step))
+            (PP (IN toward)
+              (S
+                (VP (VBG defining)
+                  (NP
+                    (NP (JJ cellular) (NNS characteristics))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD may)
+                          (VP (VB be)
+                            (ADJP (JJ useful)
+                              (PP (IN for)
+                                (NP (NN cancer) (NN risk) (NN assessment)))))))))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP we))
+        (VP (VBP are)
+          (ADVP (RB only))
+          (VP (VBG beginning)
+            (S
+              (VP (TO to)
+                (VP (VB investigate)
+                  (NP
+                    (NP (DT the) (NNS possibilities))
+                    (PP (IN of)
+                      (NP (DT the) (NN system)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (MD may)
+        (VP (VB be)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (JJ different) (NN growth) (NNS conditions))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (NN induction))
+                  (PP (IN with)
+                    (NP
+                      (ADJP
+                        (ADJP (JJ genotoxic))
+                        (CC or)
+                        (ADJP (JJ estrogenic)))
+                      (NNS agents))))
+                (, ,))
+              (VP (MD will)
+                (VP (VB allow)
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (JJR greater) (NN differentiation))
+                      (PP (IN of)
+                        (NP
+                          (NP (NN breast) (NN tissue))
+                          (CC and)
+                          (NP (NN tumor) (NNS behaviours)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN technique))
+      (ADVP (RB also))
+      (VP (VBZ allows)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN application))
+            (PP (IN of)
+              (NP (JJ functional) (NNS assays)))
+            (PP (TO to)
+              (NP (NN patient) (NNS samples)))))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (VP (VBN exemplified)
+              (PP (IN in)
+                (NP (DT this) (NN report)))
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN UDS) (NN assay))
+                  (PP (IN for)
+                    (NP (NN NER) (NN capacity))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT Those) (NN UDS) (NNS results))
+        (, ,)
+        (CONJP (IN although) (IN from))
+        (NP (DT a) (JJ single) (NN patient))
+        (, ,))
+      (VP (VBP demonstrate)
+        (ADVP (RB definitively))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the)
+                (ADJP (RB constitutively) (JJ low))
+                (NN NER) (NNS capacities))
+              (VP (VBN reported)
+                (PP (IN in)
+                  (NP (JJ several) (JJ sporadic) (NN breast) (NNS populations)))))
+            (VP (VBP do) (RB not)
+              (VP (VB arise)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (JJ pleiomorphic) (NN effect))
+                    (PP (IN of)
+                      (NP (NN BRCA1) (NN haploinsufficency)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Thus))
+      (, ,)
+      (NP
+        (NP (DT the) (NN basis))
+        (PP (IN of)
+          (NP
+            (NP (JJ genetic) (NN instability))
+            (, ,)
+            (NP
+              (NP (DT a) (JJ fundamental) (NN element))
+              (PP (IN in)
+                (NP (NN breast) (NN carcinogenesis))))
+            (, ,))))
+      (VP (MD may)
+        (VP (VB differ)
+          (PP (IN between)
+            (NP
+              (ADJP
+                (ADJP (JJ sporadic))
+                (CC and)
+                (ADJP (JJ hereditary)))
+              (NN breast) (NNS tumors))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ results)
+        (PP (IN in)
+          (NP
+            (NP
+              (NP
+                (NP (JJ different) (NNS susceptibilities))
+                (PP (TO to)
+                  (NP (VBG inducing) (NNS agents))))
+              (, ,)
+              (NP
+                (NP (NNS mutations))
+                (PP (IN in)
+                  (NP
+                    (NP (JJ different) (NNS sets))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS oncogenes))
+                        (CC and)
+                        (NP (NN tumor) (NN suppressor) (NNS genes)))))))
+              (, ,)
+              (CC and)
+              (, ,)
+              (ADVP (RB ultimately))
+              (, ,)
+              (NP (NNS tumors)))
+            (PP (IN of)
+              (NP (JJ different) (JJ molecular) (NN etiology)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP express)
+                  (NP
+                    (ADJP
+                      (ADJP (JJ different))
+                      (ADJP (RB clinically) (JJ relevant)))
+                    (NNS phenotypes)))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NNS Methods))))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN patient))
+      (VP (VBD was)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 35.7) (NN year) (JJ old))
+            (NN woman))
+          (PP (IN with)
+            (NP
+              (NP (JJ strong) (NN family) (NN history))
+              (PP (IN of)
+                (NP (NN breast) (NN cancer))))))
+        (VP (VBN recruited)
+          (PP (IN into)
+            (NP
+              (NP (DT a) (JJ clinical) (NN trial))
+              (PP (IN of)
+                (NP
+                  (NP (NN MRI) (NN screening))
+                  (PP (IN for)
+                    (NP (JJ young) (NN woman)))))))
+          (PP (IN at)
+            (NP
+              (NP (JJ high) (NN risk))
+              (PP (IN for)
+                (NP (NN breast) (NN cancer)))
+              (PP (IN with)
+                (NP (JJ dense) (NN breast) (NN tissue) (CD -LSB-3) (-RRB- -RSB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Gadolinium) (NN enhancement) (NNS images))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT a) (JJ small)
+            (ADJP (CD 1) (NN cm))
+            (NN lesion))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ upper-outer) (NN quadrant))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ left) (NN breast))
+                  (, ,)
+                  (VP (VBN identified)
+                    (ADVP (RB pathologically))
+                    (PP (IN as)
+                      (NP (DT an) (VBG infiltrating) (JJ ductal) (NN carcinoma)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN patient))
+      (VP
+        (VP (VBD underwent)
+          (NP
+            (NP (DT a) (VBN modified) (NN radical) (NN mastectomy))
+            (PP (IN of)
+              (NP (DT the) (JJ left) (NN breast)))))
+        (CC and)
+        (VP (VBP chose)
+          (S
+            (VP (TO to)
+              (ADVP (RB also))
+              (VP (VBP undergo)
+                (NP (DT a) (JJ contralateral) (JJ prophylactic) (JJ total) (NN mastectomy))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Blood))
+        (CC and)
+        (NP (NN tissue)))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN for)
+            (NP
+              (NP (NN analysis))
+              (PP (IN with)
+                (NP (NN consent)))))
+          (PP (IN under)
+            (NP
+              (NP
+                (NP (NNP Magee-Womens) (NNP Hospital))
+                (PRN (-LRB- -LRB-)
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNP University))
+                      (PP (IN of)
+                        (NP (NN Pittsburgh) (JJ Medical) (NN Center)))))
+                  (-RRB- -RRB-)))
+              (NP (NNP IRB) (NNP #) (CD MWH-94-108)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Data))
+        (PP (IN from)
+          (NP (DT this) (JJ hereditary) (NN breast) (NN cancer) (NN patient))))
+      (VP (VBD were)
+        (VP (VBN compared)
+          (PP (TO to)
+            (NP
+              (NP (DT that))
+              (PP (IN from)
+                (NP
+                  (NP (CD two) (JJ additional) (NNS patients))
+                  (CONJP (RB as) (RB well) (IN as))
+                  (NP
+                    (ADJP (RB previously) (VBN published))
+                    (NNS controls)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ first) (JJ new) (NN control) (NN patient))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (CD 20)
+            (ADJP (NN year) (JJ old))
+            (NNS women))
+          (VP (VBG undergoing)
+            (NP (NN breast) (NN reduction) (NN mammoplasty))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ second) (JJ contemporaneous) (NN control) (NN patient))
+      (VP (VBD was)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 36) (NN year) (JJ old))
+            (NN woman))
+          (VP (VBG undergoing)
+            (NP
+              (NP (JJ cosmetic) (NN surgery))
+              (PP (IN on)
+                (NP (PRP$ her) (JJ contralateral) (NN breast))))
+            (PP
+              (NP (CD two) (NNS years))
+              (IN after)
+              (NP
+                (NP (JJ successful) (NN lumpectomy))
+                (S
+                  (VP (TO to)
+                    (VP (VB remove)
+                      (NP
+                        (NP (DT an)
+                          (ADJP (RB apparently) (JJ sporadic))
+                          (NN stage) (NN IIA) (NN breast) (NN tumor))
+                        (PRN (-LRB- -LRB-)
+                          (NP
+                            (NP (CD 2.5) (NN cm))
+                            (, ,)
+                            (ADJP (JJ negative)
+                              (PP (IN for)
+                                (NP
+                                  (NP
+                                    (NP
+                                      (NP (NN estrogen))
+                                      (CC and)
+                                      (NP (NN progesterone)))
+                                    (NNS receptors))
+                                  (, ,)
+                                  (NP (CD 13) (NN lymph) (NNS nodes) (JJ negative))))))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD had)
+        (VP (VBN undergone)
+          (NP
+            (NP (JJ standard) (NN radiotherapy))
+            (CC and)
+            (NP (NN chemotherapy)))
+          (PP (IN with)
+            (NP
+              (NP (NN adriamycin))
+              (CC and)
+              (NP (NN cyclophosphamide)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Histopathological) (NN analysis))
+      (VP (VBD confirmed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN breast) (NN tissue))
+              (PP (IN from)
+                (NP
+                  (NP (DT both))
+                  (PP (IN of)
+                    (NP (DT these) (JJ control) (NNS patients))))))
+            (VP (VBD was)
+              (UCP
+                (ADJP (JJ free)
+                  (PP (IN of)
+                    (NP (NN cancer))))
+                (CC and)
+                (PP (IN within)
+                  (NP
+                    (NP (DT the) (JJ acceptable) (JJ histological) (NN range))
+                    (PP (IN of)
+                      (NP (JJ normal)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Fresh) (NNS tissues))
+        (PP (IN from)
+          (NP (DT the) (NN patient))))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN within)
+            (NP
+              (NP (CD 5) (NNS hours))
+              (PP (IN of)
+                (NP (NN surgery))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP (JJ pathological) (NN evaluation)))
+    (, ,)
+    (NP
+      (NP (JJ excess) (NN tissue))
+      (VP (RB not) (VBN needed)
+        (PP (IN for)
+          (NP (NN diagnosis)))))
+    (VP (VBD was)
+      (VP (VBN placed)
+        (PP (IN into)
+          (NP
+            (NP (NN DMEM))
+            (VP (VBG containing)
+              (NP
+                (NP
+                  (ADJP (CD 10) (NN %))
+                  (JJ fetal) (NN calf) (NN serum))
+                (CC and)
+                (NP
+                  (NP
+                    (ADJP (RB 3x) (JJ antibiotic))
+                    (NN antimycotic))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NN Sigma))
+                      (, ,)
+                      (NP (NN St.) (NN Louis))
+                      (, ,)
+                      (NP (NN MO)))
+                    (-RRB- -RRB-))))
+              (PP (IN at)
+                (NP (NN 4°C))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN tissue))
+      (VP (VBD was)
+        (ADVP (RB then))
+        (VP
+          (VP (VBN processed)
+            (SBAR (IN as)
+              (S
+                (VP (VBN described)
+                  (PP (IN in)
+                    (NP
+                      (NP (NNP Latimer) (FW et) (FW al.))
+                      (NP (CD -LSB-30) (-RRB- -RSB-))))))))
+          (CC and)
+          (VP (VBN placed)
+            (PP (IN into)
+              (NP (NN culture)))
+            (PP (IN on)
+              (NP
+                (NP (DT a) (JJ diluted) (NN form))
+                (PP (IN of)
+                  (NP
+                    (NP (NN matrigel))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN 1:1))
+                      (PP (IN with)
+                        (NP (NN DMEM)))
+                      (-RRB- -RRB-))))))
+            (PP (IN in)
+              (NP (DT the) (JJ novel) (NN MWRIα) (NN medium) (CD -LSB-7) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (CD Eight) (NNS samples))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ principal) (NN patient) (POS 's))
+            (NN tissue))))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN for)
+            (NP (NN culture)))
+          (PP (IN after)
+            (NP (JJ bilateral) (NN mastectomy) (NN surgery))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD were) (RB not)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP
+                  (NP (DT a) (NN sample))
+                  (PP (IN of)
+                    (NP (PRP$ her) (NN tumor))))))))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN utilized)
+                (ADVP (RB entirely))
+                (PP (IN for)
+                  (NP (JJ clinical) (NN diagnosis)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD were)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP
+                  (NP (CD 4) (NNS pieces))
+                  (PP (IN of)
+                    (NP
+                      (ADJP (RB histologically) (JJ normal))
+                      (JJ non-tumor) (JJ adjacent) (NN tissue))))
+                (PP (IN at)
+                  (NP
+                    (NP (VBG increasing)
+                      (ADJP (CD 1) (NN cm))
+                      (NNS intervals))
+                    (PP (IN from)
+                      (NP
+                        (NP (DT the) (NN tumor) (NN margin))
+                        (PP (IN from)
+                          (NP (PRP$ her) (JJ left) (-LRB- -LRB-) (JJ ipsilateral) (-RRB- -RRB-) (NN breast)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD obtained)
+        (NP
+          (NP (CD 4) (JJ similar) (NNS pieces))
+          (PP (IN of)
+            (NP (JJ fresh) (NN tissue)))
+          (PP (IN from)
+            (NP (PRP$ her) (JJ contralateral) (NN breast))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT All))
+      (VP (VBD were)
+        (VP (VBN placed)
+          (PP (IN into)
+            (NP (JJ primary) (NN explant) (-LRB- -LRB-) (NN HME) (-RRB- -RRB-) (NN culture))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP
+          (NP (NN analysis))
+          (PP (IN of)
+            (NP
+              (NP (NN cell) (NN growth))
+              (CC and)
+              (NP
+                (ADJP (FW in) (FW vitro))
+                (NN differentiation))))))
+      (, ,)
+      (NP (NNS explants))
+      (VP (VBD were)
+        (VP
+          (VP (VBN cultured))
+          (CC and)
+          (VP (VBN imaged)
+            (NP (DT every) (JJ second) (NN day))
+            (S
+              (VP (VBG using)
+                (NP
+                  (NP (DT a) (JJ digital) (NN Hamamatsu) (NN Orca) (NN camera))
+                  (PP (IN for)
+                    (NP (CD 30–60) (NNS days))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Images))
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP (IN on)
+            (NP
+              (NP (DT a) (JJ Macintosh) (NN G4) (NN computer))
+              (VP (VBG using)
+                (NP
+                  (NP (JJ QED) (JJ imaging) (NN software))
+                  (PRN (-LRB- -LRB-)
+                    (FRAG
+                      (NP (NNS Media) (NN Cybernetics))
+                      (, ,)
+                      (NP (NNP Inc.))
+                      (, ,)
+                      (NP (NN Silver) (NN Spring))
+                      (, ,)
+                      (NP (NN MD)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Breast) (NN reduction) (NN mammoplasty) (NNS tissues))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP
+              (NP (NNS patients))
+              (VP (NNS ages)
+                (NP (NN 20–70))
+                (PP (IN at)
+                  (NP
+                    (NP (NNP Magee-Womens) (NNP Hospital))
+                    (PP (IN under)
+                      (NP (DT the) (JJ above) (NN IRB)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ neighboring) (NN piece))
+        (PP (IN of)
+          (NP
+            (NP (NN mammoplasty) (NN tissue))
+            (PRN (-LRB- -LRB-)
+              (PP (IN from)
+                (NP (DT the) (JJ same) (CD 0.25) (NN cm2) (NN sample)))
+              (-RRB- -RRB-))))
+        (PP (TO to)
+          (NP
+            (NP (DT that))
+            (VP (VBN placed)
+              (PP (IN into)
+                (NP (JJ primary) (NN culture)))))))
+      (VP (VBD was)
+        (UCP
+          (ADJP (JJ fixed))
+          (CC and)
+          (VP (VBN processed)
+            (PP (IN in)
+              (NP (NN paraffin)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS sections))
+      (VP (VBD were)
+        (VP (VBN examined)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN pathologist))
+              (S
+                (VP (TO to)
+                  (VP (VB verify)
+                    (NP
+                      (NP (DT the) (JJ histological) (NNS features))
+                      (CC and)
+                      (NP
+                        (NP (NN normality))
+                        (PP (IN of)
+                          (NP (DT the) (NN tissue)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Breast) (NN tissue))
+      (VP (VBD was)
+        (VP (VBN processed)
+          (PP (IN as)
+            (NP
+              (ADJP (RB previously) (VBN described))
+              (NN -LSB-30)))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Tissue))
+      (VP (VBD was)
+        (VP
+          (VP (VBN rinsed)
+            (NP
+              (NP (CD three) (NNS times))
+              (PP (IN in)
+                (NP
+                  (NP (NNS PBS))
+                  (VP (VBG containing)
+                    (NP (NNS antibiotics)))))))
+          (, ,)
+          (VP (VBN disaggregated))
+          (CC and)
+          (VP (VBN placed)
+            (PP (IN into)
+              (NP (NN MWRIα) (NN medium) (CD -LSB-7) (-RRB- -RSB-)))
+            (PP (IN on)
+              (NP
+                (NP (DT a) (JJ thin) (NN coat))
+                (PP (IN of)
+                  (NP (NN matrigel)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Peripheral) (NN blood) (NNS lymphocytes))
+        (PRN (-LRB- -LRB-)
+          (NP (NNS PBLs))
+          (-RRB- -RRB-)))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN with)
+            (NP (NN consent)))
+          (PP
+            (PP (IN from)
+              (NP (JJ normal) (JJ healthy) (NN control) (NNS subjects)))
+            (NP
+              (NP (NNS ages) (CD 20–50))
+              (NP
+                (NP (NNP working))
+                (PP (IN at)
+                  (NP
+                    (NP (NNP Magee-Womens) (NNP Hospital))
+                    (CC or)
+                    (NP (NNS students))))
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NNP University))
+                    (PP (IN of)
+                      (NP (NN Pittsburgh)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NN Foreskin) (NN fibroblast))
+          (PRN (-LRB- -LRB-)
+            (NP (NN FF))
+            (-RRB- -RRB-)))
+        (NN tissue))
+      (VP (VBD was)
+        (VP
+          (VP (VBN obtained)
+            (PP (IN as)
+              (NP
+                (NP (JJ discarded) (NN tissue))
+                (PP (IN from)
+                  (NP (JJ newborn) (NNS infants)))))
+            (PP (IN after)
+              (NP (NN circumcision))))
+          (CC and)
+          (VP (VBN utilized)
+            (PP (IN between)
+              (NP (NNS passages) (CD 7)
+                (CC and)
+                (CD 10)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (JJ control) (NNS populations))
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADVP (RB previously))
+          (VP (VBN described)
+            (PP (IN in)
+              (NP (JJR greater) (NN detail) (CD -LSB-30,46) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Breast) (NN tissue) (NNS samples))
+        (PP (IN from)
+          (NP (DT the) (CD two) (JJ new) (NN control) (NNS patients))))
+      (VP (VBD were)
+        (VP (VBN processed)
+          (PP (IN in)
+            (NP (DT the) (JJ same) (NN manner))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Primary) (NNS cultures))
+        (PP (IN of)
+          (NP (JJ mammary) (NN tissue)))
+        (, ,)
+        (VP (VBN established)
+          (NP (CD 10–14) (NNS days)))
+        (, ,))
+      (VP (VBD were)
+        (VP (VBN labeled)
+          (PP (IN with)
+            (NP (NN 3H-thymidine)))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN period))
+              (PP (IN of)
+                (NP (CD 2) (NNS hours)))
+              (VP
+                (VP (VBN followed)
+                  (PP (IN by)
+                    (NP
+                      (NP (DT a) (NN chase))
+                      (PP (IN with)
+                        (NP (JJ cold) (NN thymidine)))))
+                  (PP (IN for)
+                    (NP (CD 2) (NNS hours))))
+                (CC and)
+                (VP
+                  (ADVP (RB then))
+                  (VBN processed)
+                  (PP (IN for)
+                    (NP (NN autoradiography))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN After)
+        (NP (DT a)
+          (ADJP (CD 10–12) (NN day))
+          (NN exposure)))
+      (, ,)
+      (NP (NNS slides))
+      (VP (VBD were)
+        (VP
+          (VP (VBN processed))
+          (CC and)
+          (VP (VBN analyzed)
+            (PP (IN by)
+              (NP
+                (NP (CD two)
+                  (ADJP
+                    (ADJP (JJ independent))
+                    (, ,)
+                    (ADJP (JJ blinded)))
+                  (NNS scorers))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD evaluated)
+                      (NP
+                        (NP (DT the) (NN tissue) (NNS samples))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (NN percentage))
+                            (PP (IN of)
+                              (NP (NNS cells))))))
+                      (PP (IN in)
+                        (NP
+                          (NP (NN S) (NN phase))
+                          (-LRB- -LRB-)
+                          (VP (VBN characterized)
+                            (PP (IN by)
+                              (NP
+                                (NP (JJ complete) (NN coverage))
+                                (PP (IN of)
+                                  (NP (DT the) (NN nucleus)))
+                                (PP (IN with)
+                                  (NP (NN silver) (NNS grains))))))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NER))
+      (VP (VBD was)
+        (VP (VBN measured)
+          (PP (IN by)
+            (NP
+              (NP (NN autoradiography))
+              (PP (IN of)
+                (NP (JJ unscheduled) (NN DNA) (NN synthesis)))))
+          (PP (IN after)
+            (NP (NN UV) (NN damage)))
+          (PRN (-LRB- -LRB-)
+            (NP (NNP UDS) (-RRB- -RRB-) (CD -LSB-47,48))
+            (-RRB- -RSB-)))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of)
+          (NP
+            (NP (CD 10–14) (NNS days))
+            (PP (IN in)
+              (NP (NN culture)))))))
+    (, ,)
+    (PP (IN without)
+      (NP (NN passaging)))
+    (, ,)
+    (NP (NNS cultures))
+    (VP (VBD were)
+      (ADJP (JJ irradiated)
+        (PP (IN with)
+          (NP
+            (NP (NN UV) (NN light))
+            (PP (IN at)
+              (NP (CD 254) (NN nm))))))
+      (PP (IN at)
+        (NP
+          (NP (DT a) (JJ mean) (NN fluence))
+          (PP (IN of)
+            (NP (CD 1.2) (NN Joules/m2)))
+          (PP (IN for)
+            (NP (CD 12) (NNS seconds)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN absence))
+          (PP (IN of)
+            (NP (NN culture) (NN medium)))))
+      (, ,)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ total) (NN dose))
+          (PP (IN of)
+            (NP (CD 14) (NN J/m2))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT Each) (NN sample))
+      (VP (VBD was)
+        (VP (VBN represented)
+          (PP (IN by)
+            (NP
+              (QP (IN at) (JJS least) (CD two))
+              (NN chamber) (NNS slides))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (CD One) (NN chamber))
+        (PP (IN of)
+          (NP (DT each) (JJ 2-chamber) (NN slide))))
+      (VP (VBD was)
+        (VP (VBN shielded)
+          (PP (IN from)
+            (NP (DT the) (NN UV) (NN dose)))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN used)
+                  (PP (IN as)
+                    (NP (DT an) (JJ unirradiated) (JJ control) (NN sample))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Primary) (NNS cultures))
+      (VP (VBD had) (RB not)
+        (VP
+          (VP (VBD reached)
+            (NP (NN confluence)))
+          (CC and)
+          (VP (VBD were)
+            (ADVP (RB still))
+            (ADJP (RB actively) (VBG growing))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN time))
+                (S
+                  (NP (DT the) (NN UDS) (NN assay))
+                  (VP (VBD was)
+                    (VP (VBN performed))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Control) (NNS FF))
+      (VP (VBD were)
+        (VP (VBN plated)
+          (PP
+            (NP
+              (QP (RB subconfluently) (CD 2))
+              (NNS days))
+            (IN before)
+            (NP (DT the) (NN UDS) (NN assay)))
+          (S
+            (VP (TO to)
+              (VP (VB insure)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP they))
+                    (ADVP (RB also))
+                    (VP (VBD were)
+                      (PP (RB not) (IN in)
+                        (NP
+                          (NP (DT a) (JJ quiescent) (NN state))
+                          (VP (VBN brought)
+                            (PRT (IN on))
+                            (PP (IN by)
+                              (NP (NN confluence)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP (NN UV) (NN exposure)))
+    (, ,)
+    (NP (DT all) (NNS cultures))
+    (VP (VBD were)
+      (VP (VBN incubated)
+        (PP (IN in)
+          (NP
+            (NP (NN medium))
+            (VP (VBN supplemented)
+              (PP (IN with)
+                (NP
+                  (NP
+                    (NP (CD 10) (NN μCi) (NN ml) (NN -LSB-3H) (-RRB- -RSB-) (NN methyl-thymidine))
+                    (PRN (-LRB- -LRB-)
+                      (NP (CD ~80) (NN Ci) (NN mmol-1))
+                      (-RRB- -RRB-)))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP PerkinElmer) (NN Life) (NNP Sciences) (, ,) (NNP Boston) (, ,) (NNP MA))
+                    (-RRB- -RRB-)))))))
+        (PP (IN for)
+          (NP
+            (NP (CD 2) (NNS hours))
+            (PP (IN at)
+              (NP (NN 37°C)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Labeling) (NN medium))
+      (VP (VBD was)
+        (ADVP (RB then))
+        (VP
+          (VP (VBN replaced)
+            (PP (IN with)
+              (NP
+                (NP (JJ unlabeled) (NN chasing) (NN medium))
+                (VP (VBG containing)
+                  (NP
+                    (NP
+                      (ADJP (CD 10-3) (NN M))
+                      (JJ non-radioactive) (NN thymidine))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Sigma))
+                      (-RRB- -RRB-)))))))
+          (CC and)
+          (VP (VBN incubated)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ further) (CD 2) (NNS hours))
+                (PP (TO to)
+                  (NP
+                    (NP (JJ clear) (JJ radioactive) (VB label))
+                    (PP (IN from)
+                      (NP (DT the) (JJ intracellular) (NN nucleotide) (NNS pools)))))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN incubation))
+        (PP (IN in)
+          (NP (DT the) (JJ post-labeling) (NN medium)))))
+    (, ,)
+    (NP (NNS cells))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ fixed)
+          (PP (IN in)
+            (NP
+              (NP (JJ 1X) (NN SSC))
+              (, ,)
+              (NP
+                (NP
+                  (ADJP
+                    (NP (CD 33) (NN %))
+                    (JJ acetic))
+                  (NN acid))
+                (PP (IN in)
+                  (NP
+                    (NP (NN ethanol))
+                    (, ,)
+                    (VP (VBN followed)
+                      (PP (IN by)
+                        (NP
+                          (ADJP (CD 70) (NN %))
+                          (NN ethanol))))))))))
+        (CC and)
+        (ADVP (RB finally))
+        (VP (VBN rinsed)
+          (PP (IN in)
+            (NP
+              (ADJP (CD 4) (NN %))
+              (JJ perchloric) (NN acid)))
+          (PP (IN over)
+            (NP
+              (NP (NN night))
+              (PP (IN at)
+                (NP (NN 4°C))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT All) (NNS slides))
+      (VP (VBD were)
+        (VP
+          (VP
+            (VP (VBN dried))
+            (CC and)
+            (ADVP (RB subsequently))
+            (VP (VBD dipped)
+              (PP (IN in)
+                (NP
+                  (NP (JJ photographic) (NN emulsion))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Kodak) (NN type) (NN NTB2))
+                    (-RRB- -RRB-))))))
+          (CC and)
+          (VP (VBN exposed)
+            (PP (IN for)
+              (NP
+                (QP (CD 10) (TO to) (CD 14))
+                (NNS days)))
+            (PP (IN in)
+              (NP
+                (NP (JJ complete) (NNS darkness))
+                (PP (IN at)
+                  (NP (NN 4°C)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN length))
+        (PP (IN of)
+          (NP
+            (NP (NN exposure))
+            (PP (IN of)
+              (NP (NN emulsion))))))
+      (VP (VBD was)
+        (VP (VBN determined)
+          (PP (IN in)
+            (NP (DT each) (NN experiment)))
+          (PP (IN by)
+            (S
+              (VP (VBG preparing)
+                (NP (JJ FF) (`` ``) (NN tester) (NN '') (NNS slides))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (PP (IN After)
+          (NP (CD 10–12) (NNS days)))
+        (NP (DT these) (NN tester) (NNS slides))
+        (VP (VBD were)
+          (VP (VBN developed))))
+      (CC and)
+      (S
+        (NP (NN grain) (NN counting))
+        (VP (VBD was)
+          (VP (VBN performed)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP
+            (NP (DT the) (NNS nuclei))
+            (PP (IN over)
+              (NP (DT the) (NN foreskin) (NNS fibroblasts))))
+          (VP (VBD averaged)
+            (NP
+              (QP (CD 50)
+                (CC or)
+                (JJR more))
+              (NNS grains))
+            (PP (IN per)
+              (NP (NN nucleus))))))
+      (, ,)
+      (NP
+        (NP (RB then) (DT the) (NN rest))
+        (PP (IN of)
+          (NP (DT the) (JJ experimental) (NNS slides))))
+      (VP (VBD were)
+        (VP (VBN developed))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (DT the) (NN grain) (NN count))
+          (VP (VBD was)
+            (PP (IN below)
+              (NP (DT this) (NN level))))))
+      (, ,)
+      (NP (DT the) (VBG remaining) (NNS slides))
+      (VP (VBD were)
+        (ADJP (JJ left)
+          (S
+            (VP (TO to)
+              (VP (VBP expose)
+                (ADVP
+                  (NP (CD 1–3) (NNS days))
+                  (RBR longer))
+                (PP (IN before)
+                  (S
+                    (VP (VBG being)
+                      (VP (VBN developed)))))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN After)
+      (NP
+        (NP (JJ photographic) (NN development))
+        (PP (IN of)
+          (NP (NN emulsion)))))
+    (, ,)
+    (NP (DT all) (NNS slides))
+    (VP (VBD were)
+      (VP (VBN stained)
+        (PP (IN with)
+          (NP (NN Giemsa)))
+        (, ,)
+        (ADVP (RB then))
+        (VP (VBN examined)
+          (PP (IN at)
+            (NP
+              (NP (DT a) (JJ total) (NN magnification))
+              (PP (IN of)
+                (NP (NN 1000X)))))
+          (PP (IN on)
+            (NP
+              (NP (DT a) (NNP Zeiss) (NNP Axioskop))
+              (PRN
+                (PP (IN under)
+                  (NP
+                    (NP (NN oil) (NN emersion))
+                    (PP (IN for)
+                      (NP
+                        (NP (NNS grains))
+                        (ADJP (JJ located)
+                          (ADVP (RB immediately)))))
+                    (PP (IN over)
+                      (NP
+                        (NP (DT the) (NNS nuclei))
+                        (PP (IN of)
+                          (NP
+                            (NP (NN non-S) (NN phase))
+                            (NNS cells)))))))
+                (NP (CD -LSB-48))
+                (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (JJ Local) (NN background) (NN grain) (NNS counts))
+        (VP (VBD were)
+          (VP (VBN evaluated)
+            (PP (IN in)
+              (NP
+                (NP (DT each) (JJ microscopic) (NN field))
+                (PP (IN over)
+                  (NP (DT an) (NN area)
+                    (NP (DT the) (JJ same) (NN size))))))
+            (PP (IN as)
+              (NP (DT a) (JJ representative) (NN nucleus))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (DT this) (NN total))
+        (VP (VBD was)
+          (VP (VBN subtracted)
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN grain) (NN count))
+                (PP (IN of)
+                  (NP (DT each) (NN nucleus)))
+                (PP (IN in)
+                  (NP (DT that) (NN field)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ average) (NN number))
+        (PP (IN of)
+          (NP (NNS grains)))
+        (PP (IN per)
+          (NP (NN nucleus))))
+      (VP (VBD was)
+        (VP (VBN quantified)
+          (PP (IN for)
+            (NP
+              (NP (DT each) (NN side))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN chamber) (NN slide))
+                  (, ,)
+                  (ADJP (CC both)
+                    (ADJP (JJ unirradiated))
+                    (CC and)
+                    (ADJP (JJ irradiated))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ final) (NN NER) (NN value))
+        (PP (IN for)
+          (NP (DT each) (NN slide))))
+      (VP (VBD was)
+        (VP (VBN calculated)
+          (PP (IN by)
+            (S
+              (VP (VBG subtracting)
+                (NP
+                  (NP (DT the) (JJ unirradiated) (JJ mean))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NNS grains))
+                      (PP (IN per)
+                        (NP (NN nucleus))))
+                    (-RRB- -RRB-)))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (JJ irradiated) (NN mean))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (NNS grains))
+                        (PP (IN per)
+                          (NP (NN nucleus))))
+                      (-RRB- -RRB-)))))))
+          (, ,)
+          (PP (IN after)
+            (NP
+              (NP (DT the) (JJ initial) (NN subtraction))
+              (PP (IN of)
+                (NP (JJ local) (NN background)))
+              (PP (IN in)
+                (NP (DT each) (NN field))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NER))
+      (VP (VBD was)
+        (ADVP (RB initially))
+        (VP (VBN expressed)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN percentage))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN activity))
+                  (PP (IN of)
+                    (NP
+                      (ADJP (RB concurrently) (VBN analyzed))
+                      (NN FF))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (CD Four) (JJ FF) (NNS slides))
+      (VP (VBD were)
+        (VP (VBN scored)
+          (PP (IN per)
+            (NP (NN experiment)))
+          (, ,)
+          (PP (IN by)
+            (NP
+              (NP (DT an) (NN average))
+              (PP (IN of)
+                (NP
+                  (NP (CD three))
+                  (VBZ counters))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (CD 200) (NNS nuclei))
+      (VP (VBD were)
+        (VP (VBN counted)
+          (PP (IN per)
+            (NP (NN slide)))
+          (, ,)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of)
+                (NP (CD 800)))))
+          (, ,)
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN average))
+              (PP (IN of)
+                (NP (CD 61.6) (NN grains/nucleus))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (CD Six) (NNS slides))
+      (VP (VBD were)
+        (VP (VBN evaluated)
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (DT the) (NN patient) (POS 's))
+                (NN PBL) (NN sample))
+              (, ,)
+              (NP
+                (NP (CD two))
+                (PP (IN by)
+                  (NP
+                    (NP (DT each))
+                    (PP (IN of)
+                      (NP
+                        (NP (CD three))
+                        (VBZ counters)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT An) (NN average))
+        (PP (IN of)
+          (NP (NN 195) (NNS nuclei))))
+      (VP (VBD were)
+        (VP (VBN scored)
+          (PP (IN per)
+            (NP
+              (NP (NN slide))
+              (PRN (-LRB- -LRB-)
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN total))
+                    (PP (IN of)
+                      (NP (RB almost) (CD 1200)))))
+                (-RRB- -RRB-))))
+          (, ,)
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN average))
+              (PP (IN of)
+                (NP (CD 7.5) (NN grains/nucleus))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (CD Four) (NNS slides))
+      (VP (VBD were)
+        (VP (VBN counted)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ contemporaneous) (NN breast) (NN reduction) (NN control))
+              (, ,)
+              (NP (CD two)
+                (NP (DT each)))))
+          (PP (IN by)
+            (NP
+              (NP (CD two))
+              (VBZ counters))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP (DT an) (NN average))
+          (PP (IN of)
+            (NP (CD 200) (NNS nuclei)))
+          (PP (IN per)
+            (NP
+              (NP (NN slide))
+              (CC and)
+              (NP (CD 14.1) (NN grains/nucleus)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (CD Six) (NNS slides))
+        (VP (VBD were)
+          (VP (VBN scored)
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN patient) (POS 's))
+                (JJ ipsilateral) (NN breast) (NN tissue) (NN sample)))
+            (, ,)
+            (S
+              (NP
+                (NP (CD two))
+                (PP (IN by)
+                  (NP
+                    (NP (DT each))
+                    (PP (IN of)
+                      (NP (CD three) (JJ independent) (VBZ counters))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (CD five) (NNS slides))
+        (VP (VBD were)
+          (VP (VBN counted)
+            (PP (IN from)
+              (NP (DT the) (JJ contralateral) (NN sample)))
+            (, ,)
+            (ADVP (RB again))
+            (PP (IN by)
+              (NP (CD three) (JJ independent) (VBZ counters)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT An) (NN average))
+        (PP (IN of)
+          (NP
+            (QP (RB just) (IN over) (CD 100))
+            (NNS nuclei))))
+      (VP (VBD were)
+        (VP (VBN evaluated)
+          (PP (IN per)
+            (NP (NN slide)))
+          (PP (IN for)
+            (NP (DT each) (NN sample)))
+          (, ,)
+          (PP
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of)
+                  (NP
+                    (QP (RB almost) (CD 600))
+                    (NNS nuclei)))))
+            (PP (IN for)
+              (NP (DT the) (JJ ipsilateral) (NN sample)))
+            (CC and)
+            (PP (IN over)
+              (NP (CD 500)))
+            (PP (IN for)
+              (NP (DT the) (JJ contralateral) (NN sample)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN As)
+        (S
+          (NP (DT the) (NN NER) (NNS capacities))
+          (VP (VBP indicate))))
+      (, ,)
+      (NP (DT these) (NNS samples))
+      (VP (VBD had)
+        (NP
+          (ADJP (RB very) (JJ similar))
+          (NNS counts)))
+      (: ;)
+      (NP
+        (NP
+          (NP
+            (QP (RB about) (CD 35))
+            (NN grains/nucleus))
+          (PP (IN for)
+            (NP (DT the) (JJ ipsilateral) (NN sample))))
+        (CC and)
+        (NP
+          (NP (CD 28) (NN grains/nucleus))
+          (PP (IN for)
+            (NP (DT the) (JJ contralateral) (NN sample))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Finally))
+      (, ,)
+      (NP (CD four) (NNS slides))
+      (VP (VBD were)
+        (VP (VBN counted)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ contralateral) (NN sample))
+              (PP (IN of)
+                (NP (DT a) (JJ sporadic) (NN breast) (NN cancer) (NN patient)))))
+          (, ,)
+          (PP (IN by)
+            (NP
+              (NP (CD three))
+              (VBZ counters))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP
+            (NP (DT an) (NN average))
+            (PP (IN of)
+              (NP (CD 200) (NNS nuclei)))
+            (PP (IN per)
+              (NP (NN slide))))
+          (CC and)
+          (NP
+            (NP (CD 29.4) (NNS grains))
+            (PP (IN per)
+              (NP (NN nucleus)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP
+            (VP (VB ensure)
+              (NP (NN accuracy)))
+            (CC and)
+            (VP (VB guard)
+              (PP (IN against)
+                (NP (NN transcription) (NNS errors)))))))
+      (, ,)
+      (NP
+        (NP (NN raw) (NN grain) (NNS counts))
+        (PP (IN from)
+          (NP (DT the) (NN UDS) (NN assay))))
+      (VP (VBD were)
+        (VP (VBN processed)
+          (ADVP (RB independently))
+          (PP (IN in)
+            (NP (NN duplicate)))
+          (, ,)
+          (ADVP (RB once))
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (NN StatView))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN version) (CD 5.0.1)))))))))
+    (, ,)))
+
+(
+  (S
+    (NP
+      (NP (NN SAS) (NN Institute))
+      (, ,)
+      (NP
+        (NP (NNP Inc.) (, ,) (NNP Cary))
+        (PRN (, ,)
+          (NP (CD NC))
+          (-RRB- -RRB-)))
+      (, ,)
+      (CC and)
+      (ADVP (RB once)))
+    (VP (VBG using)
+      (NP
+        (NP (DT the) (NNS Data) (NN Analysis)
+          (NP (NNP Toolpack)))
+        (PP (IN of)
+          (NP
+            (NP (DT the)
+              (NP (NN Excel) (CD 2001) (NN spreadsheet))
+              (NN program))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NN Microsoft) (NNP Corp.))
+                (, ,)
+                (NP (NNP Redmond) (, ,) (NNP WA)))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ final) (NN count))
+        (PP (IN from)
+          (NP
+            (NP
+              (NP (NNS slides))
+              (PP (IN of)
+                (NP (DT the) (JJ same) (NN cell) (NN type)))
+              (PP (IN within)
+                (NP (DT the) (JJ same) (NN experiment))))
+            (CC and)
+            (NP (VBN developed)
+              (NP (DT the) (JJ same) (NN day))))))
+      (VP (VBD were)
+        (VP
+          (VP (VBN averaged)
+            (ADVP (RB together)))
+          (CC and)
+          (VP (VBN expressed)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN percentage))
+                (PP (IN of)
+                  (NP
+                    (ADJP (RB concurrently) (VBN analyzed))
+                    (NN FF)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS results))
+      (VP (VBD were)
+        (ADVP (RB then))
+        (VP (VBN normalized)
+          (PP (IN by)
+            (NP
+              (NP (NN comparison))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN average))
+                  (PP (IN for)
+                    (NP (DT the) (NN tissue) (NN type) (NN control) (NN population) (CD -LSB-48)))))))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (NP (VBG Competing) (NNS interests))))
+
+(
+  (S
+    (S
+      (NP (DT The) (NNS authors))
+      (VP (VB declare)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (NP (DT no) (VBG competing) (NNS interests)))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NNS Authors) (POS '))
+      (NNS contributions))))
+
+(
+  (S
+    (S
+      (NP (NN JJL))
+      (VP (VBD conceived)
+        (PP (IN of)
+          (NP (DT the) (NN study)))
+        (, ,)
+        (S
+          (VP
+            (VP (VBN executed)
+              (NP (PRP it)))
+            (, ,)
+            (CC and)
+            (VP (VBN drafted)
+              (NP (DT the) (NN manuscript)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS WSR))
+        (VP
+          (VP (VBN recruited))
+          (CC and)
+          (VP (VBN consented)
+            (NP (DT the) (NN patient))))
+        (, ,))
+      (VP (VBD provided)
+        (NP
+          (NP (JJ clinical) (NNS samples))
+          (CC and)
+          (NP (NN information)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN JMJ))
+      (VP
+        (VP (VBD evaluated)
+          (NP (DT the) (NN UDS) (NN assay)))
+        (CC and)
+        (VP (VBD analyzed)
+          (NP (DT the) (NNS data)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS AKS))
+      (VP (VBD performed)
+        (NP
+          (NP (DT the) (JJ histopathological) (NN analysis))
+          (PP (IN of)
+            (NP (DT the) (NN tissue))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN VGV))
+      (VP (VBD participated)
+        (PP (IN in)
+          (NP (DT the)
+            (NP (NN study) (NN design))
+            (CC and)
+            (NP (NN data) (NN interpretation))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN SGG))
+      (VP
+        (VP (VBD participated)
+          (PP (IN in)
+            (NP
+              (NP (DT the)
+                (NP
+                  (NP (NN design))
+                  (CC and)
+                  (NP (NN coordination))))
+              (PP (IN of)
+                (NP (DT the) (NN study))))))
+        (CC and)
+        (VP (VBD helped)
+          (PP (TO to)
+            (NP (JJ draft) (DT the) (NN manuscript))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Pre-publication) (NN history))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ pre-publication) (NN history))
+        (PP (IN for)
+          (NP (DT this) (NN paper))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN accessed)
+            (ADVP (RB here))))))
+    (: :)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure))
+      (CC and)
+      (NP (NN Table))
+      (NP (NNS captions)))))
+
+(
+  (S
+    (S
+      (NP (NN Figure) (CD 1))
+      (: :)
+      (NP
+        (NP (NN Pedigree))
+        (PP (IN of)
+          (NP (DT the) (NN patient)))
+        (-LRB- -LRB-)
+        (VP (VBN indicated)
+          (PP (IN by)
+            (NP (NN arrow))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (PRP She))
+          (, ,)
+          (NP
+            (NP (CD one) (JJ maternal) (NN aunt))
+            (CC and)
+            (NP (CD one) (JJ maternal) (NN cousin))))
+        (VP (VBD had)
+          (NP
+            (NP (NN breast) (NN cancer))
+            (VP (VBN diagnosed)
+              (PP (IN at)
+                (NP (CD 36) (, ,) (CD 44)
+                  (CC and)
+                  (CD 41) (NNS years) (JJ old)))))
+          (, ,)
+          (ADVP (RB respectively))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (VP (VBN indicated)
+                (PP (IN by)
+                  (NP (DT the) (JJ half-filled) (NNS symbols))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP$ her) (NN aunt))
+        (VP (VBD died)
+          (PP (IN of)
+            (NP (DT the) (NN disease))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP$ Her) (NN cousin))
+      (VP
+        (VP (VBD underwent)
+          (NP
+            (NP (NN lumpectomy))
+            (VP (VBN followed)
+              (PP (IN by)
+                (NP
+                  (NP (NN chemotherapy))
+                  (, ,)
+                  (NP (NN radiotherapy)))))))
+        (CC and)
+        (VP (VBZ is)
+          (ADVP (RB presently))
+          (PP (IN on)
+            (NP (NN tamoxifen))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP$ Her) (NN mother))
+      (VP (VBD had)
+        (NP (NN breast) (NN cancer))
+        (PP (IN in)
+          (NP
+            (NP (DT both) (NNS breasts))
+            (, ,)
+            (VP (VBN diagnosed)
+              (PP (IN at)
+                (NP (NNS ages) (CD 41)
+                  (CC and)
+                  (CD 42))))))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (VP (VBN indicated)
+              (PP (IN by)
+                (NP (DT the)
+                  (ADJP (RB completely) (VBN filled))
+                  (NN symbol))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP She))
+      (VP
+        (VP (VBD underwent)
+          (NP
+            (NP (JJ bilateral) (NN mastectomy))
+            (CC and)
+            (NP
+              (NP (NN hysterectomy))
+              (VP (VBN followed)
+                (PP (IN by)
+                  (NP
+                    (NP (NN chemotherapy))
+                    (CC and)
+                    (NP (NN radiotherapy))))))))
+        (CC and)
+        (VP (VBD died)
+          (PP (IN of)
+            (NP (DT the) (NN disease)))
+          (PP (IN at)
+            (NP (NN age) (CD 44))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT A) (JJ second) (JJ maternal) (NN aunt))
+      (VP (VBD was)
+        (VP (VBN diagnosed)
+          (PP (IN with)
+            (NP
+              (NP
+                (NP
+                  (NP (NN colon) (NN cancer))
+                  (PP (IN at)
+                    (NP (NN age) (CD 52))))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN light) (JJ half-filled) (NN symbol))
+                  (-RRB- -RRB-)))
+              (CC and)
+              (NP
+                (NP
+                  (NP (NN breast) (NN cancer))
+                  (PP (IN at)
+                    (NP (NN age) (CD 55))))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN dark) (JJ half-filled) (NN symbol))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (VBN Based)
+        (PP (IN on)
+          (NP
+            (NP (DT this) (NN pattern))
+            (PP (IN of)
+              (NP (JJ familial) (NN cancer))))))
+      (NP (DT the) (NN patient))
+      (VP
+        (VP (VBD was)
+          (VP (VBN considered)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (PP (IN at)
+                    (NP
+                      (NP (JJ high) (NN risk))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG developing)
+                            (NP (NN breast) (NN cancer))))))))))))
+        (CC and)
+        (VP (VBD was)
+          (VP (VBD entered)
+            (PP (IN into)
+              (NP (DT the) (JJ low) (NN power) (NN MRI) (NN screening) (NN validation)
+                (CC and)
+                (NN feasibility) (NN study)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (VBG Following)
+        (NP (PRP$ her) (NN diagnosis)))
+      (, ,)
+      (NP (PRP she))
+      (VP (VBD was)
+        (VP (VBN confirmed)
+          (PP (IN as)
+            (S
+              (VP (VBG carrying)
+                (NP
+                  (NP (DT a) (NN Q1200X) (NN mutation))
+                  (PP (IN in)
+                    (NP (DT the) (NN BRCA1) (NN gene))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 2))
+      (: :)
+      (NP
+        (NP (NN Ultrasound))
+        (PP (IN of)
+          (NP (DT the) (JJ MRI-detected) (NN lesion))))
+      (. .))))
+
+(
+  (S
+    (S
+      (PP (VBG Following)
+        (NP (NN MRI)))
+      (, ,)
+      (NP (DT the) (NN patient))
+      (VP (VBD was)
+        (VP (VBN scheduled)
+          (PP (IN for)
+            (NP (NN ultrasound)))
+          (S
+            (VP (TO to)
+              (VP (VB identify)
+                (NP
+                  (NP (DT the) (JJ questionable) (NNS lesions))
+                  (VP (VBN seen)
+                    (PP (IN on)
+                      (NP (NN MRI)))
+                    (PP (IN for)
+                      (NP (JJ possible) (NN core) (NN biopsy)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN Under)
+        (NP (NN ultrasound)))
+      (NP
+        (NP (DT the) (NN lesion))
+        (PP (IN of)
+          (NP (NN concern))))
+      (VP (VBD was)
+        (VP
+          (VP (VBN identified))
+          (CC and)
+          (VP (VBN biopsied)
+            (PP (IN at)
+              (NP (DT the) (CD 1:00) (NN location)))
+            (PP (IN in)
+              (NP (DT the) (JJ left) (NN breast)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Additionally))
+      (, ,)
+      (NP
+        (NP (CD one) (NN lesion))
+        (VP (VBN seen)
+          (PP (IN by)
+            (NP (NN MRI)))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ right) (NN breast))
+              (PP (IN at)
+                (NP (DT the) (NN 4:00) (NN location)))))))
+      (VP (VBD was)
+        (VP
+          (VP (VBN identified))
+          (CC and)
+          (VP (VBN biopsied)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 3))
+      (: :)
+      (NP
+        (NP (NNS Micrographs))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ non-diseased) (JJ primary) (JJ human) (JJ mammary) (NN epithelial) (NNS cultures))
+            (PRN (-LRB- -LRB-)
+              (NP (NNS HMEC))
+              (-RRB- -RRB-))))
+        (PP (IN from)
+          (NP (DT the) (NN BRCA1) (NN mutation) (NN carrier))))
+      (. .))))
+
+(
+  (S
+    (NP
+      (NP
+        (ADJP (NN A) (-RRB- -RRB-) (JJ Contralateral))
+        (NN breast))
+      (: –)
+      (S
+        (NP
+          (NP (DT A) (NN cluster))
+          (PP (IN of)
+            (NP
+              (NP (JJ epithelial) (NNS cells))
+              (VP (VBN called)
+                (S
+                  (NP (DT a) (NN mammosphere)))))))
+        (VP (VBZ is)
+          (VP (VBN shown)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (JJ left) (NN center))
+                (PP (IN of)
+                  (NP (DT the) (NN image) (NN sitting)))
+                (PP (IN on)
+                  (NP
+                    (NP (DT a) (NN field))
+                    (PP (IN of)
+                      (NP (NNS fibroblasts))))))))))
+      (. .))))
+
+(
+  (S
+    (NP
+      (NP
+        (ADJP (NN B) (-RRB- -RRB-) (JJ Ipsilateral))
+        (NN breast))
+      (: –)
+      (S
+        (NP
+          (NP (DT The) (JJ original) (JJ fresh) (NN tissue) (NN block))
+          (SBAR
+            (WHPP (IN from)
+              (WHNP (WDT which)))
+            (S
+              (NP (DT this) (NN culture))
+              (VP (VBD was)
+                (VP (VBN derived))))))
+        (VP (VBD was)
+          (VP (JJ located)
+            (NP (CD 4) (NN cm))
+            (PP (IN from)
+              (NP (DT the) (JJ infiltrating) (JJ ductal) (NN carcinoma))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN structure))
+        (VP (VBN shown)))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN cluster))
+          (PP (IN of)
+            (NP
+              (NP (JJ rounded) (JJ epithelial) (NNS cells))
+              (VP (VBG manifesting)
+                (NP
+                  (NP (DT a) (NN column) (NN configuration))
+                  (VP (VBN called)
+                    (S (`` ``)
+                      (NP (JJ pre-ductal) (NN linearization) (NN '')))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT Both) (NNS images))
+      (VP (VBD were)
+        (VP (VBN captured)
+          (PP (IN under)
+            (NP
+              (NP (JJ Differential) (NN Interference) (NN Contrast) (-LRB- -LRB-) (JJ DIC) (-RRB- -RRB-) (NNS optics))
+              (PP (IN on)
+                (NP
+                  (NP (DT a)
+                    (NP (NNP Zeiss) (NNP Axiovert) (CD 100))
+                    (NN microscope))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT a) (NN total))
+                      (PP (IN of)
+                        (NP (CD 140x) (NN magnification))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 4))
+      (: :)
+      (NP
+        (NP (NN Comparison))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN NER) (NN capacity))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN PBL) (NN sample))
+                (PP (IN from)
+                  (NP
+                    (NP (PRP$ our) (NN BRCA1) (NN mutation) (NN carrier) (NN patient))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT those))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (NN population))
+                            (PP (IN of)
+                              (NP (JJ disease-free) (NNS controls))))))))))))))
+      (. .))))
+
+(
+  (S
+    (NP (DT The) (NN dark) (NN horizontal) (NN line))
+    (VP (VBZ indicates)
+      (NP
+        (NP (DT the) (NN average))
+        (PP (IN for)
+          (NP (DT the) (JJ normal) (NN population))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (DT the) (JJ dotted) (NNS lines))
+          (VP (VBP indicate)
+            (NP
+              (NP (JJ upper) (NNS limits))
+              (PP (IN for)
+                (NP
+                  (NP (JJ residual) (NN NER) (NN activity))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS patients))
+                      (PP (IN with)
+                        (NP
+                          (NP
+                            (NP (DT the) (JJ hereditary) (NN NER) (NN deficiency))
+                            (NN disease) (NN XP) (-LRB- -LRB-) (CD 0.50) (-RRB- -RRB-))
+                          (CC and)
+                          (NP
+                            (NP (DT the) (JJ cut-off))
+                            (VP (VBN established)
+                              (PP (IN in)
+                                (NP (PRP$ our) (NN breast) (NN tissue) (NN study)))))))))))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD identified)
+                    (NP
+                      (NP (NNS tumors))
+                      (PP (IN with)
+                        (NP
+                          (NP (JJ high) (NN sensitivity))
+                          (CC and)
+                          (NP (NN specificity) (-LRB- -LRB-) (CD 0.70) (-RRB- -RRB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 5))
+      (: :)
+      (NP
+        (NP (NN Comparison))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN NER) (NNS capacities))
+            (PP (IN of)
+              (NP
+                (NP (CD two) (NNS samples))
+                (PP (IN of)
+                  (NP (JJ normal) (NN breast) (NN epithelium)))
+                (PP (IN from)
+                  (NP
+                    (NP (PRP$ our) (NN BRCA1) (NN mutation) (NN carrier) (NN patient))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT those))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (NN population))
+                            (PP (IN of)
+                              (NP
+                                (NP (JJ disease-free) (NNS controls))
+                                (SBAR
+                                  (WHNP (WP who))
+                                  (S
+                                    (VP (VBD underwent)
+                                      (NP (NN breast) (NN reduction) (CD mammoplasty))))))))))))))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN dark) (NN horizontal) (NN line))
+      (VP (VBZ indicates)
+        (NP
+          (NP (DT the) (NN average))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ normal) (NN population))
+              (PP (IN of)
+                (NP
+                  (NP (NN breast) (NN reduction) (NN epithelium))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN BRE))
+                    (-RRB- -RRB-)))))))))
+    (, ,) (IN while)
+    (S
+      (NP (DT the) (JJ dotted) (NNS lines))
+      (VP (VBP indicate)
+        (NP
+          (NP (JJ upper) (NNS limits))
+          (PP (IN for)
+            (NP
+              (NP (JJ residual) (NN NER) (NN activity))
+              (PP (IN in)
+                (NP
+                  (NP (NNS patients))
+                  (PP (IN with)
+                    (NP
+                      (NP
+                        (NP (DT the) (JJ hereditary) (NN NER) (NN deficiency))
+                        (NN disease) (NN XP) (-LRB- -LRB-) (CD 0.50) (-RRB- -RRB-))
+                      (CC and)
+                      (NP
+                        (NP (DT the) (JJ cut-off))
+                        (VP (VBN established)
+                          (PP (IN in)
+                            (NP (PRP$ our) (NN breast) (NN tissue) (NN study)))))))))))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD identified)
+                (NP (NNS tumors))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ high) (NN sensitivity))
+                    (CC and)
+                    (NP (NN specificity) (-LRB- -LRB-) (CD 0.70) (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN patient) (NN sample))
+        (PP (IN on)
+          (NP (DT the) (JJ left))))
+      (VP (VBD was)
+        (VP (VBN derived)
+          (PP (IN from)
+            (NP (DT the) (JJ ipsilateral) (-LRB- -LRB-) (JJ left) (-RRB- -RRB-) (NN breast))))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (NP
+              (NP (DT the) (NN sample))
+              (PP (IN on)
+                (NP (DT the) (JJ right))))
+            (VP (VBD was)
+              (PP (IN from)
+                (NP (DT the) (JJ contralateral) (-LRB- -LRB-) (JJ right) (-RRB- -RRB-) (NN breast))))))))
+    (. .)))
+

@@ -1,0 +1,3364 @@
+
+(
+  (S
+    (NP
+      (NP (JJ Tumour-stromal) (NNS interactions))
+      (: :)
+      (NP
+        (NP (NN Role))
+        (PP (IN of)
+          (NP (DT the) (NN stroma)))
+        (PP (IN in)
+          (NP (JJ mammary) (NN development)))))))
+
+(
+  (S
+    (NP (NN Abstract))))
+
+(
+  (S
+    (NP (JJ Mammary) (NN development))
+    (VP (VBZ depends)
+      (PP (IN on)
+        (S
+          (VP (VBG branching)
+            (NP
+              (NP (NN morphogenesis))
+              (, ,)
+              (ADVP (RB namely))
+              (NP
+                (NP (DT the)
+                  (NP (NN bifurcation))
+                  (CC and)
+                  (NP (NN extension)))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (JJ ductal) (NN growth) (NNS points))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN end) (NNS buds))
+                        (-RRB- -RRB-)))
+                    (CC and)
+                    (NP (JJ secretory) (NNS lobules))))
+                (PP (IN into)
+                  (NP (DT a)
+                    (ADJP
+                      (ADJP (JJR more))
+                      (CC or)
+                      (ADJP (JJR less)))
+                    (JJ fatty) (NN stroma)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (SBAR (IN Because)
+          (S
+            (NP (NN breast) (NNS carcinomas))
+            (VP (VBP are)
+              (ADJP (RB overwhelmingly) (JJ ductal)
+                (PP (IN in)
+                  (NP (NN origin)))))))
+        (, ,)
+        (NP (DT this) (NN review))
+        (VP (VBZ focuses)
+          (PP (IN on)
+            (NP
+              (NP (JJ stromal) (NNS influences))
+              (PP (VBG guiding)
+                (NP (JJ postnatal) (JJ ductal) (NN development)))))))
+      (CC and)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP
+            (NP (RB only) (DT the) (JJ briefest) (NN account))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN role))
+                (PP (IN of)
+                  (NP (JJ embryonic) (NN stroma) (-LRB- -LRB-) (NN mesenchyme) (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The) (NN stroma))
+          (PP (IN as)
+            (NP
+              (NP
+                (NP (DT the) (JJ necessary) (NN target))
+                (PP (IN for)
+                  (NP (JJ endocrine) (NNS mammogens))))
+              (CC and)
+              (NP
+                (NP (DT the) (NN source))
+                (PP (IN of)
+                  (NP (JJ stimulatory) (NN growth) (NNS factors)))))))
+        (VP (VBZ is)
+          (VP (VBN described))))
+      (CC and)
+      (S
+        (NP
+          (NP (DT the) (NN importance))
+          (PP (IN of)
+            (NP
+              (NP (JJ mammary) (JJ epithelium-induced) (NNS modifications))
+              (PP (IN of)
+                (NP (DT the) (JJ periductal) (NN stroma))))))
+        (VP (VBZ is)
+          (VP (VBN emphasized)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Evidence))
+      (VP (VBZ is)
+        (VP (VBN presented)
+          (SBAR (IN that)
+            (S
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (VP (TO to)
+                      (VP (VB grow))))))
+              (, ,)
+              (NP (NN end) (NNS buds))
+              (VP (MD must)
+                (VP (NN condition)
+                  (NP (JJ proximal) (NN fatty) (NN stroma))
+                  (PP (IN by)
+                    (S
+                      (VP
+                        (VP (VBG recruiting)
+                          (NP (JJ white) (NN blood) (NNS cells)))
+                        (CONJP (RB as) (RB well) (IN as))
+                        (VP (VBG inducing)
+                          (NP
+                            (NP (JJ stromal) (NN cell) (NN division))
+                            (CC and)
+                            (, ,)
+                            (ADVP (RB possibly))
+                            (, ,)
+                            (NP (NN estrogen) (NNS receptors))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The) (NN induction))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ fibrous) (JJ stromal) (NN tunic))
+              (PP (IN around)
+                (NP (DT the) (NN end) (NN bud))))))
+        (VP (VBZ is)
+          (VP (VBN described))))
+      (CC and)
+      (S
+        (NP
+          (NP (PRP$ its) (JJ likely) (NN role))
+          (PP (IN as)
+            (NP (DT a) (JJ complex) (JJ ductal) (NN morphogen))))
+        (VP (VBZ is)
+          (VP (VBN discussed)))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT a) (JJ possible) (NN role))
+        (PP (IN in)
+          (NP (NN growth) (NN inhibition))))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (VP (VBN considered))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP
+            (NP (DT the) (NNS signals))
+            (VP (VBG governing)
+              (NP
+                (NP (JJ fibrotic) (NN induction))
+                (, ,)
+                (NP (JJ ductal) (NN morphogenesis))
+                (, ,)
+                (CC and)
+                (NP (NN growth) (NN inhibition)))))
+          (VP (VBP are)
+            (ADJP (JJ unknown)))))
+      (, ,)
+      (NP
+        (NP (DT a) (NN role))
+        (PP (IN for)
+          (NP (VBG transforming) (NN growth) (NN factor-β))))
+      (VP
+        (VP (VBZ is)
+          (ADVP (RB highly))
+          (ADJP (JJ likely)))
+        (CC and)
+        (VP (VBZ is)
+          (VP (VBN discussed)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Finally))
+      (, ,)
+      (NP
+        (NP (DT a) (NN need))
+        (PP (IN for)
+          (NP (JJ new)
+            (ADJP
+              (ADJP (JJ conceptual))
+              (CC and)
+              (ADJP (JJ experimental)))
+            (NNS approaches)))
+        (PP (TO to)
+          (S
+            (VP (VBG understanding)
+              (NP (JJ stromal-epithelial) (NN signaling))))))
+      (VP (VBZ is)
+        (VP (VBN discussed))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Introduction))))
+
+(
+  (S
+    (S
+      (NP (JJ Mammary) (NN gland) (NN development))
+      (VP (VBZ occurs)
+        (PP (IN in)
+          (NP (CD two)
+            (ADJP (RB morphogenetically) (JJ distinct))
+            (NNS phases)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ first))
+      (VP (VBZ begins)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN differentiation))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (DT a) (JJ mammary) (JJ ductal) (NN rudiment))
+                  (PP (IN from)
+                    (NP (DT the) (JJ embryonic) (NN epidermis))))
+                (CC and)
+                (NP (NNS ends))))))
+        (PP (IN after)
+          (NP (NN puberty)))
+        (PP (IN with)
+          (NP
+            (NP (DT an) (JJ elegant) (JJ arborated) (NN system))
+            (PP (IN of)
+              (NP (NNS ducts)))))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NNP Fig.))
+            (NP (NN 1a)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (JJ second) (NN phase)))
+      (, ,)
+      (S
+        (VP (VBG beginning)
+          (PP (IN with)
+            (NP (NN pregnancy)))))
+      (, ,)
+      (NP (JJ acinar) (JJ milk-secretory) (NNS lobules))
+      (VP (VBP develop)
+        (PP (IN on)
+          (NP (DT this) (JJ primary) (NN framework)))))
+    (. .)))
+
+(
+  (S
+    (NP (DT This) (NN review))
+    (VP (VBZ focuses)
+      (PP (IN on)
+        (NP (JJ organotypic) (NN branching) (NN morphogenesis)))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ occurs)
+            (PP (IN during)
+              (NP (DT the) (JJ ductal)))
+            (, ,)
+            (SBAR (IN as)
+              (S
+                (VP (VBN opposed)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ lobular))
+                      (, ,)
+                      (NP (NN phase))))))))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (PP (IN during)
+              (NP (JJ ductal) (NN development)))
+            (SBAR (IN that)
+              (S
+                (NP (JJ stromal) (NNS influences))
+                (VP (VBP are)
+                  (ADJP (RB demonstrably) (DT the) (RBS most) (JJ crucial)
+                    (PP (TO to)
+                      (NP (NN organogenesis)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (S
+        (NP
+          (NP
+            (QP (JJR more) (IN than) (CD 90))
+            (NN %))
+          (PP (IN of)
+            (NP (JJ human) (JJ mammary) (NNS carcinomas))))
+        (VP (VBP are)
+          (ADJP (JJ ductal)
+            (PP (IN in)
+              (NP (NN origin))))))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (VP (VBG becoming)
+            (ADJP (RB increasingly) (JJ clear))
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN subversion))
+                  (PP (IN of)
+                    (NP (JJ reciprocal) (NNS signals)))
+                  (PP (IN between)
+                    (NP
+                      (NP (NN parenchyma))
+                      (CC and)
+                      (NP (NN stroma)))))
+                (VP (VBP are)
+                  (NP
+                    (NP (DT an) (JJ important) (NN aspect))
+                    (PP (IN of)
+                      (NP (NN tumor) (NN progression)))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (SBAR (IN although)
+      (S
+        (NP (NN reference))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN made)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN influence))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (JJ embryonic) (NN stroma))
+                      (, ,)
+                      (VP (VBN called)
+                        (S
+                          (NP (DT the) (NN mesenchyme))))
+                      (, ,)))
+                  (PP (IN on)
+                    (NP (JJ mammary) (NN development))))))))))
+    (, ,)
+    (NP (DT the) (NN emphasis))
+    (VP (MD will)
+      (VP (VB be)
+        (PP (IN on)
+          (NP (JJ postnatal) (NNS events)))
+        (SBAR (IN because)
+          (S
+            (NP (DT these))
+            (ADVP (RB arguably))
+            (VP (VBP have)
+              (NP (DT a)
+                (ADJP (RBR more) (JJ direct))
+                (NN bearing))
+              (PP (IN on)
+                (NP (NN breast) (NN cancer))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (JJ Mammary) (NNS ducts))
+      (VP (VB grow)
+        (PP (IN through)
+          (NP (DT a) (JJ complex) (NN stroma)))))))
+
+(
+  (S
+    (S
+      (PP (IN By)
+        (NP (NN parturition)))
+      (, ,)
+      (NP (DT the) (JJ mammary) (NN stroma))
+      (VP (VBZ comprises)
+        (NP (JJ multiple)
+          (ADJP
+            (ADJP (JJ cellular))
+            (CC and)
+            (ADJP (JJ acellular)))
+          (NNS elements))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (DT the) (NN mouse))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (NP
+                  (NP (DT the)
+                    (ADJP
+                      (ADVP (RBS most) (RB thoroughly))
+                      (VBN studied))
+                    (NN model))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN focus))
+                    (PP (IN of)
+                      (NP (DT this) (NN review))))))))))
+      (, ,)
+      (NP (NNS adipocytes))
+      (VP (VBP are)
+        (NP
+          (NP (DT the)
+            (ADJP (RBS most) (JJ abundant))
+            (NN cell) (NN type))
+          (, ,)
+          (VP (VBN followed)
+            (PP (IN by)
+              (NP
+                (NP (NNS fibroblasts))
+                (, ,)
+                (NP (JJ various) (JJ migratory) (NN blood) (NNS cells))
+                (, ,)
+                (NP
+                  (NP (JJ endothelial) (NNS cells))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN blood) (NNS vessels))
+                    (-RRB- -RRB-)))
+                (, ,)
+                (CC and)
+                (NP (NN nerve) (NNS cells))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Acellular) (NNS elements))
+      (VP (VBP include)
+        (NP
+          (NP
+            (NP
+              (ADJP
+                (ADJP (JJ fibrous))
+                (CC and)
+                (ADJP (JJ non-fibrous)))
+              (NNS collagens))
+            (, ,)
+            (NP (NNS proteoglycans))
+            (, ,)
+            (CC and)
+            (NP (NNS glycoproteins)))
+          (, ,)
+          (SBAR
+            (WHNP
+              (NP (DT all))
+              (WHPP (IN of)
+                (WHNP (WDT which))))
+            (S
+              (VP (VBP provide)
+                (NP (JJ mechanical) (NN support))
+                (PP (TO to)
+                  (NP (DT the) (NN tissue)))
+                (PP (RB as) (RB well) (IN as)
+                  (S
+                    (VP (VBG forming)
+                      (NP (DT a)
+                        (ADJP
+                          (ADJP (JJ dynamic))
+                          (, ,)
+                          (ADJP (RB developmentally) (JJ active)))
+                        (JJ extracellular) (NN matrix/basal) (NN lamina) (NN complex))
+                      (PP (IN at)
+                        (NP
+                          (NP (DT the) (JJ epithelial-stromal) (NN boundary))
+                          (PRN (-LRB- -LRB-)
+                            (NP
+                              (NP (NNP Fig.))
+                              (NN 1b) (-RRB- -RRB-) (NN -LSB-1))
+                            (-RRB- -RSB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (DT This) (JJ complex) (JJ connective) (NN tissue))
+        (VP (VBZ is)
+          (VP (VBN found)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ mammary) (NNS glands))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ different) (NNS species))
+                    (PP (IN with)
+                      (NP
+                        (NP (JJ various) (NNS ratios))
+                        (PP (IN of)
+                          (NP
+                            (ADJP (JJ fibrous)
+                              (PP (TO to)
+                                (NP (JJ fatty) (NNS elements))))
+                            (NN -LSB-2) (-RRB- -RSB-))))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (PP (IN within)
+            (NP (DT this) (NN matrix)))
+          (SBAR (IN that)
+            (S
+              (NP (JJ mammary) (NNS ducts))
+              (VP
+                (VP (VBP elongate))
+                (, ,)
+                (VP (VBP arborate))
+                (, ,)
+                (CC and)
+                (, ,)
+                (ADVP (RB finally))
+                (, ,)
+                (VP (VB terminate)
+                  (NP
+                    (NP (NN growth))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NNP Fig.) (NN 1a))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ mammary) (NN gland))
+        (VP (VBN pictured)
+          (PRN (-LRB- -LRB-)
+            (NP (NNP Fig.) (CD 1))
+            (-RRB- -RRB-))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN snapshot))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN situation))
+              (PP (IN in)
+                (NP (NN adolescence))))))
+        (, ,)
+        (ADJP (RB roughly) (JJ midway)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ ductal) (NN phase))
+              (PP (IN of)
+                (NP (NN organogenesis))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN End) (NNS buds))
+        (, ,)
+        (NP (DT the)
+          (ADJP (RB highly) (JJ mitotic))
+          (NP
+            (NP (JJ ductal) (NN growth) (NNS points))
+            (PRN (-LRB- -LRB-)
+              (NP (NNP Fig.) (NN 2a))
+              (-RRB- -RRB-))))
+        (, ,))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN process))
+            (PP (IN of)
+              (NP (NN elongating)))))
+        (PP (IN by)
+          (S
+            (VP (VBG penetrating)
+              (NP (DT the) (JJ fatty) (NN stroma)))))))
+    (: ;)
+    (S
+      (NP (DT some))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN seen)
+            (ADVP (JJ bifurcating))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Others))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (VP (VBG approaching)
+                (NP
+                  (NP (DT the) (NN edge))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (JJ fat) (NN pad))
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN at)
+                          (NP
+                            (NP (DT the) (JJ right))
+                            (PP (IN of)
+                              (NP (DT the) (NN image)))))
+                        (-RRB- -RRB-))))))))))
+      (VP
+        (VP (VBP are)
+          (PP (IN in)
+            (NP
+              (NP (JJ various) (NNS stages))
+              (PP (IN of)
+                (NP
+                  (NP (VBG terminating))
+                  (-LRB- -LRB-)
+                  (VP (VBG getting)
+                    (ADVP (JJR smaller)))
+                  (-RRB- -RRB-))))))
+        (CC or)
+        (VP (VBP have)
+          (VP (VBN ceased)
+            (S
+              (VP (TO to)
+                (VP (VB grow)
+                  (ADVP (RB altogether)))))
+            (PRN (-LRB- -LRB-)
+              (NP (JJ blunt-tipped) (NNS structures))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN During)
+        (NP
+          (NP (DT this) (NN period))
+          (PP (IN of)
+            (NP (JJ maximum) (JJ ductal) (NN elongation)))))
+      (, ,)
+      (NP
+        (NP
+          (QP (JJR more) (IN than) (CD 95))
+          (NN %))
+        (PP (IN of)
+          (NP (DT the) (NN gland))))
+      (VP (VBZ is)
+        (NP (NN growth-quiescent))
+        (, ,)
+        (S
+          (VP (VBG maintaining)
+            (NP
+              (NP (DT the) (JJ open) (NNS spaces))
+              (PP (IN between)
+                (NP
+                  (NP (NNS ducts))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NNP Fig.))
+                      (NP (NN 1a)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A)
+          (ADJP
+            (ADJP (JJ prominent))
+            (, ,)
+            (ADJP (JJ epithelium-induced)))
+          (NN modification))
+        (PP (IN of)
+          (NP (DT the) (JJ periductal) (NN stroma))))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (VP (VBN noteworthy))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Type) (CD I))
+        (JJ collagen-rich) (JJ fibrous) (JJ connective) (NN tissue))
+      (VP (VBZ begins)
+        (PP (TO to) (JJ ensheath)
+          (NP (DT the) (NN end) (NN bud)))
+        (PP (IN on)
+          (NP (PRP$ its) (NN flank)))
+        (, ,)
+        (ADVP (RB roughly))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN point))
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT which)))
+              (S
+                (NP (PRP it))
+                (VP (VBZ begins)
+                  (S
+                    (VP (TO to)
+                      (VP (VB constrict)
+                        (PP (TO to)
+                          (NP
+                            (NP (JJ ductal) (NNS dimensions))
+                            (PRN (-LRB- -LRB-)
+                              (NP
+                                (NP (NN Figs) (NN 1b))
+                                (CC and)
+                                (NP (NN 2a)))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT This) (NN sheath))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (ADVP (RB also))
+            (VP (VBZ comprises)
+              (NP (DT the) (JJ basal-lamina/extracellular) (NN matrix) (NN complex)))))
+        (, ,))
+      (VP
+        (VP (VBZ is)
+          (VP (VBN retained)))
+        (CC and)
+        (VP (VBZ forms)
+          (NP
+            (NP (DT a) (JJ fibrous) (NN sleeve))
+            (PP (IN around)
+              (NP (DT the) (VBG subtending) (NN duct)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN At)
+        (NP
+          (NP (DT this) (NN point))
+          (PP (IN in)
+            (NP (PRP$ its) (NN development)))))
+      (, ,)
+      (S
+        (ADVP (RB then))
+        (, ,)
+        (NP
+          (NP (DT the) (JJ signature) (NNS features))
+          (PP (IN of)
+            (NP (DT the) (NN gland))))
+        (VP (VBP are)
+          (NP (DT the) (NN following)))
+        (: :)
+        (LST (-LRB- -LRB-) (LS 1) (-RRB- -RRB-))
+        (S
+          (NP
+            (ADJP
+              (ADJP (JJ ductal)
+                (PP (IN as)
+                  (S
+                    (S
+                      (VP (VBN opposed)
+                        (PP (TO to)
+                          (NP (JJ lobular) (NN morphology)))
+                        (: ;)
+                        (NP
+                          (NP
+                            (LST (-LRB- -LRB-) (LS 2) (-RRB- -RRB-))
+                            (JJ large) (, ,) (JJ open) (NNS spaces))
+                          (PP (IN between)
+                            (NP (NNS ducts))))))
+                    (: ;)
+                    (LST (-LRB- -LRB-) (LS 3) (-RRB- -RRB-)))))
+              (ADJP (RBS most) (JJ active)))
+            (NN growth))
+          (VP (VBD focused)
+            (PP (IN in)
+              (NP (NN end) (NNS buds)))))
+        (: ;)
+        (LST (-LRB- -LRB-) (LS 4) (-RRB- -RRB-)))
+      (VP (VBD regressed)
+        (NP (NN end) (NNS buds))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN edge))
+            (PP (IN of)
+              (NP (DT the) (JJ fat) (NN pad)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN role))
+        (PP (IN for)
+          (NP (DT the) (NN stroma)))
+        (PP (IN in)
+          (S
+            (VP (VBG defining)
+              (NP
+                (NP (DT each))
+                (PP (IN of)
+                  (NP (DT these) (JJ glandular) (NNS features))))))))
+      (VP (VBZ is)
+        (VP (VBN supported)
+          (PP (IN by)
+            (NP
+              (NP (JJ experimental) (NN evidence))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (VP (VBN discussed)
+                      (ADVP (IN below)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (JJ seminal) (NNS experiments))
+          (PP (IN by)
+            (NP
+              (NP (NNP Kratochwil))
+              (CC and)
+              (NP (NNP Sakakura))))))
+      (, ,)
+      (NP (JJ mammary) (NN parenchyma))
+      (VP (VBD was)
+        (VP (VBN shown)
+          (S
+            (VP (TO to)
+              (VP (VB possess)
+                (NP
+                  (NP (DT a) (JJ developmental) (NN plasticity))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ is)
+                        (VP
+                          (VP (VBN constrained))
+                          (CC and)
+                          (VP (VBN directed)
+                            (PP (IN by)
+                              (NP (DT the) (NN stroma) (NN -LSB-3))))))))))))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (NN Kratochwil))
+          (VP (VBD cultured)
+            (NP
+              (NP (DT a) (NN composite))
+              (PP (IN of)
+                (NP
+                  (NP (JJ embryonic) (JJ mammary) (NN epithelium))
+                  (CC and)
+                  (NP (JJ embryonic) (JJ sub-mandibular) (-LRB- -LRB-) (JJ salivary) (-RRB- -RRB-) (NN mesenchyme))))))))
+      (, ,)
+      (NP (DT the) (JJ mammary) (NN tissue))
+      (VP (VBD developed)
+        (NP (JJ salivary) (JJ gland-like) (NNS lobules))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (VBG Extending)
+          (NP (DT these) (NNS experiments))
+          (ADVP (FW in) (FW vivo))))
+      (, ,)
+      (NP (NNP Sakakura))
+      (VP (VBD demonstrated)
+        (SBAR (IN that)
+          (S
+            (NP
+              (ADJP
+                (CONJP (RB not) (RB only))
+                (ADJP (JJ embryonic))
+                (CONJP (CC but)
+                  (RB also))
+                (ADJP (JJ adult)))
+              (JJ mammary) (NN tissue))
+            (VP (MD could)
+              (VP (VB respond)
+                (PP (IN in)
+                  (NP (DT this) (NN way)))
+                (PP (TO to)
+                  (NP (JJ salivary) (JJ mesenchymal) (NNS signals)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Importantly))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ instructive) (NNS properties))
+        (PP (IN of)
+          (NP (DT the) (NN stroma))))
+      (VP (VBD did) (RB not)
+        (VP (VB extend)
+          (PP (TO to)
+            (NP (NN cytodifferentiation))))))
+    (: :)
+    (S
+      (PP (IN in)
+        (NP (DT a) (JJ pregnant) (NN host) (NN animal)))
+      (, ,)
+      (NP (JJ salivary-like) (JJ mammary) (NNS transplants))
+      (VP (VBD synthesized)
+        (NP (DT the) (NN milk) (NN protein) (NN α-lactal-bumin))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Interestingly))
+      (, ,)
+      (NP
+        (NP (JJ fetal) (JJ mammary) (NN mesenchyme))
+        (VP (VBN grafted)
+          (PP (IN into)
+            (NP (DT the) (JJ adult) (NN gland)))))
+      (VP (VBD accelerated)
+        (NP (NN tumorigenesis))
+        (, ,)
+        (S
+          (VP (VBG providing)
+            (NP
+              (NP (DT an) (JJ early) (NN indication))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNS modifications))
+                    (PP (IN of)
+                      (NP (JJ stromal) (NN signaling))))
+                  (VP (MD could)
+                    (VP (VB influence)
+                      (NP
+                        (NP (DT the) (NN progress))
+                        (PP (IN of)
+                          (NP (NN neoplasia)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN absence))
+        (PP (IN of)
+          (NP
+            (NP (JJ extensive) (JJ ductal) (JJ side) (NN branching))
+            (CC and)
+            (NP
+              (NP (NN infilling))
+              (PP (IN of)
+                (NP (JJ interductal) (NNS spaces)))))))
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ due)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ terminal) (NN differentiation))
+              (PP (IN of)
+                (NP (JJ ductal) (NNS cells))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (RB Even) (DT the) (JJ smallest) (NN fragment))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN duct))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (VP (VBN transplanted)
+                  (PP (TO to)
+                    (NP
+                      (NP (NN stroma))
+                      (ADJP (JJ devoid)
+                        (PP (IN of)
+                          (NP (NN parenchyma)))))))))
+            (, ,))))
+      (VP
+        (VP (VBZ undergoes)
+          (NP (JJ aggressive) (NN growth)))
+        (CC and)
+        (VP (MD can)
+          (VP (VBP fill)
+            (NP (DT a) (JJ fat) (NN pad))
+            (PP (IN with)
+              (NP (DT a)
+                (ADJP
+                  (ADVP
+                    (ADVP (RB morphologically))
+                    (CC and)
+                    (ADVP (RB functionally)))
+                  (JJ complete))
+                (JJ ductal) (NN system)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN capacity))
+      (VP
+        (VP (VBZ is)
+          (VP (VBN attributed)
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP (RB up) (TO to) (CD three))
+                  (NNS populations))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ mammary) (NN stem))
+                    (CC or)
+                    (NP (NN progenitor) (NNS cells))
+                    (NP (NN -LSB-4))
+                    (-RRB- -RSB-)))))))
+        (CC and)
+        (VP (VBZ is)
+          (ADJP (JJ subject)
+            (PP (TO to)
+              (NP (JJ stromal) (NN inhibition)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (JJ similar) (NNS fragments))
+          (VP (VBP are)
+            (VP (VBN transplanted)
+              (PP (IN into)
+                (NP
+                  (NP (DT a) (NN space))
+                  (PP (IN between)
+                    (NP (JJ existing) (NNS ducts)))
+                  (S
+                    (NP (DT the) (NN graft))
+                    (VP
+                      (VP (VBZ is)
+                        (VP (VBN maintained)))
+                      (CC but)
+                      (VP (VBZ does) (RB not)
+                        (VP (VB grow)))))))))))
+      (PRN (-LRB- -LRB-)
+        (FRAG
+          (NP (NNP Daniel))
+          (, ,)
+          (NP (JJ unpublished) (NNS data)))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Normal) (NN inhibition))
+        (PP (IN of)
+          (NP (JJ ductal) (NN branching))))
+      (VP (MD must)
+        (ADVP (RB therefore))
+        (VP (VB overcome)
+          (NP
+            (NP (DT a) (JJ stromal) (NN background))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (ADVP (RB strongly))
+                  (ADJP (JJ stimulatory)))))))))
+    (: ;)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB now))
+        (NP (JJ excellent) (NN evidence)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP
+                  (NP (NN transforming) (NN growth) (NN factor-βs))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN TGF-βs))
+                    (-RRB- -RRB-)))
+                (, ,)
+                (VP (VBG acting)
+                  (PP (IN in)
+                    (NP (NN part)))
+                  (PP (IN on)
+                    (NP (JJ stromal) (NNS targets))))
+                (, ,))
+              (VP (VBP are)
+                (ADJP (JJ responsible))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (ADJP
+            (ADJP (JJ rapid))
+            (CC and)
+            (ADJP (JJ reversible)))
+          (NN inhibition))
+        (PP (IN of)
+          (NP (NN end) (NN bud) (NN growth)))
+        (PP (IN by)
+          (NP
+            (ADJP (RB experimentally) (VBN implanted))
+            (NN TGF-β1))))
+      (VP (VBZ demonstrates)
+        (NP
+          (NP (DT the) (JJ mammotrophic) (NN activity))
+          (PP (IN of)
+            (NP (DT this) (NN growth) (NN factor))))))
+    (, ,) (IN whereas)
+    (S
+      (NP
+        (NP
+          (NP (PRP$ its)
+            (ADJP (RB normally) (JJ high))
+            (NN concentration))
+          (PP (IN in)
+            (NP (DT the) (JJ periductal) (JJ extracellular) (NN matrix))))
+        (CC and)
+        (NP
+          (NP (PRP$ its) (JJ localized) (NN loss))
+          (PP (IN over)
+            (NP (JJ lateral) (NNS buds)))))
+      (ADVP (RB strongly))
+      (VP (VBZ implies)
+        (NP
+          (NP (DT an) (NN action))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ modulates)
+                (NP (JJ secondary) (JJ ductal) (NN growth) (NN -LSB-5)))
+              (-RRB- -RSB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Studies))
+        (PP (IN with)
+          (NP
+            (NP (JJ transgenic) (NNS mice))
+            (VP (VBG overexpressing)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB constitutively) (VBN activated))
+                  (NN form))
+                (PP (IN of)
+                  (NP
+                    (NP (NN TGF-β1) (CD -LSB-6) (-RRB- -RSB-))
+                    (, ,)
+                    (CONJP (RB as) (RB well) (IN as))
+                    (NP (JJ function-ablating) (JJ mutant) (NN TGF-β) (NN signaling) (NNS receptors))
+                    (, ,))))))))
+      (VP (VBD were)
+        (ADJP (JJ confirmatory))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The) (JJ ectopic) (NN expression))
+          (PP (IN of)
+            (NP (NN TGF-β1))))
+        (VP (VBD resulted)
+          (PP (IN in)
+            (NP
+              (NP (DT a) (JJ significant) (NN decrease))
+              (PP (IN in)
+                (NP (JJ lateral) (NN branching)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (JJ mutant) (NN TGF-β) (NNS receptors))
+          (VP (VBN expressed)
+            (PP (IN in)
+              (NP (DT the) (NN stroma)))))
+        (VP (VBD increased)
+          (NP
+            (NP (JJ lateral) (NN branch))
+            (VP (VBG infilling)
+              (NP (CD -LSB-7) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Because)
+        (S
+          (NP (DT the) (JJ latter))
+          (VP (VBP are)
+            (NP
+              (NP (DT an) (JJ important) (NN site))
+              (PP (IN of)
+                (NP (NN TGF-β) (NN action)))))))
+      (, ,)
+      (NP
+        (NP (JJ normal) (JJ chronic) (NN inhibition))
+        (PP (IN of)
+          (NP (NN branching))))
+      (VP (MD must)
+        (VP (VB depend) (, ,)
+          (PP (IN in)
+            (NP (NN part)))
+          (, ,)
+          (PP (IN on)
+            (NP (JJ TGF-β-regulated) (JJ secondary) (NNS signals))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Recently))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN hepatocyte) (NN growth) (NN factor))
+          (PRN (-LRB- -LRB-)
+            (NP (NN HGF))
+            (-RRB- -RRB-)))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VP (MD can)
+                (VP (VB stimulate)
+                  (NP
+                    (NP (DT the) (NN branching))
+                    (PP (IN of)
+                      (NP (JJ mammary) (JJ epithelial) (NNS tubes))))
+                  (ADVP (FW in) (FW vitro))))
+              (CC and)
+              (VP (VBZ is)
+                (ADVP (RB negatively))
+                (VP (VBN modulated)
+                  (PP (IN by)
+                    (NP (NN TGF-β))))))))
+        (, ,))
+      (VP (VBZ has)
+        (VP (VBN emerged)
+          (PP (IN as)
+            (NP (DT a) (NN candidate) (JJ secondary) (NN signal) (NN -LSB-8)))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT this) (NN model)))
+      (, ,)
+      (NP (NN TGF-β))
+      (VP (VBZ inhibits)
+        (NP (NN branching))
+        (PP (IN through)
+          (NP
+            (NP (DT the) (NN inhibition))
+            (PP (IN of)
+              (NP
+                (NP (NN HGF) (NN expression))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ periductal) (NN stroma))
+                    (PRN (-LRB- -LRB-)
+                      (VP (VBN reviewed)
+                        (PP (IN in)
+                          (NP (DT this) (NN issue))))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ protean) (NNS effects))
+        (PP (IN of)
+          (NP (NN TGF-βs)))
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (NN mitogenesis))
+              (CC and)
+              (NP (JJ extracellular) (NN matrix))
+              (NP (NNS dynamics)))
+            (PP (IN in)
+              (NP (JJ mammary) (NN tissue))))))
+      (VP (VBP make)
+        (NP
+          (NP (DT the) (NN assignment))
+          (PP (IN of)
+            (NP (DT any)
+              (ADJP
+                (ADJP (JJ single))
+                (, ,)
+                (ADJP (JJ TGF-β-mediated)))
+              (NN mechanism) (JJ premature) (NN -LSB-5)))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (NP (JJ Ductal) (NN elongation))
+        (CC and)
+        (NP (NN branching)))
+      (VP (VB depend)
+        (PP (IN on)
+          (NP
+            (NP (JJ parenchyma-induced) (NNS modifications))
+            (PP (IN of)
+              (NP (DT the) (JJ periductal) (NN stroma)))))))))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ striking))
+        (SBAR (IN that)
+          (S
+            (NP (JJ ductal) (NN growth))
+            (VP (VBZ is)
+              (ADVP (RB so) (RB exquisitely))
+              (VP (VBN focused)
+                (PP (IN in)
+                  (NP (DT the) (NN end) (NNS buds)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN impression)
+        (SBAR (IN that)
+          (S
+            (S
+              (VP
+                (ADVP (RB precisely))
+                (VBN localized) (, ,)
+                (SBAR (IN as)
+                  (S
+                    (VP (VBN opposed)
+                      (PP (TO to)
+                        (NP (JJ general))))))))
+            (, ,)
+            (NP (NNS signals))
+            (VP (VBP guide)
+              (NP (DT this) (NN development))))))
+      (VP (VBZ is)
+        (ADJP (JJ unavoidable))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN fact)))
+      (, ,)
+      (S
+        (NP (DT this) (NN impression))
+        (VP (VBZ is)
+          (ADJP (JJ correct))))
+      (CC and)
+      (S
+        (NP (JJ epithelium-induced) (NNS changes))
+        (VP (VBP develop)
+          (NP
+            (NP (DT the) (JJ growth-promoting) (NN potential))
+            (PP (IN of)
+              (NP (DT the) (NN stroma))))
+          (PP
+            (ADVP (RB immediately))
+            (IN in)
+            (NP
+              (NP (NN front))
+              (PP (IN of)
+                (NP (NN end) (NNS buds))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Exciting) (JJ new) (NN evidence))
+      (VP (VBZ demonstrates)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ migratory) (JJ white) (NN blood) (NNS cells))
+              (, ,)
+              (NP
+                (NP (NNS macrophages))
+                (CC and)
+                (NP (NNS eosinophils)))
+              (, ,))
+            (VP
+              (VP (VBP are)
+                (VP (VBN drawn)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (NN vicinity))
+                      (PP (IN of)
+                        (NP (DT the) (NN end) (NN bud)))))
+                  (PP (IN by)
+                    (NP (NNS chemoattractants)))))
+              (CC and)
+              (, ,)
+              (ADVP (RB surprisingly))
+              (, ,)
+              (VP (VB prove)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ essential)
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (JJ normal) (NN development))
+                            (PP (IN of)
+                              (NP (NN end) (NNS buds) (CD -LSB-9) (-RRB- -RSB-)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Interestingly))
+      (, ,)
+      (NP
+        (NP (JJ extensive) (NN DNA) (NN synthesis))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN stroma))
+            (PP (IN around)
+              (NP (NN end) (NNS buds))))))
+      (VP (VBZ accompanies)
+        (NP (DT this) (NN activity))
+        (, ,)
+        (S
+          (VP (VBG indicating)
+            (SBAR (IN that)
+              (S
+                (NP (JJ new) (JJ stromal) (NNS cells))
+                (VP
+                  (VP (VBP are) (RB not)
+                    (ADVP (RB only))
+                    (VP (VBN recruited)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NN vicinity))
+                          (PP (IN of)
+                            (NP (DT the) (NN end) (NN bud)))))))
+                  (CC but)
+                  (VP (VBP are)
+                    (ADVP (RB also))
+                    (VP (VBN induced)
+                      (PP (IN by)
+                        (S
+                          (NP (PRP it))
+                          (VP (TO to)
+                            (VP (VB proliferate)
+                              (NP (NN -LSB-10))))
+                          (-RRB- -RSB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN absence))
+        (PP (IN of)
+          (NP (JJ stromal) (NN DNA) (NN synthesis)))
+        (PP (IN around)
+          (NP (JJ growth-terminated) (NNS ducts))))
+      (VP (VBZ emphasizes)
+        (SBAR (IN that)
+          (S
+            (NP (DT these) (JJ inductive) (NNS signals))
+            (VP
+              (VP (VBP are)
+                (ADJP (JJ growth-related)))
+              (CC and)
+              (VP (VBP are) (RB not)
+                (ADJP (JJ due)
+                  (PP
+                    (ADVP (RB merely))
+                    (TO to)
+                    (NP
+                      (NP (DT the) (NN presence))
+                      (PP (IN of)
+                        (NP (NN epithelium))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Steroid) (JJ autoradiographic) (NNS experiments))
+      (VP (VBP have)
+        (VP (VBN demonstrated)
+          (SBAR (IN that)
+            (S
+              (NP (NN estrogen) (NNS receptors))
+              (VP (VBP are)
+                (VP (VBN concentrated)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NNS nuclei))
+                      (PP (IN of)
+                        (NP (JJ stromal) (NNS cells)))))
+                  (PP
+                    (PP (IN around)
+                      (NP (NN end) (NNS buds)))
+                    (CC but)
+                    (PP (RB not) (IN in)
+                      (NP
+                        (ADJP (RB rapidly) (JJ dividing))
+                        (NN cap) (NNS cells)))))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (DT a) (NN stem) (NN cell) (NN layer))
+                    (VP (VBG covering)
+                      (NP
+                        (NP (DT the) (NN tip))
+                        (PP (IN of)
+                          (NP (DT the) (NN end) (NN bud))))))
+                  (-RRB- -RRB-))
+                (, ,)
+                (S
+                  (VP (VBG indicating)
+                    (NP
+                      (NP (DT a) (JJ paracrine) (NN mechanism))
+                      (CD -LSB-11) (-RRB- -RSB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD was)
+        (VP (VBN confirmed)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NN estrogen) (NN receptor) (JJ knockout) (-LRB- -LRB-) (NN ERKO) (-RRB- -RRB-) (NNS mice))
+              (VP (VBD were)
+                (VP (VBN used)
+                  (S
+                    (VP (TO to)
+                      (VP (VB investigate)
+                        (SBAR (IN whether)
+                          (S
+                            (NP (DT the) (NN steroid))
+                            (VP (VBZ acts)
+                              (PP (IN on)
+                                (NP
+                                  (ADJP
+                                    (ADJP (JJ epithelial))
+                                    (CC or)
+                                    (ADJP (JJ stromal)))
+                                  (NNS targets))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NNP Cunha) (FW et) (FW al))
+      (NP (CD -LSB-12) (-RRB- -RSB-)))
+    (ADVP (RB surgically))
+    (VP
+      (VP (VBN transplanted)
+        (NP
+          (NP (NN ERKO) (NN epithelium))
+          (PP (IN in)
+            (NP
+              (NP (NN combination))
+              (PP (IN with)
+                (NP (CC either)
+                  (NP (NN ERKO))
+                  (CC or)
+                  (NP (JJ wild-type) (NN stroma)))))))
+        (PP (IN under)
+          (NP
+            (NP (JJ renal) (NNS capsules))
+            (PP (IN in)
+              (NP (JJ athymic) (NNS mice))))))
+      (CC and)
+      (VP (VBD demonstrated)
+        (SBAR (IN that)
+          (S (, ,)
+            (SBAR (IN whereas)
+              (S
+                (NP (JJ wild-type) (NN stroma))
+                (VP (VBD supported)
+                  (NP
+                    (NP (JJ organotypic) (NN growth))
+                    (PP (IN of)
+                      (NP (DT the) (NN ERKO) (NN epithelium)))))))
+            (, ,)
+            (NP (DT no) (JJ ductal) (NN growth))
+            (VP (VBD was)
+              (VP (VBN seen)
+                (PP (IN with)
+                  (NP (JJ wild-type) (NN epithelium)))
+                (PP (IN in)
+                  (NP (NN ERKO) (NN stroma)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (PRP It))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (VP (VBN suggested)
+              (SBAR (IN that)
+                (S
+                  (NP (NN estrogen) (NNS receptors))
+                  (VP (VBP are)
+                    (ADVP (RB uniquely))
+                    (VP (VBN concentrated)
+                      (PP (IN around)
+                        (NP (NN end) (NNS buds)))))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (DT this))
+        (VP (VBZ has) (RB not)
+          (VP (VBN been)
+            (VP (VBD proved)
+              (NP (CD -LSB-11) (-RRB- -RSB-))))
+          (, ,)
+          (S
+            (VP (VBG leaving)
+              (S
+                (VP
+                  (VP (VB open)
+                    (NP
+                      (NP (DT the) (NNS possibilities))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (NP (JJ elongating) (NNS ducts))
+                          (VP (VBP stimulate)
+                            (NP
+                              (NP (DT the) (NN induction))
+                              (PP (IN of)
+                                (NP (NN estrogen) (NNS receptors)))
+                              (PP (IN in)
+                                (NP (JJ nearby) (JJ stromal) (NNS cells)))))))))
+                  (, ,)
+                  (VP (VB attract)
+                    (NP
+                      (ADJP (NN estrogen) (JJ receptor-positive))
+                      (JJ stromal) (NNS cells)))
+                  (, ,)
+                  (CC or)
+                  (VP (VB stimulate)
+                    (NP (PRP$ their) (NN proliferation))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (NN addition))
+          (PP (TO to)
+            (NP (NN estrogen)))))
+      (, ,)
+      (NP (JJ other) (JJ ductal) (NNS mammogens))
+      (VP (VBP act)
+        (PP (IN through)
+          (NP
+            (NP (NNS intermediaries))
+            (VP (VBN generated)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN stroma))
+                  (-LRB- -LRB-)
+                  (VP (VBN reviewed)
+                    (PP
+                      (PP (IN in)
+                        (NP (DT this) (NN issue)))
+                      (CC and)
+                      (PP (IN in)
+                        (NP (NN -LSB-13)))
+                      (-RRB- -RSB-)))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These))
+      (VP (VBP include)
+        (NP
+          (NP
+            (NP (JJ epidermal) (NN growth) (NN factor))
+            (, ,)
+            (NP (NN activins/inhibins))
+            (, ,)
+            (CC and)
+            (NP (NN growth) (NN hormone)))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ stimulates)
+                (NP
+                  (NP (DT the) (NN synthesis))
+                  (PP (IN of)
+                    (NP (JJ insulin-like) (NN growth) (NN factor))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Growth) (JJ stimulatory) (JJ stromal-epithelial) (NNS interactions))
+      (VP (VBP are)
+        (VP (VBN shown)
+          (ADVP (RB diagrammatically))
+          (PP (IN in)
+            (NP (NNP Fig.) (CD 3))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Organotypic) (NN development))
+      (VP (VBZ depends)
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (CD two) (JJ obvious) (JJ structural) (NNS modifications))
+              (PP (IN of)
+                (NP (DT the) (NN end) (NN bud))))
+            (, ,)
+            (NP
+              (NP
+                (NP (PRP$ its) (NN constriction))
+                (PP (IN into)
+                  (NP (DT a) (NN tube))))
+              (CC and)
+              (NP (PRP$ its) (NN bifurcation)))))))
+    (. .)))
+
+(
+  (S
+    (PP (VBG Preceding)
+      (NP (DT either)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ focal) (NN induction))
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN end) (NN bud))
+            (PP (IN of)
+              (NP (NN type) (CD I)
+                (NP (JJ collagen-rich) (JJ connective) (NN tissue))
+                (CC and)
+                (NP
+                  (NP (JJ extracellular) (NN matrix))
+                  (PP
+                    (PP (IN on)
+                      (NP
+                        (NP (PRP$ its) (NN flank))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NNP Fig.) (NN 1b))
+                          (-RRB- -RRB-))))
+                    (CC and)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NNS clefts))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBP indent)
+                              (NP
+                                (NP (DT the) (NN tip))
+                                (SBAR
+                                  (WHADVP (WRB when))
+                                  (S
+                                    (NP (CD two) (JJ new) (NN end) (NNS buds))
+                                    (VP (VBP form)))))
+                              (PRN (-LRB- -LRB-) (RB not)
+                                (VP (VBN shown))
+                                (-RRB- -RRB-)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT An) (JJ active) (NN role))
+        (PP (IN for)
+          (NP (NN collagen)))
+        (PP (IN in)
+          (S
+            (VP (NN shaping)
+              (NP (DT the) (NN duct))))))
+      (VP (VBZ is)
+        (VP (VBN indicated))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (FW vitro)))
+    (, ,)
+    (NP
+      (NP (JJ mammary) (JJ epithelial) (NNS cells))
+      (ADJP (JJ embedded)
+        (PP (IN in)
+          (NP (NN collagen) (NNS gels)))))
+    (VP (VBP form)
+      (NP
+        (NP (JJ narrow) (NNS tubules))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (ADVP (RB also))
+              (VP (VBN seen)
+                (ADVP (FW in) (FW vivo))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP
+                      (NP (NNS fragments))
+                      (PP (IN of)
+                        (NP (NN duct))))
+                    (VP (VBP form)
+                      (NP (JJ similar) (NNS tubules))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT a) (NN bolus))
+                          (PP (IN of)
+                            (NP
+                              (NP (VBN injected) (NN type) (CD 1) (NN collagen))
+                              (PRN (-LRB- -LRB-)
+                                (VP (VBN reviewed)
+                                  (PP (IN in)
+                                    (NP (NN -LSB-13))))
+                                (-RRB- -RSB-) (-RRB- -RRB-)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Mechanistically))
+      (, ,)
+      (PP (IN by)
+        (S
+          (VP (VBG binding)
+            (PP (TO to)
+              (NP
+                (NP (NNS members))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN integrin) (NN family))
+                    (PP (IN of)
+                      (NP (JJ extracellular) (NN matrix) (NNS receptors))))))))))
+      (, ,)
+      (NP (NN collagen))
+      (VP (MD can)
+        (VP (VB stimulate)
+          (NP
+            (NP (DT the) (NN formation))
+            (PP (IN of)
+              (NP
+                (NP (JJ actin-cytoskeletal) (NNS foci))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP are)
+                      (ADJP (JJ capable)
+                        (PP (IN of)
+                          (S
+                            (VP (VBG changing)
+                              (NP (JJ mammary) (NN cell) (NN shape) (CD -LSB-14) (-RRB- -RSB-)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (ADVP (RB Indeed))
+        (, ,)
+        (NP (NN β1-integrin))
+        (VP (VBD was)
+          (VP (VBN localized)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (JJ basal) (NNS surfaces))
+                (PP (IN of)
+                  (NP (DT the) (NN end) (NN bud) (NN epithelium))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP
+            (NP (JJ function-blocking) (NNS antibodies))
+            (PP (IN against)
+              (NP (NN β-integrin))))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (NNS antibodies))
+            (PP (IN against)
+              (NP (NN laminin))))
+          (, ,))
+        (ADVP (RB reversibly))
+        (VP (VBD inhibited)
+          (NP (NN end) (NN bud) (NN development))
+          (ADVP (FW in) (FW vivo))
+          (, ,)
+          (SBAR (IN while)
+            (S
+              (VP (VBG blocking)
+                (NP (NN tubulogenesis)
+                  (ADJP (FW in) (FW vitro))
+                  (NN -LSB-15) (-RRB- -RSB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (DT The) (JJ molecular) (NNS signals))
+          (VP (VBG governing)
+            (NP
+              (NP (DT the) (NNS sites))
+              (PP (IN of)
+                (NP (JJ fibrous) (NN induction))))))
+        (VP (VBP are)
+          (ADJP (RB largely) (JJ unknown))))
+      (: ;) (RB however) (, ,)
+      (S
+        (NP (NN TGF-βs))
+        (VP (VBP seem)
+          (ADJP (JJ likely)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (NP (DT a) (NN role)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ experimental) (NN release))
+        (PP (IN of)
+          (NP
+            (NP (NN TGF-β1))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN vicinity))
+                (PP (IN of)
+                  (NP (DT an) (NN end) (NN bud)))))))
+        (PP (IN by)
+          (NP (JJ plastic) (NNS implants))))
+      (VP (VBD caused)
+        (NP
+          (NP (JJ epithelium-dependent) (NN induction))
+          (PP (IN of)
+            (NP (DT a) (JJ fibrous) (JJ connective) (NN tissue) (NN cap))))
+        (PP (IN over)
+          (NP (DT the) (NN end) (NN bud) (NN tip)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ molecular) (NN composition))
+        (PP (IN of)
+          (NP (DT this) (NN cap))))
+      (VP (VBD reflected)
+        (NP
+          (NP (DT that))
+          (PP (IN of)
+            (NP (DT the) (JJ fibrous) (JJ connective) (NN tissue))))
+        (PP
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN flank))
+              (PP (IN of)
+                (NP (DT the) (NN end) (NN bud)))))
+          (CC and)
+          (PP (IN in)
+            (NP
+              (NP (VBG developing) (NNS clefts))
+              (PP (IN before)
+                (NP (NN bifurcation))))))
+        (, ,)
+        (S
+          (VP (VBG suggesting)
+            (SBAR (IN that)
+              (S
+                (NP (NN TGF-β1))
+                (VP (MD might)
+                  (VP (VB be)
+                    (NP (DT the) (JJ normal) (NN inducer) (NN -LSB-16))))
+                (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RBR More) (RB recently))
+      (, ,)
+      (NP
+        (NP (JJ parathyroid-hormone-related) (NN protein))
+        (PRN (-LRB- -LRB-)
+          (NP (NN PTHrP))
+          (-RRB- -RRB-)))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN shown)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ crucial)
+                    (PP (IN for)
+                      (NP (JJ normal) (JJ ductal) (NN development)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Transgenic) (NNS animals))
+        (VP (VBG overexpressing)
+          (NP (DT the) (NN peptide))))
+      (VP (VBP show)
+        (NP
+          (NP (JJ severe) (NN impairment))
+          (PP (IN of)
+            (NP
+              (NP (JJ ductal) (NN extension))
+              (CC and)
+              (NP (JJ branching) (NN -LSB-17))))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (PP (JJ Pertinent) (TO to)
+      (NP (DT this) (NN discussion)))
+    (, ,)
+    (NP (NN PTHrP) (NN synthesis))
+    (VP (VBZ is)
+      (VP (VBN concentrated)
+        (PP (IN in)
+          (NP
+            (NP
+              (NP (DT the) (NN cap) (NNS cells))
+              (PP (IN of)
+                (NP (NN end) (NNS buds))))
+            (CC and)
+            (NP
+              (NP (PRP$ their) (JJ myoepithelial) (NNS descendents))
+              (PP (IN on)
+                (NP (DT the) (NN flank))))))
+        (, ,)
+        (SBAR (IN whereas)
+          (S
+            (NP (JJ cognate) (NNS receptors))
+            (VP (VBP seem)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN concentrated)
+                      (PP (IN in)
+                        (NP (DT the)
+                          (ADJP (RB immediately) (JJ adjacent))
+                          (JJ fibrous) (NN tissue))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ indicates)
+        (NP (DT a) (JJ potential) (NN role))
+        (PP (IN in)
+          (NP (JJ stromal) (NN induction)))))
+    (. .)))
+
+(
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT this))
+        (PP (IN in)
+          (NP (NN mind)))))
+    (, ,)
+    (NP (DT the) (NN fact)
+      (SBAR (IN that)
+        (S
+          (NP (NN TGF-β))
+          (VP (MD can)
+            (ADVP (RB positively))
+            (VP (VB regulate)
+              (NP (NN PTHrP)))))))
+    (VP (VBZ is)
+      (ADJP (JJ interesting)
+        (NP (CD -LSB-17) (-RRB- -RSB-))
+        (PP (IN because)
+          (S
+            (NP (NN TGF-β))
+            (VP (VBZ is)
+              (ADJP (JJ present))
+              (, ,)
+              (ADVP (RB often))
+              (PP (IN at)
+                (NP (JJ high) (NNS levels)))
+              (, ,)
+              (PP (IN in)
+                (NP (DT the) (NN end) (NN bud) (CD -LSB-18))))
+            (-RRB- -RSB-)
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NNP Fig.))
+                (NP (NN 3b)))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS observations))
+      (VP (VBP suggest)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (NN TGF-βs))
+              (VP (MD might)
+                (ADVP (RB indirectly))
+                (VP (VB cause)
+                  (NP
+                    (NP (DT the) (NN induction))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (JJ fibrous) (NN sheath))
+                        (PP (IN of)
+                          (NP (NN end) (NNS buds))))))))))
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (S
+                (NP (NNS experiments))
+                (VP (TO to)
+                  (VP (VB investigate)
+                    (SBAR
+                      (SBAR (IN whether)
+                        (S
+                          (NP (NN PTHrP))
+                          (VP (VBZ induces)
+                            (NP (NN fibrosis)))))
+                      (CC and)
+                      (SBAR (IN whether)
+                        (S
+                          (NP (NN TGF-β1))
+                          (ADVP (RB normally))
+                          (VP (VBZ regulates)
+                            (NP (NN PTHrP))
+                            (PP (IN during)
+                              (NP (JJ ductal) (NN development))))))))))
+              (VP (MD would)
+                (VP (VB be)
+                  (ADJP (JJ fruitful)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ combined) (NN role))
+        (PP (IN for)
+          (NP (JJ TGF-β-induced) (JJ fibrous) (NN stroma)))
+        (PP (IN in)
+          (S
+            (VP (VBG inhibiting)
+              (NP (NN end) (NN bud) (NN growth))
+              (PP (IN while)
+                (S
+                  (VP (VBG guiding)
+                    (NP (NN morphogenesis)))))))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN suggested)
+            (S
+              (NP (NN -LSB-5))
+              (-RRB- -RSB-))))))
+    (. .)))
+
+(
+  (S
+    (SINV
+      (ADJP (JJ Consistent)
+        (PP (IN with)
+          (NP (DT this) (NN hypothesis))))
+      (VP (VBZ is)
+        (NP (DT the) (NN observation)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (JJ fibrous) (JJ connective) (NN tissue))
+                (PP (IN on)
+                  (NP (DT the) (NN flank))))
+              (ADVP (RB progressively))
+              (VP (NNS advances)
+                (PP (TO to)
+                  (NP (NN envelop)))
+                (NP
+                  (NP (DT the) (NNS tips))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN end) (NNS buds))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP are)
+                            (PP (IN in)
+                              (NP
+                                (NP (DT the) (NN process))
+                                (PP (IN of)
+                                  (NP (JJ stopping) (NN growth) (NN -LSB-19)))))))))))
+                (-RRB- -RSB-))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (S
+        (VP (VBG Arguing)
+          (PP (IN against)
+            (NP (DT the) (NN matrix)))
+          (PP (IN as)
+            (NP (DT a) (JJ primary) (NN growth) (NN inhibitor)))))
+      (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (NP (JJ implanted) (NN TGF-β))
+      (VP (VBZ inhibits)
+        (NP (NN DNA) (NN synthesis))
+        (PP (RP up) (TO to)
+          (NP
+            (NP (CD 12) (NN h))
+            (PP (IN before)
+              (NP
+                (NP (DT the) (NN appearance))
+                (PP (IN of)
+                  (NP (DT the) (JJ fibrous) (NN cap)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Furthermore))
+      (, ,)
+      (NP
+        (NP
+          (ADJP (RB surprisingly) (JJ high))
+          (NNS levels))
+        (PP (IN of)
+          (NP (NN DNA) (NN synthesis))))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN detected)
+            (PP (IN in)
+              (NP
+                (NP (JJ matrix-ensheathed) (, ,)
+                  (NP (NN growth-quiescent) (NNS ducts))
+                  (, ,)
+                  (NP
+                    (NP (DT some))
+                    (ADJP (RB quite) (JJ distant)
+                      (PP (IN from)
+                        (NP (DT the) (NN end) (NN bud))))))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Fig.) (CD 2))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP (DT this) (NN DNA) (NN synthesis))
+          (VP (MD might)
+            (CC or)
+            (VP (MD might) (RB not)
+              (VP (VB be)
+                (ADJP (JJ related)
+                  (PP (TO to)
+                    (NP (NN mitosis) (CD -LSB-20)))))))
+          (-RRB- -RSB-)))
+      (, ,)
+      (NP (PRP it))
+      (ADVP (RB nevertheless))
+      (VP (VBZ demonstrates)
+        (SBAR (IN that)
+          (S
+            (NP (JJ growth-stimulatory) (NNS signals))
+            (VP (MD can)
+              (VP (VB be)
+                (ADJP (RB quite) (JJ active)
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS ducts))
+                      (PP (IN beneath)
+                        (NP (DT an) (JJ intact) (JJ fibrous) (JJ stromal) (NN sheath))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (RB Even) (IN though)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ clear))
+            (SBAR (IN that)
+              (S
+                (NP (JJ stromal) (NNS signals))
+                (VP (MD must)
+                  (ADVP (RB ultimately))
+                  (VP (VB inhibit)
+                    (NP
+                      (NP (NN end) (NN bud) (NN growth))
+                      (S
+                        (NP (JJ -LSB-how) (NN else))
+                        (VP (MD can)
+                          (VP
+                            (NP (PRP$ their) (NN regression))
+                            (PP (IN before)
+                              (S
+                                (VP (VBG reaching)
+                                  (NP
+                                    (NP (DT the) (NNS limits))
+                                    (PP (IN of)
+                                      (NP (DT the) (JJ fat) (NN pad))))
+                                  (VP (VB be)
+                                    (VP (VBN explained)
+                                      (PRN (-LRB- -LRB-)
+                                        (NP
+                                          (NP (NNP Fig.))
+                                          (NP (NN 1a)))
+                                        (-RRB- -RRB-))))))))))
+                      (. ?))))
+                (-RRB- -RSB-))))))
+      (, ,)
+      (NP (PRP$ their) (NN identity))
+      (VP (VBZ remains)
+        (ADJP (JJ unknown))))
+    (PRN (-LRB- -LRB-)
+      (NP
+        (NP (NNP Fig.))
+        (NP (NN 3b)))
+      (-RRB- -RRB-))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (JJ Resolving) (NN signaling))
+      (PP (IN between)
+        (NP
+          (NP (NN epithelium))
+          (CC and)
+          (NP (NN stroma)))))))
+
+(
+  (S
+    (S
+      (PP (IN During)
+        (NP (DT the) (JJ past) (NN decade)))
+      (, ,)
+      (NP (JJ classic) (JJ mammary) (NN tissue) (NN recombination) (NNS experiments))
+      (VP
+        (VP (VBP have)
+          (VP (VBN been)
+            (VP (VBN recalled)
+              (PP (TO to)
+                (NP
+                  (NP (NN duty))
+                  (, ,)
+                  (NP
+                    (NP (DT this) (NN time))
+                    (VP (VBG using)
+                      (NP
+                        (NP (NN tissue))
+                        (PP (IN from)
+                          (NP
+                            (ADJP (RB genetically) (VBN engineered))
+                            (NNS mice)))))))))))
+        (, ,)
+        (CC and)
+        (VP (VBP have)
+          (VP (VBN led)
+            (PP (TO to)
+              (NP
+                (NP (JJ important) (NNS insights))
+                (PP (IN into)
+                  (NP
+                    (NP (DT the) (JJ stromal) (NNS origins))
+                    (PP (IN of)
+                      (NP (JJ ductal) (JJ mammogenic) (NNS signals)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (ADJP (RB Much) (JJR less)))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (PP (IN about)
+          (NP
+            (NP (DT the) (JJ epithelial) (NNS signals))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP
+                  (VP (VB reorganize)
+                    (NP (DT the) (JJ periductal) (NN stroma)))
+                  (CC and)
+                  (, ,)
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP have)
+                        (VP (VBN discussed)
+                          (ADVP (RB briefly))
+                          (SBAR (IN above) (, ,)
+                            (S
+                              (NP (DT these) (NN retrograde) (NNS signals))
+                              (VP (VBP are)
+                                (ADJP (JJ crucial)
+                                  (PP (TO to)
+                                    (NP
+                                      (NP (DT the) (NN realization))
+                                      (PP (IN of)
+                                        (NP
+                                          (NP (DT the)
+                                            (ADJP
+                                              (ADJP (JJ morphogenetic))
+                                              (CC and)
+                                              (ADJP (JJ growth-promoting)))
+                                            (NN potential))
+                                          (PP (IN of)
+                                            (NP (DT the) (NN stroma))))))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP
+          (VP (VBG Identifying)
+            (NP (DT the) (JJ relevant) (NN epithelial) (NNS signals)))
+          (CC and)
+          (VP (VBG placing)
+            (NP (PRP them))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (JJ proper) (JJ temporal) (NN order))
+                (PP (IN with)
+                  (NP
+                    (NP (NN regard))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (NN elicitation))
+                        (PP (IN of)
+                          (NP
+                            (NP (JJ stromal) (NNS signals))
+                            (CC and)
+                            (NP (DT the) (JJ ensuing) (JJ morphogenetic) (NNS events)))))))))))))
+      (VP (VBZ is)
+        (ADVP (RB now))
+        (NP
+          (NP (DT a) (JJ major) (NN challenge))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD will)
+                (VP (VB require)
+                  (NP (JJ new)
+                    (ADJP
+                      (ADJP (JJ conceptual))
+                      (CONJP (RB as) (RB well) (IN as))
+                      (ADJP (JJ experimental)))
+                    (NNS tools)))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The) (JJ strong) (JJ evolutionary) (NN conservation))
+      (PP (IN of)
+        (NP
+          (ADJP
+            (ADJP (JJ reciprocal))
+            (, ,)
+            (ADJP (JJ epithelial-stromal)))
+          (NN signaling)))
+      (PP (IN in)
+        (NP
+          (NP (JJ branching) (NN morphogenesis))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ encompasses)
+                (NP
+                  (NP (DT the) (NN development))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ branched) (NNS airways))
+                      (PP (IN from)
+                        (NP
+                          (NP (NNS insects))
+                          (PP (TO to)
+                            (NP (NNS mammals))))))))))))))
+    (, ,)
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ careful) (NN study))
+            (PP (IN of)
+              (NP (DT these) (NNS systems))))
+          (VP (MD could)
+            (VP (VB provide)
+              (NP
+                (NP (JJ new) (NNS ideas))
+                (ADJP (JJ pertinent)
+                  (PP (TO to)
+                    (NP (JJ mammary)
+                      (NP (NN growth))
+                      (CC and)
+                      (NP (NN morphogenesis) (CD -LSB-21) (-RRB- -RSB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN Conclusion))))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT an) (JJR earlier) (NN review)))
+      (NP (NN -LSB-13) (-RRB- -RSB-) (CD I))
+      (VP (VBD suggested)
+        (SBAR (IN that)
+          (S
+            (S
+              (VP (VBG bringing)
+                (NP (JJ modern) (JJ molecular) (NNS methods))
+                (S
+                  (VP (TO to)
+                    (VP (VB bear)
+                      (S
+                        (VP (TO to)
+                          (VP (VB investigate)
+                            (NP
+                              (NP (DT the) (NNS dynamics))
+                              (PP (IN of)
+                                (NP (NN gene) (NN expression)))
+                              (PP (IN in)
+                                (NP
+                                  (NP (DT the) (NN stroma))
+                                  (CC and)
+                                  (NP (NN epithelium)))))
+                            (PP (IN at)
+                              (NP
+                                (NP (JJ obvious) (NN growth)
+                                  (CC and)
+                                  (NN morphogenetic) (NN inflection) (NNS points))
+                                (PRN (-LRB- -LRB-)
+                                  (NP
+                                    (NP (NN eg))
+                                    (PP (IN in)
+                                      (NP
+                                        (NP (NN front))
+                                        (PP (IN of)
+                                          (NP (NN end) (NNS buds))))))
+                                  (-RRB- -RRB-))))))))))))
+            (VP (MD would)
+              (VP (VB be)
+                (ADJP (JJ useful))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP (DT this) (NN approach))
+      (VP (VBZ does) (RB not)
+        (VP (VB address)
+          (NP
+            (NP (DT the) (JJ vital) (NN issue))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ temporal) (NN order))
+                (PP (IN of)
+                  (NP
+                    (NP (NN signaling))
+                    (, ,)
+                    (SBAR
+                      (WHNP
+                        (NP (DT the) (NN resolution))
+                        (WHPP (IN of)
+                          (WHNP (WDT which))))
+                      (S
+                        (VP (MD would)
+                          (VP (VB benefit)
+                            (PP (IN from)
+                              (NP
+                                (NP (DT a) (`` ') (NN time-zero) (`` ') (JJ experimental) (NN condition))
+                                (, ,)
+                                (SBAR
+                                  (WHPP (IN in)
+                                    (WHNP (WDT which)))
+                                  (S
+                                    (NP (JJ growth-static) (JJ mammary) (NNS ducts))
+                                    (VP (MD could)
+                                      (VP (VB be)
+                                        (VP (VBN induced)
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB grow)
+                                                (PP (IN in)
+                                                  (NP (DT a) (JJ controlled) (NN manner)))))))))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP (EX there))
+          (VP (MD should)
+            (VP (VB be)
+              (NP
+                (NP (JJ several) (NNS ways))
+                (PP (IN of)
+                  (S
+                    (VP (VBG accomplishing)
+                      (NP (DT this))))))))))
+      (, ,)
+      (NP (JJ simple) (JJ ductal) (NNS transplants))
+      (VP (VBN come)
+        (ADVP (RB first))
+        (PP (TO to)
+          (NP (NN mind)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN Through)
+        (NP
+          (NP (DT an) (NN analysis))
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (NP (NN initiation))
+                (CC and)
+                (NP (JJS earliest) (NNS phases)))
+              (PP (IN of)
+                (NP (NN transplant) (NN outgrowth)))
+              (PP (IN over)
+                (NP (DT a)
+                  (ADJP (RB finely) (VBN spaced))
+                  (JJ time-course)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (MD might)
+        (VP (VB be)
+          (ADJP (JJ possible)
+            (S
+              (VP (TO to)
+                (VP (VB obtain)
+                  (NP
+                    (NP (DT an) (JJ orderly) (NN reading))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ reciprocal)
+                          (ADJP
+                            (ADJP (JJ epithelial))
+                            (CC and)
+                            (ADJP (JJ stromal)))
+                          (NNS signals))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBP underlie)
+                              (NP
+                                (NP (JJ stromal) (NN reorganization))
+                                (CC and)
+                                (NP (JJ ductal) (NN extension))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NNS Abbreviations))))
+
+(
+  (S
+    (S
+      (S
+        (NP (NN ERKO))
+        (VP (VBG =)
+          (ADJP
+            (NP (NN estrogen) (NN receptor))
+            (JJ knockout))))
+      (: ;)
+      (S
+        (NP (NN HGF))
+        (VP (VBG =)
+          (NP (NN hepatocyte) (NN growth) (NN factor))))
+      (: ;)
+      (S
+        (NP (NN PTHrP))
+        (VP (VBG =)
+          (NP (JJ parathyroid-hormone-related) (NN protein))))
+      (: ;)
+      (S
+        (NP (NN TGF-β))
+        (VP (VBG =)
+          (NP (NN transforming) (NN growth) (NN factor-β)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure))
+      (CC and)
+      (NP (NN Table))
+      (NP (NNS captions)))))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 1))
+      (: :)
+      (NP
+        (NP
+          (NP (NNS Ducts))
+          (CC and)
+          (NP (NN end) (NNS buds)))
+        (PP (IN in)
+          (NP (DT the) (JJ juvenile) (NN mouse) (JJ mammary) (NN gland))))
+      (. .))))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS a) (-RRB- -RRB-))
+      (NP (NN Photomicrograph))
+      (VP (VBG illustrating)
+        (NP
+          (NP (DT the) (JJ mammary) (JJ ductal) (NN system))
+          (PP (IN in)
+            (NP (DT a) (JJ 5-week-old) (NN nulliparous) (NN mouse))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (VP (VB Note)
+        (NP
+          (NP (DT the) (`` ') (NN open) (`` ') (JJ ductal) (NN architecture))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ leaves)
+                (NP
+                  (NP
+                    (NP (CD 80) (NN %))
+                    (CC or)
+                    (NP (JJR more)))
+                  (PP (IN of)
+                    (NP (DT the) (NN gland) (NN parenchyma-free))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN End) (NNS buds))
+        (PRN (-LRB- -LRB-)
+          (NP (JJ large) (NNS arrows))
+          (-RRB- -RRB-)))
+      (VP (VBP identify)
+        (NP (VBG growing) (NNS ducts))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT Those) (NN end) (NNS buds))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (VP (VBN arrayed)
+                (PP (IN along)
+                  (NP
+                    (NP (DT the) (JJ right-hand) (NN side))
+                    (PP (IN of)
+                      (NP (DT the) (NN gland))))))))))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP
+            (NP (JJ various) (NNS stages))
+            (PP (IN of)
+              (NP (NN regression)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Blunt-tipped) (NNS branches))
+        (PRN (-LRB- -LRB-)
+          (NP (JJ small) (NNS arrows))
+          (-RRB- -RRB-)))
+      (VP (VBP mark)
+        (NP (NN growth-quiescent) (NNS ducts))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN nipple))
+        (PRN (-LRB- -LRB-)
+          (NP (NN asterisk))
+          (-RRB- -RRB-)))
+      (VP (VBZ is)
+        (PP (IN at)
+          (NP
+            (NP (NN base))
+            (PP (IN of)
+              (NP (DT the) (NN gland)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Magnification))
+      (VP
+        (ADVP (RB approximately))
+        (NP (NN ×15))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS b) (-RRB- -RRB-))
+      (NP
+        (NP (NN Photomicrograph))
+        (PP (IN of)
+          (NP (DT a) (JJ longitudinal) (NN section)))
+        (PP (IN through)
+          (NP (DT an) (NN end) (NN bud))))
+      (CC and)
+      (VP (VBG subtending)
+        (NP (NN duct))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN induction))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ fibrous) (JJ connective) (NN tissue) (NN sheath))
+            (PRN (-LRB- -LRB-)
+              (NP (JJ large) (NNS arrows))
+              (-RRB- -RRB-)))))
+      (VP (VBZ coincides)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN constriction))
+            (PP (IN of)
+              (NP (DT the) (NN end) (NN bud)))
+            (PP (TO to)
+              (NP (JJ ductal) (NNS dimensions)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ alcian) (JJ blue) (NN stain))
+        (VP (VBN used)
+          (PP (IN in)
+            (NP (DT this) (NN preparation)))))
+      (VP
+        (VP (VBZ detects)
+          (NP (NNS glycosaminoglycans)))
+        (CC and)
+        (VP (VBZ highlights)
+          (NP
+            (NP (DT the) (JJ extracellular) (JJ matrix/basal) (NN lamina) (NN complex))
+            (PP (IN at)
+              (NP (DT the) (JJ epithelial-stromal) (NN interface)
+                (PRN (-LRB- -LRB-)
+                  (NP (JJ small) (NNS arrows))
+                  (-RRB- -RRB-))
+                (CD -LSB-19) (-RRB- -RSB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Magnification))
+      (NP (NN ×250)))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 2))
+      (: :)
+      (NP
+        (NP (NNP Photomicrographs))
+        (VP (VBG illustrating)
+          (NP
+            (NP (NNS patterns))
+            (PP (IN of)
+              (NP (NN DNA) (NN synthesis)))
+            (PP
+              (PP (IN in)
+                (NP
+                  (NP (DT an) (NN end) (NN bud))
+                  (, ,)
+                  (NP (PRP$ its)
+                    (ADJP (RB immediately) (VBG subtending))
+                    (NN duct))
+                  (, ,)
+                  (CC and)
+                  (NP
+                    (NP (DT a) (JJ lateral) (NN branch))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN a))
+                      (-RRB- -RRB-)))))
+              (, ,)
+              (CONJP (RB as) (RB well) (IN as))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NN duct))
+                  (ADJP (JJ distant)
+                    (PP (IN from)
+                      (NP
+                        (NP (DT the) (NN growth) (NN front))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN b))
+                          (-RRB- -RRB-)))))))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (ADJP (NN -LSB-3H) (-RRB- -RSB-) (NN Thymidine))
+        (NNS autoradiographs))
+      (VP (VBD were)
+        (VP (VBN stained)
+          (PP (IN with)
+            (NP (NN alcian) (JJ blue))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Large) (NNS arrows))
+        (, ,)
+        (NP
+          (NP
+            (NP (JJ fibrous) (NN sheath))
+            (PP (IN around)
+              (NP (NN end) (NN bud))))
+          (: ;)
+          (NP (JJ small) (NNS arrows)))
+        (, ,))
+      (VP (NN DNA)
+        (NP (JJ synthetic) (NNS cells))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Magnification))
+      (NP (NN ×250)))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 3))
+      (: :)
+      (NP
+        (NP (NNS Diagrams))
+        (VP (VBG depicting)
+          (NP
+            (NP (JJ stromal-epithelial) (NN signaling))
+            (VP (VBG affecting)
+              (NP
+                (NP (JJ mammary) (JJ ductal) (NN growth))
+                (CC and)
+                (NP (PRP$ its) (NN inhibition)))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS a) (-RRB- -RRB-))
+      (NP (NN Growth) (JJ stimulatory) (NNS signals)))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (JJ Endocrine) (NNS mammogens))
+          (ADJP
+            (ADJP (JJ -LSB-estrogen))
+            (PRN (-LRB- -LRB-)
+              (NP (NN E))
+              (-RRB- -RRB-))))
+        (, ,)
+        (NP
+          (NP
+            (NP (NN growth) (NN hormone))
+            (PRN (-LRB- -LRB-)
+              (NP (NN GH))
+              (-RRB- -RRB-) (-RRB- -RSB-)))
+          (, ,)
+          (VP (VBG acting)
+            (PP (IN on)
+              (NP
+                (NP (JJ stromal) (NNS targets))
+                (PP (IN in)
+                  (NP
+                    (NP (NN front))
+                    (PP (IN of)
+                      (NP (DT the) (NN end) (NN bud)))))))))
+        (, ,))
+      (VP (VBP stimulate)
+        (NP
+          (NP (DT the) (NN synthesis))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ local) (NNS mammogens)
+                (NP
+                  (NP (JJ epidermal) (NN growth) (NN factor))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN EGF))
+                    (-RRB- -RRB-))))
+              (, ,)
+              (NP
+                (NP (JJ insulin-like) (NN growth) (NN factor-1))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN IGF-1))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (NNS members))
+                (PP (IN of)
+                  (NP (DT the) (NN activin/inhibin) (NN family)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN From)
+        (NP (DT the) (NN end) (NN bud)))
+      (, ,)
+      (NP
+        (NP (JJ unknown) (NN retrograde) (NNS signals))
+        (PRN (-LRB- -LRB-)
+          (NP (VBN broken) (NNS lines))
+          (-RRB- -RRB-)))
+      (VP
+        (VP (VB stimulate)
+          (NP (NN vicinal) (NN DNA) (NN synthesis)))
+        (CC and)
+        (VP (VB attract)
+          (NP
+            (NP (NNS macrophages))
+            (CC and)
+            (NP (NNS eosinophils))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN stimulation))
+        (PP (IN of)
+          (NP (JJ lateral) (NNS branches)))
+        (PP (IN along)
+          (NP (JJ mature) (NNS ducts))))
+      (VP (VBZ involves)
+        (NP
+          (NP (DT the)
+            (NP (JJ focal) (NN loss))
+            (CC or)
+            (NP (NN inactivation)))
+          (PP (IN of)
+            (NP
+              (NP (VBG transforming) (NN growth) (NN factor-β1))
+              (PRN (-LRB- -LRB-)
+                (NP (NN TGF-β1))
+                (-RRB- -RRB-)))))
+        (, ,)
+        (S
+          (VP
+            (VP (VBG relieving)
+              (NP
+                (NP (DT the) (NN inhibition))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (NN hepatocyte) (NN growth) (NN factor))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN HGF))
+                        (-RRB- -RRB-)))
+                    (NN synthesis)))))
+            (CC and)
+            (VP (VBG permitting)
+              (NP (JJ lateral) (NN branch) (NN development)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Outer) (JJ shaded) (NN zone))
+        (, ,)
+        (NP
+          (NP (JJ fibrous) (NN sheath))
+          (: ;)
+          (NP (NN L)))
+        (, ,))
+      (NP (NN lumen)))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS b) (-RRB- -RRB-))
+      (VP (VBZ TGF-β)
+        (PP (IN in)
+          (NP
+            (NP (NN growth) (NN inhibition))
+            (CC and)
+            (NP
+              (NP (NN induction))
+              (PP (IN of)
+                (NP (DT the) (JJ periductal) (JJ fibrous) (NN sheath))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP (NN end) (NNS buds))
+          (VP (VBP are)
+            (VP (VBN inhibited)
+              (PP (IN by)
+                (NP (JJ exogenous) (NN TGF-β)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ remains)
+        (VP (VBN unproven)
+          (PP (IN as)
+            (NP
+              (NP (DT the) (JJ natural) (NN mechanism))
+              (PP (IN for)
+                (NP
+                  (NP (NN end) (NN bud) (NN growth))
+                  (NN termination))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (DT a)
+            (ADJP (RB purely) (JJ speculative))
+            (NN model))
+          (PP (IN for)
+            (NP (JJ fibrous) (NN induction)))))
+      (, ,)
+      (NP
+        (NP (NN TGF-β))
+        (, ,)
+        (VP (VBG acting)
+          (PP (IN in)
+            (NP (DT a) (JJ paracrine) (NN mode)))
+          (PP (IN on)
+            (NP
+              (NP (JJ cap/myoepithelial) (NNS cells))
+              (PRN (-LRB- -LRB-)
+                (NP (JJ black) (NN layer))
+                (-RRB- -RRB-)))))
+        (, ,))
+      (VP (VBZ induces)
+        (NP
+          (NP (JJ parathyroid-hormone-related) (NN protein))
+          (PRN (-LRB- -LRB-)
+            (NP (NN P))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (VBN Secreted) (JJ parathyroid-hormone-related) (NN protein))
+      (ADVP (RB then))
+      (VP (VBZ acts)
+        (PP (IN on)
+          (NP (JJ stromal) (NNS targets)))
+        (, ,)
+        (S
+          (VP (VBG inducing)
+            (NP
+              (ADJP (RB highly) (JJ localized))
+              (NN fibrosis))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Finally))
+      (, ,)
+      (PP (IN along)
+        (NP (DT the) (NN duct)))
+      (, ,)
+      (NP (NN TGF-β1))
+      (VP (VBZ inhibits)
+        (NP (JJ lateral) (NN branching))
+        (PP (IN by)
+          (S
+            (VP (VBG blocking)
+              (NP (NN HGF) (NN action)))))))
+    (. .)))
+

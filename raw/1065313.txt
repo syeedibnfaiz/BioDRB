@@ -1,0 +1,642 @@
+0
+67
+Rheumatoid arthritis synovium contains plasmacytoid dendritic cells
+69
+77
+Abstract
+79
+223
+We have previously described enrichment of antigen-presenting HLA-DR+ nuclear RelB+ dendritic cells (DCs) in rheumatoid arthritis (RA) synovium.
+224
+379
+CD123+HLA-DR+ plasmacytoid DCs (pDCs) and their precursors have been identified in human peripheral blood (PB), lymphoid tissue, and some inflamed tissues.
+380
+545
+We hypothesized recruitment of pDCs into the inflamed RA synovial environment and their contribution as antigen-presenting cells (APCs) and inflammatory cells in RA.
+546
+761
+CD11c+ myeloid DCs and CD123+ pDCs were compared in normal and RA PB, synovial fluid (SF), and synovial tissue by flow cytometry, immunohistochemistry, and electron microscopy and were sorted for functional studies.
+762
+922
+Nuclear RelB-CD123+ DCs were located in perivascular regions of RA, in a similar frequency to nuclear RelB+CD123- DCs, but not normal synovial tissue sublining.
+923
+1041
+Apart from higher expression of HLA-DR, the numbers and phenotypes of SF pDCs were similar to those of normal PB pDCs.
+1042
+1338
+While the APC function of PB pDCs was less efficient than that of PB myeloid DCs, RA SF pDCs efficiently activated resting allogeneic PB T cells, and high levels of IFN-γ, IL-10, and tumor necrosis factor α were produced in response to incubation of allogeneic T cells with either type of SF DCs.
+1339
+1483
+Thus, pDCs are recruited to RA synovial tissue and comprise an APC population distinct from the previously described nuclear RelB+ synovial DCs.
+1484
+1556
+pDCs may contribute significantly to the local inflammatory environment.
+1558
+1570
+Introduction
+1572
+1822
+Plasmacytoid dendritic cells (pDCs) are a distinct population of antigen-presenting cells (APCs) with the capacity for potent antigen-presenting function and production of large amounts of cytokines, including tumor necrosis factor (TNF)-α and IFN-α.
+1823
+2048
+Human pDCs can be identified by cell-surface expression of MHC molecules, the α-chain of the IL-3 receptor (CD123), and the presence of blood dendritic-cell (DC) antigens known as BDCA2 and BDCA4 in a proportion of cells [1].
+2049
+2159
+In comparison with CD11c+ myeloid DCs, pDCs display a distinct set of chemokine and Toll-like receptors [2-4].
+2160
+2276
+In response to viruses and CpG DNA, pDCs become activated to produce IFN-α and their APC function is enhanced [5-8].
+2277
+2510
+While pDCs were first demonstrated in the T-cell areas of lymph nodes [5,9], precursors of this DC population have been isolated from several sources, including normal peripheral blood (PB), thymus, fetal liver, and bone marrow [10].
+2511
+2779
+Although they do not reside in normal peripheral tissues, pDCs have been shown to infiltrate certain inflamed tissues and tumor sites, including the skin in psoriasis and lupus, the cerebrospinal fluid in multiple sclerosis, and melanoma and ovarian carcinoma [11-15].
+2780
+3057
+While pDCs play an important effector role in viral disease, being the major producers of IFN-α and having a primary role in innate immunity, there is also evidence that they may play an immunoregulatory role, through the induction of Th2 (T helper 2)-type cytokines [9,16-18].
+3060
+3273
+The synovial autoimmune reaction of rheumatoid arthritis (RA) is characterized by lymphocyte, macrophage, and DC infiltration that can progress to the development of lymphoid tissue in established disease [19-21].
+3274
+3438
+DCs are likely to contribute to the formation and maintenance of such organized lymphoid tissue and antigen presentation in RA and other autoimmune lesions [22-24].
+3439
+3637
+We have previously shown that the effector site in RA synovial tissue is enriched in differentiated myeloid DCs, which express CD33, CD11c, MHC and costimulatory molecules, and nuclear RelB [21,25].
+3638
+3801
+Translocation of RelB to the nucleus of myeloid DCs is associated with APC function, particularly through increased expression of MHC molecules CD86 and CD40 [26].
+3804
+3922
+The proinflammatory cytokines TNF-α and IL-1β are key contributors to the inflammatory cytokine cascade in RA [27,28].
+3923
+4077
+This relates to a number of actions, but activation of the endothelium by TNF-α is particularly important in cellular recruitment to the synovium [29-31].
+4078
+4283
+Since RA is characterized by endothelial activation, leukocyte recruitment, and the development of high endothelial venules, we hypothesized that pDCs would be enriched in inflamed but not normal synovium.
+4284
+4567
+Since the functional role of pDCs in disease pathogenesis is only partly understood, we also wished to address whether these cells represent a population distinct from the described nuclear RelB+ synovial DCs, and whether they may contribute as APCs or inflammatory cells in RA [21].
+4570
+4591
+Materials and methods
+4593
+4695
+Thirty patients who fulfilled the American College of Rheumatology criteria for RA were included [32].
+4696
+4773
+Of these, 10 provided synovial fluid (SF) samples and 27 provided PB samples.
+4774
+4935
+Of the 30 patients, 80% were seropositive, 62% were female, and 73% were taking at least one disease-modifying antirheumatic drug or low-dose prednisone or both.
+4936
+5133
+Synovial tissue was obtained at arthroscopy from seven patients with RA, of whom three were untreated and four were taking at least one disease-modifying antirheumatic drug and low-dose prednisone.
+5134
+5186
+The duration of disease ranged from 0.5 to 18 years.
+5187
+5429
+In addition, we studied synovial tissue from four healthy individuals with nonspecific knee pain undergoing arthroscopy, one patient who had had psoriatic arthritis for 8 years, and one patient who had had ankylosing spondylitis for 30 years.
+5430
+5493
+Each patient with spondyloarthropathy was taking sulfasalazine.
+5494
+5539
+No patient in the study was taking biologics.
+5540
+5634
+Synovial tissue was provided by Dr Malcolm Smith (Repatriation Hospital, Adelaide, Australia).
+5635
+5768
+PB buffy coats prepared from 30 healthy donors were obtained from the Red Cross Blood Transfusion Service (Brisbane, QLD, Australia).
+5769
+5860
+The study was approved by the Research Ethics Committee of the Princess Alexandra Hospital.
+5863
+6212
+All cells were cultured in RPMI 1640 (Gibco, Life Technologies, Mulgrave, VIC, Australia) supplemented with 10% FCS (CSL Ltd, Parkville, VIC, Australia), 0.3 mg/ml L-glutamine (Trace Biosciences, Castle Hill, NSW, Australia), 0.12 mg/ml benzylpenicillin (CSL), and 10 μg/ml gentamicin (Delta West, Pharmacia and Upjohn, Spring Hill, QLD, Australia).
+6213
+6819
+The monoclonal antibodies used in this study include FITC, phycoerythrin (PE), and purified anti-CD11c, CD14-PerCP, PE, biotinylated and purified anti-CD123, CD86-FITC (all from BD Pharmingen, San Diego, CA, USA), BDCA2-FITC (Miltenyi Biotech, San Francisco, CA, USA), HLA-DR-biotin (Coulter Immunotech, Fullerton, CA, USA), CD40-FITC (Biolegend, San Diego, CA, USA), CD80-FITC (Cymbus Biotech, Chandlers Ford, Hants, UK), CD68 (Kp-1, DAKO, Carpinteria, CA, USA), RelB (C-19, Santa Cruz Biotech, Santa Cruz, CA, USA), and biotinylated Ulex europaeus agglutinin I (Vector Laboratories, Burlingame, CA, USA).
+6822
+7002
+Mononuclear cells were prepared from normal or RA PB or RA SF by density gradient centrifugation over Ficoll-Paque (Pharmacia Biotech, Uppsala, Sweden) as described elsewhere [33].
+7003
+7468
+T cells were purified from PB mononuclear cells by passing the cells over a nylon wool column, followed by immunomagnetic depletion of remaining monocytes, DCs, B cells, and NK (natural killer) cells using monoclonal antibodies against CD14, CD16, CD19, CD56, and HLA-DR (all from BD Pharmingen), followed by goat antimouse immunoglobulin magnetic beads, then passage through a strong magnetic field (MACS, Miltenyi Biotech), and collection of the unbound fraction.
+7469
+7561
+On analysis by flow cytometry, the unbound fraction routinely contained 95–98% CD3+ T cells.
+7562
+7743
+DC-enriched non-T cells were produced by immunomagnetic depletion of T, B, and NK cells from non-T cells, by incubation with monoclonal antibodies against CD19, CD16, CD56, and CD3.
+7746
+7993
+To enumerate CD123+ and CD11c+ subsets of DCs, mononuclear cells from normal PB or RA SF were stained for four-colour flow cytometry as described elsewhere [33], using monoclonal antibodies against CD14-PECy5, CD11c-FITC, CD123-PE, and HLA-DR-APC.
+7994
+8054
+Live CD14-HLA-DR+ mononuclear cells were gated for analysis.
+8055
+8129
+Subset percentages are expressed as percentage of total mononuclear cells.
+8130
+8227
+Listmode data were analyzed using Winlist 2.0 software (Verity Software House, Topsham, ME, USA).
+8228
+8443
+For sorting, PB or SF DC-enriched non-T cells stained with the same four markers were sorted using the Moflo flow cytometer (DAKO), gating on CD14-HLA-DR+ and either CD123+CD11c- or CD11c+CD123- cells, respectively.
+8444
+8665
+For phenotypic analysis, mononuclear cells from PB or SF were stained with CD14-PECy5, CD123-PE or CD11c-PE, HLA-DR-APC, and either a fourth monoclonal antibody or isotype control monoclonal antibody conjugated with FITC.
+8666
+8700
+DCs were gated as described above.
+8703
+8790
+Electron microscopy of freshly sorted cells was carried out as described elsewhere [5].
+8791
+8947
+After fixation in 2.5% glutaraldehyde in phosphate-buffered saline, the cells were post-fixed with an aqueous solution of 1% OsO4 containing 1.5% K4Fe(CN)6.
+8948
+9036
+Subsequently, the specimens were dehydrated in an alcohol series and embedded into epon.
+9037
+9200
+Ultrathin sections (50 nm) were contrasted with lead citrate and uranyl acetate and studied with a CM100 electron microscope (Philips, Eindhoven, The Netherlands).
+9203
+9351
+Various numbers of sorted PB or RA SF DCs were incubated with 105 allogeneic PB T cells in triplicate wells for 5 days, as described elsewhere [33].
+9352
+9492
+Supernatants were removed from some cultures and [3H]thymidine (1 μCi/well, ICN Biochemicals) was added to the remainder for the final 18 h.
+9493
+9694
+Cells were harvested onto glass-fiber filter mats and the incorporation of [3H]thymidine was determined by liquid scintillation spectroscopy (Packard Topcount, Packard Instrument Co, Meriden, CT, USA).
+9695
+9798
+IFN-γ, IL-10, and TNF-α were measured in supernatants by ELISA using OptEIA ELISA kits (BD Pharmingen).
+9801
+10008
+Frozen or paraffin-embedded sections of synovial tissue from patients with untreated active RA were obtained by arthroscopic biopsy and supplied by Malcolm Smith (Repatriation Hospital, Adelaide, Australia).
+10009
+10160
+Normal synovial tissue was obtained at arthroscopy from patients undergoing arthroscopy for nonspecific knee pain and in whom no abnormality was found.
+10161
+10322
+After fixation with acetone, sections were stained with anti-CD11c or anti-CD123 using an immunoperoxidase technique, and revealed with diaminobenzidine (brown).
+10323
+10583
+Frozen sections were double-stained with U. europaeus agglutinin I (Ulex), a lectin that specifically binds endothelial cells (fast red), and anti-CD123 (brown), using a double, immunoperoxidase–immunoalkaline phosphatase technique as described elsewhere [34].
+10584
+10813
+Formalin-fixed paraffin-embedded sections were antigen-retrieved in 10 mM citrate buffer at pH6 in an autoclave, then stained with anti-CD123 (diaminobenzidine, brown) alone, or in combination with anti-RelB (BCIP, DAKO, purple).
+10814
+11011
+Sections were counterstained with hematoxylin except when they had been double-stained for CD123 and RelB and were photographed using a transmitted-light microscope (Leitz Diaplan, Leica, Germany).
+11012
+11145
+To quantitate infiltration by CD123+ DCs, the number of CD123+Ulex- cells was counted in sections double-stained with CD123 and Ulex.
+11146
+11360
+Cells were counted in each of the entire sections from three patients and three normal controls at high power, and for each biopsy this number was corrected for the area of the section to obtain the number per mm2.
+11361
+11554
+To quantitate infiltration by CD11c+ cells, the number of these cells was counted in three high-power fields of the synovial sublining in sections from three patients and three normal controls.
+11557
+11616
+Differences were analyzed using unpaired Student's t-tests.
+11619
+11626
+Results
+11628
+11836
+We have previously shown that synovial tissue in RA and spondyloarthropathy is enriched in differentiated myeloid DCs that express CD33, CD11c, MHC class II, costimulatory molecules, and nuclear RelB [21,25].
+11837
+11941
+Translocation of RelB to the nucleus is associated with maturation and APC function of myeloid DCs [26].
+11942
+12033
+These nuclear RelB+ DCs are absent in normal synovial tissue and are rare in RA SF [21,23].
+12034
+12271
+To determine whether RA synovial tissue was infiltrated by CD123+ pDCs in addition to CD11c+ myeloid cells, frozen synovial tissue sections, either normal or from patients with RA or spondyloarthropathy, were stained with CD11c or CD123.
+12272
+12388
+CD11c+ cells were found both in the lining layer and adjacent to vessels in the sublining of normal synovial tissue.
+12389
+12473
+In contrast, CD123 only stained endothelial cells in the normal tissue (Fig. 1a,1b).
+12474
+12592
+In RA synovial tissue, CD11c again stained cells adjacent to vessels, now within lymphoid aggregates in the sublining.
+12593
+12718
+A population of CD123+ cells with dendritic appearance was also stained adjacent to CD123+ blood vessels in RA (Fig. 1c,1d,).
+12719
+12866
+Cells expressing TNF-α in RA synovial tissue were found in a similar location in serial sections (data not shown), as demonstrated previously [35].
+12867
+13056
+To confirm the perivascular CD123+ cells in synovial tissue, normal and RA synovial tissue were double-stained with the endothelial cell marker Ulex agglutinin (red) and with CD123 (brown).
+13057
+13325
+Whereas all CD123+ structures in normal synovial tissue colocalized with Ulex agglutinin (orange), single-stained CD123+ cells (brown) were located in perivascular lymphoid aggregates and within the lumen of occasional blood vessels in RA synovial tissue (Fig. 1e,1f).
+13326
+13606
+These CD123+ cells are similar in appearance to those previously demonstrated as CD123+ pDCs in human tonsil, in that they are smaller than CD11c+ myeloid DCs, with shorter dendritic processes, and cell clusters gave the appearance of locally proliferating cells (Fig. 1g) [5,36].
+13607
+13731
+While some macrophages can express CD123, there was no colocalization in synovial tissue of CD123 and CD68 (data not shown).
+13732
+13854
+However, aside from the dendritic morphology, we cannot exclude that some of the CD123+ cells stained are mast cells [37].
+13855
+14029
+To determine whether CD123+ cells in synovial tissue were also nuclear RelB+, formalin-fixed tissue was double-stained for RelB and CD123 without hematoxylin counterstaining.
+14030
+14138
+No CD123+ cells had translocated RelB to the nucleus, although some expressed cytoplasmic RelB (Fig. 1h,1i).
+14139
+14232
+In contrast, nuclear staining of RelB was evident in adjacent CD123- cells (Fig. 1h, arrows).
+14233
+14417
+All patients with RA showed similar infiltration by pDCs and no differences in the cell numbers or location were noted between patients with RA or spondyloarthropathy (data not shown).
+14420
+14618
+We quantitated pDCs in normal or RA synovial tissue by counting CD123+Ulex- cells in synovial tissue sections from patients with RA or normal controls stained with CD123 and Ulex as shown in Fig. 1.
+14619
+14742
+Whereas no pDCs infiltrated the normal tissue, approximately 22 pDCs per mm2 were identified within the RA tissue (Fig. 2).
+14743
+14865
+This number is similar to the number of nuclear RelB+ differentiated DCs identified previously in RA synovial tissue [38].
+14866
+15000
+In contrast, CD11c+ cells infiltrated both normal and RA synovial tissue, with significantly larger numbers in RA (P < 0.05) (Fig. 2).
+15001
+15224
+We conclude that the CD123+ cell population is most likely a pDC population that infiltrates RA and spondyloarthropathy but not normal synovial tissue and that it is distinct from the described nuclear RelB+ DCs [21,36,39].
+15225
+15315
+CD11c+ cells comprise immature and differentiated myeloid DCs as well as monocytes [1,34].
+15316
+15471
+Differentiated nuclear RelB+ DCs are found within the CD11c+ DC population in RA and other inflammatory arthritides but not in normal synovial tissue [21].
+15474
+15618
+Workers in our laboratory have previously shown that RA SF is enriched in CD11c+CD33brightCD14- myeloid DCs with efficient APC function [25,40].
+15619
+15739
+However, when freshly isolated, only a small proportion of SF CD33brightCD14- DCs have translocated RelB to the nucleus.
+15740
+15831
+RA and normal PB mononuclear cells contain similar proportions of CD33brightCD14- DCs [25].
+15832
+15992
+To examine plasmacytoid and myeloid DCs in parallel, we compared RA SF with RA and healthy, control PB for the proportion of CD123+ and CD11c+ HLA-DR+CD14- DCs.
+15993
+16171
+After purification of mononuclear cells from either normal or RA PB or RA SF by gradient centrifugation, cells were stained with CD123-PE, CD11c-FITC, CD14-PECy5, and HLA-DR-APC.
+16172
+16257
+Polymorphonuclear cells were excluded on the basis of forward and side light-scatter.
+16258
+16385
+Since basophils and monocytes can also express CD123, potential CD123+ non-DCs were excluded by gating CD14-HLA-DR+ cells [10].
+16386
+16487
+By four-color analysis, CD14-HLA-DR+CD123+ and CD11c+ DC populations could be distinguished (Fig. 3).
+16488
+16592
+The percentages of CD123+CD11c- pDCs in RA PB and normal PB were low and did not differ from each other.
+16593
+16718
+This observation contrasts with the reduction in pDCs observed in blood from patients with systemic lupus erythematosus [41].
+16719
+16869
+CD11c+CD123- myeloid DCs were more common than CD123+ DCs in patient and control blood (P < 0.005), in keeping with previous studies of normal PB [1].
+16870
+17039
+RA SF contained a significantly greater percentage of CD11c+ DCs than normal or RA PB (P < 0.005) – in accord with previous studies using the markers CD33 and CD14 [40].
+17040
+17130
+The proportion of CD11c+ DCs in RA SF was higher than that of RA SF CD123+ DCs (P < 0.05).
+17131
+17251
+Although the difference was small, the percentage of CD123+ DCs in RA SF was higher than in RA or control PB (P < 0.05).
+17252
+17415
+The data show that CD123+ DCs are present in RA SF, and that the ratio of CD11c+ to CD123+ DCs is similar in RA SF to that in normal or RA PB (approximately 10:1).
+17416
+17552
+In RA synovial tissue, mature myeloid nuclear RelB+ and CD123+ DCs have infiltrated perivascular lymphoid aggregates in similar numbers.
+17553
+17659
+Previously, similar numbers of immature and mature myeloid DCs were identified in RA synovial tissue [42].
+17660
+17721
+Thus pDCs make up about 30% of DCs within RA synovial tissue.
+17722
+17917
+The present and previously published data, taken together, show that both pDCs and myeloid DCs are recruited to RA synovium, with an enrichment of pDCs in synovial tissue relative to blood or SF.
+17920
+18044
+In normal PB, pDCs circulate as precursors with the potential for recruitment into tissues in response to chemokines [2,43].
+18045
+18365
+These precursors exhibit a characteristic plasmacytoid morphology on electron microscopy, a cell-surface phenotype characterized by expression of the BDCA2 antigen, by low levels of costimulatory molecule expression, and by the potential for IFN-α production in response to viral or immunostimulatory CpG DNA motifs [1].
+18366
+18480
+We therefore analyzed the characteristics of sorted RA SF CD123+ DCs and compared them with control PB CD123+ DCs.
+18481
+18652
+On electron microscopic examination, freshly sorted PB and SF CD123+ DCs appeared similar, with a smooth surface and abundant rough endoplasmic reticulum in the cytoplasm.
+18653
+18754
+The nucleus was nonlobulated and abundant in euchromatin and contained a distinct nucleolus (Fig. 4).
+18755
+18875
+CD11c+ PB DCs were morphologically distinct from the CD123+ pDCs, with a lobulated nucleus and some phagocytic vesicles.
+18876
+18977
+CD11c+ DCs from SF showed more membrane ruffling and phagocytic activity than those from PB (Fig. 4).
+18978
+19215
+Thus SF CD123+ DCs morphologically resemble CD123+ DCs in PB, whereas CD11c+ SF DCs display a greater level of ruffling and phagocytic activity, consistent with their enhanced level of activation, than CD11c+ circulating precursors [21].
+19218
+19338
+On four-color flow cytometric analysis, gated RA SF CD14-HLA-DR+CD123+ DCs expressed low levels of CD40, CD80, and CD86.
+19339
+19434
+All or the majority of SF CD123+ DCs expressed the BDCA2 marker of immature pDC precursors [1].
+19435
+19636
+This cell-surface phenotype closely resembles that of control PB CD123+ DC precursors, although BDCA2 was consistently expressed at high levels only by a subset of CD123+ HLA-DR+ cells in PB (Fig. 4b).
+19637
+19717
+No PB or SF cells expressed the DC differentiation marker CD83 (data not shown).
+19718
+19907
+However, SF CD123+ and CD11c+ DCs expressed higher levels of cell-surface HLA-DR than the corresponding cells in PB, suggesting some cellular activation within the SF environment [5,10,44].
+19908
+20059
+Thus CD123+ pDCs comprise a small proportion of RA SF mononuclear cells, which are predominantly immature but show some evidence of activation in situ.
+20060
+20180
+These observations regarding phenotype and PB and SF numbers are consistent with findings in two recent studies [39,45].
+20183
+20343
+We have previously shown that freshly isolated CD33brightCD14-CD11c+ SF DCs efficiently stimulate resting T cells in allogeneic mixed lymphocyte reactions [21].
+20344
+20573
+In contrast, whereas freshly isolated CD11c+ PB DCs are efficient APCs in mixed lymphocyte reactions, CD123+ PB DCs usually require prior activation in the presence of IL-3 and CD154 for acquisition of APC function in this assay.
+20574
+20755
+To analyse the functional capability of RA SF DCs, CD11c+ and CD123+ DCs were sorted from either normal PB or RA SF and incubated with freshly isolated normal allogeneic PB T cells.
+20756
+20918
+Freshly isolated PB CD11c+ but not CD123+ DCs efficiently stimulated allogeneic T-cell proliferation and IFN-γ and IL-10 production in mixed lymphocyte reactions.
+20919
+21081
+Addition of IL-3 made no difference to the T-cell proliferation in response to CD123+ DCs (data not shown), suggesting that death of the APCs was not responsible.
+21082
+21256
+In contrast, both freshly isolated CD11c+ and CD123+ SF DCs efficiently stimulated proliferation and IFN-γ and IL-10 production by resting normal allogeneic T cells (Fig. 5).
+21257
+21352
+A recent study demonstrated the capacity of RA SF to inhibit pDC differentiation in vitro [39].
+21353
+21589
+The current studies are consistent, in that SF pDCs showed only some evidence of activation in situ, but once incubated in mixed lymphocyte reactions in the absence of SF they displayed enhanced APC function relative to that of PB pDCs.
+21590
+21812
+Whereas stimulation of mixed lymphocyte reactions either by CD11c+ or by CD123+ PB DCs resulted in little TNF-α production, stimulation by either of these DCs from RA SF resulted in high levels of TNF-α secretion (Fig. 5).
+21813
+21945
+The data indicate that pDCs have the capacity for enhanced APC function relative to PB pDCs once removed from the RA SF environment.
+21946
+22216
+Furthermore, at the time of antigen presentation by SF DCs to T cells, production of a number of cytokines by either T cells or DCs may be stimulated, including TNF-α, and this appears to be a characteristic of RA synovial DCs rather than the subtype of stimulating DCs.
+22219
+22229
+Discussion
+22231
+22417
+Ongoing inflammation in RA involves positive feedback loops between activated T cells, B cells, DCs, macrophages, and their products, with destructive consequences for parenchymal cells.
+22418
+22630
+Clinical and animal data indicate that effector-site DCs play an important proinflammatory role in the perpetuation of autoimmune disease and contribute to the lymph-node-like organization of that tissue [22,46].
+22631
+22787
+This role may be effected by local antigen presentation to CD4+ and CD8+ effector cells, but DC cytokine and chemokine secretion are also important [47,48].
+22788
+22951
+TNF-α and IL-1β are important downstream proinflammatory and destructive cytokines in RA for somatic cells, whose release is promoted by activation of macrophages.
+22952
+23044
+IL-10 is highly expressed in RA, and IFN-γ is an important T-cell effector cytokine [49,50].
+23047
+23289
+In the current studies, we show that, in addition to the previously described population of nuclear RelB+ DCs, a further population of nuclear RelB-CD123+ pDCs is located in perivascular regions of RA but not normal synovial tissue sublining.
+23290
+23451
+Moreover, pDCs were located within blood vessels, and both DC populations were observed in perivascular areas in which cells producing TNF-α were colocated [35].
+23452
+23583
+Adherence of CD123+ and CD11c+ DCs to TNF-α-activated endothelium was higher than to resting endothelium in vitro (data not shown).
+23584
+23941
+TNF-α plays an important role in the recruitment of other leukocytes to RA synovial tissue [29], and this most likely pertains to the recruitment of pDCs to RA but not normal synovial tissue through expression of adhesion molecules such as intercellular adhesion molecule (ICAM)-1, CD62-E, and CD62-P and interaction with their ligands on pDCs [9,11,51-54].
+23942
+24024
+Furthermore, TNF-α up-regulates synthesis of chemokines by endothelial cells [55].
+24025
+24153
+During experimentally elicited allergic rhinitis, CD123+HLA-DR+ pDCs have been shown to be recruited to human nasal mucosa [11].
+24156
+24262
+The gene for MxA is specifically induced by IFN-α and therefore identifies a population of activated pDCs.
+24263
+24311
+In contrast, BDCA2 is a marker of immature pDCs.
+24312
+24404
+MxA+ pDCs have previously been demonstrated in involved lupus skin and inflamed tonsil [13].
+24405
+24620
+In RA synovial tissue, BDCA2 was shown to stain fewer cells than CD123 or MxA, suggesting differentiation in situ of a large proportion of pDCs into cells with a capacity for production of IFN-α and other cytokines.
+24621
+24829
+Together, the current and previous studies demonstrate recruitment of pDCs to normal lymphoid organs as well as inflammatory sites, with local differentiation, but no recruitment to normal peripheral tissues.
+24830
+25056
+In contrast, CD11c+ myeloid precursors populate normal resting tissues, as shown here, but additional CD11c+ myeloid cellular recruitment takes place at inflammatory sites, where RelB nuclear translocation takes place [21,56].
+25057
+25182
+We have previously shown that, like synovial pDCs, CD123+ DCs in the T-cell area of human tonsil are also nuclear RelB- [23].
+25183
+25445
+The data suggest either that activation of pDCs is not associated with nuclear translocation and transcriptional activity of RelB or that conditions in tonsil and synovium do not induce sufficient RelB translocation for detection by immunohistochemistry [26,57].
+25446
+25698
+As preliminary studies in vitro demonstrate induction of RelB in PB pDCs after stimulation with lipopolysaccharide and CpG, and reduced production of IFN-α by pDCs in RelB-deficient mice, it is likely that RelB activation does accompany pDC activation.
+25699
+25866
+However, RelB translocation might be quantitatively reduced or RelB might be more rapidly degraded in the nucleus of pDCs than of myeloid DCs in inflamed tissues [58].
+25869
+26183
+Of relevance to the RA inflammatory lesion, stimulation of blood pDC precursors with signals including CD154, influenza virus, or CpG oligonucleotides induces production of large amounts of cytokines, including IFN-α, IFN-β, and TNF-α; induction of DC differentiation; and stimulation of APC function [3,39,44,59].
+26184
+26470
+Although inhibitory effects of SF on DC function, and thus on T-cell proliferation and cytokine production, are confirmed here [21,39,60], factors in the RA SF environment, such as IL-3 and CD154, may be sufficient to precondition the SF pDCs for efficient APC function ex vivo [36,44].
+26471
+26638
+IFN-γ, IL-10, and TNF-α were produced in mixed lymphocyte reactions stimulated by myeloid or pDCs derived from SF but not PB, potentially by DCs or by T cells or both.
+26639
+26863
+In the tissue, as a result of antigen presentation by myeloid DCs or pDCs, key effector cytokines may be produced in perivascular areas in RA, located strategically close to endothelial cells, as well as incoming leukocytes.
+26864
+26982
+It is not known whether pDCs are capable, like myeloid DCs, of migration from synovial tissue to draining lymph nodes.
+26983
+27265
+However, it seems probable that pDCs conditioned by local IL-3 and CD154, or even viral or bacterial products transported to the synovium, predominantly play local proinflammatory and antigen-presenting roles, through secretion of cytokines such as IFN-α and possibly TNF-α [61,62].
+27268
+27278
+Conclusion
+27280
+27418
+pDCs are recruited to RA synovial tissue and comprise an APC population distinct from the previously described nuclear RelB+ synovial DCs.
+27419
+27472
+The APC function of pDCs is greater in SF than in PB.
+27473
+27579
+Activated pDCs and interacting T cells may contribute significantly to the inflammatory environment in RA.
+27582
+27595
+Abbreviations
+27597
+27950
+APC = antigen-presenting cell; DC = dendritic cell; ELISA = enzyme-linked immunosorbent assay; FCS = fetal calf serum; FITC = fluorescein isothiocyanate; IFN = interferon; IL = interleukin; NK = natural killer; PB = peripheral blood; pDC = plasmacytoid DC; PE = phycoerythrin; RA = rheumatoid arthritis; SF = synovial fluid; TNF = tumor necrosis factor.
+27953
+27972
+Competing interests
+27974
+28034
+The author(s) declare that they have no competing interests.
+28037
+28059
+Authors' contributions
+28061
+28150
+LC, RT, LF, and PP conceived the experiments and LC, AB, LS, JP, and LF carried them out.
+28151
+28187
+LC, RT, and LF wrote the manuscript.
+28190
+28215
+Figure and Table captions
+28217
+28436
+Figure 1: Nuclear RelB-CD123+ plasmacytoid dendritic cells (pDCs) are located in close association with cells expressing tumor necrosis factor (TNF)-α in lymphoid aggregates of rheumatoid arthritis (RA) synovial tissue.
+28437
+28762
+Sections of frozen normal human synovial tissue (a, b, e) or synovial tissue from a patient with untreated active RA (c, f, g) or formalin-fixed sections from a patient with active RA (d, h, i) were stained with anti-CD11c (brown, a, c), anti-CD123 (brown, b, d), or anti-TNF-α (brown, g) using an immunoperoxidase technique.
+28763
+28970
+For double staining, sections were stained with Ulex (red) and anti-CD123 (brown, e, f, g) or with RelB (purple) and CD123 (brown, h, i) using a double, immunoperoxidase–immunoalkaline phosphatase technique.
+28971
+29099
+All sections were counterstained with hematoxylin (blue) except h and i, in which the nucleus of CD123+ cells appears as a hole.
+29100
+29147
+The thick arrow in d identifies a blood vessel.
+29148
+29326
+Thin arrows denote representative CD123+ perivascular DCs (d), representative double-stained vessels (e), a CD123+ cell within a blood vessel (f), and nuclei stained by RelB (h).
+29327
+29414
+Data are representative of at least three separate RA donors in individual experiments.
+29415
+29442
+Scale bars represent 20 μm.
+29444
+29563
+Figure 2: CD123+ dendritic cells (DCs) and CD11c+ cells are enriched in rheumatoid arthritis (RA) synovial tissue (ST).
+29564
+29683
+CD123+ DCs were quantitated by counting the number of CD123+Ulex- cells in sections double-stained with CD123 and Ulex.
+29684
+29894
+Cells were counted in each of the entire sections from three patients and three normal controls at high power, and for each biopsy this number was corrected for the area of the section to obtain the number/mm2.
+29895
+30089
+To quantitate CD11c+ cellular infiltration, the number of CD11c+ cells was counted in three high-power fields of the synovial sublining in sections from three patients and three normal controls.
+30090
+30140
+Data represent means ± standard error of the mean.
+30142
+30257
+Figure 3: CD11c+ dendritic cells (DCs) and CD123+ DCs are present in rheumatoid arthritis (RA) synovial fluid (SF).
+30258
+30428
+After purification of mononuclear cells from either normal or RA peripheral blood (PB) or RA SF, cells were stained with CD123-PE, CD11c FITC, CD14-PECy5, and HLA-DR-APC.
+30429
+30562
+Live HLA-DR+CD14- mononuclear cells were gated; polymorphonuclear cells were excluded on the basis of forward and side light-scatter.
+30563
+30667
+Scatter plots depict percentage of total PB or SF cells expressing the indicated markers for all donors.
+30668
+30798
+APC, antigen-presenting cell; PBMC, peripheral blood mononuclear cells; PE, phycoerythrin; SFMC, synovial fluid mononuclear cells.
+30800
+30886
+Figure 4: Morphology and cell-surface phenotype of dendritic cell (DC) subpopulations.
+30887
+31174
+(a) Freshly isolated CD11c+CD123- DCs and CD123+CD11c- DCs were sorted from either normal peripheral blood (PB) or rheumatoid arthritis (RA) synovial fluid (SF) according to the gating strategy outlined in the legend to Fig. 3 and were then prepared for transmission electron microscopy.
+31175
+31231
+Micrographs are representative of three separate donors.
+31232
+31259
+Scale bars represent 20 μm.
+31260
+31422
+(b) Normal PB or RA SF mononuclear cells were stained with CD123-PE, CD14-PECy5, HLA-DR-APC, and either isotype control or the depicted marker labelled with FITC.
+31423
+31578
+Live HLA-DR+CD14-CD123+ cells or HLA-DR+CD14-CD11c+ cells were gated; polymorphonuclear cells were excluded on the basis of forward and side light-scatter.
+31579
+31701
+The expression of isotype control (dotted lines) and indicated markers (continuous lines) by the gated cells are depicted.
+31702
+31751
+Data are from three donors of normal PB or RA SF.
+31752
+31800
+APC, antigen-presenting cell; PE, phycoerythrin.
+31802
+32159
+Figure 5: CD123+ and CD11c+ synovial fluid (SF) dendritic cells (DCs) are efficient antigen-presenting cells (APCs) and induce secretion of tumor necrosis factor α. Freshly sorted CD123+CD11c- or CD11c+CD123- DCs from either normal peripheral blood (PB) (a–d) or rheumatoid arthritis (RA) SF (e–h) were incubated with 105 purified normal allogeneic T cells.
+32160
+32267
+T-cell proliferation was measured by [3H]thymidine incorporation of triplicate wells after 60 hours (a, e).
+32268
+32325
+Unstimulated T-cell proliferation was routinely <500 cpm.
+32326
+32443
+Data represent means ± standard error of the mean of triplicate wells and are from three individual PB and SF donors.
+32444
+32630
+The concentrations of IFNγ, IL-10, and tumor necrosis factor (TNF)-α were measured in supernatants of allogeneic mixed lymphocyte reactions stimulated by sorted PB (b–d) or SF DCs (f–h).
+32631
+32703
+Data are means of duplicate samples and are from two separate SF donors.

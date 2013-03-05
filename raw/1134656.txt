@@ -1,0 +1,1032 @@
+0
+100
+Predictive screening for regulators of conserved functional gene modules (gene batteries) in mammals
+102
+110
+Abstract
+112
+351
+Background: The expression of gene batteries, genomic units of functionally linked genes which are activated by similar sets of cis- and trans-acting regulators, has been proposed as a major determinant of cell specialization in metazoans.
+352
+487
+We developed a predictive procedure to screen the mouse and human genomes and transcriptomes for cases of gene-battery-like regulation.
+488
+691
+Results: In a screen that covered ~40 per cent of all annotated protein-coding genes, we identified 21 co-expressed gene clusters with statistically supported sharing of cis-regulatory sequence elements.
+692
+1081
+66 predicted cases of over-represented transcription factor binding motifs were validated against the literature and fell into three categories: (i) previously described cases of gene battery-like regulation, (ii) previously unreported cases of gene battery-like regulation with some support in a limited number of genes, and (iii) predicted cases that currently lack experimental support.
+1082
+1330
+The novel predictions include for example Sox 17 and RFX transcription factor binding sites that were detected in ~10% of all testis specific genes, and HNF-1 and 4 binding sites that were detected in ~30% of all kidney specific genes respectively.
+1331
+1369
+The results are publicly available at.
+1370
+1484
+Conclusion: 21 co-expressed gene clusters were enriched for a total of 66 shared cis-regulatory sequence elements.
+1485
+1599
+A majority of these predictions represent novel cases of potential co-regulation of functionally coupled proteins.
+1600
+1737
+Critical technical parameters were evaluated, and the results and the methods provide a valuable resource for future experimental design.
+1739
+1749
+Background
+1751
+1931
+To understand how gene expression is coordinated to produce hundreds of cell phenotypes from an identical complement of genes is a principal challenge in mammalian genome research.
+1932
+2231
+A commonly suggested model for terminal differentiation in metazoans is that the core features of the cellular phenotype are mediated by a set of genes that is regulated as a gene battery, i.e. a set of functionally coupled genes that are activated by similar cis- and trans-acting regulators [1-3].
+2232
+2449
+Although the gene battery is an idealized concept, concrete examples of gene battery-like regulation have been found in for example muscle subtypes [4-7], megakaryocytes [8], the epidermis [9] and lymphocytes [10,11].
+2452
+2608
+A key step in the elucidation of gene battery-like regulation is to detect and functionally test the cis regulatory elements that mediate the co-regulation.
+2609
+2677
+A number of computation-based methods have been proposed to do this.
+2678
+2787
+In micro-organisms, computational methods have proven useful to detect modules of co-regulated genes [12,13].
+2788
+3050
+In mammals, predictive models based on assumed co-regulation at the cis level have been constructed for liver- and skeletal muscle-selective gene regulation [14,15], and general tools have been developed for the regulatory analysis of co-expressed genes [16-18].
+3053
+3323
+The aim of this work is to screen the mouse and human genomes and transcriptomes for instances where sharing of cis-regulatory sequences is statistically coupled to conserved co-expression of genes, i.e. cases that fall within or near the idealized gene battery concept.
+3324
+3484
+Another aim is to critically investigate technical parameters in order to maximize the sensitivity by which co-regulation of co-expressed genes can be detected.
+3485
+3722
+In a screen that covered ~40 per cent of all protein-coding genes according to the latest Ensembl annotation, we identified 21 co-expressed gene clusters with 66 cases of statistically supported sharing of cis-regulatory sequence motifs.
+3723
+3893
+The predictive value of the assignment of transcription factor binding sites was experimentally evaluated on EBF binding sites in a set of B-cell expressed gene clusters.
+3894
+4041
+The predicted cases of co-regulation include several previously known prototype examples of tissue specific regulation, but also novel predictions.
+4042
+4188
+All data are made available to the research community in the form of an internet resource that may serve as a starting point for further analysis.
+4191
+4198
+Results
+4200
+4340
+The analysis was based on the assumption that homologous genes in mouse and human are equivalent in most aspects of regulation and function.
+4341
+4438
+In particular, we assumed that the transcriptional regulation is conserved for orthologous genes.
+4439
+4584
+For example, the mouse gene Myh1 and the human gene MYH1 are assumed to share expression pattern and to share important cis-regulatory sequences.
+4585
+4752
+Below, the term 'ortholog pair' will be applied as a two-species equivalent of 'gene', for which expression and sequence data where retrieved for both mouse and human.
+4753
+4822
+Ensembl gene annotations [19,20] were applied thoughout the analysis.
+4825
+5073
+Previous results by our group and others have shown that statistical analysis of gene expression profiles in a large compendium of expression data can predict targets of differentiation processes, and identify functionally coupled genes [12,21,22].
+5074
+5219
+In the following analysis, we specifically focused on a compendium derived from the recently completed Novartis expression atlas (SymAtlas) [23].
+5220
+5424
+These data contain transcription profiles for 140 mouse and human tissues generated by hybridization on customized Affymetrix chips, and cover a large fraction of the mouse and human protein-coding genes.
+5425
+5581
+Sequence annotation of the Novartis probes linked the mouse and human data to approximately 17.000 unique Ensembl gene identities in each species (Table 1).
+5582
+5727
+Between the two datasets, 13282 non-redundant ortholog pairs could be identified by linkage of reciprocal Ensembl homology assignments (Table 1).
+5728
+5879
+In later steps, we excluded genes for which regulatory sequence could not be extracted (Methods), leaving 9561 ortholog pairs for clustering (Table 1).
+5880
+5959
+The final dataset included ~40% of the mouse and human Ensembl annotated genes.
+5962
+6090
+We clustered the mouse/human ortholog pairs based on their expression profiles across the 140 mouse and human tissues (Methods).
+6091
+6213
+We computed clusters at cut-off levels ranging from Pearson's correlation coefficient (hereafter termed PCC) 0.61 to 0.99.
+6214
+6309
+At the lowest applied cut-off, 57% of all ortholog pairs in the data were members of a cluster.
+6310
+6424
+The cluster sizes were distributed in a skewed manner, with a predominant formation of small clusters (Figure 1A).
+6425
+6542
+All analyses hereafter were performed at a PCC = 0.75 cut-off, which generated 160 clusters with 2407 ortholog pairs.
+6543
+6647
+This relatively stringent cut-off was chosen to reduce the number of non-relevant genes in the clusters.
+6648
+6879
+A higher cut-off did not seem reasonable given the noise-level of the microarray experiments (as judged by the Pearson correlation between replicated samples and between probes that are annotated for the same gene, data not shown).
+6882
+6969
+According to the definition, a gene battery should encode functionally linked proteins.
+6970
+7144
+We used Gene Ontology (GO) terms, protein-protein interactions (from the BIND database [24]), and manual curation to assess functional linkage within our expression clusters.
+7145
+7360
+First, we investigated the relationship between expression profile similarity of two ortholog pairs and their relative probability to share a functional annotation term or to encode interacting proteins (Figure 1B).
+7361
+7526
+There was a consistent correlation between co-expression and the relative probability for two genes to share a GO-term or to encode interacting proteins (Figure 1B).
+7529
+7651
+Second, we studied the statistical over-representation of GO terms and interacting proteins inside the clusters (Methods).
+7652
+7747
+30/32 clusters with ten or more ortholog pairs contained at least one over-represented GO term.
+7748
+7884
+The proportion of small clusters with over-represented GO terms was lower, which reflects a lack of statistical power in small clusters.
+7885
+7969
+Genes encoding interacting protein pairs were also over-represented inside clusters.
+7970
+8059
+35 cases of protein-protein interaction between two genes in the same cluster were found.
+8060
+8183
+In contrast, 1000 simulations on permuted data revealed a median of 9 interactions (observations ranging between 5 and 21).
+8184
+8326
+The BIND data contained only 600 interactions that could be mapped to the dataset, which explains the seemingly low number of 35 interactions.
+8329
+8385
+Finally, the clusters were annotated by manual curation.
+8386
+8499
+Six examples are shown in Figures 2, 3, 4, 5, 6, 7, and clusters with predicted regulators are listed in Table 2.
+8500
+8545
+For a full overview, see the web supplement .
+8546
+8847
+Several clusters clearly represent gene sets that mediate specialized features of different cell types, including smooth muscle specific genes (cluster 40, Figure 2), B lymphocyte-specific genes (cluster 16, Figure 3), and genes selectively expressed in the testis (cluster 5, part shown in Figure 4).
+8848
+9100
+Further, we detected clusters that were related to cellular processes or organelles, including endoplasmatic reticulum (cluster 13, Figure 5), protein synthesis (cluster 1, Figure 6), and modulators of transcriptional regulation (cluster 65, Figure 7).
+9101
+9199
+A grand majority of the clusters were defined by peaks at different amplitudes in several tissues.
+9200
+9358
+As an example, the endoplasmatic reticulum cluster (Figure 5) was defined by a highly variant profile with strong expression in, for example, exocrine glands.
+9359
+9491
+Generally, the cluster profiles were conserved between species, in the sense that clusters were defined by peaks in the same organs.
+9492
+9608
+This effect was more pronounced for clusters with expression in a single organ, such as the testis (data not shown).
+9611
+9771
+In combination, the GO term enrichment, the protein-protein interaction, and the manual curation convincingly show that clustered genes are functionally linked.
+9774
+9885
+In the next part of the analysis, individual ortholog pairs were scored for transcription factor binding sites.
+9886
+9986
+Binding motifs were represented in the form of Position Frequency Matrices (hereafter denoted PFMs).
+9987
+10219
+Based on a fixed amount of upstream DNA sequence in each ortholog pair, a statistical score was computed to predict the potential for a site in the sequence to bind the factor corresponding to a PFM (described in detail in Methods).
+10220
+10366
+We extracted upstream + intronic sequence from the Ensembl database, in amounts of 2, 6 or 15 kb per gene (see Methods for details on boundaries).
+10367
+10518
+A filter was applied that removed ortholog pairs for which the transcription start differed between the two species (>1000 bp difference, see Methods).
+10519
+10586
+Filtering was successful for 12239 unique ortholog pairs (Table 1).
+10587
+10720
+In a subsequent filter, DNA sequence that was not conserved between mouse and human was removed, so-called phylogenetic footprinting.
+10721
+10844
+Phylogenetic footprinting was applied at different stringency, to allow the following optimization of the protocol (below).
+10845
+10916
+Furthermore, all exon sequence was removed from the analysis (Methods).
+10917
+11047
+Finally, the sequences were matched with the expression data based on annotation, the overlap being 9561 ortholog pairs (Table 1).
+11050
+11133
+322 vertebrate PFMs were downloaded from the TRANSFAC and JASPAR databases [25,26].
+11134
+11399
+Since the databases appeared to contain redundant or equivalent entries, highly similar PFMs were grouped and merged using single linkage hierarchical clustering and a PFM distance measure defined in [27], which reduced the number of PFMs from 322 to 266 (Methods).
+11400
+11571
+This step reduced the redundancy, but did not merge all identically annotated PFMs (see for example the redundant serum response factor (SRF) PFMs in Table 2, cluster 40).
+11574
+11789
+After the retrieval and preprocessing of both sequences and PFMs, all individual sequences were tested for PFM matches using the MAST software [28], a software for identifying single or multiple motifs in sequences.
+11790
+11879
+MAST was set to compute one p-value for each PFM with respect to each sequence (Methods).
+11880
+12058
+Based on the p-values obtained from the MAST software, a composite score was defined as the product of the p-value in the mouse and human sequences of an ortholog pair (Methods).
+12059
+12245
+A composite score close to 0 indicates that both the mouse and human promoter sequence in the ortholog pair contains sequence elements that are in very good agreement with a certain PFM.
+12248
+12455
+To address the biological validity of the MAST composite scores within the context of a set of co-expressed genes, we screened 48 ortholog pairs present in B-cell expressed clusters for individual EBF sites.
+12456
+12573
+In all, 24 individual EBF sites in 15 different ortholog pairs were detected (supplementary data, additional file 1).
+12574
+12817
+To test the functionality (in terms of EBF binding) of these sites, we examined the potential of 22 basepair duplex oligo-nucleotides spanning the presumed sites to compete for protein binding in Electrophoretic Mobility Shift Assays (EMSA:s).
+12818
+13040
+EBF binding capacity was assayed using nuclear extracts from the pre-B cell line 40-EI, a labelled mouse mb-1 promoter high affinity EBF site [29], and competitor oligo-nucleotides covering the new potential binding sites.
+13041
+13270
+In the absence of competitor oligo-nucleotide, a prominent DNA/protein complex (mb-1/EBF) could be detected whereas this complex was undetectable after the addition of a 300 fold molar excess of the unlabeled binding site (mb-1).
+13271
+13485
+The identity of the protein and the specificity of the binding were verified by competition with a point mutated mb-1/EBF site and by the inclusion of an EBF specific antibody into the reaction mixture (Figure 8B).
+13486
+13871
+The point mutated EBF binding site was unable to abolish complex formation even in a 1000-fold molar excess (Figure 8B), indicating that we detect specific protein DNA interactions with this experimental set up. 18 out of the 24 new binding sites competed for complex formation when added in a 300- or 1000-fold molar excess, and thus have the ability to bind EBF in vitro (Figure 8A).
+13872
+14054
+We conclude that the large majority of binding sites were able to functionally interact with the predicted protein, and that the composite score in principle detected factor binding.
+14055
+14257
+It should however be emphasized that the quality of predictions is dependent on the quality of the binding site descriptions, and the result does not necessarily imply that other predicted factors bind.
+14260
+14494
+To test whether the identified clusters represent potential gene batteries, i.e. contain shared cis-regulatory elements, we designed a procedure to detect significant over-representation of orthologs that match a PFM inside a cluster.
+14495
+14669
+The procedure is based on a modification of Fisher's exact test, which tests for dependency between two events (in this case cluster membership vs detection of a motif) [30].
+14670
+14759
+We introduced a procedure to optimize the composite score thresholds for individual PFMs.
+14760
+14856
+In brief, we selected the threshold that gave the lowest Fisher test p-value in any one cluster.
+14857
+15006
+This was based on the assumption that non-random distribution of detections over clusters reflects biological function, as has been proposed in [31].
+15007
+15092
+The Fisher test p-values with the optimized thresholds are hereafter termed p-scores.
+15095
+15215
+The tests of multiple detection thresholds, multiple clusters and 266 PFMs led to a need to compensate for mass testing.
+15216
+15312
+This was done by estimating false discovery rates (FDR) based on simulations on randomized data.
+15313
+15480
+In brief, we compared the outcome when using permuted and when using observed data at different p-scores, and defined the FDR as the ratio between the two (Figure 9A).
+15481
+15599
+This procedure allowed us to choose a significance threshold with a controlled expected number of spurious detections.
+15600
+15636
+Simulations were repeated 100 times.
+15637
+15776
+Since optimization of detection thresholds were repeated in each simulation round, no bias in disfavour of the control case was introduced.
+15779
+16060
+Using the described algorithm, we analyzed the number of times a motif was over-represented when using different amounts of DNA sequence per gene (2, 6 or 15 kb) and different stringency in the phylogenetic footprinting (>0% (keep all sequence), >60%, >70%, >80% or >90% identity).
+16061
+16182
+The analysis was performed at 10% false discovery rate and with the clustering obtained at PCC = 0.75 clustering cut-off.
+16183
+16356
+At all DNA amounts, higher stringency phylogenetic footprinting appeared to be beneficial, and between DNA amounts, 2 kb and 4 kb compared favourably over 15 kb (Figure 9C).
+16357
+16469
+We conclude that optimal results are obtained when using a limited amount of sequence per gene (see Discussion).
+16472
+16632
+A potential confounding factor in the analysis is that similarity in upstream sequence may be attributable to factors other than shared cis-regulatory elements.
+16633
+16832
+The most important such factor is likely to be gene paralogy, since over-represented motifs might simply represent matches to non-functional (not yet diverged) sequence in a co-expressed gene family.
+16833
+16940
+In total, 22343 cases of pairwise paralogy were detected in the dataset of 9561 ortholog pairs using BLAST.
+16941
+17044
+All genes with transcripts matches at a BLAST E-value less than 1.0 were defined as potential paralogs.
+17045
+17136
+Of the 2407 ortholog pairs that clustered, 219 genes had a paralog inside the same cluster.
+17137
+17364
+This was clearly an over-representation since filling clusters with random genes from the dataset produced an average of 122 genes with a paralog inside a cluster (values between 104 to 131 observed in 10 randomization rounds).
+17365
+17605
+In a side-by-side comparison, we therefore analyzed the effect of removing paralogs from a cluster before testing for over-represented motifs (see Methods), as opposed to not removing paralogs but the same number of randomly selected genes.
+17606
+17733
+The results showed no increase in the number of over-represented motifs when allowing paralogs in the same cluster (Figure 9B).
+17736
+17910
+The final analysis was performed with 2 kb sequence and 80% phylogenetic footprinting (results generated with variations of these parameters are found in the web supplement).
+17911
+17981
+Again, the clustering generated at PCC = 0.75 was chosen for analysis.
+17982
+18110
+The over-representation algorithm was run in the above cases, using 100 simulations to estimate false discovery rate thresholds.
+18111
+18183
+Over-represented motifs with FDR:s less than 2.5% and 10% were recorded.
+18184
+18302
+Key features of these results are presented in Tables 2 and 3, and the complete results are available by web browser .
+18305
+18460
+A predictive screen performed with these settings associated 66 motifs to co-expression in a total of 21 clusters at FDR thresholds 2.5% and 10% (Table 2).
+18461
+18595
+There was a clear tendency for motifs to be detected in most large clusters, and for smaller clusters to lack over-represented motifs.
+18596
+18785
+This can be directly explained by the fact that even a high degree of motif presence in a small cluster can be attributed to spurious detections, and that the Fisher test accounts for that.
+18786
+19138
+The over-represented motifs were validated against the literature, and fell into three main categories: 1) previously described cases of gene-battery-like regulation, 2)previously unreported cases of gene battery-like regulation with some support in a limited number of genes, and 3) hypothetical cases of gene battery regulation (Table 3, Discussion).
+19141
+19244
+In the typical case, an over-represented motif did not cover all cluster members but rather a fraction.
+19245
+19317
+The average coverage was 15%, with observations ranging from 1% to 100%.
+19318
+19595
+The limited coverage can be exemplified by the relatively large (104 ortholog pairs) cluster of liver-selective genes, which contained 8 over-represented motifs at FDR<10%, where the PFM annotation implied HNF1, HNF4, ARP1, PPAR-γ, and COUP-TF as the binding factors (Table 2).
+19596
+19716
+These different motifs were detected in between 8 and 19 ortholog pairs, indicating a cluster coverage of less than 20%.
+19717
+19920
+An example of very high coverage was observed in the cluster that contained smooth muscle differentiation markers, in which 6/7 (86%) ortholog pairs were positive for a Serum Response Factor (SRF) motif.
+19921
+20040
+We compared our results for HNF-1 to a whole-genome experimental screen for targets of this factor in hepatocytes [32].
+20041
+20197
+28% (29/104) of the ortholog pairs inside the liver cluster contained experimentally verified HNF-1 sites, which indicates a high but not complete coverage.
+20198
+20404
+Cross-comparison of experimentally and computationally identified HNF-1 targets showed a 69% – 71% agreement (results for the two different HNF-1 PFMs at 2 kb/gene masked for 90% phylogenetic conservation).
+20407
+20603
+As a complement to using database motifs, we applied de novo motif elicitation to screen the regulatory sequence of each cluster for over-represented DNA motifs that were not present in databases.
+20604
+20682
+A two-step procedure based on the MEME algorithm [33] was developed (Methods).
+20683
+20777
+The use of a cluster to define a PFM will lead to a bias when testing for over-representation.
+20778
+20892
+A simulation that involved motif elicitation from randomized clusters was used to account for this bias (Methods).
+20893
+21022
+28 de novo motifs were identified as over-represented in relation to the null simulation (Supplementary data, additional file 1).
+21023
+21177
+Of these 28 motifs, 13 matched a described database motif (based on the PFM similarity score described in Methods and in footnote of supplementary table).
+21178
+21267
+9/13 of the matching motifs corresponded to motifs that were over-represented in Table 3.
+21268
+21332
+The remaining 15 motifs may represent novel regulatory elements.
+21333
+21430
+These motifs, and a description of the procedure, are available in the supplementary information.
+21433
+21443
+Discussion
+21445
+21674
+The gene battery theory predicts that the core features of differentiated cells are encoded by gene batteries, i.e. groups of functionally coupled, co-expressed genes that are regulated by similar sets of cis-regulatory elements.
+21675
+21823
+The primary aim of this article was to survey the mouse and human genomes for cases that fall within or close to the idealized gene battery concept.
+21826
+21980
+Hierarchical clustering of an extensive compendium of micro-array expression data in mouse and human identified large numbers of co-expressed gene groups.
+21981
+22156
+A grand majority of the larger clusters were significantly enriched for genes that shared one or several GO-terms, indicating that co-expressed genes are functionally coupled.
+22157
+22298
+Moreover, interactions were significantly more common between proteins that are encoded by clustered pairs compared to randomly chosen pairs.
+22299
+22405
+21 clusters, finally, were significantly enriched for genes that shared potential cis-regulatory elements 
+22407
+22735
+The predicted over represented motifs (Table 2) fell into three principal categories: (i) predictions in agreement with described gene batteries, (ii) predictions supported by a limited number of observations, where the analysis predicted gene battery-like regulation, and (iii) novel predictions of hypothetical gene batteries.
+22736
+22808
+The findings are summarized with respect to these categories in Table 3.
+22811
+22888
+For type (i) predictions the method is useful for proposing new target genes.
+22889
+23020
+As an example, the smooth muscle cluster contains 4 validated serum response factor (SRF) targets (Acta2, Actg2, Myl11, Tagln) [5].
+23021
+23141
+The method identifies two more genes in this cluster, Myl9 and Lpp as potential SRF targets in smooth muscle (Figure 2).
+23142
+23325
+The findings in two clusters that are relevant for lymphocytes (cluster 4 in the web supplement) and B-lymphocytes (cluster 16, Figure 3) are further examples of type (i) predictions.
+23326
+23404
+Cluster 4 contains genes that are expressed by various lymphocyte populations.
+23405
+23471
+Significantly enriched motifs were Irf1/Irf2, NF-kappaB, and ISRE.
+23472
+23520
+Irf1 and Ir2 appear to bind the same sites [34].
+23521
+23580
+Irf1 knockout mice are impaired in their myelopoiesis [35].
+23581
+23658
+NFkappaB is a well-known regulator of inflammation and immune functions [36].
+23659
+23734
+Cluster 16 contains genes that are specifically expressed in B-lymphocytes.
+23735
+23816
+SpiB was identified as the most over-represented PFM followed by AREB6 and Oct-1.
+23817
+23909
+Knockout of SpiB caused specific defects in B-cell terminally differentiated functions [37].
+23910
+23966
+AREB6 is a hematopoietic transcriptional repressor [38].
+23967
+24114
+Whereas Oct-1 seems to be dispensable for B-cell development [39], it regulates B lymphocyte genes in combination with specific co-activators [40].
+24117
+24257
+In type (ii) cases, a regulator with some degree of documentation is statistically supported to play a role in gene battery-like regulation.
+24258
+24430
+As an example, RFX family proteins have been shown to regulate a limited number of genes in spermatogenesis, and SOX17 has been shown to be expressed in the testis [41-43].
+24431
+24553
+Here, we demonstrate that motifs corresponding to these factors are present in 8–11% of testis-selective genes (Figure 4).
+24554
+24690
+29% of kidney-specific genes were covered by HNF-1 and HNF-4 sites, suggesting that these genes may be general regulators in the kidney.
+24693
+24815
+Finally, type (iii) cases represent novel predictions which can be viewed as testable hypotheses of regulatory mechanisms.
+24816
+25195
+A complete list of PFMs in the different categories with references to the literature is presented in Table 3. Examples include a potential functional role for an Ikaros-like motif in retina-selective genes (cluster 44 in the web supplementary), and a Pax family factor acting on extracellular matrix genes with strong expression in arteries (cluster 8 in the web supplementary).
+25196
+25375
+Interestingly, a combination of Ets family factor motifs, Nuclear respiratory factor motifs, and E2F motifs was detected in several clusters of a housekeeping character (Table 3).
+25378
+25561
+The gene battery concept predicts that upstream transcription factors coordinate the expression of target genes through binding to similar cis-regulatory elements in the target genes.
+25562
+25804
+In a recent report, Alloco and co-workers [44] studied the relationship between co-expression in yeast (as determined by correlation in a set of 610 arrays) and the probability of sharing a transcription factor (as determined by experiments).
+25805
+25931
+In their experiments, an expression profile correlation of 0.85 implied a probability of transcription factor sharing of >0.5.
+25932
+26077
+The incomplete coverage in our analysis may similarly indicate that other mechanisms than co-regulation contribute to the coordinated expression.
+26078
+26202
+Importantly, it is technically difficult to accurately quantify the fraction of genes in a cluster that respond to a factor.
+26203
+26276
+The presence of false positive gene cluster members reduces the coverage.
+26277
+26360
+Uncertainty in the motif assignment to ortholog pairs may also reduce the coverage.
+26361
+26535
+In one case study, we could use data from an independent experimental screen to confirm that the liver-selective cluster had a limited coverage of HNF-1 responders (results).
+26536
+26684
+Further experiments are required to resolve to what extent the lack of coverage reflects alternative regulatory mechanisms or technical limitations.
+26687
+26790
+The tissues in the dataset represent samples of limited morphological resolution at a fixed time point.
+26791
+27005
+As a consequence, co-expressed gene groups that are active under specific developmental phases, under specific environmental stresses, or in small and localized anatomical structures are likely to escape detection.
+27006
+27109
+Moreover, co-expressed gene groups with a peak in one tissue only are unresolved for single cell types.
+27110
+27217
+Low coverage of motifs in such clusters may reflect contaminating genes that derive from another cell type.
+27220
+27405
+The Affymetrix technology that were used to generate the expression measurements has been validated and match results obtained with tag sampling for sufficiently abundant genes [45,46].
+27406
+27529
+Low intensity signals did not correlate well, indicating that such genes are less likely to form clusters (data not shown).
+27530
+27632
+Cross hybridization between related genes may, in theory, contribute to correlating expression levels.
+27633
+28032
+We can exclude that clusters primarily form as a result of cross-hybridization, since (1) members of well-characterized gene families appear in different (the expected) clusters (eg smooth muscle and cardiac actins) and since (2) co-expressed genes tended to share GO terms or to encode interacting proteins to a higher degree than they tended to be paralogs (supplementary data, additional file 1).
+28033
+28173
+We cannot however exclude subtle effects related to cross-hybridization, since results with cDNA microarrays indicate this possibility [47].
+28176
+28302
+Transcription factors in the same family often have similar DNA binding properties and bind to the same sites on target genes.
+28303
+28371
+This leads to an ambiguity in the interpretation of PFM annotations.
+28372
+28487
+The MEF2 motif, is for example a receptor for the mammalian MEF2A, MEF2B, MEFC and MEFD transcription factors [48].
+28488
+28686
+Similarly, the E2F motif is a receptor for a family of 9 E2F family proteins that form heterodimers with another family of proteins, the DP proteins, in a way that affects the binding affinity [49].
+28687
+28797
+Different E2F proteins act at different stages in the cell cycle [50], and this is not captured by our method.
+28800
+28908
+One additional data limitation is that a fraction of Ensembl transcripts may lack sequence in their 5' ends.
+28909
+29023
+The accuracy of our transcription starts is therefore dependent on the quality of the Ensembl transcript database.
+29026
+29101
+Our approach is technically related to the Toucan and ConFac tools [17,51].
+29102
+29319
+Important differences and extensions are the introduction of a composite scoring system, a procedure to optimize PFM thresholds, and the use of simulation at the level of the whole clustering to measure significances.
+29322
+29535
+The performance of the method was not affected by the removal of paralogous genes from the clusters (Figure 9B), and clustering of such genes is clearly not a significant source of false positive motif prediction.
+29536
+29707
+Consequently, we decided to include the paralogs in the final analysis since we believe that co-expression of such genes may be a result of shared cis-regulatory elements.
+29710
+29790
+We further evaluated the effects of using different DNA amounts in the analysis.
+29791
+30011
+In principal, it is motivated to include a substantial amount of DNA sequence per gene, since mammalian enhancers are frequently located far upstream in relation to the transcription start, or downstream in intronic DNA.
+30012
+30184
+However, the benefits of including as much sequence as possible must be balanced against the risk of introducing vast amounts of non-informative sequence into the analysis.
+30185
+30305
+The evaluation clearly favoured using limited amounts of DNA, and high stringency phylogenetic footprinting (Figure 9C).
+30306
+30510
+The optimal future alternative may be to assemble a small amount of DNA from a large area of the genome using algorithms that sort out regulatory DNA regions more efficient than phylogenetic footprinting.
+30513
+30622
+The approach presented here needs to be extended to generate more complete models of gene battery regulation.
+30623
+30754
+Modelling of cis-regulatory element combinations and the relative position and spacing of elements are examples of such extensions.
+30755
+30965
+The use of PCC as a measure of co-expression may need to be reconsidered if extending the approach to very large datasets, since this measure may be sensitive to noninformative signals in a majority of samples.
+30966
+31100
+Further, the expression levels of potential trans-regulators and co-factors (based on protein interaction networks) can be introduced.
+31101
+31210
+Most likely, the method will benefit from a more accurate identification of regulatory regions (Crawford-04) 
+31212
+31222
+Conclusion
+31224
+31329
+We screened the mouse and human genomes and transcriptomes for instances of gene battery-like regulation.
+31330
+31492
+Comparative clustering was highly predictive of gene function and protein interaction, which indicates that potential gene batteries could be identified this way.
+31493
+31744
+Based on a statistical composite score for motifs in ortholog pairs, and a simulation approach to determine significance levels, we found 21 instances of statistically supported gene battery-like regulation that were conserved between mouse and human.
+31745
+31863
+These included known cases of gene battery regulation in tissues such as muscle, lymphocytes, erythrocytes, and liver.
+31864
+32004
+A second category of predictions included regulators with some degree of documentation, e.g. in testis, kidney, and endoplasmatic reticulum.
+32005
+32105
+Finally, new candidate gene batteries with statistically enriched cis-regulatory motifs were listed.
+32108
+32272
+The results of this investigation emphasizes the need to study differentiation in terms of larger transcriptional units, and extends the methodology for doing this.
+32275
+32282
+Methods
+32284
+32470
+Target sequences for the Novartis Gene Atlas V2 mouse and human expression datasets [23] were matched against the Ensembl [20] collection of mouse and human transcripts using BLAST [52].
+32471
+32574
+In cases where the E-value exceeded 10-20, the BLAST search was re-done against Ensembl gene sequences.
+32575
+32659
+If there was no match below 10-20, the probe set was excluded from further analysis.
+32660
+32750
+The resulting datasets covered 17552 mouse and 16929 human unique Ensembl genes (Table 1).
+32751
+32826
+Mouse/human orthologous gene pairs were formed using Ensembl homology maps.
+32827
+33020
+Redundant occurrences of the same gene in more than one ortholog pair were avoided according to the following procedure: the Ensembl human orthologs for each Ensembl mouse gene were identified.
+33021
+33156
+When more than one ortholog was assigned to a mouse gene, the one with the lowest positional disagreement d (defined below) was chosen.
+33157
+33212
+The procedure was repeated for all Ensembl human genes.
+33213
+33314
+Reciprocally matching ortholog pairs were identified, and others were excluded from further analysis.
+33315
+33569
+The mouse and human expression profiles of each ortholog pair were normalized with respect to mean and standard deviation and combined into a single larger profile, finally yielding an expression dataset with 13282 non-redundant ortholog pairs (Table 1).
+33572
+33669
+For each ortholog pair, mouse and human candidate regulatory sequence was extracted from Ensembl.
+33670
+33917
+The sequence extraction algorithm starts with an ortholog pair, localizes the 5' end of the transcript in the genome in each species, and computes a value that measures the positional disagreement between the transcript 5' ends in the two species.
+33918
+34000
+If the disagreement is too large, the ortholog pair is excluded from the analysis.
+34001
+34096
+Of the 12239 ortholog pairs in the expression dataset, 9561 satisfied this criterion (Table 1).
+34097
+34191
+A full description of the sequence extraction procedure is available in the online supplement.
+34194
+34262
+Three different lengths of DNA were extracted: 2 kb, 6 kb and 15 kb.
+34263
+34482
+The 2 kb dataset contained nucleotide positions ranging from -2000 to -1 relative to the transcription start, the 6 kb dataset contained positions -4000 to +2000 and the 15 k dataset contained positions -10000 to +5000.
+34485
+34594
+The sequence datasets were subjected to phylogenetic footprinting, i.e. removal of poorly conserved sequence.
+34595
+34714
+The mouse and human sequences of each ortholog pair were aligned by use of the LAGAN software [53] (standard settings).
+34715
+34795
+Similarity was defined as the number of identical nucleotides in a 20 bp window.
+34796
+34868
+Nucleotides in windows with similarity below the threshold were removed.
+34869
+35004
+In all, five different similarity threshold were applied: >0% (no footprinting – use all sequence), >60%, >70%, >80% and >90% identity.
+35007
+35128
+Each candidate regulatory sequence was aligned to the corresponding transcripts (pairwise BLAST, e-value threshold 0.01).
+35129
+35192
+Nucleotides aligning with one or more transcripts were removed.
+35195
+35473
+The set of 9561 orthologs pairs, for which both regulatory sequence and expression data could be assembled, were clustered with respect to expression pattern using hierarchical clustering [54] with average group linkage and Pearson's correlation coefficient as distance measure.
+35474
+35583
+In the average group linkage algorithm, cluster distances are defined as the distances between cluster means.
+35584
+35658
+We defined the cluster mean as the arithmetic mean of all cluster members.
+35659
+35734
+Correlation thresholds between 0.61 and 0.99 were applied in steps of 0.01.
+35737
+35859
+Motifs represented as position frequency matrices (PFMs) were downloaded from the TRANSFAC [55] and JASPAR [25] databases.
+35860
+35902
+Non-vertebrate matrices were filtered out.
+35903
+36041
+Highly similar matrices were grouped and merged using single linkage hierarchical clustering, reducing the number of PFMs from 322 to 266.
+36042
+36119
+Distances between matrices were calculated using a probabilistic method [56].
+36120
+36281
+Individual positions between matrices were compared using the chi square test, and p-values for all overlapping positions were combined using the geometric mean.
+36282
+36381
+Sense and antisense of motifs were compared for all possible frameshifts with at least 75% overlap.
+36382
+36497
+Clustered motifs (score > 0.5) were added together in overlapping positions, and flanking positions were discarded.
+36498
+36617
+PFMs were transformed into position weight matrices (PWM:s) to make them compatible with the MAST software (see below).
+36618
+36702
+The value of each matrix element was calculated according to the following formula: 
+36704
+36941
+where n is the raw count from the corresponding position in the PFM, N is the the number of observations (sum of each position/column in the PFM), and are pseudocounts and p(b) is the background frequency of the corresponding nucleotide.
+36944
+37071
+For each ortholog pair, both mouse and human regulatory sequences were scored for all motif PWM's using the MAST software [57].
+37072
+37181
+MAST was set to compute whole-sequence p-values (-seqp setting), using a first order Markov chain background.
+37182
+37318
+The Markov chain background data where computed from unmasked genomic sequence -4000 upstream to +2000 downstream in all ortholog pairs.
+37321
+37434
+The p-values reported by MAST for the mouse and human sequences of an ortholog pair were multiplied for each PWM.
+37435
+37589
+The result was treated as a composite score that reflects the overall "signal" for a certain binding site in the regulatory sequences of an ortholog pair.
+37590
+37740
+The composite score is a product of two p-values but should not be interpreted as a p-value, since the mouse and human sequences are highly dependent.
+37743
+37834
+Clusters were evaluated for over-representation of GO terms using Fisher's exact test [30].
+37835
+37994
+Due to the large number of tests (the number of clusters times the number of GO terms), the resulting p-values were corrected using the Bonferroni method [30].
+37997
+38084
+The test was applied to the 9561 ortholog pairs with both sequence and expression data.
+38085
+38118
+These constituted the population.
+38119
+38236
+For each PWM, genes with MAST composite scores below a threshold were defined as labeled and the others as unlabeled.
+38237
+38306
+Further, each cluster was considered as a sample from the population.
+38307
+38399
+The algorithm is briefly sketched here and is available in detail in the online supplement: 
+38401
+38505
+First, ortholog pairs were permuted across the dataset, making each cluster a random selection of genes.
+38506
+38574
+Second, an optimal composite score threshold was found for each PWM.
+38575
+38800
+This was done by computing the Fischer test p-value for over-representation of labeled ortholog pairs for all clusters k at a range of detection thresholds ranging from 10-8 to 10-3 in stepwise increases by a factor of 100.5.
+38801
+38902
+The threshold chosen for each PWM was the one that gave the best p-value for that PWM in any cluster.
+38903
+39021
+P-values for over-representation of all motifs in all clusters were finally calculated using the optimized thresholds.
+39022
+39064
+We refer to this statistic as the p-score.
+39065
+39259
+This whole procedure was repeated for 100 iterations, which resulted in empirical estimates of how many over-represented motifs we could expect below a certain p-score under the null hypothesis.
+39262
+39337
+This step was identical to step 1 but without permutations and repetitions.
+39340
+39547
+After the simulation, we defined the false discovery rate (FDR) at p-score p as the expected number of over-represented motifs in the null simulation, divided by the corresponding value in the observed data.
+39550
+39729
+40-EI and 230–238 cells were grown in RPMI medium supplemented with 10% FCS, 10 mM HEPES, 2 mM pyruvate, 50 μM 2-mercaptoethanol and 50 μg gentamicin per ml (complete RPMI media).
+39730
+39876
+STAT activation in 230–238 cells was achieved by 5 hours of incubation with 0.5 ng/ml recombinant mouse interferon gamma (Immunokontact, Germany).
+39877
+39943
+Nuclear extracts were prepared according to Schreiber et al. [58].
+39944
+40171
+DNA probes were labelled with γ[32P] ATP (Amersham Biosciences, UK) by incubation with T4 polynucleotide kinase (Roche Diagnostics, Mannheim, Germany), and purified on a mini Quick Spin Oligo Column (Roche Diagnostics, Sweden).
+40172
+40445
+Nuclear extracts were incubated with labelled probe (20,000 cpm, 3 fmol) for 30 min at room temperature in binding buffer (10 mM HEPES [pH 7.9], 70 mM KCl, 1 mM dithiothreitol, 1 mM EDTA, 2.5 mM MgCl2, 4% Glycerol) with 0.75 μg Poly(dI/dC) (Amersham Pharmacia Biotech, UK).
+40446
+40524
+When EBF-binding was investigated, 1 mM ZnCl2 was supplemented to the mixture.
+40525
+40633
+The samples were separated on a 6% polyacrylamide TBE gel, which was dried and subjected to autoradiography.
+40634
+40822
+In the supershift experiments (Figure 8B), DNA competitors or antibodies (anti-EBF SC-15333, anti-Actin SC-1616, Santa Cruz Biotech) were added 10 min before the addition of the DNA probe.
+40823
+40904
+To visualize the super-shifted complex, the unbound probe was run out of the gel.
+40905
+41155
+The following Oligonucleotides were used for EMSA: mb-1 sense: 5'-AGCCACCTCTCAGGGGAATTGTGG-3'; mb-1 antisense: 5'-CCACAATTCCCCTGAGAGGTGGCT-3'; mutated mb-1sense: 5'-AGCCACCTCTCAGCCGTTTTGTGG-3'; mutated mb-1 antisense: 5'-CCACAAAACGGCTGAGAGGTGGCT-3'; 
+41157
+41178
+List of abbreviations
+41180
+41203
+EBF Early B cell factor
+41206
+41247
+EMSA Electrophoretic Mobility Shift Assay
+41250
+41276
+GO term Gene Ontology term
+41279
+41316
+PCC Pearson's correlation coefficient
+41319
+41348
+PFM Position frequency matrix
+41351
+41377
+PWM Position weight matrix
+41380
+41402
+Authors' contributions
+41404
+41507
+The overall computational strategy applied was conceived by SN, EL and PM together with EK, PL, and ON.
+41508
+41637
+SN and EL performed the bulk of the analysis and the manuscript was drafted by SN, EL and PL with contributions from all authors.
+41638
+41720
+The experimental validation of EBF sites was conceived and performed by RM and MS.
+41721
+41787
+The de novo detection of motifs was conceived and performed by EK.
+41790
+41815
+Figure and Table captions
+41817
+42001
+Figure 1: Cluster statistics A: Histogram showing the log number of clusters as a function of log cluster size, based on the clustering at Pearson correlation coefficient 0.75 cut-off.
+42002
+42170
+Numbers on the x axis denote cluster size intervals (2), (3–4), (5–8), (9–16),... B: Co-expression as a predictor for shared function, protein interaction and paralogy.
+42171
+42254
+We identified all gene pairs that correlated above or below a threshold T (X-axis).
+42255
+42457
+We measured the fraction of such pairs for which there was (i) a BIND database protein-protein interaction recorded in human, (ii) at least one shared gene ontology term, and (iii) evidence of paralogy.
+42458
+42827
+We then computed the relative probability for genes above T with this feature, compared to gene pairs below T. At expression correlation 0.80, co-expression was associated with a 100-fold relative probability for genes to encode protein interactors, a 10-fold probability for genes to share functional annotation, but only a 3-fold probability for genes to be paralogs.
+42828
+42944
+C: Fraction of clusters with at least one over-represented GO term (Y axis), as a function of cluster size (X axis).
+42945
+43018
+GO term over-representations were computed at a 10% false discovery rate.
+43020
+43251
+Figure 2: A smooth muscle differentiation battery: The bar chart (left) illustrates the average expression level of cluster members (Y axis) across arbitrarily ordered tissues (X axis) in two species (red = mouse and blue = human).
+43252
+43406
+Three tables list over-represented functional terms (upper small table), over represented motifs (PFMs) (middle table), and cluster members (lower table).
+43408
+43503
+Figure 3: B-lymphocyte differentiation battery: Tables and charts are organized as in figure 2.
+43505
+43675
+Figure 4: Testis selective battery: Over representation of RFX and SOX17 motifs indicates new roles for these factors as coordinators of testis selective gene expression.
+43676
+43723
+Tables and charts are organized as in figure 2.
+43725
+43919
+Figure 5: Endoplasmatic reticulum associated genes: Over representation of XBP-1, NRF and RTS motifs suggest novel functions for NRF and ETS family factors in the regulation of ER-related genes.
+43920
+43967
+Tables and charts are organized as in figure 2.
+43969
+44043
+Figure 6: Ribosomal genes: Tables and charts are organized as in figure 2.
+44045
+44152
+Figure 7: NF-kappaB pathway: Over representation of REL and NFkappaB motifs indicates feed back signalling.
+44153
+44200
+Tables and charts are organized as in figure 2.
+44202
+44468
+Figure 8: EMSA validation of EBF binding sites: A: The figure displays EMSAs in which binding of EBF to a mb-1 promoter EBF site is competed for by the inclusion of 300 or 1000-fold molar excess of unlabelled oligonucleotides that correspond to the predicted motifs.
+44469
+44543
+The name of the gene and the position of the motif is given in the figure.
+44544
+44578
+(m) indicates mouse and (h) human.
+44579
+44679
+"EBF" shows the position of the DNA/protein complex, and "Probe" indicates the position of free DNA.
+44680
+44750
+See supplementary information for a detailed description of the sites.
+44751
+44853
+B: The mb-1 promoter EBF site interacts specifically with EBF protein in a pre-B cell nuclear extract.
+44854
+45057
+The figure displays an autoradiogram in which a labelled EBF binding site from the mb-1 promoter has been incubated with nuclear extracts from 40EI pre-B cells and competitors or antibodies as indicated.
+45058
+45207
+EBF denotes the bound EBF protein and EBF-SS the super-shifted complex obtained by the addition of the EBF reactive antibody to the reaction mixture.
+45209
+45251
+Figure 9: False discovery rate estimation.
+45252
+45341
+A: Illustration of how false discovery rates (FDRs) were estimated by use of simulations.
+45342
+45427
+Values on the y axis represent the number of motifs below a certain p-score (x axis).
+45428
+45583
+Triangles show results for observed data, filled circles show results for permuted data (error bars show the 90% confidence interval from 100 simulations).
+45584
+45674
+The FDR was calculated as the ratio between the simulated expectation and the observation.
+45675
+45748
+Red dotted line: The number of clusters with at least one enriched motif.
+45749
+45817
+Note that several motifs where over-represented in the same cluster.
+45818
+45912
+B: Removal of paralogous genes from each cluster did not affect the number of detected motifs.
+45913
+45995
+Consequently, co-expressed paralogs is not an important source of false positives.
+45996
+46147
+C: The amount of DNA used per gene, and the phylogenetic footprinting stringency has a strong effect on the number of detected over-represented motifs.
+46148
+46208
+The sensitivity is higher when the amount of DNA is reduced.
+46209
+46319
+Error bars in B and C were obtained by using the 5th and 95th percentiles in the simulation to define the FDR.
+46321
+46359
+Table 1: Gene coverage of the analysis
+46361
+46431
+Table 2: over-represented motifs detected at <10% false discovery rate
+46433
+46519
+Table 3: Interpretation of over-represented motifs with respect to published evidence.
+46520
+46568
+(See footnote for definition of the categories.)

@@ -1,0 +1,567 @@
+0
+116
+Accumulation of marginal zone B cells and accelerated loss of follicular dendritic cells in NF-κB p50-deficient mice
+118
+126
+Abstract
+128
+236
+Background: Marginal zone (MZ) B cells play important roles in the early phases of humoral immune responses.
+237
+455
+In addition to possessing an inherent capacity to rapidly differentiate into antibody secreting cells, MZ B cells also help to regulate the fate of both T-independent and T-dependent blood-borne antigens in the spleen.
+456
+553
+For T-dependent antigens, MZ B cells bind IgM-antigen complexes in a complement-dependent manner.
+554
+800
+Once MZ B cells bind IgM-containing immune complexes (IgM-IC), they transport them into B cell follicles for deposition onto follicular dendritic cells (FDCs), an important component of secreted IgM's ability to enhance adaptive immune responses.
+801
+1015
+To further define the requirement for MZ B cells in IgM-IC deposition, mice deficient in the NF-κB protein p50, which have been reported to lack MZ B cells, were analyzed for their ability to trap IgM-IC onto FDCs.
+1016
+1182
+Results: Mice (2 months of age) deficient in p50 (p50-/-) had small numbers of MZ B cells, as determined by cell surface phenotype and localization in the splenic MZ.
+1183
+1249
+These cells bound high levels of IgM-IC both in vivo and in vitro.
+1250
+1480
+Subsequent to the binding of IgM-IC by the MZ B cells in p50-/- mice, small amounts of IgM-IC were found localized on FDCs, suggesting that the MZ B cells retained their ability to transport these complexes into splenic follicles.
+1481
+1540
+Strikingly, MZ B cells accumulated with age in p50-/- mice.
+1541
+1745
+By 6 months of age, p50-/- mice contained normal numbers of these cells as defined by CD21/CD23 profile and high level expression of CD1d, CD9, and IgM, and by their positioning around the marginal sinus.
+1746
+1866
+However, FDCs from these older p50-/- mice exhibited a reduced capacity to trap IgM-IC and retain complement components.
+1867
+2100
+Conclusion: These results demonstrate that while the p50 component of the NF-κB transcription complex plays an important role in the early development of MZ B cells, MZ B cells can develop and accumulate in mice lacking this protein.
+2101
+2323
+These results highlight the interface between genetic deficiencies and age, and suggest that different transcription factors may play distinct roles in the development and maintenance of cell populations at different ages.
+2325
+2335
+Background
+2337
+2432
+Secreted IgM antibodies play important roles in the initial phases of humoral immune responses.
+2433
+2605
+Unlike other antibody isotypes, secreted IgM uniquely functions as an adjuvant, promoting primary antibody responses to sub-immunogenic doses of T-dependent antigens [1-7].
+2606
+2692
+The adjuvanticity of IgM is completely dependent on an intact complement system [7-9].
+2693
+3035
+While mice deficient in secreted IgM make protective antibody responses to pathogens, these responses are delayed compared to the immune response of IgM sufficient mice [10-13] Interestingly, pathogens more readily disseminate into vital organs in secreted IgM-deficient mice, rather than concentrate them into secondary lymphoid organs [14].
+3036
+3181
+This suggests that an important role for IgM is to serve as an arbiter of antigen localization, which may contribute to its adjuvant function(s).
+3184
+3531
+To investigate how IgM affects the localization of foreign antigen, a system was developed to follow the fate of IgM-containing immune complexes (IgM-IC) following their intravenous (i.v.) administration [7,15] IgM-IC first localize to the splenic marginal zone (MZ), where they are phagocytized by MZ macrophages and are also bound to MZ B cells.
+3532
+3597
+Binding of IgM-IC to MZ B cells is strictly complement dependent.
+3598
+3742
+The MZ B cells subsequently transport the IgM-IC into the B cell follicles where they are deposited onto follicular dendritic cells (FDCs) [15].
+3743
+4022
+The important role of MZ B cells in this process was established by monitoring IgM-IC deposition onto FDCs in mice that lacked MZ B cells, either as a result of a genetic lesion (CD19-deficient mice) that inhibited MZ B cell survival, or by their depletion using pertussis toxin.
+4023
+4083
+In these mice, little if any IgM-IC was deposited onto FDCs.
+4084
+4189
+In addition, adoptive transfer of B cells with bound IgM-IC into mice led to IgM-IC deposition onto FDCs.
+4190
+4403
+In these mice, transferred MZ B cells in close proximity to FDCs were found to have IgM-IC capped and directed toward the FDC dendrites, strongly suggesting IgM-IC was being transferred to FDCs by MZ B cells [15].
+4406
+4563
+To further investigate the role of MZ B cells in IgM-IC transport, we used mice deficient in p50, a member of the NF-κB family of transcription factors [16].
+4564
+4756
+These mice have been reported to lack MZ B cells, suggesting an unambiguous role for this component of the NF-κB transcription factor complex in the development of this subset of B cells [17].
+4757
+4924
+However, we found that small numbers of MZ B cells are present in young p50-/- mice, and these cells are capable of binding high levels of IgM-IC in vivo and in vitro.
+4925
+5071
+Interestingly, MZ B cells were found to accumulate with age in p50-/- mice such that by 6 months a normal sized MZ B cell compartment was present.
+5072
+5187
+We also found that p50-/- mice exhibited an accelerated loss of FDC networks, as assessed by intense CD21 staining.
+5188
+5403
+These data indicate that MZ B cells can develop in the complete absence of p50, and suggest that the transcriptional requirements for the development and/or survival of MZ B cells might differ in young and old mice.
+5406
+5413
+Results
+5415
+5526
+Two month old p50-/- or control C57BL/6 (B6) mice were injected with IgM-IC and the spleens removed 16 h later.
+5527
+5781
+Based on the reported lack of MZ B cells in p50-/- mice [17] and the requirement for MZ B cells in the transport and deposition of IgM-IC onto FDCs [15], we expected that IgM-IC would not be found localized on FDCs in the splenic follicles of these mice.
+5782
+5883
+However, immunohistochemistry (IH) revealed the presence of IgM-IC on FDCs in p50-/- mice (Figure 1).
+5884
+6039
+The amount of IgM-IC localized in the spleen follicles of p50-/- mice was substantially less than in control B6 mice, but none-the-less readily detectable.
+6040
+6295
+These results could indicate either that IgM-IC can traffic to FDCs by a previously unanticipated mechanism independent of MZ B cells, or p50-/- mice may possess small numbers of MZ B cells that are still functional for transporting IgM-IC into follicles.
+6298
+6433
+To help discriminate between these alternatives, splenic B cells from p50-/- mice were analyzed for the presence of MZ B cells by FACS.
+6434
+6568
+MZ B cells can be phenotypically distinguished from other B cell subsets in the spleen based on CD21/23 [18,19] and B220/CD1d [20,21].
+6569
+6578
+profiles.
+6579
+6668
+As shown in Figure 2, MZ B cells were, as expected [17], severely reduced in p50-/- mice.
+6669
+6833
+However, small numbers of B cells fell within the CD21hi/CD23lo and B220+/CD1dhi gates, at ~10% of the frequency found in the B cell compartment of control B6 mice.
+6834
+7041
+To determine if these MZ B cells could bind high levels of IgM-IC, spleen cells from mice that had been injected 1 h earlier were isolated and the presence of IgM-IC on B cell subsets was determined by FACS.
+7042
+7339
+When IgM-IC were injected into B6 mice, the complexes were found associated with MZ B cells at high levels (Figure 2A), as expected from their high level expression of the complement receptor CR2 (CD21) and localization at the marginal sinus, which facilitates exposure to blood-borne IgM-IC [15].
+7340
+7421
+In contrast, little if any of the IgM-IC were present on follicular (FO) B cells.
+7422
+7609
+In p50-/- mice, there was discernable binding of IgM-IC to MZ B cells (as defined by a shift in the FACS profile) while, as seen in B6 mice, IgM-IC did not bind to FO B cells (Figure 2A).
+7610
+7699
+This suggests that the cells in the CD21hi gate in p50-/- mice were authentic MZ B cells.
+7700
+7817
+To confirm this, the capacity of these cells to bind IgM-IC was determined using in vitro binding assays (Figure 2B).
+7818
+8041
+When p50-/- B cells were incubated with IgM-IC in vitro, MZ B cells bound higher levels of IgM-IC than did FO B cells (3 to 5 times as assessed by mean fluorescence intensity), similar to results using B cells from B6 mice.
+8044
+8161
+Note that the spleens of p50-/- mice contain an increased number of CD21loCD23lo B cells (Fig. 2A; see also Fig. 3A).
+8162
+8227
+While we have not explored the identity of these cells in detail.
+8228
+8456
+they are likely to reflect increased numbers of immature "transitional" B cell subsets, since the number of AA4.1+ B cells [22] in the spleens of these mice are increased (up to 2-fold) over those in age-matched control B6 mice.
+8457
+8572
+As expected from their low levels of CD21, however, this population of cells does not bind IgM-IC (data not shown).
+8575
+8665
+MZ B cells can be distinguished as IgMhi B cells positioned outside of the marginal sinus.
+8666
+8948
+To determine whether the MZ B cells in p50-/- mice were positioned correctly around the marginal sinus of the spleen, immunofluorescence (IF) was performed on spleen sections using anti-IgM and anti-MOMA-1, which stains marginal metallophilic macrophages and delineates the MZ [23].
+8949
+9055
+In control B6 mice, IgMhi cells (in red) were present in the MZ, outside of the MOMA-1+ cells (Figure 2C).
+9056
+9236
+IgMhi MZ B cells were also found outside of the MOMA-1 ring in p50-/- mice, but in reduced numbers, as expected from the drastic reductions in MZ B cells in these mice (Figure 2A).
+9237
+9494
+Taken together, these data indicate that p50-/- mice contain small numbers of MZ B cells that are correctly positioned around the marginal sinus, where they can encounter blood-borne IgM-IC and transport them into splenic follicles for deposition onto FDCs.
+9497
+9616
+When older p50-/- mice were analyzed for the presence of MZ B cells, increased frequencies of MZ B cells were detected.
+9617
+9808
+At 4 months of age, some p50-/- mice contained increased numbers of MZ B cells, whereas others did not, suggesting that these cells might be emerging around this time period (data not shown).
+9809
+9968
+By 6 months of age, a phenotypically distinct MZ B cell population was detected in all of the more than 10 mice analyzed, as determined by the CD21/23 profile.
+9969
+10156
+In these mice, MZ B cells were present at frequencies comparable to those found in B6 mice (Figure 3A, left panels), although the total number of splenic B cells did not appear to change.
+10157
+10510
+At all ages tested, p50-/- and B6 mice had similar frequencies of T and B cells in their spleens, and their spleen sizes were also similar (unpublished results), and the cellularity of the spleens (as determined by IH; see for example Fig. 5B) were also similar, indicating that the increased number of MZ B cells was selective for this subset of cells.
+10511
+10684
+To confirm the phenotypic identity of the CD21hi/CD23lo B cells as MZ B cells, the expression of other markers of MZ B cells, including CD1d [20] and CD9 [24], was assessed.
+10685
+10842
+As shown in Figure 4A, populations of B220+ B cells with CD1dhi and CD9hi phenotypes were present in p50-/- mice, consistent with the presence of MZ B cells.
+10843
+10928
+The frequencies of these cells were similar to those in aged-matched control B6 mice.
+10929
+11067
+We also assessed the levels of IgM on the CD21hiCD23lo cells, since MZ B cells express higher levels of IgM compared with FO B cells [25].
+11068
+11235
+MZ B cells from p50-/- mice clearly expressed higher levels of IgM than on FO B cells from these same mice, and at levels similar to those in control mice (Figure 4B).
+11236
+11423
+These B cells were also positioned within the MZ in p50-/- mice (Figure 4C), as indicated by the presence of IgM+ cells outside of the marginal sinus as revealed by laminin staining [26].
+11426
+11575
+As further evidence that the accumulating cells were functional MZ B cells, cells were tested for their capacity to bind IgM-IC in vivo and in vitro.
+11576
+11696
+MZ B cells from 2 and 6 month old B6 mice or from 6 month old p50-/- mice had high levels of IgM-IC bound following i.v.
+11697
+11765
+injection, whereas FO B cells bound little or no IgM-IC (Figure 3A).
+11766
+11923
+An in vitro binding assay also demonstrated the capacity of the MZ B cells from p50-/- mice to bind high levels of IgM-IC compared to FO B cells (Figure 3B).
+11924
+12237
+Taken together, the data demonstrate that while few MZ B cells are present in young p50-/- mice, they do develop and accumulate with age, such that by 6 months they have reached normal levels and can functionally bind IgM-IC at high levels, as would be expected from their increased expression of CR1/2 (CD21/35).
+12240
+12426
+In an effort to determine whether the repopulation of older p50-/- mice with MZ B cells enabled efficient IgM-IC trapping, mice were injected with IgM-IC and analyzed for FDC deposition.
+12427
+12572
+Despite the normal levels and positioning of MZ B cells, no IgM-IC deposition was observed in the spleens of 6 month old p50-/- mice (Figure 5A).
+12573
+12678
+The failure of the IgM-IC to localize in the follicles of these mice could be due to the absence of FDCs.
+12679
+12773
+However, as shown in Figure 5B, FDCs were present in these mice, as assessed by CD21 staining.
+12774
+12978
+However, they appeared to be much smaller and the dendrites less pronounced than in age-matched B6 mice, as evident from the diminished area of intense CD21 staining (Figure 5B, right panels; see arrows).
+12979
+13156
+In addition, the number of follicles with intense CD21 staining was reduced in the 6 month old p50-/- mice compared with age matched B6 mice (Figure 5B, 4× view in left panels).
+13157
+13283
+This suggests that the ability of FDCs from p50-/- mice to retain complement fragments might be diminished at 6 months of age.
+13284
+13562
+Interestingly, 6 month old B6 mice also exhibited some reduced capacity to trap IgM-IC (Figure 5A) and slightly reduced CD21 staining compared with younger mice (Figure 5B), suggesting a loss of FDC function may also be occurring naturally with age, as previously observed [27].
+13563
+13724
+Consistent with this, FDCs in 6 month old p50-/- and B6 mice could not be detected by FDC-M2 staining (data not shown), in contrast with younger mice (Figure 1).
+13725
+13818
+FDC-M2 is a FDC specific antibody [28] that detects the complement component C4 on FDCs [29].
+13819
+13901
+The data indicate the loss of FDC function may be accelerated in mice lacking p50.
+13902
+14156
+Together, the data imply that the lack of FDC localization of IgM-IC in 6 month old p50-deficient mice is not due to functional inactivity of the MZ B cells that have accumulated in these mice, but reflects a loss of FDCs and/or FDC function by this age.
+14159
+14169
+Discussion
+14171
+14401
+Our data demonstrate that while NF-κB p50-/- mice are clearly deficient in MZ B cells for the first 2 months of life, MZ B cells appear with age, such that by 6 months a normal splenic MZ B cell compartment has been reconstituted.
+14402
+14554
+There are at least four distinct but not mutually exclusive mechanisms that could account for the late appearance of cells within the MZ of p50-/- mice.
+14555
+14655
+First, these B cells could be memory B cells, which have been reported to accumulate in the MZ [30].
+14656
+14809
+While we cannot formally rule out this possibility, B cells from p50-/- mice respond poorly to antigenic challenge, especially T-dependent antigens [16].
+14810
+14919
+Consequently, it is unlikely that memory B cells would be generated in these mice, irrespective of their age.
+14920
+15161
+Alternatively, the emergence of MZ B cells in p50-/- mice could represent the accumulation of these cells through homeostatic proliferation, in which cells proliferate to fill niches in response to deficits in specific subsets of cells [31].
+15162
+15414
+While splenic B cells from p50-/- mice will undergo homeostatic proliferation as a consequence of their transfer into SCID recipients [32], the ability of the few MZ B cells in the p50-/- donor spleen to expand following transfer was not examined [32].
+15415
+15795
+Nevertheless, we view it as unlikely that homeostatic proliferation accounts for the accumulation of MZ B cells in the spleens of older p50-/- mice, since the accumulation of cells brought on by homeostatic proliferation is generally observed over a much shorter period of time, days to a couple of weeks, rather than the months required to reconstitute MZ B cells in p50-/- mice.
+15796
+16022
+A third possibility is that a NF-κB p50-dependent signal transduction pathway that activates a developmentally required transcription program in MZ B cells or their precursors is overcome by compensatory mechanisms with aging.
+16023
+16556
+NF-κB p50 is involved in a number of pathways crucial for B cell development and maturation, including B cell receptor (BCR) signalling and responses to members of the TNF family [33-35] Signal strength through the BCR has been proposed to be an important determinant of B cell lineage fate decisions, including the MZ B cell pool [36,37] BAFF signalling is also important for the selection of B cells into the MZ B cell pool [38], while an intact LT-β R signalling pathway is required for the proper positioning of these cells [39].
+16557
+16757
+The accumulation of MZ B cells in older p50-/- mice could reflect compensatory mechanisms in one or more of these signal transduction pathways important for the emergence or maintenance of MZ B cells.
+16758
+16965
+A fourth possibility is that the small numbers of MZ B cells that successfully emerge in p50-/- mice survive for extended periods of time, resulting in the slow accumulation of this subset of cells with age.
+16966
+17074
+Hao and Rajewsky [40] have demonstrated that the half-life of MZ B cells is greater than that of FO B cells.
+17075
+17319
+Thus, a simple explanation for the accumulation of MZ B cells in p50-/- mice with age is that these cells preferentially survive, and thus their frequency relative to the FO B cell pool and other B cells in the spleen increases slowly with age.
+17322
+17495
+B cells from p50-/- mice are compromised in their ability to respond to specific antigen challenge, and are completely unresponsive to mitogenic substances such as LPS [16].
+17496
+17690
+However, our data suggests that MZ B cells from p50-/- mice display some functionality, including the binding, transport and deposition of IgM-IC onto FDCs, a function unique to MZ B cells [15].
+17691
+17847
+Like IgM-containing T-dependent immune complexes, MZ B cells also bind T-independent type 2 (TI-2) antigens in a complement and CR1/2-dependent manner [41].
+17848
+18122
+Despite the fact that p50-/- mice are widely considered to be devoid of MZ B cells, the presence of small numbers of these B cells in p50-/- mice were in fact noted in the initial studies of Pillai and colleagues, and these appeared to bind low levels of TI-2 antigens [17].
+18123
+18254
+However, further analysis of the consequences of this binding, such as the transfer of immune complexes to FDCs, was not evaluated.
+18255
+18506
+The results of the current study not only extend these previous studies, but demonstrate that one consequence of the small amount of IgM-IC binding manifests itself by the limited, but none-the-less detectable, deposition of these complexes onto FDCs.
+18507
+18648
+This suggests that this function of MZ B cells is completely independent of the activation of NF-κB, at least those complexes containing p50.
+18649
+18942
+These results extend other evidence suggesting that the activation of MZ B cells through engagement of the BCR may not be required for transport and deposition of IgM-IC, since MZ B cells from CD19-deficient mice, which also have deficits in MZ B cells, are also functional in this assay [15].
+18945
+19104
+Together, these results raise the question of whether MZ B cells require activating signals to migrate into B cell follicles following IgM-IC binding to CR1/2.
+19105
+19189
+MZ B cell migration can be detected in 1 h or less after the binding of IgM-IC [15].
+19190
+19472
+The binding of IgM-IC to these cells may interfere with one or more of the mechanisms proposed to play a role in MZ B cell positioning, including retention by macrophages within the MZ [42], integrin-mediated retention [39], or responsiveness to lysophospholipids in the blood [43].
+19473
+19596
+Once released, the MZ B cells would be expected to migrate into follicles in response to chemoattractants such as BLC [44].
+19597
+19898
+These considerations suggest that follicular migration of MZ B cells may be the "default" pathway, whereas BCR engagement, which is known to direct MZ B cells not into the follicles but to the T-B interface [45-47], actively alters the fate of antigen specific MZ cells away from follicular migration.
+19901
+20074
+Despite the increase in frequency (and numbers) of MZ B cells in p50-/- mice, the deposition of IgM-IC within the follicles does not improve with age, but declines severely.
+20075
+20225
+This appears to be due to a decrease in function of FDCs, which are fewer in number and are less pronounced, as evidenced by CD21 staining (Figure 5).
+20226
+20396
+Thus, the decreased ability of FDCs to retain complement containing immune complexes observed in old mice [27], appear to emerge with accelerated kinetics in p50-/- mice.
+20399
+20667
+NF-κB p50 is only one of a growing number of genes, including a number of transcription factors, whose expression influences the development of MZ B cells (reviewed in [48]), highlighting the complex interactions that must converge to generate this B cell compartment.
+20668
+20908
+The fact that the requirements for individual proteins, such as p50, could change with age suggests that compensatory mechanisms exist which can overcome cellular defects, and/or that more than one pathway to generate these cells may exist.
+20911
+20921
+Conclusion
+20923
+21043
+These experiments demonstrate the profound influence age can exert on cellular populations in genetically modified mice.
+21044
+21202
+The appearance of large numbers of MZ B cells in 6 month old p50-/- mice suggests that compensatory mechanisms overcome the deficits caused by p50-deficiency.
+21203
+21369
+Both in young and old p50-/- mice, these MZ B cells appear to retain some functionality, as assessed by their ability to bind, transport and deposit IgM-IC onto FDCs.
+21370
+21660
+On the other hand, FDCs are unable to maintain their functional capacity to trap IgM-IC in aged p50-/- mice indicating that, while MZ B cells recover with age, other immune defects become more pronounced as a result of deficiency in this member of the NF-κB family of transcription factors.
+21663
+21670
+Methods
+21672
+21796
+C57BL/6J and NF-κB p50 deficient (B6;129P2-Nfkb1tm1Bal) [16] mice were purchased from Jackson Laboratories (Bar Harbor, ME).
+21797
+21893
+Mice were maintained in the Laboratory Animal Sciences Center, Boston University Medical Center.
+21894
+22071
+All studies were reviewed by an Institutional Animal Care and Use Committee and carried out in accordance with established guidelines according to National Institutes of Health.
+22072
+22138
+Mice of both sexes were used at 2 to 6 months of age as described.
+22141
+22367
+Mice were injected i.v. with a mixture of 15 to 20 μg each of NP12-BSA-biotin (Biosearch Technologies, Novato, CA) and affinity purified pentameric IgM anti-NP monoclonal antibody (B1-8) exactly as previously described [7,15].
+22370
+22476
+In vitro assays to assess the binding of IgM-IC to MZ B cells were performed as previously described [15].
+22477
+22667
+Briefly, IgM-IC were formed by mixing 1 μg each of NP-BSA-biotin and B1-8 IgM in RPMI in the presence of 10% fresh mouse serum as a source of complement and incubated for 30 minutes at 37°C.
+22668
+22768
+Splenocytes (107) were resuspended in the IgM-IC and incubated at 37°C for an additional 30 minutes.
+22769
+22818
+Cells were washed and analyzed by flow cytometry.
+22821
+22902
+Staining of spleen sections was performed exactly as previously described [7,15].
+22903
+23015
+Briefly, spleens were removed and snap frozen in O.C.T. Compound (Tissue Tek, Torrance, CA) and stored at -80°C.
+23016
+23109
+6 μm sections were cut (IEC Microtome, Needham, MA) and fixed in acetone at -20°C for 10 min.
+23110
+23210
+Sections were incubated with 0.3% H2O2/PBS for 5 min and blocked with 3% normal rabbit or rat serum.
+23211
+23256
+All antibodies were diluted in 5% BSA in PBS.
+23257
+23515
+Primary antibodies used included: anti-CD3-FITC (1/200), anti-CD3-biotin (1/200), anti-CD21/35-FITC (1/100), (all from BD Biosciences, San Diego), ER-TR9 (1/200; BMA Biomedical, Augst, Switzerland), and anti-FDC-M2 (1/200; Immunokontact, Frankfurt, Germany).
+23516
+23755
+Secondary antibodies included anti-FITC-HRP (1/100; Roche Molecular Biochemicals, Indianapolis, IN), goat anti-rat IgG-HRP (1/500; Jackson Immunoresearch, West Grove, PA), and goat anti-rat IgM (Fab')2-HRP (1/1000; Jackson Immunoresearch).
+23756
+23971
+NP12-BSA-biotin and anti-CD3-biotin was visualized by alkaline phosphatase (AP)-streptavidin (1/400; Molecular Probes, Eugene, OR) and developed with napthol AS-MX phosphate/Fast blue BB base (Sigma, St. Louis, MO).
+23972
+24147
+Visualization of antibody stains was accomplished using horse radish peroxidase (HRP) conjugated secondary antibodies developed with 3-amino-9-ethylcarbazole (Sigma) and H202.
+24148
+24317
+After staining, sections were covered with crystal mount (Biomedia, Foster City, CA) before examining by digital microscopy (Zeiss, Axiovert 200 M, Oberkochen, Germany).
+24318
+24457
+Unless otherwise noted, all images were obtained using a 10× objective (initial magnification of 100×) unless otherwise noted (see Fig. 4).
+24460
+24502
+Sections were initially treated as for IH.
+24503
+24794
+Antibodies utilized included anti-MOMA-1 (1/25; Serotec, Raleigh NC) visualized with a goat anti-rat IgG-AMCA (1/100; Jackson Immunoresearch), anti-IgM-Texas Red (1/100; BD Biosciences), and anti-laminin (1/500; Sigma) visualized with an anti-rabbit IgG-FITC (1/100; Jackson Immunoresearch).
+24795
+24966
+All sections were covered with Fluoromount G (Jackson Immunoresearch) and a cover slip before examining by digital microscopy (Zeiss, Axiovert 200 M, Oberkochen, Germany).
+24969
+25041
+Splenocytes were isolated at the indicated times and stained as follows.
+25042
+25092
+The lymphocyte gate was utilized for all analysis.
+25093
+25213
+Cells were analyzed using a FACScan (Becton Dickinson, Franklin Lakes, NJ) and FlowJo software (Tree Star, Ashland, OR).
+25214
+25410
+Antibodies utilized were anti-B220-FITC (1/200), anti-B220-biotin (1/200), anti-B220-PE (1/200), anti-CD21/35-FITC (1/200), anti-CD23-PE (1/200), and anti-CD1d-FITC or PE (1/100) (BD Biosciences).
+25411
+25586
+Streptavidin-Cy5 (1/200; BD Biosciences) was used to identify the NP antigen (NP12-BSA-biotin) associated with lymphocytes, as well as to visualize biotin-labelled antibodies.
+25589
+25611
+Authors' contributions
+25613
+25619
+A.R.F.
+25620
+25731
+performed the experiments reported in this manuscript and participated in the data interpretation and analysis.
+25732
+25888
+R.B.C. originally conceived of the study, participated in data interpretation and analysis, and takes overall responsibility for the conduct of the studies.
+25889
+25948
+Both authors have read and approve of the final manuscript.
+25951
+25976
+Figure and Table captions
+25978
+26037
+Figure 1: p50-/- mice trap IgM-IC less efficiently on FDCs.
+26038
+26124
+Localization of IgM-IC in B6 or p50-/- mice was determined by IH 16 h after injection.
+26125
+26202
+ER-TR9 identifies marginal zone macrophages (MZM) and FDC-M2 identifies FDCs.
+26203
+26457
+IgM-IC (which appear blue in this and all subsequent figures and are identified by arrows) are localized to FDCs in spleens from both groups of mice, but FDCs from B6 mice show more intense staining, indicating that more IgM-IC are trapped in these mice.
+26458
+26568
+All IH stains were performed on serial sections and were developed side-by-side for identical periods of time.
+26570
+26699
+Figure 2: p50-/- mice contain reduced numbers of MZ B cells that bind high levels of IgM-IC A. B cell subsets and IgM-IC binding.
+26700
+26816
+Splenocytes from B6 or p50-/- mice were analyzed for B cell subsets by FACS using CD21/CD23 or B220/CD1d expression.
+26817
+26899
+Histograms on the right show binding of IgM-IC to MZ and FO B cells 1 h after i.v.
+26900
+26976
+injection (shaded region); clear profiles represent uninjected control mice.
+26977
+27197
+Although spleen cells from p50-/- mice contained reduced numbers of MZ B cells, the cells present in the MZ B cell gate bind IgM-IC at high levels over background, similar to levels of binding of IgM-IC to B6 MZ B cells.
+27198
+27320
+B. In vitro binding assay showing binding of IgM-IC to MZ B cells (shaded region) compared with FO B cells (clear region).
+27321
+27411
+MZ B cells from both B6 and p50-/- mice bind high levels of IgM-IC compared to FO B cells.
+27412
+27560
+C. Immunofluorescence shows the presence of IgMhi cells (red) in the MZ as demarcated by MOMA-1 (marginal metallophilic macrophages, blue) staining.
+27561
+27717
+p50-/- mice possess some IgM+ cells in the MZ outside of the MOMA-1 ring, consistent with the presence of appropriately positioned MZ B cells in these mice.
+27719
+27988
+Figure 3: p50-/- mice accumulate MZ B cells with age that have the capacity to bind high levels of IgM-IC A. FACS profile of splenocytes from 2 and 6 month old B6 and 6 month p50-/- mice reveal the presence of normal numbers of MZ B cells in spleens of the p50-/- mice.
+27989
+28076
+Histograms illustrate binding of IgM-IC to p50-/- MZ B cells as described in Figure 2A.
+28077
+28110
+B. In vitro IgM-IC binding assay.
+28111
+28191
+Binding to MZ B cells (shaded profiles); binding to FO B cells (clear profiles).
+28193
+28398
+Figure 4: Phenotypic and histological analysis of MZ B cells in p50-/- mice A. FACS profile of splenocytes from 2 and 6 month old B6 and 6 month old p50-/- mice revealed by B220/CD1d and B220/CD9 profiles.
+28399
+28533
+B. FACS histograms showing IgM levels on MZ and FO B cells (shaded and clear regions, respectively) as determined by CD21/23 profiles.
+28534
+28659
+Cells present in the MZ B cell gate in p50-/- mice express higher levels of IgM compared with FO B cells, similar to B6 mice.
+28660
+28824
+C. IF reveals well demarcated IgMhi cells (in red) in the MZ outside of the laminin staining (which identifies the marginal sinus; in green) in 6 month p50-/- mice.
+28826
+29061
+Figure 5: Deteriorated FDCs in aged p50-/- mice correlates with reduced IgM-IC localization A. 2 month and 6 month old B6 mice and 6 month old p50-/- mice were injected with IgM-IC and analyzed by IH for IgM-IC localization 16 h later.
+29062
+29177
+IgM-IC were present on FDCs in 2 and 6 month B6 mice (see arrows), but were not deposited onto FDCs in p50-/- mice.
+29178
+29339
+B. Intense CD21 staining (designated by arrows) was less visible in the spleens of p50-/- mice, indicating that FDC networks were poorly developed in these mice.
+29340
+29459
+This suggests that reduced IgM-IC localization may be attributed to the loss of functional FDC networks in p50-/- mice.
+29460
+29545
+The magnifications noted refer to the objective used, not the absolute magnification.

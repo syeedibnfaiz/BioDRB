@@ -1,0 +1,801 @@
+0
+104
+BMP-6 inhibits growth of mature human B cells; induction of Smad phosphorylation and upregulation of Id1
+106
+114
+Abstract
+116
+273
+Background: Bone morphogenetic proteins (BMPs) belong to the TGF-β superfamily and are secreted proteins with pleiotropic roles in many different cell types.
+274
+394
+A potential role of BMP-6 in the immune system has been implied by various studies of malignant and rheumatoid diseases.
+395
+488
+In the present study, we explored the role of BMP-6 in normal human peripheral blood B cells.
+489
+620
+Results: The B cells were found to express BMP type I and type II receptors and BMP-6 rapidly induced phosphorylation of Smad1/5/8.
+621
+761
+Furthermore, Smad-phosphorylation was followed by upregulation of Id1 mRNA and Id1 protein, whereas Id2 and Id3 expression was not affected.
+762
+962
+Furthermore, we found that BMP-6 had an antiproliferative effect both in naïve (CD19+CD27-) and memory B cells (CD19+CD27+) stimulated with anti-IgM alone or the combined action of anti-IgM and CD40L.
+963
+1030
+Additionally, BMP-6 induced cell death in activated memory B cells.
+1031
+1154
+Importantly, the antiproliferative effect of BMP-6 in B-cells was completely neutralized by the natural antagonist, noggin.
+1155
+1250
+Furthermore, B cells were demonstrated to upregulate BMP-6 mRNA upon stimulation with anti-IgM.
+1251
+1401
+Conclusion: In mature human B cells, BMP-6 inhibited cell growth, and rapidly induced phosphorylation of Smad1/5/8 followed by an upregulation of Id1.
+1403
+1413
+Background
+1415
+1582
+Members of the transforming growth factor β (TGF-β) superfamily play central roles in controlling cellular proliferation, differentiation, migration and apoptosis [1].
+1583
+1760
+These cytokines can be divided into three subgroups: TGF-β, the activins/inhibins, and the bone morphogenetic proteins (BMPs), of which the latter constitute the largest family.
+1761
+1904
+BMPs are 30–38 kDa hetero- or homodimeric proteins originally identified by their ability to induce ectopic cartilage and bone formation [2,3].
+1905
+2042
+Several studies have demonstrated an essential role of these proteins during embryogenesis, and more recently, also in adult tissues [1].
+2043
+2198
+TGF-β has been intensively studied in normal and malignant haematopoietic cells and is one of the most potent endogenous negative regulators known to date.
+2199
+2203
+[4].
+2204
+2290
+In contrast, the effect of BMPs in the immune system has not been widely investigated.
+2291
+2436
+In that respect, BMP- 2, -4 and -7 have been found to control differentiation of hematopoietic stem cells [5] and early T cell development [6,7].
+2437
+2557
+BMP-6 has been reported to reduce the number of cobblestone-area-forming cells of normal human haematopoietic cells [8].
+2558
+2675
+Furthermore, BMP-2, -4, 6 and -7 had an antiproliferative and a proapoptotic effect on multiple myeloma cells [9-11].
+2676
+2888
+In addition, by gene expression profiling, BMP-6 significantly increased the predictive value for a multi-gene signature test and was associated with a poor outcome in diffuse large B cell lymphomas (DLBCL) [12].
+2891
+3147
+BMP-6, like the other BMP members, signals through ligation and heterodimerzation of BMP type I [activin-like-kinase (ALK)] and type II serine-threonine kinase receptors, which subsequently propagates the signal downstream by phosphorylating Smad proteins.
+3148
+3383
+BMP-6 can signal through the ligation of the type I receptors Act-RIA, BMP-RIA, and BMP-RIB and the type II receptors BMP-RII, Act-RIIA and Act-RIIB, which lead to the phosphorylation of the receptor Smads (Smad-1, Smad-5, and Smad-8).
+3384
+3520
+The R- Smads then form complexes with the co-Smad (Smad4) and are translocated into the nucleus where they exert gene regulation [1,13].
+3523
+3680
+Given the reported role of BMP-6 in B-cell malignancies and haematopoietic progenitor cells, we wanted to explore its potential role in normal human B cells.
+3681
+3778
+We studied the effects of BMP-6 on proliferation and apoptosis on resting and stimulated B cells.
+3779
+3954
+Furthermore, the expression of BMP receptors and BMP-6 induced activation of the Smad signalling pathway with subsequent regulation of the target genes Id1–Id4, were resolved.
+3955
+4033
+Finally, we investigated whether B cells also were capable of producing BMP-6.
+4036
+4043
+Results
+4045
+4183
+The effects of BMP-6 on normal and neoplastic hematopoietic cells prompted us to investigate the effects of BMP-6 on normal human B cells.
+4184
+4335
+All experiments in this study were performed under serum-free conditions as FCS has been shown to interfere with BMP-signalling [14](own observations).
+4336
+4509
+To study the effect of BMP-6 on proliferation, B-cells from healthy volunteers were stimulated with anti-IgM and/or CD40L in the presence or absence of BMP-6 for three days.
+4510
+4624
+We found that BMP-6 led to a 35% mean reduction of anti-IgM- induced DNA synthesis (n = 8; p ≤ 0.0002, Figure 1A).
+4625
+4738
+Similar results were obtained for B cells treated with anti-IgM and CD40L (26% mean reduction, n = 6; p ≤ 0.023).
+4739
+4928
+The BMP-6-induced inhibition of proliferation was dose-dependent in both peripheral B cells (Figure 1B) and the Burkitt lymphoma cell line Ramos (40% reduction of DNA synthesis, Figure 1C).
+4929
+5027
+The BMP-6 effects could be reversed by addition of the extracellular inhibitor Noggin (Figure 1D).
+5028
+5163
+Similarly, a combination of the soluble BMP receptors BMP-RIB-Fc and BMP-RII-Fc also neutralized the effects of BMP-6 (data not shown).
+5164
+5251
+Next, we wanted to test whether BMP-6 had different effect on naïve and memory B cells.
+5252
+5468
+Naïve (CD19+CD27-) and memory (CD19+CD27+) B cells were isolated from peripheral blood by cell sorting of immunobead-isolated CD19+ B cells [15], and tested for their capacity to proliferate in the presence of BMP-6.
+5469
+5713
+However, BMP-6 inhibited anti-IgM induced DNA synthesis in the two subpopulations to a similar extent, with a mean reduction of DNA-synthesis of 45% (n = 5; p ≤ 0,004) for naïve B cells and 48% (n = 5; p ≤ 0,001) for memory B cells (Figure 1E).
+5716
+5809
+Next, we wanted to establish whether BMP-6 also could affect the viability of normal B cells.
+5810
+5923
+Cell viability was determined by propidium iodide (PI) staining after culture with or without BMP-6 for 48 hours.
+5924
+6084
+Interestingly, BMP-6 showed a small, but reproducible mean increase of cell death from 17 to 23% (n = 5; p ≤ 0,003) in anti-IgM stimulated CD27+ memory B cells.
+6085
+6213
+Furthermore, Ramos cells showed a mean increase in cell death from 20 to 50% (n = 3, p < 0,001, figure 3) after BMP-6 treatment.
+6214
+6379
+In contrast, cell death of total CD19+ cells (n = 6; p ≤ 0,32; data not shown) or CD27-IgG- naïve B cells was not significantly affected (n = 5; p ≤ 0,65, figure 2).
+6382
+6487
+Detailed knowledge regarding expression of different BMP receptors in B cells is currently not available.
+6488
+6616
+To further elucidate the role of BMPs in human B cells, we performed western blot analysis for type I and type II BMP receptors.
+6617
+6780
+This analysis revealed that the type I receptors Act-RIA, BMP-RIB and the type II receptors BMP-RII and Act-RIIb are expressed on resting human B-cells (Figure 4).
+6781
+6929
+Ramos cells expressed the type I receptors Act-RIA, weakly BMP-RIB and the type II receptor BMP-RII, but more weakly than normal B cells (Figure 4).
+6930
+7007
+HL60 cells were used for comparison and weakly expressed Act-RIA and BMP-RII.
+7010
+7152
+Taken together, these data show that normal human B cells and Ramos cells express a set of BMP receptors, previously shown to bind BMP-6 [16].
+7155
+7251
+Upon ligand binding, the type II receptor transphosphorylates and activates the type I receptor.
+7252
+7301
+Type I receptors can signal via several pathways.
+7302
+7446
+We examined the effect of BMP-6 on Smad phosphorylation, as the activation of Smad is considered to be a major signalling pathway for BMPs [17].
+7447
+7552
+B cells were cultured in serum-free media over night and then treated with BMP-6 for various time points.
+7553
+7688
+Total protein lysates were prepared, and the amounts of the phosphorylated forms of Smad1/5/8 were determined by western blot analysis.
+7689
+7767
+Interestingly, treatment with 500 ng/ml BMP-6 induced phosphorylation of Smad.
+7768
+7910
+The BMP-6 induced phosphorylation was high at the earliest time point tested (15 minutes), and remained high for at least 48 hours (Figure 5).
+7911
+7999
+A similar phosphorylation was observed in Ramos cells, but not in HL60 cells (Figure 6).
+8000
+8133
+Furthermore, we also tested whether other known downstream signalling pathways of BMP-6 could be triggered by BMP-6 in human B cells.
+8134
+8280
+However, we did not observe any significant changes in the level of phospho-STAT3 or phospho-p38 upon BMP-6 treatment of B cells (data not shown).
+8283
+8424
+Next, we wanted to explore whether the BMP-6 induced phosphorylation of Smad 1/5/8 also could induce transcriptional changes of target genes.
+8425
+8563
+In this regard, the inhibitors of DNA binding proteins (Ids) are considered to be some of the major target genes for Smad-signalling [17].
+8564
+8740
+Thus, B cells were pre-incubated over night in X-VIVO 15, and then cultured in medium alone or in the presence of BMP-6 for various time points before preparation of total RNA.
+8741
+8803
+The amount of Id1–Id4 mRNA was quantified by real-time RT-PCR.
+8804
+8913
+Interestingly, we observed a specific four-fold upregulation of Id1 mRNA in BMP-6-treated B cells (Figure 7).
+8914
+9095
+The up-regulation of Id1 mRNA was characteristic of an early inducible gene, with maximal upregulation two hours after the addition of BMP-6 and returned to baseline after 24 hours.
+9096
+9239
+In contrast, no significant changes were observed for Id2 and Id3 mRNA, whereas Id4-transcripts were not detectable (Figure 7, data not shown).
+9242
+9382
+Western blot analysis revealed that the BMP-6-induced upregulation of Id1 mRNA also was correlated with upregulation of Id1 protein as well.
+9383
+9582
+The increase in Id1 protein level was detectable after one hour and increased until 24 hours after BMP-6 addition, showing a 16-fold upregulation compared with t0 (p ≤ 0.020, n = 4) (Figure 8 and 9).
+9583
+9705
+In line with the mRNA data, no consistent change in the amounts of Id2 and Id3 protein could be observed (Figure 8 and 9).
+9706
+9791
+We were able to block the Id1 specific band with a blocking peptide (data not shown).
+9792
+9965
+Taken together, these data suggest that Id1 could be a possible target gene for mediating the effects of BMP-6 in human B cells, whereas Id2 and Id3 not seem to be involved.
+9968
+10172
+The fact that BMP-6 has been reported to act as an autocrine stimulator in chondrocytes [18] and ovarium [19], prompted us to investigate whether normal human B cells could produce BMP-6 upon stimulation.
+10173
+10336
+Ramos cells, which have been described to express BMP-6 mRNA endogenously [20], and the T cell line Jurkat, served as positive and negative controls, respectively.
+10337
+10478
+Endogenous BMP-6 mRNA levels in normal B cells were quantified by real-time RT-PCR after stimulation with anti-IgM for different time points.
+10479
+10656
+Interestingly, the up-regulation of BMP-6 mRNA was characteristic of an early-to intermediate inducible gene with maximal upregulation four hours after the addition of anti-IgM.
+10657
+10746
+The level of BMP-6 mRNA was back to baseline after 24 hours upon stimulation (Figure 10).
+10747
+10847
+Furthermore, both FCS and human AB-serum induced significant upregulation of BMP-6 mRNA (Figure 11).
+10848
+11011
+Interestingly, in a separate study we have found that normal human T cells do not express BMP-6 mRNA after activation (Sivertsen et al, manuscript in preparation).
+11012
+11123
+Next, we wanted to detect BMP-6 protein in normal B-cells and tested various commercially available antibodies.
+11124
+11250
+However, in our hands these anti-BMP-6 antibodies did only recognize the recombinant BMP-6 protein and not the native protein.
+11253
+11263
+Discussion
+11265
+11508
+Recent studies have demonstrated an important role for BMP superfamily members in hematopoietic stem cells, early thymocytes [6,7] and B-cell malignancies [8,11,12], but a role for BMPs in normal human B cells has previously not been reported.
+11509
+11622
+The present study demonstrated a significant antiproliferative effect of BMP-6 in peripheral blood CD19+ B cells.
+11623
+11737
+Additionally, BMP-6 induced cell death in CD27+ memory B cells as well as in a Burkitt lymphoma cell line (Ramos).
+11738
+11823
+Importantly, BMP-6 induced a rapid and marked increase in Smad-1/5/8 phosphorylation.
+11824
+11956
+Furthermore, the BMP-6 induced Smad phosphorylation was followed by a selective upregulation of Id1 mRNA and subsequent Id1 protein.
+11959
+12095
+In the present study, the demonstrated antiproliferative effect of BMP-6 in anti-IgM treated B cells was significant and dose-dependent.
+12096
+12222
+Importantly, the anti-proliferative effect of BMP-6 could be completely neutralized by the use of a natural inhibitor, Noggin.
+12223
+12315
+This is in line with others, showing that Noggin can function as a BMP-6 antagonist [21,22].
+12316
+12471
+In addition, the combination of soluble BMP-RIB-Fc and BMP-RII-Fc fusion proteins also neutralized the anti-proliferative effect of BMP-6 in human B cells.
+12472
+12578
+Interestingly, as for other TGF family members, bifunctional effects have also been demonstrated for BMPs.
+12579
+12832
+Whereas several of the BMPs have been shown to promote proliferation in various cell types including condrocytes [23], liver [24] and granulosa cells [25], antiproliferative effects and induction of apoptosis has been reported for B and T lineage cells.
+12833
+12985
+Similar effects as demonstrated for BMP-6 on human B cells in the present study, were demonstrated for BMP-2, 4, 6 and -7 in human myeloma cells [9-11].
+12986
+13103
+Other members of the BMP-family have also been reported to induce apoptosis, including in mouse B lineage cells [26].
+13104
+13161
+Additionally, BMP-4 inhibits thymocyte proliferation [6].
+13162
+13298
+Taken together, these data suggest that the role of BMPs in the regulation of proliferation and apoptosis is highly cell type dependent.
+13301
+13425
+To examine how BMP-6 exerts its functional effects in B cells, we analysed BMP receptor expression by western blot analysis.
+13426
+13635
+Human peripheral B cells were found to express the BMP type I receptors Act-RIA and BMP-RIB, and the type II-receptors BMP-RII and Act-RIIb, which signal after binding of several BMPs, including BMP-6 [16,13].
+13636
+13724
+To further explore BMP-6 induced signalling, activation of several pathways is possible.
+13725
+13802
+The major signalling pathway known to date, is activation of R-Smads [13,27].
+13803
+13933
+In that respect, BMPs have been shown to exert antiproliferative effects in B lineage cells via phosphorylation of R-Smad [11,28].
+13934
+14019
+Furthermore, BMP-2 has been shown to induce activation of STAT3 in myeloma cells [9].
+14020
+14090
+However, phosphorylation of R-Smad was not investigated in that study.
+14091
+14155
+BMP-2 has also been shown to induce phosphorylation of p38 [29].
+14156
+14353
+Thus, phosphorylation of p38, STAT3 and Smad1/5/8 represent important BMP-signalling pathways that mediated the effects of BMPs and even cross-talk between these pathways has been reported [29,30].
+14354
+14499
+In the present study, we were not able to detect BMP-6-induced changes in the phosphorylation status of STAT3 or p38 in human peripheral B cells.
+14500
+14570
+Instead, a rapid and marked phosphorylation of Smad1/5/8 was revealed.
+14571
+14703
+In a parallel study, we have found that other BMPs also induced phosphorylation of Smad1/5/8 in peripheral B cells (data not shown).
+14704
+14870
+We are currently pursuing microarray studies to identify the signalling pathways and target genes that are differently regulated by the various BMPs in human B cells.
+14873
+15090
+Upregulation of Id1 via Smad1/5/8 phosphorylation is a known mechanism for BMP-6 signalling in other cell systems [31,32] and regulation of Id-proteins is thought to be an important mechanism for Smad-signalling [17].
+15091
+15266
+In the present study, real-time RT-PCR experiments revealed a specific four-fold upregulation for Id1 in BMP-6-treated B cells, while the amount of Id2–Id4 remained unchanged.
+15267
+15424
+In agreement with this, western blot analysis demonstrated an upregulation of Id1 protein, while the amount of Id2 and Id3 protein levels remained unchanged.
+15425
+15627
+Previously, Id1 has been considered not to be expressed in later developmental stages than pro-B cells [33,34], and its constitutive expression has been reported to impair mouse B cell development [35].
+15628
+15773
+Therefore, our demonstration of the time-dependent upregulation of Id1 mRNA and protein in mature normal human B cells is of particular interest.
+15774
+15932
+In that respect, it is noteworthy that TGF-β signalling in early and mature B cells induces both Id2 and Id3 expression [36,37], but not Id1 (data not shown).
+15933
+16041
+Interestingly, these results show that various members of the TGF-β family regulate Id proteins differently.
+16042
+16131
+Id2 and Id3 are considered to be the Id proteins mainly expressed in mature B cells [38].
+16132
+16248
+The present study also found Id2 and Id3 protein in B cells to be more highly expressed than Id1 in resting B cells.
+16249
+16340
+However, BMP-6 did not induce significant changes in the protein expression of Id2 and Id3.
+16341
+16451
+It is believed that Id proteins block differentiation and promote proliferation in various cell types [39,33].
+16452
+16602
+Id proteins act as dominant-negative inhibitors of E-proteins and Pax5 function by forming dimers with these proteins, making them unable to bind DNA.
+16603
+16735
+It has been proposed that the balance among E-proteins, Pax5 and Id proteins might have an important role in activated B cells [38].
+16736
+16901
+In that respect, E-proteins have been implicated in both the promotion and inhibition of cell survival and growth at different points in lymphocyte development [40].
+16902
+17171
+The antiproliferative and death inducing effect of BMP-6 in B cells with concomitant upregulation of Id1 protein is therefore in line with the view that Id proteins are required for the induction of growth arrest and apoptosis in B-lymphocyte progenitors by TGF-β [40].
+17174
+17310
+Furthermore, Id proteins are known as important parts of signalling pathways involved in development, cell cycle and tumorigenesis [32].
+17311
+17571
+It is well established that various members of the Id family are overexpressed in a range of human tumours and generally, Id1 appears to be the family member most widely overexpressed in a variety of human malignancies [41], including multiple myeloma [42,32].
+17572
+17754
+Additionally, our findings that BMP-6 activates intracellular signalling pathways in human B cells might be of potential pathophysiological significance in lymphoma and inflammation.
+17755
+17848
+High BMP-6 mRNA expression in DLBCL has been shown to correlate to unfavourable outcome [12].
+17849
+18045
+In this respect, it is of interest that targeted expression of Id1 to B-lymphocytes resulted in aberrant B cell development, massive apoptosis, and subsequent development of B cell lymphomas [35].
+18046
+18219
+Moreover, BMP-6 has been suggested to play a role in rheumatoid arthritis (RA) [43,44] and elevated levels of Id1 and Id3 have been found in the synovia of RA-patients [45].
+18220
+18380
+Altogether, these results point to an important role for Id proteins in the regulation of normal B cell homeostasis and in diseases, where B cells are involved.
+18381
+18534
+It will therefore be important to further elucidate the role of Id-1 in human B cells by selective over expression or inhibition of Id-1 gene expression.
+18537
+18777
+Given the role of BMP-6 in mature human B cells demonstrated here, identification of BMP-6 producing cells in vivo with possibility of interaction with naïve and memory B cells might contribute to the understanding of mature B cell biology.
+18778
+18866
+High BMP-6 mRNA expression in DLBCL has been detected by gene expression profiling [12].
+18867
+18971
+Furthermore, production of BMP-6 transcripts in normal activated B cells was detected in the same study.
+18972
+19079
+Of note, an autocrine BMP-6 loop has been reported by others in chondrocytes and in the ovarium [46,19,18].
+19080
+19173
+Therefore, we wanted to explore the possibility for an autocrine BMP-6 loop in human B cells.
+19174
+19398
+We analysed the expression BMP-6 mRNA in peripheral blood B cells by real-time PCR, and report here the upregulation of endogenous BMP-6 transcripts after stimulation with FCS, human AB-serum and, most importantly, anti-IgM.
+19399
+19621
+However, our attempts to study BMP-6 protein levels were unsuccessful due to problems with unspecific binding of the anti-BMP-6 antibodies tested, and lack of specific staining in control cells known to express BMP-6 mRNA.
+19622
+19680
+In contrast, the recombinant protein was readily detected.
+19681
+19791
+In that respect, few investigators have detected BMP-6 protein in humans, especially in non-pathogenic tissue.
+19792
+20001
+The possibility of BMP-6 production in human B-cells is in line with a recent work that reported the production of BMP-6 in mouse B cells, infiltrating the bone marrow of mice with inflammatory arthritis [43].
+20002
+20089
+In this study, a role for BMPs in the inflammatoric process of arthritis was suggested.
+20090
+20192
+The upregulation of the BMP-6-transcripts after IgM-crosslinking is of pathophysiologic interest [12].
+20193
+20372
+A loss of TGF-β-responsiveness has been suggested to be a critical contribution to malignant transformation [47,48] and similar oncogenic mechanisms have been postulated for BMPs.
+20373
+20529
+Lines of evidence suggest [49] that at early stages of carcinogenesis, BMP-6 is not a tumour promoter, but suppresses benign and malignant tumour outgrowth.
+20530
+20753
+These findings are in good agreement with previous findings for other TGF-β family members, including TGF-β1 and BMP-4 [50], indicating that cellular context of the BMP target cell might define the various observed effects.
+20754
+21054
+In contrast to the upregulation of BMP-6 transcript in B cells, we were not able to detect BMP-6 transcripts in human peripheral blood CD4+ or CD8+ T cells (resting or stimulated with anti-CD3 and anti-CD28; data not shown), consistent with the findings in T cell lines [20] and T cells in mice [43].
+21055
+21205
+Other potential BMP-6 sources for mature B cells in vivo might be other cells of the immune system or tissue with contact to the hematopoietic system.
+21206
+21302
+One well recognized source for BMP-6 production is the human bone and bone marrow stroma [51,8].
+21303
+21482
+Furthermore, it is noteworthy that human umbilical vein endothelial cells (HUVEC) highly express BMP-6 mRNA [52], and vascular endothelium has been reported to produce BMP-6 [53].
+21483
+21567
+These studies might imply a role for BMP-6 in transendothelial migration of B cells.
+21568
+21657
+BMP-6 mRNA has been demonstrated in murine macrophage cell lines, but not in humans [54].
+21658
+21816
+In accordance with these findings, other human cell lines of neutrophil and monocytic origin have been described to be negative for the BMP-6 transcript [20].
+21817
+21912
+To our knowledge, there is currently no report about BMP-6 production of human dendritic cells.
+21915
+21925
+Conclusion
+21927
+22089
+In conclusion, our results show that BMP-6 induces activation of intracellular Smad signalling in mature human B-cells with consecutive production of Id1 protein.
+22090
+22243
+Furthermore, we report that BMP-6 has an antiproliferative effect in B cells stimulated with anti-IgM alone or the combined action of anti-IgM and CD40L.
+22244
+22327
+Additionally, BMP-6 induces cell death in activated memory B cells and Ramos cells.
+22328
+22537
+Taken together, these results provide a rationale to further examine the role of BMP-6 signalling in normal B cell biology as well as in pathologic conditions like B cell malignancies and autoimmune disorders.
+22540
+22547
+Methods
+22549
+22683
+If not specified, all cells were cultured in X-VIVO 15™ (BioWhittaker, Verviers, Belgium) serum-free medium at 37°C and 5% CO2 in air.
+22686
+22849
+Peripheral blood was provided by the Blood Bank at Buskerud Regional Hospital with formal agreement by the patients, and approval by the regional ethics committee.
+22850
+23043
+Highly purified resting human B-lymphocytes (CD19+ cells) were isolated from the peripheral blood by rosetting with immunomagnetic beads (Dynabeads M450; Dynal, Oslo, Norway) as described [55].
+23044
+23174
+This procedure yields less than 0.5% T cells, 0.1% NK cells, and 0.5% monocytes as judged by indirect immunofluorescence staining.
+23177
+23592
+The following cell lines from human lymphoid malignancies were maintained in RPMI 1640 (PAA Laboratories GmbH, Pasching, Austria) supplemented with 10% foetal bovine serum (FCS), 100 units/ml penicillin G, and 100 units/ml of streptomycin sulphate, but serum-starved for at least four hours and cultured in X-VIVO 15™ when included in experiments: EBV-negative BL cell lines Ramos (ECACC 85030802), HL60 (JCRB0085).
+23595
+24109
+The following reagents were used at indicated concentrations: recombinant human (rhu) BMP-6 (1 μg/ml, if not specified otherwise), rhu BMP-RIB/ALK-6/Fc Chimera (5 μg/ml), rhu BMPR-II/Fc Chimera (5 μg/ml), and recombinant mouse Noggin (5 μg/ml) were purchased from R&D Systems (Abingdon, UK); Anti-IgM F(ab)2 fragments of rabbit polyclonal antibodies to human IgM heavy chain (37.5 μg/ml) was obtained from Dako, Copenhagen, Denmark and rhu CD40 ligand (CD40L, 10 ng/ml) was a gift from Immunex Corp. (Seattle, WA).
+24112
+24253
+Antibodies against the human BMP-receptors Act-RIA, BMP-RIB, BMPR-II, Act-RIIA and Act-RIIb were purchased from R & D Systems (Abingdon, UK).
+24254
+24566
+Detection of the BMP-6-protein has been tried with the following antibodies: goat polyclonal anti-BMP-6 (Santa Cruz, San Diego, CA, USA), monoclonal mouse anti-BMP-6 and polyclonal goat anti-BMP-6 from R & D Systems (Abingdon, UK), and mouse monoclonal anti-BMP-6 (Chemicon International Inc, Temecula, CA, USA).
+24569
+24713
+Characterisation of BMP-signalling pathways was done by use of anti-phospho-Smad1, -5, -and 8 polyclonal antibody (Chemicon, Temecula, CA, USA).
+24714
+24907
+Expression levels of Id1–3 proteins were detected with polyclonal rabbit antibody and detection was blocked with blocking peptide from Santa Cruz Biotechnology (Santa Cruz, San Diego, CA, USA).
+24908
+25079
+As secondary antibodies served anti-mouse, anti-goat or anti-rabbit IgG- horseradish peroxidase (HRP) from Dakocytomation AS (Copenhagen, Denmark) for immunoblot analysis.
+25080
+25113
+Anti-β-actin was from Santa-Cruz.
+25114
+25194
+From Becton Dickinson (San Jose, CA), we purchased anti-CD19-PE, anti-CD19-FITC.
+25195
+25374
+The antibodies used for cell sorting were anti-CD19 PC5 from Immunotech SA (Marseille, France) and anti-CD27 PE from Becton Dickinson, Biosciences Pharmingen (San Diego, CA, USA).
+25377
+25597
+Highly purified CD19+CD27- or CD19+CD27+ cells were obtained by staining CD19+ cells with anti-CD27 PE and CD19 PC5 mAbs for 30 minutes at 4°C, followed by washing with PBS and sorting on FACS DiVa from Becton Dickinson.
+25600
+25786
+B cells from peripheral blood or cultured cell-lines were lysed in lysis buffer (glycerol 10%, β-mercaptoethanol 5%, 0.0625 M Tris-HCL [pH 6.8], sodium dodecyl sulphate [SDS] 2.5%w/vol).
+25787
+25980
+Total protein (30–100 μg) from each sample was run on 10% or 12% SDS/polyacrylamide (SDS/PAGE) gels and blotted onto nitrocellulose filters (Protran; Schleicher &Schuell GmbH, Dassel, Germany).
+25981
+26130
+Blocking, washing and incubation of the filters with primary antibodies were done according to the manufacturer's protocols at room temperature (RT).
+26131
+26427
+After washing with TBS/0.1% Tween-20 (TBS-T), the filters were incubated with horseradish peroxidase (HRP) coupled to relevant secondary antibodies (see above) for 60 minutes at RT. Enzyme activity was visualised by the enhanced chemiluminescence system, ECL+PLUS (Amersham, Buckinghamshire, UK).
+26428
+26554
+Densitometric analysis was performed by scanning hyperfilms on a Personal Densitometer SI (Molecular Dynamics, Sunnyvale, CA).
+26555
+26718
+Quantification of Id1, Id2 and Id3 protein was calculated by normalizing the specific protein bands to β-actin using Image Quant 5.5 software (Molecular Dynamics).
+26721
+26825
+Endogenous expression of the BMP-6 gene was examined by reverse transcription-polymerase chain reaction.
+26826
+26978
+Total RNA was isolated using Absolutely RNA™ RT-PCR Miniprep Kit (Stratagene Europe, Amsterdam, Netherland) according to the manufacturers instructions.
+26979
+27080
+Quantification of the isolated total RNA was achieved by using spectrophotometric OD260 measurements.
+27081
+27229
+Equal amounts of RNA were then reverse transcribed to cDNA with TaqMan® Reverse Transcription Reagents (Applied Biosystems, Foster City, CA, U.S.A).
+27230
+27338
+To measure mRNA expression of BMP6, Id1–Id4 and PGK1 PCR were carried out with TaqMan® universal master mix.
+27339
+27412
+Primers and probes were provided by Assay-on-Demand (Applied Biosystems).
+27413
+27494
+PCR reactions were carried out in a final volume of 25 μl (BMP-6) or 20 μl (ID1).
+27495
+27577
+The cDNA added to each reaction was equivalent to the input of 20 ng of total RNA.
+27578
+27749
+The gene expression was quantified using the standard curve method (BMP6), or the comparative CT method (Id1) as described in ABI7700 User Bulletin 2 (Applied Biosystems).
+27750
+27817
+The expression was then normalized to the expression level of PGK1.
+27818
+27928
+PGK1 was chosen, because it has been shown to have low expression variability among lymphocyte specimens [56].
+27929
+28016
+Expression levels in B cells were then related to the expression levels in Ramos cells.
+28019
+28084
+For estimation of DNA synthesis, CD19+ cells (7.5 × 104 cells/0.2
+28085
+28122
+ml) or Ramos cells (1 × 104 cells/0.2
+28123
+28175
+ml) were cultured in triplicate in microtiter wells.
+28176
+28300
+The cells were pulsed with 3.7 × 104Bq [3H]thymidine (Amersham, Buckinghamshire, UK) for the last 16 h of a 72-h incubation.
+28301
+28538
+The cells were harvested using an automated cell harvester (Packard Instrument Company, Meriden, CT, USA) and [3H]thymidine incorporation was determined in a scintillation counter (TopCount, Packard Instrument Company Inc., Meriden, CT).
+28541
+28711
+Cell death was measured by vital dye exclusion test by staining cells with 5 μg/ml propidium iodide ([PI]; Calbiochem Corp.; La Jolla, CA; 5 mg/ml) for one minute on ice.
+28712
+28788
+At least 1,000 cells per sample were run on a BD FACSCalibur flow cytometer.
+28791
+28982
+The statistical significance of differences between groups was determined using the paired two-tailed Wilcoxon nonparametric test, by applying SPSS10.1 software (SPSS Inc., Chicago, IL, USA).
+28983
+29035
+P values less than 0.05 were considered significant.
+29038
+29059
+List of abbreviations
+29061
+29092
+BMP, Bone morphogenetic protein
+29095
+29131
+DLBCL, diffuse large B cell lymphoma
+29134
+29162
+Id, inhibitor of dna binding
+29165
+29284
+Smad, the name Smad originates from the Drosophila protein, MAD and the Caenorhabditis elegans proteins, sma-2, 3 and 4
+29287
+29341
+STAT, signal transducer and activator of transcription
+29344
+29366
+Authors' contributions
+29368
+29441
+CK designed and conducted experiments, oversaw research, and wrote paper.
+29442
+29499
+EAS designed and conducted experiments, oversaw research.
+29500
+29557
+MEH designed and conducted experiments, oversaw research.
+29558
+29596
+LF designed and conducted experiments.
+29597
+29657
+EBS designed experiments, oversaw research, and wrote paper.
+29658
+29732
+JHM designed and conducted experiments, oversaw research, and wrote paper.
+29735
+29760
+Figure and Table captions
+29762
+29818
+Figure 1: BMP-6 inhibits proliferation of human B cells.
+29819
+30024
+A) CD19+ B cells were isolated from peripheral blood and stimulated in triplicates with anti-IgM (37.5 μg/ml) or anti-IgM and CD40 ligand (CD40L; 10 ng/ml) in the presence or absence of BMP-6 for 72 hours.
+30025
+30106
+DNA synthesis was measured by [3H]-thymidine incorporation for the last 18 hours.
+30107
+30379
+Data are given as relative proliferation obtained by normalizing the mean counts per minute (cpm) for each stimulation to the mean cpm obtained for anti-IgM stimulated cells ± SEM. (mean cpm = 25 352 for anti-IgM stimulated cells, *p ≤ 0.0002 (n = 8), **p ≤ 0.023 (n = 6).
+30380
+30589
+B) Dose dependent inhibition of BMP-6 of anti-IgM induced DNA-synthesis of CD19+ B cells (relative proliferation ± SEM, n = 3) and C) the Burkitt lymphoma cell line Ramos (relative proliferation ± SEM, n = 3).
+30590
+30680
+Ramos cells were cultured for 72 hours and [3H]-thymidine were added for the last 4 hours.
+30681
+30839
+D) Noggin (5 μg/ml) and BMP-6 (0,25 or 1 μg/ml) were preincubated for 1 h at 37°C and then added to the CD19+ B cells in the presence of anti-IgM(37.5 μg/ml).
+30840
+30930
+Cells were cultured for 72 h and DNA synthesis was measured by 3H-thymidine incorporation.
+30931
+31020
+One representative of three separate experiments is shown (mean cpm ± SD of triplicates).
+31021
+31208
+E) Highly purified CD19+CD27- or CD19+CD27+ cells were obtained by cell sorting of CD19+ cells and stimulated with anti-IgM in the presence or absence of BMP-6, as indicated for 72 hours.
+31209
+31267
+DNA synthesis was measuredby [3H]-thymidine incorporation.
+31268
+31552
+Data are given as relative proliferation obtained by normalizing the mean cpm for each stimulation to the mean cpm obtained for anti-IgM stimulated cells (mean cpm = 18 221 for CD19+CD27- naïve B cells, mean cpm = 8 930 for CD19+CD27+ memory B cells, n = 5; * p ≤ 0,004, **p ≤ 0.001).
+31554
+31600
+Figure 2: BMP-6 induces cell death in B cells.
+31601
+31737
+CD19+CD27- naïve B cells or CD19+CD27+ memory B cells were cultured for 48 h with BMP-6 (1 μg/ml) with or without anti-IgM (37.5 μg/ml).
+31738
+31806
+Cell death (PI+ cells) was then measured by flow cytometry analysis.
+31807
+31899
+Data are shown as mean percentage PI+ cells from five independent donors (± SEM; p ≤ 0,003).
+31901
+32037
+Figure 3: Ramos cells were cultured in the presence or absense of BMP-6 (1 μg/ml) for 48 h before analysis of cell death by PI staining.
+32038
+32108
+Data are shown as mean percentage PI+ cells (± SEM, n = 3, p ≤ 0,001).
+32110
+32175
+Figure 4: CD19+ B cells express BMP type I and type II receptors.
+32176
+32390
+Total cell lysates were prepared from the myeloid cell line HL60, the cell line Ramos or CD19+ B cells isolated from peripheral blood and analyzed by western blot for expression of BMP type I and type II receptors.
+32391
+32438
+One representative experiment of four is shown.
+32440
+32543
+Figure 5: BMP-6-induced phosphorylation of Smad1/5/8 in CD19+ B cells and Ramos, but not in HL60 cells.
+32544
+32590
+CD19+ B cells, or the cell lines Ramos or HL60
+32592
+32757
+Figure 6: were cultured in X-vivo 15 over night before treatment with BMP-6 for 30 minutes, or for the indicated time points before total cell lysates were prepared.
+32758
+32838
+The amount of phosphorylated Smad 1/5/8 was determined by western-blot analysis.
+32839
+32877
+The membranes were reprobed for Smad1.
+32878
+32926
+One representative experiment of three is shown.
+32928
+33002
+Figure 7: BMP-6 induced upregulation of Id1 at the mRNA and protein level.
+33003
+33113
+CD19+ B cells were cultured in X-vivo 15 over night before treatment with BMP-6 for the indicated time points.
+33114
+33384
+Total RNA was extracted and Id1, Id2 or Id3-expression was analysed by real-time RT-PCR; values are normalised to the expression level of PGK1 mRNA and expressed as relative quantification (2-average ΔΔCT – relative to Id1, Id2 or Id3 expression in the cell-line Ramos).
+33385
+33446
+One representative of three independent experiments is shown.
+33448
+33520
+Figure 8: Id protein expression was determined by western-blot analysis.
+33521
+33662
+CD19+ B cells were cultured in X-vivo 15 over night before treatment with BMP-6 for the indicated time points and cell lysates were prepared.
+33663
+33711
+One representative experiment of three is shown.
+33712
+33781
+HeLa cells were used as a positive control for Id1 protein detection.
+33783
+33841
+Figure 9: Relative protein expression of Id1, Id2 and Id3.
+33842
+34012
+Quantifications of Id1, Id2 and Id3 protein levels were performed using β-actin as normalization and expressed as mean ± SEM (Id1: n = 4, *p ≤ 0.020; Id2 and Id3: n = 3).
+34014
+34093
+Figure 10: Anti-IgM rapidly upregulates BMP-6 mRNA expression in human B-cells.
+34094
+34246
+CD19-positive B cells were cultured in X-vivo 15 over night and stimulated with anti-IgM for the indicated time periods, before total RNA was extracted.
+34247
+34466
+The expression of BMP-6 mRNA by realtime RT-PCR; values are normalised to the expression level of PGK1 mRNA and expressed as relative quantification (2-average ΔΔCT – relative to BMP-6 expression in the cell-line Ramos.
+34467
+34527
+One representative of five independent experiments is shown.
+34529
+34627
+Figure 11: Fetal calf serum and human AB serum upregulates BMP-6 mRNA expression in human B-cells.
+34628
+34806
+CD19-positive B cells were cultured in X-vivo 15 over night and with fetal calf serum or human AB serum at the indicated dilutions for four hours, before total RNA was extracted.
+34807
+35026
+The expression of BMP-6 mRNA by realtime RT-PCR; values are normalised to the expression level of PGK1 mRNA and expressed as relative quantification (2-average ΔΔCT – relative to BMP-6 expression in the cell-line Ramos.
+35027
+35088
+One representative of three independent experiments is shown.

@@ -1,0 +1,663 @@
+0
+87
+Cellular Notch responsiveness is defined by phosphoinositide 3-kinase-dependent signals
+89
+97
+Abstract
+99
+201
+Background: Notch plays a wide-ranging role in controlling cell fate, differentiation and development.
+202
+345
+The PI3K-Akt pathway is a similarly conserved signalling pathway which regulates processes such as differentiation, proliferation and survival.
+346
+518
+Mice with disrupted Notch and PI3K signalling show phenotypic similarities during haematopoietic cell development, suggesting functional interaction between these pathways.
+519
+704
+Results: We show that cellular responsiveness to Notch signals depends on the activity of the PI3K-Akt pathway in cells as diverse as CHO cells, primary T-cells and hippocampal neurons.
+705
+895
+Induction of the endogenous PI3K-Akt pathway in CHO cells (by the insulin pathway), in T-cells (via TCR activation) or in neurons (via TrKB activation) potentiates Notch-dependent responses.
+896
+1061
+We propose that the PI3K-Akt pathway exerts its influence on Notch primarily via inhibition of GSK3-beta, a kinase known to phosphorylate and regulate Notch signals.
+1062
+1147
+Conclusion: The PI3K-Akt pathway acts as a "gain control" for Notch signal responses.
+1148
+1304
+Since physiological levels of intracellular Notch are often low, coincidence with PI3K-activation may be crucial for induction of Notch-dependent responses.
+1306
+1316
+Background
+1318
+1554
+The phosphoinositide-3-kinases (PI3Ks) constitute an enzyme family of p85/p110 heterodimers responsible for regulating numerous biological processes in diverse cell types [1] such as cellular proliferation, differentiation and survival.
+1555
+1725
+Of particular interest is the role of this pathway in lymphocyte activation, where antigen and cytokine receptor ligation result in activation of PI3K-driven signals [2].
+1726
+1826
+A key target of PI3K activity is Akt/PKB, which mediates many of the effects of PI3K activation [3].
+1829
+1967
+PI3K is activated in T-cells both in response to T-cell receptor (TCR) stimulation, and by engagement of the co-stimulatory receptor CD28.
+1968
+2210
+Gene targeting studies have emphasised the essential role PI3K plays in these responses: whereas PI3K-deficient mice are immunodeficient [4,5], constitutive activity is associated with hyperproliferative T-cell responses and autoimmunity [6].
+2211
+2389
+Equally, preventing the termination of PI3K activity by conditional gene targeting of the lipid phosphatase Pten in T-cells leads to autoimmunity and development of lymphoma [7].
+2390
+2528
+These studies demonstrate that PI3K activity is tightly regulated and plays an integral role in the maintenance of lymphocyte homeostasis.
+2531
+2702
+The Notch signalling pathway plays a critical role in a wide range of developmental processes in the embryo, including binary lineage decisions and boundary formation [8].
+2703
+2962
+Binding of the Notch ligands Delta or Jagged to the Notch receptor instigates proteolytic cleavage which releases the Notch intracellular domain (N-IC) [8] which activates the transcription factor CBF-1 which, in turn, controls target genes such as Hes-1 [9].
+2963
+3115
+Central to Notch's role is its ability to modulate the differentiative potential of pluripotent cells, for instance in the neural stem cell compartment.
+3116
+3247
+The effects of Notch also extend to the developing immune system, where it directs the differentiation of lymphoid precursors [10].
+3248
+3372
+Recent data have highlighted unexpected functions for the Notch pathway in regulating cells of the peripheral immune system.
+3373
+3630
+Co-incident delivery of Notch signals to T-cells exerts a profound effect upon the outcome of antigen-stimulation in vitro [11-13] suggesting that interplay between the antigen receptor and Notch pathways regulate the outcome of peripheral T-cell responses.
+3633
+3908
+Mice expressing catalytically inactive PI3K subunit p110δ [5] or a deletion of p110δ [4] exhibit defective B-cell and T-cell receptor signalling: antigen-mediated activation of BCR or TCR fails to activate Akt and cells exhibit defective proliferation and cytokine responses.
+3909
+4118
+Recent publications have demonstrated that Notch signals modulate cytokine production by T-cells [12,13], suggesting that the Notch pathway integrates with TCR-mediated signals to modulate cytokine production.
+4119
+4240
+Furthermore, marginal zone B (MZB) cell development is severely impaired in both p110δ- and Notch2-deficient mice [4,14].
+4241
+4398
+Taken together with Notch's ability to modulate TCR signals, this phenotypic similarity suggested to us the possibility of Notch/PI3K signalling integration.
+4399
+4618
+Our studies reveal that the PI3K-Akt pathway is a potent inducer of Notch-dependent responses in cell types as diverse T-cells and neurons, demonstrating that this is a cell signalling paradigm with broad applicability.
+4621
+4628
+Results
+4630
+4811
+To address whether the PI3K pathway is a regulator of Notch-responsiveness, we generated a Jurkat E6.1 T-cell line which stably expresses full-length human Notch2 cDNA (J-N2 cells).
+4812
+5062
+J-N2 cells were treated with plate-bound recombinant human Delta1 protein (hereafter referred to as Delta1-Fc) fusion protein, and Notch signalling was measured using a transiently-transfected CBF1-driven luciferase reporter construct (p10xCBF1-luc).
+5063
+5190
+Plate-bound recombinant Delta1-Fc efficiently transactivated CBF1-luc, driving around a 10-fold increase in activity (Fig. 1A).
+5191
+5313
+A similar result was obtained using the murine Hes-1 promoter cloned upstream of the luciferase reporter (data not shown).
+5314
+5465
+Strikingly, treatment of these cells with the PI3K inhibitor LY294002 led to a dose-dependent decrease in Delta1-Fc-induced Notch signalling (Fig. 1A).
+5466
+5573
+A similar result was observed with the mechanistically-distinct PI3K inhibitor Wortmannin (data not shown).
+5574
+5778
+The integrity of this reporter assay as an accurate reflection of Notch signalling was confirmed by assessing mRNA levels of the Notch target gene Hes-1 by Q-PCR in Delta1-Fc-treated J-N2 cells (Fig. 1B).
+5779
+5890
+As with the CBF1-dependent reporter, treatment with LY294002 inhibited the up-regulation of Hes-1 by Delta1-Fc.
+5893
+6031
+The lipid phosphatase Pten dephosphorylates the 3' phosphoinositide products of PI3K catalysis and prevents downstream PI3K signaling [1].
+6032
+6144
+Jurkat E6.1 cells are deficient in expression of Pten, and therefore have a highly active PI3K-Akt pathway [15].
+6145
+6233
+We therefore hypothesised that reconstituting this enzyme would reduce Notch signalling.
+6234
+6389
+Transient expression of Pten in J-N2 cells led to a decrease in both basal and Notch ligand-induced activation of CBF1-dependent gene expression (Fig. 1C).
+6390
+6604
+Pten-transfected and control cells showed equivalent CBF1-reporter activity in the presence of LY294002, demonstrating that once PI3K activity is abolished pharmacologically, Pten over-expression becomes redundant.
+6607
+6701
+The PI3K pathway activates several enzymes, including the central signalling molecule Akt/PKB.
+6702
+6881
+To further define the mechanism by which PI3K activity regulates Notch signals, we asked whether the inhibitory effect of LY294002 could be recapitulated with an inhibitor of Akt.
+6882
+7029
+Blocking Akt activity in J-N2 cells with the selective inhibitor SH-6 [16] inhibited Delta1-Fc-mediated upregulation of Notch signalling (Fig. 1D).
+7030
+7176
+Taken together, these data identify the PI3K-Akt pathway as being responsible for the high level of ligand-induced Notch activation in J-N2 cells.
+7179
+7288
+We next investigated whether PI3K activity also regulates Notch-responsiveness in primary human CD4+ T-cells.
+7289
+7390
+We asked whether PI3K induction, triggered by TCR activation, could influence Hes-1 levels (Fig. 2A).
+7391
+7573
+In the absence of any exogenously added Delta 1 (open bars-IgG control), TCR activation (with anti-CD3/anti-CD28 antibodies) up-regulated Hes-1 levels in a LY294002-sensitive manner.
+7574
+7709
+Significantly, this induction was also blocked by the gamma secretase inhibitor DAPT, consistent with an absolute requirement for N-IC.
+7710
+7787
+We also studied the induction of Hes-1 by Delta 1-Fc treatment (closed bars).
+7788
+7884
+In the absence of TCR activation, Delta 1-Fc induced a small, but consistent induction of Hes-1.
+7885
+8042
+However, coincidence of Delta 1-Fc with TCR activation (anti-CD3/anti-CD28 antibodies) dramatically up-regulated Hes-1 levels in a LY294002-sensitive manner.
+8043
+8120
+Again, this induction was also blocked by the gamma secretase inhibitor DAPT.
+8121
+8380
+LY294002 also inhibited Notch signalling in primary human CD4+ T-cells transfected with p10xCBF1-luc and a Notch1 intracellular domain expression plasmid (data not shown), demonstrating that the effect of PI3K on Notch is exerted downstream of Notch cleavage.
+8381
+8536
+Thus, TCR activation dramatically increases the cellular response to Notch signals in primary human T cells via a mechanism requiring the PI3K-Akt pathway.
+8539
+8638
+We then tested whether Akt activation is sufficient to boost Notch-responsiveness in human T cells.
+8639
+8813
+Over-expression of a constitutively-active Akt construct (gagAkt [17]) was sufficient to potentiate the ability of pN1-IC to drive CBF1-dependent reporter activity (Fig. 2B).
+8816
+8981
+Previous data has suggested that inactivation of GSK3β by the Wingless pathway enhanced Notch signals by preventing inhibitory phosphorylation of N-IC by GSK3β [18].
+8982
+9151
+Therefore, given that Akt phoshorylates and inactivates GSK3β [19], we hypothesised that Akt-dependent inactivation of GSK3β might be responsible for Notch potentiation.
+9152
+9304
+To address this question, we looked at the N1-IC-induced Notch response in primary human CD4+ T-cells treated with the GSK3β inhibitor lithium chloride.
+9305
+9397
+Increasing concentrations of LiCl induced a dramatic increase in Notch signalling (Fig. 3A).
+9400
+9561
+In contrast to N1-IC overexpression, triggering Notch signalling using recombinant ligand to ligate endogenous full length Notch generates far weaker signalling.
+9562
+9751
+This fact, coupled with limited transfection efficiency of primary T cells, makes it technically difficult to achieve robust induction of a transfected CBF1 reporter construct by Delta1-Fc.
+9752
+9954
+However, given the large potentiation of Notch-responsiveness by LiCl (Fig. 3A), we hypothesised that, in the presence of LiCl, robust Delta1-Fc dependent induction of a CBF1 reporter could be observed.
+9955
+10127
+We found that, consistent with the technical issues outline above, plate-bound Delta1-Fc activates the CBF1 reporter weakly and unreliably in the absence of LiCl (Fig. 3B).
+10128
+10224
+However, LiCl greatly potentiates activation of the reporter by plate-bound Delta1-Fc (Fig. 3B).
+10225
+10451
+Thus, the GSK3β inhibitor LiCl is sufficient to potentiate primary Notch-responsiveness in primary human CD4+ T-cells, triggered either by N1-IC expression, or by ligation of endogenous full length Notch by plate-bound ligand.
+10454
+10583
+In Jurkat T-cells, deficient in Pten expression, basal Akt activity is high [15], so we expected GSK3β to be maximally inhibited.
+10584
+10712
+Consistent with this, LiCl treatment did not exert any further effect on Delta1-induced signalling in Jurkat-N2 cells (Fig. 3C).
+10715
+10952
+To investigate whether PI3K-dependent regulation of Notch responsiveness may be a general phenomenon extending beyond T-cell biology, we took advantage of a Notch-dependent CHO cell reporter assay which we have previously described [20].
+10953
+11217
+In this assay, CHO cells which stably express a human Notch2 receptor cDNA and a CBF1-dependent luciferase reporter construct (termed CHO-N2) are co-cultured with a second CHO cell line which stably expresses the full-length human Delta1 cDNA (termed CHO-hDelta1).
+11218
+11381
+CHO-hDelta1 cells trigger a dose-dependent luciferase response to the CHO-N2 cells, whilst control CHO parental cells fail to activate the Notch pathway (Fig. 4A).
+11382
+11476
+We next asked if activation of the PI3K pathway influenced Notch signals in this assay system.
+11477
+11666
+As predicted from our T-cell studies, including insulin in the culture medium potentiated Notch signalling, and this effect was blocked almost completely by inclusion of LY294002 (Fig. 4B).
+11667
+11843
+From our observations with T-cells, we hypothesisesd that GSK3β inhibition with LiCl could substitute for insulin in potentiating Notch signalling induced by CHO-hDelta1 cells.
+11844
+12004
+LiCl does indeed potentiate Notch signalling in the CHO co-culture system, leading to a substantial enhancement of ligand-dependent reporter activity (Fig. 4C).
+12007
+12195
+We then extended our study further, this time into primary neurons, cell types where Notch plays an emerging role in processes such as dendritic patterning and synaptic plasticity [21,22].
+12196
+12384
+As observed with T-cells, inhibition of GSK3β with lithium chloride strongly enhanced the level of Notch signalling in rat primary hippocampal neurons in a dose-dependent manner (Fig. 4D).
+12385
+12530
+PI3K-activating neurotrophins such as BDNF regulate cell survival, proliferation and differentiation of both peripheral and central neurons [23].
+12531
+12663
+Strikingly, BDNF treatment potentiated pN1-IC-driven reporter activity, and this was abrogated by treatment with LY294002 (Fig. 4D).
+12664
+12836
+Pten transfection ablated both basal and BDNF-stimulated reporter signalling, further underlining the role of the PI3K pathway in promoting Notch-responsiveness in neurons.
+12837
+12966
+Moreover, over-expression of constitutively active gagAkt was sufficient to potentiate pN1-IC-driven reporter activity (Fig. 4E).
+12967
+13165
+To further reinforce this finding, expression of a constitutively-active GSK3β construct (S9A), which is resistant to inactivation by Akt, prevented BDNF induction of Notch responsiveness (Fig. 4E).
+13166
+13295
+In contrast, expression of wild-type GSK3β, which is inhibited by Akt activity, failed to significantly reduce reporter activity.
+13296
+13449
+As observed with T-cells, inhibition of GSK3β with lithium chloride strongly enhanced the level of Notch signalling in a dose-dependent manner (Fig. 4D).
+13450
+13576
+Thus the PI3K-Akt pathway positively regulates Notch signals via GSK3β in neurons as well as T-cells, as summarised in Fig. 5.
+13579
+13589
+Discussion
+13591
+13744
+The dynamic and interactive nature of intracellular communication dictates that cells are in receipt of multiple environmental signals at any given time.
+13745
+13900
+The cellular output must represent a net response to a diverse set of cues, and therefore the pathways mediating these responses are frequently integrated.
+13901
+14027
+Our studies demonstrate for the first time that PI3K activity strongly potentiates Notch responsiveness in diverse cell types.
+14028
+14173
+Given the vital nature of PI3K and Notch in controlling cellular survival and differentiation, the implications of this finding are far-reaching.
+14176
+14315
+Ligation of lymphocyte antigen receptors leads to activation of PI3K, initiating a diverse and wide-ranging set of signalling pathways [2].
+14316
+14484
+Our findings that PI3K activation enhances Notch signalling leads us to suggest that Notch pathway activation might be an inherent consequence of lymphocyte activation.
+14485
+14589
+This positions the Notch pathway as a central mediator of antigen-dependent stimulation of immune cells.
+14592
+14732
+T-cells are entirely quiescent in the absence of antigen signals, but are shifted rapidly into a state of activation following TCR ligation.
+14733
+14886
+Inappropriate control of this activation can lead to autoimmune disease, and therefore negative feedback loops are an inherent feature of T-cell biology.
+14887
+14976
+Recent data show that Notch signals block Akt activation in peripheral CD4+ T-cells [13].
+14977
+15179
+Indeed we also observe that in primary human CD4+ T-cells recombinant Delta1-IgG4 fusion protein, or Notch-IC expression, blocks TCR-mediated phosphorylation of Akt and GSK3β (GM, BC, unpublished data).
+15180
+15474
+Although Akt activation is essential for production of cytokines such as IL2 and IFNγ by T-cells [24], constitutive activity is associated with cellular transformation [25], and therefore the existence of a negative feedback loop to limit antigen-dependent Akt activation would appear rational.
+15475
+15719
+We have shown that co-incident Notch signals are enhanced upon TCR activation, and we hypothesise that by inhibiting Akt activity, enhanced Notch signalling may constitute a negative feedback control impacting upon peripheral T-cell activation.
+15722
+15904
+It is interesting to note that whilst the model we propose is consistent with the data generated in peripheral T-cells, a number of studies suggest that the opposite is true [26-28].
+15905
+16181
+Ciofani et al demonstrate that during the earliest stages of T-cell development in the thymus Notch signals co-operate with pre-TCR signalling to activate Akt-dependent metabolism, thereby promoting expansion of those T-cells which have undergone favourable TCR rearrangement.
+16182
+16436
+The functional outcome of PI3K/Notch pathway interaction thus appears to reverse from developing to mature T-cells, an observation which further underlines the ability of the Notch pathway to perform multiple, context-dependent, tasks during development.
+16437
+16574
+We suggest that a molecular understanding of how Notch can function as a bi-directional regulator of Akt activity is a research priority.
+16577
+16740
+Our data strongly suggests that PI3K activity links to the Notch signalling pathway through Akt-mediated inactivation of GSK3β, a known downstream effector of Akt.
+16741
+16878
+In support of this data, PI3K and GSK3β [18,28,29] have both been identified as binding partners for N-IC in immunoprecipitation studies.
+16879
+17020
+GSK3β has also previously been positioned as a component of the downstream Notch signalling pathway in lateral inhibition in Drosophila [30].
+17021
+17215
+Furthermore, GSK3β activity is inhibited downstream of both the wingless and PI3K pathways, and thus represents a convergent site for integration of extracellular signals with the Notch pathway.
+17216
+17378
+Indeed, inhibiting GSK3β activity by activating the wingless pathway with Wnt-1 has been shown to enhance Notch-dependent reporter activity in NIH-3T3 cells [18].
+17379
+17570
+We note, however, that although an interaction between GSK3β and Notch seems conclusively proven, the functional consequences of this interaction are not consistent between different studies.
+17571
+17861
+Whilst our data agrees with that of Espinosa et al. [18], that is that GSK3β activity inhibits Notch signalling, data from the Nye laboratory in GSK3β-deficient murine embryonic fibroblasts demonstrates that GSK3β phosphorylates and stabilises Notch-IC, leading to enhanced signalling [29].
+17862
+18083
+Although we have no definitive explanation for these experimental differences, it is possible that, as discussed above for thymocytes and T-cells, the effect of GSK3b on Notch changes between embryonic and mature tissues.
+18086
+18289
+Notch's role during embryonic development is not to directly program neuronal differentiation itself, but to inhibit this cell fate choice in neighbouring cells during the lateral inhibition process [8].
+18290
+18424
+During neurogenesis, this is achieved by Notch target genes blocking transcription of pro-neural transcription factors such as MASH-1.
+18425
+18668
+Interestingly, conditional deletion of Pten in neural progenitors leads to dramatic alterations in brain architecture, an observation which the authors attribute to increased proliferation and self-renewal of neural stem cell populations [31].
+18669
+18855
+Given that the data presented here establishes the Notch-suppressing capability of Pten, deregulated renewal of progenitors in these mice may be in part due to enhanced Notch signalling.
+18856
+18887
+This hypothesis awaits testing.
+18890
+18990
+Notch also plays an emerging role in differentiating neurons by inhibiting dendritic outgrowth [21].
+18991
+19179
+It is tempting to speculate that Notch-dependent dendritic retraction, reliant on neuron-neuron interactions, is augmented by target-derived neurotrophic factors promoting PI3K signalling.
+19180
+19277
+In differentiated neurons, Notch contributes to synaptic plasticity, learning and memory [22,32].
+19278
+19447
+The long-standing involvement of BDNF and other neurotrophins in synaptic plasticity raise the possibility that PI3K-Notch interplay is at work in this scenario as well.
+19450
+19460
+Conclusion
+19462
+19723
+Our data demonstrates that the potentiation of Notch signalling by PI3K is conserved in ontologically-distinct cell types, leading us to suggest that it represents a general mechanism of signal integration linking two evolutionarily-conserved pathways together.
+19724
+19875
+This apparently simple observation has far-reaching implications regarding the mechanisms by which stem cell self-renewal and differentiation proceeds.
+19876
+20037
+It will be interesting to assess the relevance of this finding in other signalling contexts, such as tumour formation, where Notch and PI3K have important roles.
+20040
+20047
+Methods
+20049
+20124
+SH-6, lithium chloride, LY294002, Wortmannin and BDNF were from Calbiochem.
+20125
+20151
+Human IgG4 was from Sigma.
+20152
+20202
+Dual-Glo Luciferase assay system was from Promega.
+20203
+20421
+pN1-IC was constructed by inserting nucleotides coding for the intracellular domain of human Notch1 (amino acids 1758 to 2557) preceded by an initiator ATG codon into the BamHI and EcoRI sites of pcDNA3.1 (Invitrogen).
+20422
+20581
+pAdTATA-luc was constructed by inserting the Adenoviral major late promoter TATA sequence immediately 5' of the luciferase gene in plasmid pGL3Basic (Promega).
+20582
+20695
+p10xCBF1-luc was constructed by inserting 10 copies of the CBF1 binding site 5' of the AdTATA box in pAdTATA-luc.
+20696
+20725
+pTK-Renilla was from Promega.
+20726
+20903
+Human Pten expression construct was generated by PCR amplification of full-length human Pten from CD4+ T-cell cDNA, and then cloned into the HindIII and EcoRI sites of pcDNA3.1.
+20904
+21033
+Constitutively-active (gagAkt) and kinase dead (Akt-KD) Akt expression constructs were a kind gift from Dr. Julian Downward [17].
+21034
+21142
+Wild-type (WT) and constitutively-active (S9A) GSK3β constructs were a kind gift from Dr. J. Sadoshima [33].
+21143
+21214
+All plasmids were prepared using the EndoFree maxiprep system (Qiagen).
+21217
+21311
+Jurkat E6.1 cells and Jurkat-N2 cells were grown in RPMI1640 (+10% v/v FBS, 2 mM L-glutamine).
+21312
+21393
+Primary CD4+ T cells were isolated from freshly-collected donor blood as follows.
+21394
+21608
+Peripheral blood mononuclear cells were prepared by centrifugation over Ficoll-Paque, incubated with anti-CD4-coated magnetic beads (Miltenyi Biotec) and selected on LS positive selection columns (Miltenyi Biotec).
+21609
+21758
+After purification, primary CD4+ T-cells were cultured in RPMI1640 (supplemented with 10% v/v FBS, 2 mM L-glutamine and 5 × 10-6M β-mercaptoethanol).
+21759
+21892
+CHO-N2 and CHO-Delta1 cells have been described previously [20] and were routinely cultured in DMEM (+10% v/v/FBS, 2 mM L-glutamine).
+21893
+22029
+Rat primary hippocampal neurons were isolated and cultured as described [34], except growth media was supplemented with B27 (Gibco/BRL).
+22032
+22125
+Jurkat E6.1 cells and Jurkat-N2 cells were transfected using Lipofectamine 2000 (Invitrogen).
+22126
+22336
+Cells were left 24 h post-transfection, washed, counted and re-plated in triplicate at 2 × 105 cells/well into flat-bottomed 96-well plates which had been (where relevant) pre-coated o/n at 4°C with hDelta1-Fc.
+22337
+22443
+Cells were stimulated, incubated o/n and luciferase activity measured using the Dual-Glo system (Promega).
+22444
+22585
+Firefly luciferase signal from the Notch-dependent p10xCBF1-luc was normalised using the Renilla luciferase signal driven by the pTK-Renilla.
+22588
+22710
+Primary CD4+ T cells were transfected using the Amaxa 'nucleofection' system according to the manufacturer's instructions.
+22711
+22869
+Briefly, 5 × 106 purified CD4+ T-cells were resuspended in 100 μl of the appropriate Amaxa solution and transfected with 5 μg plasmid DNA using Protocol U-14.
+22870
+22965
+Cells were immediately transferred to 1 ml of pre-warmed media, counted and plated as required.
+22966
+23059
+After stimulation luciferase activity was detected using the Dual-glo assay system (Promega).
+23062
+23219
+For neuronal experiments, rat primary hippocampal neurons were transfected after 9 days in culture using Lipofectamine 2000 and stimulated 36-48 hours later.
+23220
+23288
+Dual-Glo Luciferase assays were performed following o/n stimulation.
+23291
+23571
+A fusion protein comprising the extracellular domain of human Delta1 fused to the Fc domain of human IgG4 was prepared by inserting a nucleotide sequence coding for the extracellular domain of human Delta1 (amino acids 1 to 537) into the expression vector pCON© (Lonza Biologics).
+23572
+23744
+This plasmid was expressed in CHO cells, purified by affinity chromatography on ProteinA-Sepharose (Amersham Biosciences) before concentration and buffer exchange into PBS.
+23745
+23819
+Batch activity of this protein was confirmed as previously described [35].
+23822
+24000
+To assess the effect of isolated Delta1-Fc signalling on Jurkat-N2 and CD4+ T-cells, 96- or 24-well plates were coated overnight at 4°C with anti-hIgG4 (1 μg/ml, BD Biosciences).
+24001
+24174
+Plates were washed with PBS and incubated for 2 hours at 37°C with 20 μg/ml Delta1-Fc or hIgG4 control, washed once again with PBS, before cells were plated for stimulation.
+24177
+24471
+To examine the effect of coincident Delta1-Fc and T-cell receptor signalling on primary CD4+ T-cells, 96- or 24-well plates were first coated overnight at 4°C with a mixture of capture antibodies consisting of anti-mouse IgG2a (1 μg/ml, BD Biosciences) and anti-hIgG4 (1 μg/ml, BD Biosciences).
+24472
+24644
+Plates were washed with PBS and incubated 2 hours at 37°C with a mixture of anti-CD3 (3 μg/ml, clone Hit3a, BD Biosciences) and 20 μg/ml Delta1-Fc or hIgG4 control (Sigma).
+24645
+24809
+Plates were again washed with PBS and purified CD4+ T cells were seeded at 2 × 105/well in the presence of soluble anti-CD28 (2 μg/ml, clone CD28.2, BD Bioscience).
+24812
+24858
+This assay has been described previously [20].
+24859
+24980
+Briefly, a CHO cell line (CHO-N2) was established which expressed both a full-length human Notch2 cDNA, and p10xCBF1-luc.
+24981
+25075
+2 × 104 CHO-N2 cells were plated per well into 96-well plates, and left to adhere for 2 hours.
+25076
+25225
+Notch signalling was activated by plating an additional CHO line which stably expresses full-length human Delta1 (CHO-hDelta1) onto the CHO-N2 cells.
+25226
+25323
+Cells were co-cultured in this manner overnight, and luciferase activity determined as described.
+25326
+25388
+RNA was isolated from cell samples using Rneasy kits (Qiagen).
+25389
+25499
+First strand cDNA was synthesised with SuperScriptII (Invitrogen) oligo-d(T) and random decamers (Invitrogen).
+25500
+25589
+Q-PCR was performed using SYBR green detection chemistry on the Roche Lightcycler system.
+25590
+25727
+Gene-specific quantification was achieved by comparing each cDNA to a serially-diluted standard plasmid containing the relevant amplicon.
+25728
+25807
+Relative Hes-1 expression levels were normalised to 18S rRNA housekeeping gene.
+25808
+25967
+Primer sequences used were as follows (5' to 3'): 18S rRNA, GTAACCCGTTGAACCCCATT and CCATCCAATCGGTAGTAGCG; Hes-1, CTCTCTTCCCTCCGGACTCT and GGCGCAATCCAATATGAAC.
+25970
+25992
+Authors' contributions
+25994
+26050
+GM and GH conceived this study and wrote the manuscript.
+26051
+26123
+GM was experimentally involved in CHO, Jurkat and primary T-cell assays.
+26124
+26179
+GH was experimentally involved in the neuronal studies.
+26180
+26289
+GW carried out all the CHO and Jurkat assays and the primary T-cell experiments involving N1-IC transfection.
+26290
+26375
+YS and EB carried out the primary T-cell experiments involving Delta1-Fc stimulation.
+26376
+26431
+SP was experimentally involved in the neuronal studies.
+26432
+26518
+AL, BC and MT provided susbstantial intellectual input into all aspects of this study.
+26519
+26570
+All authors read and approved the final manuscript.
+26573
+26598
+Figure and Table captions
+26600
+26688
+Figure 1: Inhibition of the PI3K-Akt pathway impairs Notch signalling in Jurkat T-cells.
+26689
+26907
+(A) J-N2 cells were transfected with 14 μg of p10xCBF1-luc and 1 μg pTK-RL, incubated overnight, then plated onto 96-well plates coated with either 20 μg/ml hIgG4 or 20 μg/ml hDelta1-Fc along with LY294002 for 6 hours.
+26908
+27003
+CBF1-reporter gene activity is normalised to Renilla control in this and all luciferase assays.
+27004
+27174
+(B) J-N2 cells were plated onto either hIgG4 or Delta1-Fc ± 10 μM LY294002, and incubated for 8 hours before being processed for Hes1 mRNA levels by Q-PCR (Hes1/18 rRNA).
+27175
+27389
+(C) J-N2 cells were transfected with 10 μg of pCBF1x10-luc, 4 μg of Pten expression construct or empty pcDNA3.1 vector,1 μg of pTK-RL, and treated with either 20 μg/ml hIgG4 or 20 μg/ml hDelta1-Fc ± 10 μM LY294002.
+27390
+27437
+CBF1-reporter activity was measured after 6 hr.
+27438
+27526
+All data is presented as mean ± s.d., and is representative of three repeat experiments.
+27527
+27719
+(D) J-N2 cells were transfected with p10xCBF1-luc and pTK-RL and stimulated as described in Fig. 1A, except that cells were treated with Akt inhibitor SH-6 (50 μM) or DMSO vehicle for 6 hours.
+27721
+27813
+Figure 2: The PI3K-Akt pathway regulates Notch-responsiveness in primary human CD4+ T-cells.
+27814
+27972
+(A) 24-well tissue culture plates were coated with anti-human IgG4 and anti-mouse IgG2a capture antibodies at 1 μg/ml in PBS, and incubated at 4°C, overnight.
+27973
+28154
+Appropriate stimuli added: Delta1-Fc or hIgG4 as control, both at 20 μg/ml in PBS and anti-CD3 (Hit3a, IgG2a) or mIgG as control, both at 1 μg/ml in PBS, and incubated at 37°C, 3 h.
+28155
+28313
+Plates were washed with PBS and positively selected hCD4+ T-cells were seeded at 2 × 106 cells/well, in 1 ml of media to a total of 1 × 107 cells/stimulation.
+28314
+28416
+Cells were stimulated overnight ± 10 μM DAPT or 10 μM LY294002 and 2 μg/ml anti-CD28 where applicable.
+28417
+28494
+Cells were pooled, RNA prepared and cDNA synthesised as described in Methods.
+28495
+28544
+Relative Hes1 expression was determined by Q-PCR.
+28545
+28736
+Data shown represents triplicate assays of cDNA prepared from pooled cells, and is representative of two individual experiments performed using CD4+ T-cells prepared from different donors.(B)
+28737
+28924
+Human primary CD4+ T-cells were nucleofected with 4 μg p10xCBF-luc, 0.5 μg pTK-RL and 1 μg of either pN1-IC or empty pcDNA3.1, and 2 μg of either gagAkt or kinase-dead (KD) Akt construct.
+28925
+28999
+CBF1-reporter activity is presented as mean normalised luminescence ± s.d.
+29000
+29074
+Data representative of two repeat experiments from different blood donors.
+29076
+29195
+Figure 3: Inhibiting GSK3β with lithium chloride enhances Notch signals in primary human CD4+, but not Jurkat, T-cells.
+29196
+29388
+(A) Primary human CD4+ T-cells were nucleofected with 4 μg p10xCBF-luc, 0.5 μg pTK-RL and 1 μg of either pN1-IC or pcDNA3.1 and plated o/n in triplicate with increasing concentrations of LiCl.
+29389
+29502
+Data is presented as the fold induction in normalised luminescence compared to the untreated vector only control.
+29503
+29674
+(B) Primary human CD4+ T-cells were nucleofected with 4 μg p10xCBF-luc and exposed to different levels of plate-bound Delta1-Fc in the presence or absence of LiCl (10 mM).
+29675
+29798
+(C) J-N2 cells were transfected with p10xCBF1-luc and pTK-RL and stimulated overnight in increasing concentrations of LiCl.
+29799
+29905
+Data is presented as the fold induction in normalised luminescence compared to the untreated IgG4 control.
+29907
+30008
+Figure 4: The PI3k/GSK3β pathway also regulates Notch signalling in CHO cells and in primary neurons.
+30009
+30170
+(A) CHO-N2 cells were co-cultured with increasing numbers of either CHO-hDelta1 or control CHO cells and luciferase reporter activity assayed for after 24 hours.
+30171
+30285
+CBF1-dependent reporter activity is presented as the fold induction in luminescence versus CHO-N2 cell only value.
+30286
+30303
+Mean ± sem given.
+30304
+30408
+(B) CHO-N2 cells were co-cultured with 104 CHO-hDelta1 cells per well ± insulin ± LY294002 as indicated.
+30409
+30495
+CBF1-reporter activity is presented as fold induction of non-insulin stimulated cells.
+30496
+30612
+(C) CHO-N2 cells were co-cultured with increasing numbers of CHO-hDelta1 in the presence or absence of LiCl (10 mM).
+30613
+30791
+(D) Rat primary hippocampal neurons were transfected with 0.5 μg of p10xCBF1-luc and 0.05 μg pTK-RL, then stimulated overnight with either LiCl or 25 ng/ml BDNF ± 10 μM LY294002.
+30792
+30930
+(E) Neurons were transfected with 0.2 μg of p10xCBF1-luc, 0.05 μg pTK-RL, 0.05 μg of pN1-IC and 0.4 μg of the relevant expression plasmid.
+30931
+31013
+CBF1-reporter activity is presented as normalised luminescence ± s.e.m (n = 3).(*p
+31014
+31043
+< 0.05, Mann Whitney U test).
+31045
+31199
+Figure 5: A schematic depicting a proposed mechanism for the influence of the PI3K pathway on Notch-responsiveness. See text for discussion of this model.

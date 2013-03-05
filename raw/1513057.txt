@@ -1,0 +1,831 @@
+0
+45
+Mechanisms Mediating the Biologic Activity of
+53
+99
+Synthetic Proline, Glycine, and Hydroxyproline
+107
+140
+Polypeptides in Human Neutrophils
+142
+150
+Abstract
+152
+212
+The accumulation of neutrophils at sites of tissue injury or
+213
+277
+infection is mediated by chemotactic factors released as part of
+278
+303
+the inflammatory process.
+304
+342
+Some of these factors are generated as
+343
+404
+a direct consequence of tissue injury or infection, including
+405
+460
+degradation fragments of connective tissue collagen and
+461
+525
+bacterial- or viral-derived peptides containing collagen-related
+526
+544
+structural motifs.
+545
+586
+In these studies, we examined biochemical
+587
+642
+mechanisms mediating the biologic activity of synthetic
+643
+702
+polypeptides consisting of repeated units of proline (Pro),
+703
+767
+glycine (Gly), and hydroxyproline (Hyp), major amino acids found
+768
+809
+within mammalian and bacterial collagens.
+810
+827
+We found that the
+828
+875
+peptides were chemoattractants for neutrophils.
+876
+891
+Moreover, their
+892
+950
+chemotactic potency was directly related to their size and
+951
+963
+composition.
+964
+1012
+Thus, the pentameric peptides (Pro-Pro-Gly)5 and
+1013
+1072
+(Pro-Hyp-Gly)5 were more active in inducing chemotaxis than
+1073
+1129
+the corresponding decameric peptides (Pro-Pro-Gly)10 and
+1130
+1146
+(Pro-Hyp-Gly)10.
+1147
+1182
+In addition, the presence of Hyp in
+1183
+1221
+peptides reduced chemotactic activity.
+1222
+1244
+The synthetic peptides
+1245
+1292
+were also found to reduce neutrophil apoptosis.
+1293
+1307
+In contrast to
+1308
+1368
+chemotaxis, this activity was independent of peptide size or
+1369
+1381
+composition.
+1382
+1432
+The effects of the peptides on both chemotaxis and
+1433
+1493
+apoptosis were blocked by inhibitors of phosphatidylinositol
+1494
+1558
+3-kinase (PI3-K) and p38 mitogen-activated protein (MAP) kinase.
+1559
+1615
+However, only (Pro-Pro-Gly)5 and (Pro-Pro-Gly)10 induced
+1616
+1674
+expression of PI3-K and phosphorylation of p38 MAP kinase,
+1675
+1738
+suggesting a potential mechanism underlying reduced chemotactic
+1739
+1775
+activity of Hyp-containing peptides.
+1776
+1796
+Although none of the
+1797
+1862
+synthetic peptides tested had any effect on intracellular calcium
+1863
+1921
+mobilization, each induced nuclear binding activity of the
+1922
+1949
+transcription factor NF-κB.
+1950
+1978
+These findings indicate that
+1979
+2037
+polymeric polypeptides containing Gly-X-Y collagen-related
+2038
+2103
+structural motifs promote inflammation by inducing chemotaxis and
+2104
+2123
+blocking apoptosis.
+2124
+2161
+However, distinct calcium-independent
+2162
+2223
+signaling pathways appear to be involved in these activities.
+2225
+2235
+BACKGROUND
+2237
+2354
+The inflammatory response is characterized by an accumulation of neutrophils at sites of tissue injury and infection.
+2355
+2589
+Neutrophils respond to chemotactic factors including connective tissue degradation products, leukotriene B4, and bacterially-derived formylmethionine-leucine-phenylalanine (fMLP), released from damaged tissue or by invading pathogens.
+2590
+2865
+In previous studies we demonstrated that collagenase or cyanogen bromide digests of native collagen, as well as synthetic collagen-like polypeptides containing glycine (Gly), proline (Pro), and hydroxyproline (Hyp) are potent chemoattractants for human neutrophils [1, 2, 3].
+2866
+2949
+These polypeptides also activated macrophages to release neutrophil chemokines [4].
+2950
+3112
+The present studies were aimed at analyzing mechanisms mediating the biological activity of collagen degradation products using synthetic polypeptides as a model.
+3113
+3288
+Synthetic polypeptides are similar to degradation products generated from mammalian collagen and/or to collagen-related structural motifs produced by bacteria and viruses [5].
+3289
+3408
+The use of synthetic model peptides of varying length and composition allowed us to perform structure-activity studies.
+3411
+3547
+Chemoattractants such as fMLP and interleukin-8 (IL-8) initiate their biological activity by binding to specific cell surface receptors.
+3548
+3819
+For most chemoattractants, this is followed by mobilization of intracellular calcium, activation of protein kinases, and translocation and binding of transcription factors to consensus sequences in promoter regions of genes regulating the inflammatory response [6, 7, 8].
+3820
+3970
+We speculated that variations in the activity of the synthetic peptides may be related to their distinct ability to activate these signaling pathways.
+3973
+3980
+METHODS
+3982
+4138
+The synthetic polypeptides (Pro-Pro-Gly)5, (Pro-Pro-Gly)10, (Pro-Hyp-Gly)5, and (Pro-Hyp-Gly)10 were purchased from Peptides International (Louisville, Ky).
+4139
+4225
+Hanks' balanced salt solution (HBSS) and fMLP were obtained from Sigma (St Louis, Mo).
+4226
+4323
+LY 294002 was from Calbiochem (La Jolla, Calif) and SB 203580 from Biomol (Plymouth Meeting, Pa).
+4324
+4478
+Indo-1 acetoxymethyl ester (Indo-1 AM) was purchased from Molecular Probes (Eugene, Ore) and stored as a 1 mM stock solution in dimethylsufoxide at −20°C.
+4479
+4682
+Rabbit polyclonal antibodies against NF-κB-p50, NF-κB-p65, and p38 MAP kinase, as well as horseradish peroxidase-(HRP-)linked secondary antibodies, were from Santa Cruz Biotechnology (Santa Cruz, Calif).
+4683
+4968
+Mouse monoclonal anti-phospho-p38 MAP kinase (Thr180/Tyr182) antibody (IgG1) was purchased from Cell Signaling Technology (Beverly, Mass), and mouse monoclonal anti-phosphatidylinositol 3-kinase (PI3-K) (p85-subunit-reactive) antibody from BD Biosciences PharMingen (San Diego, Calif).
+4969
+5106
+Double-stranded DNA probes used for electrophoretic mobility shift assays (EMSAs) were obtained from IDT Technologies (Coralville, Iowa).
+5107
+5229
+FITC-linked Annexin V was from R & D Systems (Minneapolis, Minn), and propidium iodide from Calbiochem (San Diego, Calif).
+5232
+5401
+Human neutrophils were isolated from heparinized peripheral venous blood by dextran sedimentation and Ficoll density gradient centrifugation as previously described [9].
+5402
+5508
+These studies were approved by the Institutional Review Board of UMDNJ Robert Wood Johnson Medical School.
+5511
+5638
+Migration of neutrophils through nucleopore polycarbonate filters was assayed using the modified Boyden chamber technique [10].
+5639
+5735
+For our studies we used a 48-well microchemotaxis chamber (Neuro Probe, Inc, Pleasanton, Calif).
+5736
+5861
+Thirty microliters of synthetic peptides, fMLP (5 × 10−8 M), or medium control were placed in each well of the lower chamber.
+5862
+5954
+A 5-μm pore-size filter was then placed over the wells and the upper chamber set into place.
+5955
+6118
+Fifty microliters of a neutrophil suspension (1 × 105cells) in HBSS containing 0.5% bovine serum albumin (BSA) and 2.4 mg/ml HEPES, pH 7.2, was added to each well.
+6119
+6255
+After incubation for 45 minutes at 37°C, the filter containing adhered, migrated neutrophils was removed and stained with Wright-Giemsa.
+6256
+6365
+Chemotaxis was quantified as the number of cells that migrated through the filter in 10 oil immersion fields.
+6366
+6543
+In some experiments, cells were incubated at room temperature with LY 294002 (50 μM, 5 minutes) or SB 203580 (30 μM, 1 hour) prior to the analysis of chemotactic responsiveness.
+6546
+6616
+Indo-1 AM was used to measure intracellular calcium mobilization [11].
+6617
+6731
+Neutrophils were inoculated into Nunc coverglass chambers (2 × 106 cells/chamber) and allowed to adhere overnight.
+6732
+6825
+Cells were then washed with HBSS containing 0.3% BSA and incubated in 1 μM Indo-1 AM at 37°C.
+6826
+6938
+After 30 minutes, the cells were washed three times and 1 mL of HBSS containing 0.3% BSA was added to each well.
+6939
+7113
+Intracellular calcium was quantified on a Meridian ACAS 570 Anchored Cell Analysis System (Okemos, Mich) equipped with an Innova 90 5-W laser adjusted to an output of 100 mW.
+7114
+7235
+For measurement of cellular fluorescence, Indo-1 was excited using the ultraviolet lines (351–364 nm) of the argon laser.
+7236
+7473
+Calcium mobilization was quantified by scanning single 130 × 130 μm fields containing ≥ 15 cells every 8 seconds for a total of 5 minutes and collecting the emissions at 485 nm (calcium-free Indo-1) and 405 nm (calcium-saturated Indo-1).
+7474
+7547
+Data are presented as the ratio of emission at 405 nm relative to 485 nm.
+7548
+7672
+Synthetic peptides (10 nM) or fMLP (5 × 10−8 M) were added to the cells 180 seconds after stable baselines were established.
+7675
+7878
+Neutrophils were incubated (37°C) with medium control, fMLP (5 × 10−8 M), or 10 nM (Pro-Pro-Gly)5, (Pro-Pro-Gly)10, (Pro-Hyp-Gly)5, or (Pro-Hyp-Gly)10 for 2 hours (PI3-K) or 5 minutes (p38, phospho-p38).
+7879
+8097
+Cells were then solubilized in buffer containing 50 mM HEPES, pH 7.4, 10 mM KCl, 1 mM EDTA, 1 mM DTT, 1 μg/mL pepstatin A, 1 μg/mL leupeptin, 10 μg/mL soybean trypsin inhibitor, 10 μg/mL aprotinin, and 1% Triton X-100.
+8098
+8311
+After 10 minutes in ice, lysates were centrifuged (4000 xg, 5 minutes) and protein concentrations in the supernatants were quantified using a BCA Protein Assay Kit (Pierce, Rockford, Ill) with BSA as the standard.
+8312
+8632
+Aliquots of supernatants containing 10 μg of protein were fractionated on 7.5% SDS polyacrylamide gels and electroblotted onto 0.45 μm nitrocellulose paper (Bio-Rad, Hercules, Calif) at 250 mA for 4 hours in a Mini Trans-Blot Electrophoretic Transfer Cell (Bio-Rad) in 25 mM Tris, pH 8.3, 192 mM Gly, 20% (v/v) methanol.
+8633
+8766
+Blots were then incubated in a 1 : 250 dilution of anti-phospho-p38 MAP kinase antibody, anti-p38 MAP kinase, or anti-PI3-K antibody.
+8767
+8934
+After washing, the blots were incubated with goat antimouse IgG (1 : 2000) or sheep antirabbit IgG (1 : 1000) HRP-conjugated antibodies for 1 hour at room temperature.
+8935
+9060
+Proteins were detected using a Renaissance Western Blot Chemiluminescence Reagent Plus kit (NEN Life Sciences, Boston, Mass).
+9063
+9293
+Neutrophils were washed in PBS, resuspended in Dulbecco's Modified Eagle's Medium (DMEM) containing 10% fetal bovine serum, and incubated in a shaking water bath at 37°C for 24 hours in the presence or absence of peptides (10 nM).
+9294
+9508
+Cells were then centrifuged, resuspended (2 × 106 cells/mL) in binding buffer (10 mM HEPES/NaOH, pH 7.4, 140 mM NaCl, 2.5 mM CaCl2), and incubated (15 minutes, room temperature) with Annexin V and propidium iodide.
+9509
+9594
+Samples were analyzed by flow cytometry on a Coulter EPICS Profile II (Hialeah, Fla).
+9595
+9787
+Viable, apoptotic, and necrotic neutrophil populations were gated electronically and data analyzed using quadrant statistics based on relative Annexin V and propidium iodide fluorescence [12].
+9790
+10006
+To prepare nuclear extracts, neutrophils (2 × 106) were microcentrifuged for 15 seconds and then resuspended in 400 μL of cold buffer (10 mM HEPES, pH 7.9, 10 mM KCl, 0.1 mM EDTA, 0.1 mM EGTA, 1 mM DTT, 0.5 mM PMSF).
+10007
+10124
+After 15 minutes in ice, 25 μL of a 10% solution of NP-40 was added, and the sample mixed on a vortex for 10 seconds.
+10125
+10381
+The lysates were then centrifuged for 30 seconds in a microfuge, the nuclear pellets resuspended in 50 μL of ice-cold buffer (20 mM HEPES, pH 7.9, 0.4 M NaCl, 1 mM EDTA, 1 mM EGTA, 1 mM DTT, 1 mM PMSF) and placed on a rocker platform at 4°C for 15 minutes.
+10382
+10498
+The sample was then microcentrifuged for 5 minutes at 4°C and the resulting soluble nuclear extracts were collected.
+10499
+10621
+Double-stranded probes containing an NF-κB (AGTTGAGGGGACCGCCCGCGGCCCGT) consensus sequence were labeled with (γ-32P)-dCTP.
+10622
+10887
+For binding reactions, nuclear extracts (50 μg of protein) were incubated for 15 minutes at room temperature with labeled probe in buffer containing 10 mM Tris-HCl, pH 7.4, 40 mM NaCl, 10 mM EDTA, 1 mM 2-mercaptoethanol, 0.1% NP-40, 4% glycerol, and 0.1 μg/μL poly.
+10888
+10900
+(dI-dC)poly.
+10901
+10954
+(dI-dC) (Amersham Pharmacia Biotech, Piscataway, NJ).
+10955
+11058
+For competitive binding assays, nuclear extracts were incubated with a 100-fold excess unlabeled probe.
+11059
+11245
+Supershift assays were performed by incubation of the samples with polyclonal antibodies to p50 or p65 (1 μg/60 μL reaction volume) for 1 hour prior to the addition of the labeled probe.
+11246
+11380
+Samples were electrophoresed on 4% nondenaturing polyacrylamide gels in buffer (0.04 M Tris-acetate, 0.001 M EDTA, pH 8.0) at 15 V/cm.
+11381
+11423
+Gels were then dried and autoradiographed.
+11426
+11433
+RESULTS
+11435
+11706
+We have previously demonstrated that synthetic pentameric peptides consisting of Pro and Gly, or Pro, Hyp, and Gly are chemoattractants for neutrophils [1, 2, 3]. Figure 1 shows that the chemotactic activity of these peptides is dose related, reaching a maximum at 10 nM.
+11707
+11812
+Increasing the length of the peptides from five to ten repeated units reduced their chemotactic activity.
+11813
+11955
+At concentrations of 1 and 10 nM, peptides consisting of Pro, Gly, and Hyp were less chemotactic than peptides consisting of only Pro and Gly.
+11956
+12126
+At optimal concentrations, (Pro-Pro-Gly)5, the most potent of the synthetic peptides, was approximately 60% less active than fMLP in inducing chemotaxis (data not shown).
+12129
+12248
+Activated neutrophils are cleared from inflamed sites by the process of apoptosis, followed by macrophage phagocytosis.
+12249
+12315
+This leads to resolution rather than persistence of tissue injury.
+12316
+12474
+Chemoattractants such as fMLP promote inflammation by activating neutrophils and prolonging the survival of these cells in tissues by blocking apoptosis [13].
+12475
+12575
+In further studies, we analyzed the effects of synthetic polymeric peptides on neutrophil apoptosis.
+12576
+12767
+One of the earliest signs of apoptosis is translocation of phosphatidylserine (PS) from the inner to the outer surface of the plasma membrane, which can be detected by Annexin V binding [14].
+12768
+12881
+Approximately 30% of neutrophils was found to undergo spontaneous apoptosis after 24 hours in culture (Figure 2).
+12882
+12958
+This activity was significantly reduced in the presence of the polypeptides.
+12959
+13018
+The effects of the synthetic peptides were similar to fMLP.
+13019
+13166
+In contrast to chemotaxis, no differences were noted in the antiapoptotic activity of collagen-like peptides in terms of their size or composition.
+13169
+13296
+We next investigated potential biochemical signaling pathways mediating the biologic activity of these peptides in neutrophils.
+13297
+13375
+For comparative purposes, we also evaluated the response of the cells to fMLP.
+13376
+13522
+Treatment of neutrophils with fMLP caused a rapid and transient increase in intracellular calcium, which was evident within 30 seconds (Figure 3).
+13523
+13615
+In contrast, none of the synthetic polypeptides induced calcium mobilization in neutrophils.
+13616
+13759
+PI3-K catalyzes the formation of phosphatidylinositol 3,4,5-triphosphate and plays a key role in neutrophil activation and chemotaxis [15, 16].
+13760
+13844
+Low levels of PI3-K protein were detectable in unstimulated neutrophils (Figure 4a).
+13845
+13959
+Treatment of the cells with pentameric peptides consisting of Pro and Gly resulted in a twofold increase in PI3-K.
+13960
+14042
+This was evident after 2 hours and was similar to the response observed with fMLP.
+14043
+14233
+In contrast, the pentameric peptide containing Hyp had no effect on PI3-K, and increasing the length of the peptides from 5 to 10 repeated units did not alter the quantity of PI3-K detected.
+14234
+14356
+To analyze the role of PI3-K in collagen peptide-induced chemotaxis and apoptosis, cells were treated with LY 294002 [17].
+14357
+14544
+This PI3-K inhibitor was found to reduce chemotaxis induced by fMLP, (Pro-Pro-Gly)5 and (Pro-Pro-Gly)10, as well as (Pro-Hyp-Gly)5, and (Pro-Hyp-Gly)10 by 50% (Figure 1b, data not shown).
+14545
+14635
+No major differences were noted in the sensitivity of the peptides to the PI3-K inhibitor.
+14636
+14748
+Similarly, LY 294002 was found to block the inhibitory effects of both fMLP and synthetic peptides on apoptosis.
+14749
+14918
+As observed with chemotaxis, no differences were observed in the sensitivity of the antiapoptotic effects of the peptides to PI3-K inhibition (Figure 2, data not shown).
+14919
+15004
+In the absence of these peptides, LY 294002 had no effect on chemotaxis or apoptosis.
+15007
+15139
+Recent studies have implicated MAP kinases in chemoattractant-induced signaling and in PI3-K activation in neutrophils [18, 19, 20].
+15140
+15258
+We found that untreated neutrophils expressed relatively large quantities of total p38 MAP kinase protein (Figure 4b).
+15259
+15337
+Expression of this protein was unaltered by fMLP or by synthetic polypeptides.
+15338
+15547
+In contrast, only low levels of phospho-p38 MAP kinase were detected in unstimulated neutrophils, and this was markedly increased in response to fMLP, as well as (Pro-Pro-Gly)5 and (Pro-Pro-Gly)10 (Figure 4c).
+15548
+15717
+The effects of these peptides on phospho-p38 expression were rapid, peaking 5 minutes after treatment and persisting for at least 20 minutes (Figure 4d, data not shown).
+15718
+15844
+Treatment of neutrophils with peptides containing Hyp had no significant effect on phospho-p38 protein expression (Figure 4c).
+15845
+16071
+Pretreatment of the cells with SB 203580, a p38 MAP kinase inhibitor [21], was found to significantly reduce chemotaxis induced by (Pro-Pro-Gly)5 and (Pro-Pro-Gly)10, as well as (Pro-Hyp-Gly)5, and (Pro-Hyp-Gly)10 (Figure 1b).
+16072
+16248
+Similarly, SB 203580 blocked the effects of fMLP and synthetic peptides on apoptosis, indicating that this response is also p38 MAP kinase-dependent (Figure 2, data not shown).
+16251
+16352
+The transcription factor NF-κB is known to be activated by chemoattractants through MAP kinases [22].
+16353
+16454
+We found that each of the synthetic peptides, like fMLP, induced nuclear binding of NF-κB (Figure 5).
+16455
+16518
+This response was independent of peptide length or composition.
+16519
+16608
+Supershift assays revealed that the NF-κB complex contained both p50 and p65 (not shown).
+16609
+16753
+Preincubation of nuclear extracts with excess unlabeled probe competitively reduced binding of the labeled probe, demonstrating its specificity.
+16756
+16766
+DISCUSSION
+16768
+16892
+Neutrophil chemotaxis and survival are regulated by inflammatory mediators that are present at sites of infection or injury.
+16893
+17049
+Whereas proinflammatory mediators promote chemotaxis and block apoptosis, antiinflammatory cytokines are proapoptotic and abrogate the chemotactic response.
+17050
+17228
+Coordinate regulation of chemotaxis and survival allows for the persistence of neutrophils at sites of injury, as well as effective termination of the inflammatory response [23].
+17229
+17382
+The present studies demonstrate that synthetic peptides containing collagen-like structural motifs induce chemotaxis and reduce apoptosis in neutrophils.
+17383
+17458
+These results are consistent with a proinflammatory role of these peptides.
+17459
+17618
+This is supported by reports that synthetic collagen-like peptides also stimulate oxidative metabolism and macrophage release of neutrophil chemokines [4, 24].
+17619
+17696
+Tissue injury is associated with breakdown of interstitial connective tissue.
+17697
+17902
+Our findings that peptides containing collagen-like structural motifs exhibit proinflammatory activity suggests that they may play a role in amplifying acute immunological responses to infection or injury.
+17905
+18066
+Consistent with previous studies [2, 3], we found that the chemotactic activity of the synthetic polypeptides was directly related to their size and composition.
+18067
+18175
+Thus, larger peptides containing ten repeated subunits were less active than those containing five subunits.
+18176
+18294
+Moreover, peptides consisting of Pro, Gly, and Hyp were less chemotactic than peptides consisting of only Pro and Gly.
+18295
+18437
+In contrast, although each of the peptides markedly reduced neutrophil apoptosis, these effects were independent of peptide size or structure.
+18438
+18567
+These data suggest that collagen peptide-induced chemotaxis and apoptosis involve distinct receptors and/or signaling mechanisms.
+18570
+18685
+One early step in the signaling pathway induced by chemoattractants is mobilization of intracellular Ca++ [25, 26].
+18686
+18789
+In contrast to fMLP, the synthetic peptides had no effect on calcium mobilization in human neutrophils.
+18790
+18926
+These findings suggest that the chemotactic and antiapoptotic actions of these peptides do not require changes in intracellular calcium.
+18927
+19235
+This is consistent with reports of other proinflammatory mediators that alter neutrophil chemotaxis and apoptosis by mechanisms independent of intracellular calcium shifts, including transforming growth factor-β1, soluble Fas ligand, immune complexes, and the antineutrophil antibody, DL1.2 [27, 28, 29, 30].
+19236
+19385
+Our findings suggest that the requirement for increases in intracellular calcium for induction of biological activity depends on the chemoattractant.
+19388
+19588
+Activation of protein kinases including PI3-K and p38 MAP kinase is thought to play a critical role in chemoattractant-induced signaling leading to biologic responses [19, 20, 31, 32, 33, 34, 35, 36].
+19589
+19753
+Consistent with this idea, we found that the effects of the synthetic peptides on chemotaxis and apoptosis were dependent on both PI3-K and p38 MAP kinase activity.
+19754
+19919
+Thus, LY 294002 and SB 203580, inhibitors of PI3-K and p38 MAP kinase, respectively, blocked both the chemotactic and antiapoptotic activity of each of the peptides.
+19920
+20096
+However, whereas (Pro-Pro-Gly)5 and (Pro-Pro-Gly)10 induced PI3-K and phospho-p38 expression in neutrophils, (Pro-Hyp-Gly)5 and (Pro-Hyp-Gly)10 had no effect on these proteins.
+20097
+20202
+Peptides containing Hyp were also less potent chemoattractants than peptides containing only Pro and Gly.
+20203
+20356
+These findings suggest that the relative chemotactic potency of these peptides may be related to their efficacy in upregulating PI3-K and p38 MAP kinase.
+20357
+20575
+Alternatively, fMLP, (Pro-Pro-Gly)5, and (Pro-Pro-Gly)10 may induce rapid alterations in the subcellular localization of PI3-K protein in neutrophils, leading to increased accessibility and detection by immunoblotting.
+20576
+20639
+In contrast, this does not appear to be the case for apoptosis.
+20640
+20772
+Thus, an inability to induce PI3-K or phospho-p38 MAP kinase had no effect on the antiapoptotic activity of Hyp-containing peptides.
+20773
+20995
+The observation that the antiapoptotic effects of (Pro-Hyp-Gly)5 and (Pro-Hyp-Gly)10 were blocked by PI3-K and p38 MAP kinase inhibitors indicates that these signaling pathways are nevertheless essential for this response.
+20996
+21090
+However, they appear to be activated distinctly by (Pro-Pro-Gly)n and (Pro-Hyp-Gly)n peptides.
+21093
+21272
+Previous studies have suggested that PI3-K-mediated responses induced by chemoattractants involve mobilization of intracellular calcium through activation of phospholipase C [37].
+21273
+21378
+Alterations in cytosolic Ca2+ are also important in inducing p38 MAP kinase activity in neutrophils [38].
+21379
+21573
+In contrast, our findings indicate that synthetic peptide-induced activation of PI3-K and p38 MAP kinase, leading to chemotaxis and reduced apoptosis, occurs though calcium-independent pathways.
+21574
+21773
+It is possible that phosphoinositides, or phosphorylated protein products of PI3-K or p38 MAP kinase, interact directly with actin-binding proteins, resulting in directed migration of the cells [39].
+21774
+22019
+p38 MAP kinase is also known to phosphorylate proteins that may regulate chemotaxis and apoptosis by calcium-independent mechanisms, including MAP kinase-activated proteins 2, 3, and 5, as well as the transcription factors ATF-2 and CHOP-1 [40].
+22022
+22210
+Signaling via PI3-K and p38 MAP kinase leads to the activation of the transcription factor NF-κB, which is known to regulate genes involved in inflammatory responses to tissue injury [41].
+22211
+22348
+NF-κB has been reported to be involved in chemoattractant-induced neutrophil activation as well as the suppression of apoptosis [22, 42].
+22349
+22533
+Moreover, mice lacking the NF-κB subunit c-Rel are resistant to collagen-induced arthritis, and inhibition of NF-κB blocks neutrophil migration into damaged lungs in vivo [43, 44, 45].
+22534
+22657
+We found that peptides containing collagen-related structural motifs induced NF-κB nuclear binding activity in neutrophils.
+22658
+22769
+However, no significant differences in activity were observed based on the size or composition of the peptides.
+22770
+22998
+These findings are consistent with the antiapoptotic effects of these synthetic peptides and suggest that the chemotactic and antiapoptotic effects of the peptides involve distinct signaling pathways leading to NF-κB activation.
+23001
+23012
+CONCLUSIONS
+23014
+23150
+Polymeric polypeptides containing collagen-related structural motifs promote inflammation by inducing chemotaxis and blocking apoptosis.
+23151
+23250
+However, distinct calcium-independent signaling pathways appear to be involved in these activities.
+23251
+23340
+Neutrophil chemotaxis and apoptosis are a key to initiating and controlling inflammation.
+23341
+23539
+The accumulation and persistence of these cells in tissues in response to protein fragments generated by invasive pathogens or by the degradation of connective tissue collagen may exacerbate injury.
+23540
+23687
+An understanding of the mechanisms mediating these processes is essential in developing strategies for limiting maladaptive inflammatory responses.
+23690
+23715
+Figure and Table captions
+23717
+23763
+Figure 1: Induction of chemotaxis by synthetic
+23764
+23777
+polypeptides.
+23778
+23827
+Neutrophil chemotaxis was assayed using microwell
+23828
+23837
+chambers.
+23838
+23879
+Each bar represents the mean ± SEM of 3–4
+23880
+23892
+experiments.
+23893
+23944
+Background levels of migration were subtracted from
+23945
+23956
+each value.
+23957
+24009
+(a) Dose-dependent effects of peptides on neutrophil
+24010
+24021
+chemotaxis.
+24022
+24075
+(b) Cells were incubated with medium control, the p38
+24076
+24129
+MAP kinase inhibitor SB 203580 (30 μM, 1 hour) or the
+24130
+24183
+PI3-K inhibitor LY 294002 (50 μM, 5 minutes) prior to
+24184
+24242
+the analysis of chemotactic responsiveness to polypeptides
+24243
+24251
+(10 nM).
+24252
+24275
+(Pro-Pro-Gly)n, (PPG)n;
+24276
+24299
+(Pro-Hyp-Gly)n, (POG)n.
+24301
+24347
+Figure 2: Measurement of neutrophil apoptosis.
+24348
+24358
+Cells were
+24359
+24418
+incubated in a shaking water bath (37°C) in the presence or
+24419
+24458
+absence of fMLP (5 × 10−8 M), synthetic
+24459
+24518
+polypeptides, SB 203580, or LY 294002 for 24 hours and then
+24519
+24583
+labeled with Annexin V and propidium iodide and analyzed by flow
+24584
+24594
+cytometry.
+24595
+24647
+Data were analyzed using Coulter quadrant statistics
+24648
+24713
+based on relative fluorescence binding of Annexin V and propidium
+24714
+24721
+iodide.
+24722
+24763
+Each bar represents the mean ± SEM of 3–4
+24764
+24776
+experiments.
+24777
+24810
+Significantly different (P < .05)
+24811
+24815
+from
+24816
+24824
+control.
+24826
+24880
+Figure 3: Effects of synthetic polypeptides on calcium
+24881
+24894
+mobilization.
+24895
+24933
+Neutrophils were incubated with Indo-1
+24934
+24941
+(1 μM).
+24942
+24985
+After establishing a stable baseline, 10 nM
+24986
+25037
+(Pro-Pro-Gly)5, (Pro-Pro-Gly)10, (Pro-Hyp-Gly)5, or
+25038
+25074
+fMLP was added (arrow) to the cells.
+25075
+25098
+Calcium mobilization is
+25099
+25157
+indicated by an increase in the Indo-1 fluorescence ratio.
+25158
+25162
+Each
+25163
+25229
+graph represents the average change in ratio in a field containing
+25230
+25253
+not less than 15 cells.
+25255
+25319
+Figure 4: Effects of synthetic polypeptides on PI3-K and p38 MAP
+25320
+25338
+kinase expression.
+25339
+25377
+Neutrophils were incubated (37°C) with
+25378
+25421
+medium control, fMLP (5 × 10−8 M), or 10 nM
+25422
+25473
+(Pro-Pro-Gly)5, (Pro-Pro-Gly)10, (Pro-Hyp-Gly)5, or
+25474
+25522
+(Pro-Hyp-Gly)10 for 2 hours (PI3-K) or 5 minutes
+25523
+25542
+(p38, phospho-p38).
+25543
+25583
+(a) PI3-K, (b) p38, (c) phospho-p38, (d)
+25584
+25640
+protein expressions were measured using western blotting
+25641
+25672
+and quantified by densitometry.
+25673
+25707
+Time course of phospho-p38 protein
+25708
+25749
+expression in response to (Pro-Pro-Gly)5.
+25750
+25768
+Western blots were
+25769
+25833
+scanned by densitometry and data presented as relative intensity
+25834
+25840
+units.
+25841
+25893
+One representative experiment of 3 is shown for each
+25894
+25903
+analysis.
+25905
+25957
+Figure 5: Effects of synthetic polypeptides on NF-κB
+25958
+25983
+nuclear binding activity.
+25984
+26013
+Neutrophils (1 × 106/mL) were
+26014
+26067
+treated with medium control (Med), synthetic peptides
+26068
+26101
+(10 nM), or fMLP (5 × 10−8 M) for
+26102
+26113
+30 minutes.
+26114
+26154
+Nuclear extracts (50 μg of protein) were
+26155
+26214
+analyzed for NF-κB binding activity using a gel retardation
+26215
+26221
+assay.
+26222
+26279
+Extracts, prepared from fMLP-treated cells were incubated
+26280
+26331
+in ice for 1 hour with antibodies to the p50 or p65
+26332
+26376
+subunits of NF-κB (1 μg), or 100-fold excess
+26377
+26430
+unlabeled cold competitor (Comp) prior to the labeled
+26431
+26437
+probe.

@@ -1,0 +1,669 @@
+0
+126
+Development of real-time NASBA assays with molecular beacon detection to quantify mRNA coding for HHV-8 lytic and latent genes
+128
+136
+Abstract
+138
+346
+Background: Human herpesvirus-8 (HHV-8) is linked to the pathogenesis of Kaposi's sarcoma (KS), and the HHV-8 DNA load in peripheral blood mononuclear cells (PBMC) is associated with the clinical stage of KS.
+347
+738
+To examine the expression of HHV-8 in PBMC, four HHV-8 mRNA specific NASBA assays were developedMethodsWe have developed four quantitative nucleic acid sequence-based amplification assays (NASBA-QT) specifically to detect mRNA coding for ORF 73 (latency-associated nuclear antigen, LANA), vGCR (a membrane receptor), vBcl-2 (a viral inhibitor of apoptosis) and vIL-6 (a viral growth factor).
+739
+853
+The NASBA technique amplifies nucleic acids without thermocycling and mRNA can be amplified in a dsDNA background.
+854
+947
+A molecular beacon is used during amplification to enable real-time detection of the product.
+948
+1037
+The assays were tested on PBMC samples of two AIDS-KS patients from the Amsterdam Cohort.
+1038
+1215
+Results: For all four assays, the limit of detection (LOD) of 50 molecules and the limit of quantification (LOQ) of 100 molecules were determined using in vitro transcribed RNA.
+1216
+1279
+The linear dynamic range was 50 to 107 molecules of HHV-8 mRNA.
+1280
+1345
+We found HHV-8 mRNA expression in 9 out of the 10 tested samples.
+1346
+1481
+Conclusion: These real-time NASBA assays with beacon detection provide tools for further study of HHV-8 expression in patient material.
+1483
+1493
+Background
+1495
+1660
+Homosexual men infected with HIV-1 are at increased risk for developing AIDS-related Kaposi's sarcoma (AIDS-KS) due to co-infection with HHV-8, a gamma herpes virus.
+1661
+1778
+Also known as Kaposi's sarcoma associated herpes virus, HHV-8 was first discovered in 1994 in KS-affected tissue [1].
+1779
+1917
+Since then it also has been associated with the development of multicentric Castleman's disease and primary effusion lymphoma (PEL) [2-5].
+1918
+1986
+HHV-8 DNA has been detected in both tissues and bodily fluids [6,7].
+1987
+2117
+Studies initially focused on HHV-8 and its association with KS, transmission of HHV-8, and the natural history of HHV-8 infection.
+2118
+2297
+As shown by Renwick et al. and Jacobsen et al. [8,9] seroconversion for HHV-8 during HIV infection increases the risk of developing KS, implying that HIV-1 has an impact on HHV-8.
+2298
+2494
+Laboratory assays developed for the detection of HHV-8 include serologic assays such as immunofluorescence antibody assays [10-13], immunoblot assays [10], and various enzyme immunoassays [14-16].
+2495
+2556
+PCR-based assays have also been used to detect HHV-8 DNA [1].
+2557
+2635
+With the serologic assays, sensitivity and specificity are always problematic.
+2636
+2694
+No single assay is completely sensitive and specific [17].
+2697
+2783
+We would prefer a method using viral RNA or DNA as a marker for the presence of HHV-8.
+2784
+2952
+Though DNA is an obvious choice because HHV-8 is a DNA virus, we have chosen RNA, because it indicates activity of the virus and may thus be a better prognostic marker.
+2953
+3001
+Active infected cells produce more RNA than DNA.
+3002
+3109
+In situ hybridisation has shown that most HHV-8 infected cells in KS lesions are latently infected [18,19].
+3110
+3194
+but lytic HHV-8 infection is clearly present in a small proportion of cells [20-22].
+3197
+3241
+A method for the detection of RNA is RT-PCR.
+3242
+3321
+To increase sensitivity an additional amplification step can follow the RT-PCR.
+3322
+3607
+This method is time consuming and also increases the likelihood of false positive reactions due to cross-contamination. Nucleic acid sequence-based amplification (NASBA) is a single-step isothermal RNA-specific amplification process [23] that amplifies mRNA in a dsDNA background [24].
+3608
+3761
+NASBA has proved successful in the detection of various mRNAs [24-26] and in the detection of both viral [23] and bacterial [27] RNA in clinical samples.
+3764
+3941
+By combining the standard NASBA technology [28] with a molecular beacon that anneals during amplification to the target sequence, a real-time detection system is generated [29].
+3942
+4157
+This paper describes our development of real-time NASBA assays to quantify four functionally different genes of HHV-8: ORF 73, a latent gene, vGCR, a constitutively active gene, and the lytic genes vBcl-2 and vIL-6.
+4158
+4331
+To normalise the input mRNA we developed a fifth NASBA for a constitutively expressed mRNA, U1A mRNA, and standardised the specific HHV8 mRNAs to the expression of U1A mRNA.
+4334
+4341
+Methods
+4343
+4464
+Our first assay was developed for ORF 73 and is based on the amplification of a 192 bp fragment situated within the gene.
+4465
+4553
+ORF 73 encodes the major immunogenic latency-associated nuclear antigen (LANA) of HHV-8.
+4554
+4637
+LANA is essential for maintenance of this virus in latently infected cells [30,31].
+4638
+4732
+It is expressed only in such cells and thus gives a good indication of latent HHV-8 infection.
+4733
+4848
+In addition, LANA interacts with the tumour suppressor protein p53 and represses its transcriptional activity [32].
+4851
+4952
+Our second assay was developed for vGCR, G-protein coupled receptor, and amplifies a 168 bp fragment.
+4953
+5140
+A receptor that binds several CXC and CC chemokines, vGCR appears to be constitutively active [33], although some studies indicate that it is expressed only during lytic replication [34].
+5141
+5256
+It may contribute to the pathogenesis of KS by increasing the release of cellular growth factors such as VEGF [33].
+5257
+5340
+It transforms rodent fibroblasts and induces expression of angiogenic factors [35].
+5343
+5410
+The final two assays were developed for the genes vBcl-2 and vIL-6.
+5411
+5498
+The assay for vBcl-2 amplifies a 216-bp fragment, and for vIL-6 the fragment is 186 bp.
+5499
+5610
+vBcl-2 and vIL-6 are both early lytic genes, as their expression increases within 10 hours after induction [9].
+5613
+5775
+vBcl-2 is a member of the Bcl-2 family, and functional studies indicate that vBcl-2 prevents Bax-mediated apoptosis and thus is an anti-apoptotic protein [36,37].
+5776
+5950
+It is primarily active during lytic replication and its expression pattern suggests that it may function to prolong the survival of cells in which lytic infection is present.
+5953
+6109
+vIL-6 is a secreted cytokine that maintains proliferation of IL-6-dependent mouse and human mycelia cell lines [21,38,39] and prevents apoptosis [21,38,40].
+6112
+6392
+A NASBA reaction is based on the simultaneous activity of avian myeloblastosis virus (AMV) reverse transcriptase (RT), RNase H and T7 RNA polymerase with two oligonucleotide primers to produce amplification of the desired fragment more than 1012 fold in 90 to 120 minutes [23,41].
+6393
+6548
+In a NASBA reaction, nucleic acids are a template for the amplification reaction only if they are single stranded and located in the primer-binding region.
+6549
+6716
+Because the NASBA reaction is isothermal (41°C), specific amplification of ssRNA is possible if denaturation of dsDNA is prevented in the sample preparation procedure.
+6717
+6862
+It is thus possible to pickup mRNA in a dsDNA background without getting false positive results caused by genomic dsDNA, in contrast with RT-PCR.
+6863
+6936
+In figure 1 a schematic presentation of the NASBA amplification is given.
+6937
+7012
+NASBA is achieved with the P1 (antisense) – P2 (sense) oligonucleotide set.
+7013
+7088
+The overhang on P1 encodes the promoter sequence for the T7 RNA polymerase.
+7089
+7191
+By using molecular beacons with the NASBA amplification a real-time detection system can be generated.
+7192
+7334
+Molecular beacons are stem-and-loop-structured oligonucleotides with a fluorescent label at the 5' end and a universal quencher at the 3' end.
+7335
+7536
+They are highly specific for their target and hybridise with their amplified target RNA when present in a NASBA amplification reaction to form a stable hybrid [42] at a relative low temperature (41°C).
+7539
+7626
+The NASBA quantification method is based on a standard curve with a known input of RNA.
+7627
+7713
+For this input we used in vitro RNA that was transcribed from four different plasmids.
+7714
+7877
+These plasmids were generated by cloning a specific PCR product for each of the four target genes, using primer sets located on the borders of the different genes.
+7878
+8011
+Primer sequences are shown in table 1. Input for the PCR was the nucleic acids of the BCP-1 cell line (a cell line containing HHV-8).
+8012
+8157
+The sizes of the four different PCR fragments were 595 bp, 926 bp, 473 bp, and 589 bp for ORF 73, vGCR, vBcl-2 and vIL-6, respectively (table 1).
+8158
+8394
+Each PCR fragment was cloned into the TOPO-TA plasmid (Invitrogen/ Lifetechnologies, Carlsbad, USA), and after all inserts were verified by sequencing, the fragments were cloned in a plasmide, pBluescript SK (Stratagene, La Jolla, USA).
+8395
+8568
+In vitro RNA was generated from these plasmids using T7 or T3 RNA polymerase, depending on the orientation of the fragment, and was treated with DNase to remove the plasmid.
+8569
+8698
+The Q-RNA was purified by RNeasy (Qiagen, Hilden, Germany), quantified spectrophotometrically, and checked by eye on agarose gel.
+8699
+8774
+The resulting in vitro RNA was used for the four different standard curves.
+8777
+8909
+NASBA amplification requires a sense and an anti-sense primer, and for real-time detection a unique beacon is added to the reaction.
+8910
+9211
+We developed molecular beacons that could hybridise with the known sequences of the four HHV-8 genes, as shown in table 2. All the beacons have 6-fluorescine (6-FAM) as the fluorescent label at the 5' end and a (4-(dimethylamino) phenyl) azo) benzoic acid (Dabcyl) as universal quencher at the 3' end.
+9212
+9383
+A BLAST analysis revealed that in each case, neither the primers nor the beacon shared significant homology with any known nucleotide sequences other than the target gene.
+9384
+9509
+The quality of the different beacons was tested with a melting curve (from 80°C to 20°C) and acryl amide gel electrophoresis.
+9512
+9594
+Each reaction consisted of 5 μl of the sample RNA and 10 μl of NASBA reaction mix.
+9595
+9772
+This mix consisted of 80 mM Tris-HCl [pH 8.5], 24 mM MgCl2, 140 mM KCl, 1.0 mM DTT, 2.0 mM of each dNTP, 4.0 mM each of ATP, UTP and CTP, 3.0 mM GTP, and 1.0 mM ITP in 30% DMSO.
+9773
+9898
+This solution also contained the anti-sense and sense primers for amplification and the molecular beacons used for detection.
+9899
+9975
+The final concentration for the primes was 0.1 μM and for the beacons 40 nM.
+9978
+10206
+The reaction mixtures were incubated at 65°C for 5 min, and after cooling to 41°C for 5 min to allow for primer annealing, 5 μl of enzyme mix was added by pipetting into the lids of the microtubes and subsequently spinning down.
+10207
+10345
+This mix contained, per reaction, 375 mM sorbitol, 2.1 μg BSA, 0.08 U RNase H, 32 U T7 RNA polymerase and 6.4 U AMV reverse transcriptase.
+10346
+10457
+Reactions were incubated at 41°C for 120 min in a fluorometer (Cytofluor 4000; Perkin-Elmer, Wellesley, Mass.).
+10458
+10546
+The RNA amplicons generated in the NASBA process are detected by molecular beacons [29].
+10547
+10647
+These beacons generate a fluorescent signal during amplification when hybridising with their target.
+10648
+10769
+The fluorescence is measured continuously during amplification for real-time monitoring (i.e., as the reaction proceeds).
+10770
+10878
+A threshold is determined by setting the fluorescence emitted in the first 5 measure points as a background.
+10879
+10989
+The time-point at which a reaction rises above this threshold of detection and becomes positive is determined.
+10990
+11063
+This time-to-positivity (TTP) principle is similar to real-time PCR [43].
+11064
+11178
+A calibration curve with 50, 102, 103, 104, 105, 106 and 107 molecules HHV-8 mRNA was included in each experiment.
+11179
+11266
+The number of mRNA copies per sample input can be extrapolated from the standard curve.
+11267
+11392
+De Baar et al showed that it is possible to use ttp values for quantification without the use of an internal calibrator [44].
+11395
+11484
+For standardisation of the amount of RNA input the U1A assay was used in each experiment.
+11485
+11550
+U1A mRNA encodes for one of the proteins of the U1 snRNP [45,46].
+11551
+11675
+Because U1A is constitutively expressed, the amount of U1A mRNA measured in the samples is an indication of total RNA input.
+11676
+11814
+The mean of 6 assays (variation 0.6 log) was taken as the input RNA amount of the sample, and sample input RNA was normalised accordingly.
+11815
+11990
+The NASBA conditions for the U1A assay were the same as those for the HHV-8 assay, with the exception of the final concentration of the primer (0.2 μM) and the beacon (50 nM).
+11993
+12137
+The DNA fractions of the PBMC samples were tested for the presence of HHV-8 DNA using a nested PCR for ORF 73 described by Goudsmit et al. [47].
+12138
+12245
+As a quantification of the amount of DNA input, a limited dilution PCR for the cellular CCR5 gene was used.
+12246
+12350
+With limited dilution, an estimation of copies of HHV-8 DNA was made in relation to the amount of cells.
+12351
+12451
+For both the ORF 73 and the CCR5 nested PCR, the detection level was 5 molecules input per reaction.
+12454
+12561
+To test our assays in vivo, we selected PBMC samples from two participants of the Amsterdam Cohort Studies.
+12562
+12700
+Described elsewhere in detail [48,49], they were both HIV-1-infected men with Kaposi's sarcoma but had very different disease development.
+12701
+12787
+Patient 1 was a 30-year-old man who was demonstrated to be HIV-1-seropositive in 1995.
+12788
+12826
+In July 1996 he was diagnosed with KS.
+12827
+12964
+He did not respond to anti-retroviral or chemotherapy and died in January of 1997 as a result of severe infiltration of KS in both lungs.
+12965
+13091
+Patient 2 is a 36-year-old man who visited our outpatient clinic in 1992 with an increasing number of KS-related skin lesions.
+13092
+13235
+After he started anti-retroviral therapy several lesions disappeared and complete remission was gradually reached over the course of two years.
+13236
+13335
+These two patients were chosen in large part for the diversity in their course of Kaposi's sarcoma.
+13336
+13459
+We tested three samples for patient 1 and seven samples for patient 2 collected over time, all taken after diagnosis of KS.
+13462
+13650
+After the frozen PBMC samples were thawed the cells were collected and resuspended in Trizol™ buffer to isolate RNA and DNA simultaneously, according to the manufacturer's recommendations.
+13651
+13697
+Precipitated RNA was redissolved in 50 μl H2O.
+13698
+13780
+For each time-point, a known amount of cells (7.6–11.1 * 106 cells) were isolated.
+13781
+13940
+With high input of total RNA we found that background RNA can disturb the amplification if present in large amounts and it was necessary to dilute the samples.
+13941
+14080
+To have a broad range in the dilution for the RNA quantification in the NASBA experiments, the samples were diluted 10,100, and 1000 times.
+14081
+14170
+Of these diluted samples 5 μl was used per reaction, and 10 μl of reaction mix was added.
+14171
+14275
+U1A mRNA was used as an external standard to compare quantification signals among the different samples.
+14278
+14285
+Results
+14287
+14524
+These newly developed assays can be used quantitatively by testing a standard curve of samples with a known amount of mRNA molecules within the same experiment as the unknown samples, then extrapolating the results to the standard curve.
+14525
+14747
+Typical amplification curves could be plotted in which an increase of fluorescence was observed until most of the molecular beacon had hybridised with the synthesised amplicons and the fluorescence reached a maximum level.
+14750
+14843
+Such an amplification of in vitro synthesised ORF 73 RNA is shown in the insert in figure 2a.
+14844
+15106
+The time-point at which the fluorescence signal became detectable over the background i.e., time-to-positivity (ttp), was linear over a range of at least six orders of magnitude of input RNA molecules, as shown by the dilution series of in vitro synthesised RNA.
+15107
+15232
+In figure 2a the relationship between ttp values of the standard curve for ORF 73 and the log input of in vitro RNA is shown.
+15233
+15291
+This relationship extended from 107 to 50 molecules input.
+15294
+15377
+The dilution series of in vitro RNA showed a detection level of 50 molecules input.
+15378
+15458
+For accurate quantification the required level is 102 molecules input per assay.
+15459
+15514
+The line is calculated with linear regression analysis.
+15515
+15605
+Besides the limit of detection (LOD), the limit of quantification (LOQ) can be determined.
+15606
+15703
+For ORF 73, the LOD is 50 molecules input (84% pos.) while the LOQ is 102 molecules per reaction.
+15704
+15842
+The linear quantification of the ORF 73 assay was determined to be between 102 to 107 copies RNA per reaction (R 2 = 0.96, p < 0.001, fig.
+15843
+15847
+2a).
+15848
+15923
+The sensitivity of all four assays was studied using five serial dilutions.
+15924
+16008
+The linear regression analyses for the other assays are shown in figure 2b,2c,2d,2e.
+16009
+16169
+The assay for vGCR has a very small standard deviation, and the amplification is linear from 107 to 50 molecules input per reaction (R 2 > 0.99, p < 0.001, fig.
+16170
+16174
+2b).
+16175
+16252
+The LOD is 50 molecules (55% pos.) and the LOQ is 102 molecules per reaction.
+16253
+16335
+The assays for both vBcl-2 and vIL-6 are weaker but still within a workable range.
+16336
+16475
+As above, the linear quantification was between 102 to 107 copies RNA per reaction (R 2 = 0.94 and R 2 = 0.95 respectively, p < 0.001, fig.
+16476
+16483
+2c,2d).
+16484
+16542
+For both assays, the LOD is 50 molecules (72% and 50% pos.
+16543
+16599
+respectively) and the LOQ is 102 molecules per reaction.
+16600
+16693
+U1A has a linear quantification range of 103 to 108 molecules (R2 = 0.99, p < 0.001, fig 2e).
+16694
+16823
+The assay for U1A had a sensitivity of only 103 copies input/reaction, which is feasible due to the high expression level of U1A.
+16826
+16982
+The specificity of the five assays was tested by spiking each reaction with 106 molecules of in vitro RNA that the primers and beacon were not designed for.
+16983
+17075
+For example, ORF 73 in vitro RNA did not give a signal with the vGCR assay (data not shown).
+17078
+17248
+In replicate independent experiments, the time-to-positivity (TTP) value had a linear relationship with the logarithm of the amount of in vitro RNA added in the reaction.
+17249
+17434
+Subsequent experiments used serial 10-fold dilutions of in vitro RNA (from 107 to 102 and 50 molecules per reaction) as a standard curve to determine the amount of HHV-8 RNA in samples.
+17435
+17625
+The experiments were done on different days and by different people with no significant variation in results, which confirmed the robustness of the assays and also their ease of performance.
+17628
+17814
+To address the functionality and quality of the HHV-8 assays in vivo, they were tested on PBMC samples collected after KS diagnosis from two participants in the Amsterdam Cohort Studies.
+17815
+17857
+In total, 10 frozen samples were analysed.
+17858
+18011
+As a positive control, all samples were tested for the presence of HHV-8 DNA with a nested PCR and were found to be positive (see Materials and Methods).
+18012
+18089
+The copies of HHV-8 DNA varied between 2 and 2 * 102 per 103 cells (table 3).
+18090
+18193
+A relation has been shown between the HHV-8 DNA levels in PBMC and the extent of Kaposi's sarcoma [50].
+18194
+18279
+A possible correlation between DNA levels and mRNA expression should be investigated.
+18282
+18424
+The results of the HHV-8 assays are shown in table 3. Of the 10 samples, 9 were positive for ORF 73, whereas only half were positive for vGCR.
+18425
+18531
+While vBcl-2 was measured in 9 out of 10 samples, vIL-6 was detected in approximately half of the samples.
+18532
+18608
+All the samples that were positive for ORF 73 were also positive for vBcl-2.
+18609
+18695
+Surprisingly the samples were positive for a latent and a lytic gene at the same time.
+18696
+18794
+The variation in expression levels is large both among the different assays and among the samples.
+18795
+18927
+No clear trend in the expression of HHV-8-specific mRNA can be distinguished, based on HHV-8 DNA levels, patient, or disease status.
+18930
+18940
+Discussion
+18942
+19020
+In general the NASBA assay has several advantages over the PCR technique [51].
+19021
+19169
+The amplification procedure of the NASBA assay is entirely isothermal and is conducted at 41°C; it does not require thermal cycling instrumentation.
+19170
+19271
+The NASBA product is single-stranded and can therefore be readily detected by hybridisation analysis.
+19274
+19453
+Our four real-time NASBA assays offer these benefits and also the five features that define validation of any assay: accuracy, sensitivity, precision, robustness, and specificity.
+19454
+19527
+With the use of standard curves in each experiment, accuracy is achieved.
+19528
+19587
+The sensitivity is determined with a linear standard curve.
+19588
+19670
+The limit of detection (LOD) and the limit of quantification (LOQ) are determined.
+19671
+19773
+For all the HHV-8 assays, the LOD is 50 molecules per reaction and LOQ was 100 molecules per reaction.
+19774
+19876
+To achieve linear amplification requires at least 5 concentrations on the linear portion of the curve.
+19877
+19977
+For the HHV-8 assays, the linear range spans 7 concentrations and for U1A it spans 6 concentrations.
+19978
+20103
+Quantification was achieved within this linear range of at least six orders of magnitude (102 to 107 molecules per reaction).
+20104
+20229
+Within this linear range quantification of at least six orders of magnitude (102 to 107 molecules per reaction) was achieved.
+20232
+20332
+The precision of the assays was measured as the standard deviation and the confidence interval (fig.
+20333
+20336
+2).
+20337
+20410
+We used 5 replicates of 7 different concentrations of the standard curve.
+20411
+20506
+Robustness was determined by having different people perform the experiments on different days.
+20507
+20554
+Specificity was shown with spiking experiments.
+20555
+20636
+The lower detection level of the assays was approximately 50 copies per reaction.
+20637
+20733
+The assays work equally well in vivo as in vitro e.g., for quantification of HHV-8 RNA in PBMCs.
+20736
+20911
+The onset of KS is associated with a high HHV-8 load in PBMC [19] and this indicates that HHV-8 infected circulating cells play an important role in KS development [20,52,53].
+20912
+21026
+HHV-8 can infect circulating B cells, monocytes/macrophages, T cells and KS-like spindle cell progenitors [54-56].
+21027
+21236
+In KS lesions B cells are rare or absent, but monocytes macrophages are abundantly present [52], this suggest that circulating monocytes may recruit the virus into tissues or transmit the virus to other cells.
+21237
+21396
+Since lymphocytes and monocytes infiltrating KS lesions can be productively infected by HHV-8 [20,22], it is important to look at active infection in the PBMC.
+21397
+21485
+PBMCs of two AIDS-KS patients were selected and analysed for the presence of HHV-8 mRNA.
+21488
+21633
+In 90% of our samples, ORF 73 mRNA and vBcl-2 mRNA were detected, whereas for vIL-6 mRNA and vGCR mRNA were present in 60% and 50%, respectively.
+21634
+21688
+The expression levels of all four genes varied widely.
+21689
+21865
+Comparing the different expression levels of the four HHV-8 genes within one sample or comparing expression levels of one gene in one patient did not show an apparent tendency.
+21866
+21959
+No clear trend can be distinguished based on the HHV-8 DNA levels, patient or disease status.
+21960
+22099
+Nevertheless the finding of expression of different HHV8 specific genes in PBMCs is notable in itself, as it has not been described before.
+22100
+22184
+HHV-8 RNA has been found in tissues, endothelial cells and spindle cells [18,57,58].
+22185
+22267
+In 90% of fresh KS-affected tissues, HHV-8 RNA has been detected with RT-PCR [59].
+22268
+22409
+In situ hybridisation and LANA immunohistochemistry have confirmed HHV-8 gene expression in KS spindle cells within KS lesions [18,58,60-62].
+22410
+22515
+Expression of lytic HHV-8 genes has also been documented in monocytes and macrophages in KS lesions [20].
+22518
+22528
+Conclusion
+22530
+22631
+The assays that were developed work well for the detection and quantification of HHV-8 specific mRNA.
+22632
+22796
+Although no clear trend in the expression pattern could be distinguished the finding of expression of different HHV8 specific genes in PBMCs is important in itself.
+22797
+22861
+As this suggests that HHV-8 replication takes place in the PBMC.
+22862
+22912
+The PBMCs we used were obtained from two patients.
+22913
+23045
+To draw conclusions about the clinical and prognostic utility of these assays more patients and patient samples need to be analysed.
+23046
+23253
+However, as the assays are able to quantify HHV-8 mRNA in PBMC samples we feel that these real-time NASBA assays with beacon detection provide tools for further study of HHV-8 expression in patient material.
+23256
+23275
+Competing interests
+23277
+23291
+None declared.
+23294
+23316
+Authors' contributions
+23318
+23430
+AP carried out the assay development and validation, preformed the NASBA experiments and drafted the manuscript.
+23431
+23467
+JG participated in the study design.
+23468
+23536
+MC participated in the study design and carried out its supervision.
+23539
+23562
+Pre-publication history
+23564
+23628
+The pre-publication history for this paper can be accessed here:
+23631
+23656
+Figure and Table captions
+23658
+23791
+Figure 1: NASBA amplification reaction NASBA amplification reaction with the P1 (anti-sense) – P2 (sense) oligonucleotide primer set.
+23792
+23871
+The overhang on the P1 encodes the promoter sequence for the T7 RNA polymerase.
+23872
+24001
+A molecular beacon with a fluorophore and a quencer with the NASBA amplification reaction generates a real-time detection system.
+24003
+24055
+Figure 2: Standard curves in vitro RNA Figure 2 a-d.
+24056
+24123
+Relationship of time-to-positivity (TTP) to HHV-8 mRNA copy number.
+24124
+24249
+The number of mRNA molecules present in the reaction is indicated on the x axis and the ttp value in indicated on the y axis.
+24250
+24380
+For the data obtained with 50, 102 to 107 molecules, the values of TTP are the mean of five replicates of independent experiments.
+24381
+24431
+For the U1A the range of RNA input was 103 to 108.
+24432
+24497
+Error bars indicate the standard deviation for the values of ttp.
+24498
+24672
+The solid line was obtained by linear regression analysis of the data from 50 to 107 molecules, and the dotted lines indicate the 95% confidence intervals for the regression.
+24673
+24794
+Inserts a-d: Amplification plot of a 10-fold dilution serial dilution of in vitro RNA for ORF 73, vGCR, vBcl-2 and vIL-6.
+24795
+24892
+The amount of input RNA 1 * 107, 1 * 106, 1 * 105, 1 * 104, 1 * 103, 1 * 102, 50 and 0 molecules.
+24893
+25074
+Insert e: Amplification plot of a 10-fold dilution serial dilution of U1A in vitro RNA, the amount of input RNA 1 * 108, 1 * 107, 1 * 106, 1 * 105, 1 * 104, 1 * 103 and 0 molecules.
+25076
+25121
+Table 1: Primers for PCR fragment in plasmids
+25123
+25191
+Table 2: Sequences of the primers and beacons for each of the assays
+25193
+25239
+Table 3: The ratio mRNA of (HHV-8 / U1A) × 107

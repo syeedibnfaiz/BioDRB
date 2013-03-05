@@ -1,0 +1,5881 @@
+
+(
+  (S
+    (NP (NN Btk) (NN expression))
+    (VP (VBZ is)
+      (VP (VBN controlled)
+        (PP (IN by)
+          (NP
+            (NP (NN Oct))
+            (CC and)
+            (NP (NN BOB.1/OBF.1))))))))
+
+(
+  (S
+    (NP (NN Abstract))))
+
+(
+  (S
+    (S
+      (NP (NN BOB.1/OBF.1))
+      (VP (VBZ is)
+        (NP (DT a) (JJ lymphocyte-restricted) (JJ transcriptional) (NN coactivator))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP
+        (VP (VBZ binds)
+          (PP
+            (ADVP (RB together))
+            (IN with)
+            (NP (DT the)
+              (NP (NN Oct1))
+              (CC and)
+              (NP (NN Oct2))
+              (NP (NN transcription) (NNS factors))))
+          (PP (TO to)
+            (NP (NN DNA))))
+        (CC and)
+        (VP (VBZ enhances)
+          (NP (PRP$ their) (NN transactivation) (NN potential)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Mice))
+        (ADJP (JJ deficient)
+          (PP (IN for)
+            (NP (DT the) (JJ transcriptional) (NN coactivator) (NN BOB.1/OBF.1)))))
+      (VP (VBP show)
+        (NP
+          (NP (JJ several) (NNS defects))
+          (PP (IN in)
+            (NP
+              (NP
+                (NP (NN differentiation))
+                (, ,)
+                (NP (NN function))
+                (CC and)
+                (NP (NN signaling)))
+              (PP (IN of)
+                (NP (NN B) (NNS cells))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (NN search))
+          (PP (IN of)
+            (NP (CD BOB.1/OBF.1) (JJ regulated) (NNS genes)))))
+      (NP (PRP we))
+      (VP (VBD identified)
+        (NP
+          (NP (CD Btk—a) (JJ cytoplasmic) (NN tyrosine) (NNS kinase—as))
+          (NP
+            (NP (DT a) (JJ direct) (NN target))
+            (PP (IN of)
+              (NP (NN BOB.1/OBF.1)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Analyses))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ human))
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (JJ murine) (NN Btk) (NNS promoters)))))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT a) (JJ non-consensus) (NN octamer) (NN site))
+          (ADJP (JJ close)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN start) (NN site))
+                (PP (IN of)
+                  (NP (NN transcription)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Here))
+      (NP (PRP we))
+      (VP (VBP show)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN Oct) (NNS proteins))
+              (PP
+                (ADVP (RB together))
+                (IN with)
+                (NP (NN BOB.1/OBF.1))))
+            (VP (VBP are)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB form)
+                      (NP
+                        (NP (JJ ternary) (NNS complexes))
+                        (PP (IN on)
+                          (NP (DT these) (NNS sites))))
+                      (ADVP
+                        (ADVP (FW in) (FW vitro))
+                        (CC and)
+                        (ADVP (FW in) (FW vivo))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT This))
+        (PP (IN in)
+          (NP (NN turn))))
+      (VP (VBZ leads)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN induction))
+            (PP (IN of)
+              (NP (NN Btk) (NN promoter) (NN activity)))
+            (PP (IN in)
+              (NP
+                (NP (NN synergism))
+                (PP (IN with)
+                  (NP (DT the) (NN transcription) (NN factor) (NN PU.1)))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Btk))
+      (, ,)
+      (PP (IN like)
+        (NP (NN BOB.1/OBF.1)))
+      (, ,))))
+
+(
+  (S
+    (S
+      (VP (VBZ plays)
+        (NP (DT a) (JJ critical) (NN role))
+        (PP (IN in)
+          (NP
+            (NP (NN B) (NN cell) (NN development))
+            (CC and)
+            (NP (NN B) (NN cell) (NN receptor) (NN signalling))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (RB Therefore) (DT the) (NN down-regulation))
+      (PP (IN of)
+        (NP (NN Btk) (NN expression)))
+      (PP (IN in)
+        (NP (NN BOB.1/OBF.1-deficient))))))
+
+(
+  (S
+    (NP (NN B) (NNS cells))
+    (VP (MD could)
+      (VP (VB be)
+        (ADJP (JJ related)
+          (PP (TO to)
+            (NP
+              (NP (DT the)
+                (ADJP
+                  (ADJP (JJ functional))
+                  (CC and)
+                  (ADJP (JJ developmental)))
+                (NNS defects))
+              (VP (VBN observed)
+                (PP (IN in)
+                  (NP (NN BOB.1/OBF.1-deficient)))))))))))
+
+(
+  (S
+    (NP
+      (NP (NNS mice))
+      (. .))))
+
+(
+  (S
+    (NP (NN INTRODUCTION))))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN octamer) (NN motif) (NN ATGCAAAT))
+      (VP (VBZ is)
+        (ADJP (JJ important)
+          (PP (IN for)
+            (NP
+              (ADJP (NN B) (JJ cell-specific))
+              (NN gene) (NN regulation))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB also))
+          (VP (VBN found)
+            (PP (IN in)
+              (NP
+                (NP (NNS promoters))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (ADJP (RB ubiquitously) (VBN expressed))
+                      (NNS genes))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN 1–3))
+                      (-RRB- -RRB-))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ critical) (NN element))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ regulatory) (NNS regions))
+            (PP (IN of)
+              (NP (JJ several)
+                (ADJP (NN B) (JJ cell-specific))
+                (VBN expressed) (NNS genes))))))
+      (, ,)
+      (PP (IN like)
+        (NP
+          (NP
+            (NP (NN immunoglobulin) (NNS genes))
+            (PRN (-LRB- -LRB-)
+              (NP (NN 4,5))
+              (-RRB- -RRB-)))
+          (, ,)
+          (NP
+            (NP
+              (NP (NN B29))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Igβ))
+                (-RRB- -RRB-)))
+            (, ,)
+            (NP (NN CD20))
+            (CC and)
+            (NP
+              (NP (NN CD21))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 6–8))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Detailed) (NNS analyses))
+        (PP (IN of)
+          (NP (DT the) (NN octamer) (NN sequence))))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS mutations))
+              (PP (IN in)
+                (NP
+                  (NP (JJ most) (NNS positions))
+                  (PP (IN of)
+                    (NP (DT the) (VBN conserved) (NN motif))))))
+            (VP (VBP interfere)
+              (PP (IN with)
+                (NP
+                  (NP (PRP$ its) (NN function))
+                  (PRN (-LRB- -LRB-)
+                    (NP (CD 9))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN B) (NNS cells)))
+      (, ,)
+      (NP (CD two) (NN octamer) (NN transcription) (NNS factors))
+      (VP (VBP bind)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN octamer) (NN element))
+            (, ,)
+            (NP (DT the)
+              (ADJP (RB ubiquitously) (VBN expressed))
+              (NN Oct1))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ lymphocyte-specific) (VBN expressed) (NN Oct2))
+              (PRN (-LRB- -LRB-)
+                (NP (CD 10))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP (JJ B-cell-specific) (NN activity)))
+      (NP (DT these) (NN transcription) (NNS factors))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB interact)
+              (PP (IN with)
+                (NP
+                  (NP (DT an) (JJ additional) (JJ lymphocyte-restricted) (NN coactivator))
+                  (VP (VBN named)
+                    (S
+                      (NP
+                        (NP (NN BOB.1/OBF.1))
+                        (-LRB- -LRB-)
+                        (NP
+                          (NP (JJ alternative) (NNS names))
+                          (VP (VBP are)
+                            (NP (CD Bob.1))))))))))))))
+    (, ,)))
+
+(
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (NN OBF-1))
+          (PRN (, ,)
+            (NP (NN OCA-B))
+            (-RRB- -RRB-)))
+        (PRN (-LRB- -LRB-)
+          (NP (NN 11,12))
+          (-RRB- -RRB-)))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP (NN BOB.1/OBF.1))
+      (VP
+        (VP (VBZ displays)
+          (NP
+            (ADJP (RB only) (JJ weak))
+            (NN DNA) (NN binding)))
+        (CC and)
+        (VP (VBZ is)
+          (VP (VBN recruited)
+            (PP (TO to)
+              (NP (DT the) (NN octamer) (NN sequence)))
+            (ADVP (RB predominantly))
+            (PP (IN via)
+              (NP
+                (NP (NN interaction))
+                (PP (IN of)
+                  (NP (PRP$ its) (JJ N-terminal) (NN domain)))
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (NNS POU-domains))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN Oct) (NNS factors))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN 11–19))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN transactivation) (NNS domains))
+        (PP (IN of)
+          (NP (CC both)
+            (NP
+              (NP (NN type))
+              (PP (IN of)
+                (NP (NN proteins—Oct))))
+            (CC and)
+            (NP
+              (NP (NN BOB.1/OBF.1—act))
+              (PP (IN in)
+                (NP (NN synergy)))))))
+      (VP (TO to)
+        (VP (VB mediate)
+          (NP (JJ octamer-dependent) (NN transcription)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN BOB.1/OBF.1) (NN protein) (NN isoform))
+        (VP (VBG bearing)
+          (NP (DT an) (JJ N-terminal) (VBN myristoylated) (NN extension))))
+      (VP (VBD was)
+        (VP (VBN found)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN localized)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN membrane) (NN fraction))
+                      (PRN (-LRB- -LRB-)
+                        (NP (CD 20))
+                        (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN function))
+        (PP (IN of)
+          (NP (DT this) (NN isoform))))
+      (VP (VBZ is) (RB not)
+        (VP (VBN understood)
+          (ADVP (RB yet)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Gene) (NN targeting) (NNS experiments))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP (NN BOB.1/OBF.1))
+            (VP (VBZ is)
+              (ADJP (JJ important))
+              (PP (IN at)
+                (NP
+                  (NP (JJ several) (NNS stages))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN B) (NN cell) (NN development))
+                      (PP
+                        (PP (IN in)
+                          (NP (DT the) (NN bone) (NN marrow)))
+                        (CONJP (RB as) (RB well) (IN as))
+                        (PP (IN in)
+                          (NP (JJ peripheral) (JJ secondary) (JJ lymphoid) (NNS tissues)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (PP (IN In)
+          (NP (DT the) (NN bone) (NN marrow)))
+        (NP
+          (NP (DT the) (NN number))
+          (PP (IN of)
+            (NP
+              (ADJP
+                (ADJP (JJ immature))
+                (CONJP (RB as) (RB well))
+                (ADJP (JJ transitional)))
+              (NN B) (NNS cells))))
+        (VP (VBZ is)
+          (VP (VBN reduced))))
+      (CC and)
+      (S
+        (NP (JJR fewer) (NNS cells))
+        (VP (VBP reach)
+          (NP (DT the) (NN periphery) (-LRB- -LRB-) (CD 21) (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN BOB.1/OBF.1))
+      (VP (VBZ is)
+        (VP (VBN expressed)
+          (PP (IN throughout)
+            (NP (NN B) (NN cell) (NN ontogeny)))
+          (, ,)
+          (PP (IN albeit)
+            (PP (IN at)
+              (NP (JJ different) (NNS levels)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJS highest) (NN expression))
+      (VP (VBZ is)
+        (VP (VBN found)
+          (PP (IN in)
+            (NP
+              (NP (JJ germinal) (NN center) (NN B) (NNS cells))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 22,23))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The)
+        (ADJP (RBS most) (JJ striking))
+        (NN characteristic))
+      (PP (IN of)
+        (NP (NN BOB.1/OBF.1−/−))))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (VP (VBZ is)
+        (NP (DT the) (JJ complete) (NN failure)
+          (S
+            (VP (TO to)
+              (VP (VB form)
+                (NP
+                  (NP (JJ germinal) (NNS centers))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN spleen))
+                      (CC and)
+                      (NP
+                        (NP (NN lymph) (NNS nodes))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN 24–26))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (, ,)
+      (NP
+        (NP (DT the) (NN production))
+        (PP (IN of)
+          (NP (VBN switched) (NN immunoglobulin) (NNS isotypes))))
+      (VP (VBZ is)
+        (ADVP (RB strongly))
+        (VP (VBN reduced))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN development))
+      (PP (IN of)
+        (NP (DT the) (JJ marginal) (NN zone) (NN B) (NN cell) (NN compartment)))
+      (PP (IN in)
+        (NP (NN BOB.1/OBF.1−/−))))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (VP (VBZ is)
+        (ADVP (RB severely))
+        (VP (VBN affected)
+          (PRN (-LRB- -LRB-)
+            (NP (CD 27))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The) (JJ B-cell-specific) (NN expression))
+      (PP (IN of)
+        (NP (DT a) (NN bcl2-transgene))))
+    (VP (MD can)
+      (VP (VB rescue)
+        (NP
+          (NP (JJ several) (NNS aspects))
+          (PP (IN of)
+            (NP (JJ early) (NN lymphopoiesis)))
+          (PP (IN in)
+            (NP (NNS BOB.1/OBF.1−/−))))))))
+
+(
+  (S
+    (NP
+      (NP (NNS mice))
+      (. .))))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP
+        (NP (JJ terminal) (NN differentiation))
+        (CC and)
+        (NP (JJ specific) (NN B) (NN cell) (NNS responses)))
+      (VP (VBP are)
+        (ADVP (RB still))
+        (ADJP (JJ defective))
+        (PRN (-LRB- -LRB-)
+          (NP (CD 28))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN BOB.1/OBF.1))
+      (VP (VBZ is)
+        (ADVP (RB also) (JJ inducible))
+        (VP (VBN expressed)
+          (PP (IN in)
+            (NP
+              (NP (NN T) (NNS cells))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 29,30))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ critical) (NN function))
+        (PP (IN in)
+          (NP (NN T) (NNS cells))))
+      (VP (VBZ has)
+        (ADVP (RB however))
+        (RB not)
+        (VP (VBN been)
+          (VP (VBN identified)
+            (ADVP (RB yet))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT Some))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS defects))
+            (PP (IN in)
+              (NP
+                (NP
+                  (ADJP
+                    (ADJP (JJ early))
+                    (CC and)
+                    (ADJP (JJ late)))
+                  (NN B) (NN cell) (NN development))
+                (CONJP (RB as) (RB well) (IN as))
+                (NP (FW in) (NN B) (NN cell) (NN function)))))))
+      (VP (VBD were)
+        (NP
+          (NP (NN reminiscent))
+          (PP (IN of)
+            (NP
+              (NP (NNS defects))
+              (PP (IN in)
+                (NP
+                  (NP (NNS mice))
+                  (ADJP (JJ deficient)
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ functional) (NN Bruton) (POS 's) (NN tyrosine) (NN kinase))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN Btk))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Mutations))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN gene))
+            (VP (VBG coding)
+              (PP (IN for)
+                (NP (NN Btk)))))))
+      (VP (VBP cause)
+        (NP
+          (NP
+            (NP
+              (NP (JJ X-linked) (NN agammaglobulinemia))
+              (PRN (-LRB- -LRB-)
+                (NP (NN XLA))
+                (-RRB- -RRB-)))
+            (PP (IN in)
+              (NP
+                (NP
+                  (NP (NNS humans))
+                  (PRN (-LRB- -LRB-)
+                    (NP (CD 31))
+                    (-RRB- -RRB-)))
+                (CC and)
+                (NP
+                  (NP (JJ X-linked) (NN immunodeficiency))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Xid))
+                    (-RRB- -RRB-)))))
+            (PP (IN in)
+              (NP
+                (NP (NNS mice))
+                (VP (VBN -LSB-reviewed)
+                  (PP (IN in)
+                    (NP (NN Ref))))))
+            (. .))
+          (PRN (-LRB- -LRB-)
+            (NP (CD 32))
+            (-RRB- -RRB-))))
+      (-RRB- -RSB-))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ Xid) (NN phenotype))
+      (VP (VBZ is)
+        (VP (VBN characterized)
+          (PP
+            (PP (IN by)
+              (NP
+                (NP (DT a) (NN defect))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN transition))
+                    (PP (IN from)
+                      (NP (DT the) (NN pre-B)))
+                    (PP (TO to)
+                      (NP (JJ immature) (NN B) (NNS cells)))))
+                (PP (IN in)
+                  (NP (DT the) (NN bone) (NN marrow)))))
+            (CONJP (RB as) (RB well) (IN as))
+            (PP (IN by)
+              (NP
+                (NP (DT a) (VBN reduced) (NN number))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ peripheral) (NN B) (NNS cells))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP exhibit)
+                          (NP
+                            (NP (DT an) (JJ immature) (NN phenotype))
+                            (PRN (-LRB- -LRB-)
+                              (NP (NN 33–35))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP (DT the) (NN B-1) (NN cell) (NN compartment))
+      (VP (VBZ is)
+        (ADJP (JJ absent)
+          (PP (IN in)
+            (NP (NN Xid-mice))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Consequently))
+      (, ,)
+      (NP
+        (NP (DT the) (NNS levels))
+        (PP (IN of)
+          (NP (NN serum)
+            (NP
+              (NP (NN IgM))
+              (CC and)
+              (NP (NN IgG3))))))
+      (VP (VBP are)
+        (ADJP (JJ low))))
+    (. .)))
+
+(
+  (S
+    (ADJP (JJ Similar)
+      (PP (TO to)
+        (NP (NN BOB.1/OBF.1−/−))))))
+
+(
+  (S
+    (NP
+      (NP
+        (NP (NNS animals))
+        (PRN (-LRB- -LRB-)
+          (NP (NN 25,27))
+          (-RRB- -RRB-)))
+      (, ,)
+      (NP
+        (NP (NNS mice))
+        (ADJP (JJ deficient)
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (DT an) (JJ functional) (NN Btk))
+                (VP (VBP show)
+                  (NP
+                    (NP (JJ severe) (NNS defects))
+                    (PP (IN in)
+                      (NP (NN B) (NN cell) (NN receptor) (NN signaling))))))
+              (, ,)
+              (VP (VBN expressed)
+                (PP (IN by)
+                  (NP
+                    (NP (VBN reduced) (NN tyrosine) (NN phosphorylation))
+                    (ADJP (JJ -LSB-reviewed)
+                      (PP (IN in)
+                        (NP (-LRB- -LRB-) (CD 32) (-RRB- -RRB-)))))))
+              (-RRB- -RSB-)))))
+      (, ,))
+    (VP
+      (VP (VBD reduced)
+        (NP
+          (NP (NN elevation))
+          (PP (IN of)
+            (NP (JJ intracellular) (NN Ca2+) (NNS levels))))
+        (PRN (-LRB- -LRB-)
+          (NP (CD 36))
+          (-RRB- -RRB-)))
+      (, ,)
+      (VP (VBD reduced)
+        (NP
+          (NP
+            (NP (NN activation))
+            (PP (IN of)
+              (NP
+                (NP (NN NF-κB))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN 37,38))
+                  (-RRB- -RRB-)))))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (JJ impaired) (NN proliferation)))
+        (PP (IN upon)
+          (NP
+            (NP (NN IgM) (NN crosslinking))
+            (PRN (-LRB- -LRB-)
+              (NP (NN 33,34))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (VBN Based)
+        (PP (IN on)
+          (NP (DT these) (NNS findings))))
+      (NP (PRP one))
+      (VP (MD may)
+        (VP (VB suggest)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (NN BOB.1/OBF.1))
+                (CC and)
+                (NP (NN Btk)))
+              (VP (VBP have)
+                (NP (VBG overlapping) (NNS functions))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP
+        (NP (NNS mice))
+        (ADJP (JJ mutant)
+          (PP (IN for)
+            (NP (DT both) (NNS proteins)))))
+      (ADVP (RB almost) (RB completely))
+      (VP
+        (VP (VBP lack)
+          (NP (JJ peripheral) (NN B) (NNS cells)))
+        (CC and)
+        (VP (VBP show)
+          (NP
+            (NP
+              (NP (DT a) (JJ severe) (NN agammaglobulinemia))
+              (PRN (-LRB- -LRB-)
+                (NP (CD 39))
+                (-RRB- -RRB-)))
+            (, ,)
+            (NP
+              (NP (DT a) (NN phenotype))
+              (VP (VBG resembling)
+                (NP
+                  (NP (JJ human) (NNS XLA))
+                  (PRN (-LRB- -LRB-)
+                    (NP (CD 31))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Thus))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP
+            (NP (NN BOB.1/OBF.1))
+            (CC and)
+            (NP (NN Btk)))
+          (VP (VBP share)
+            (NP (DT some) (VBG overlapping) (NNS functions)))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (VP (VBN involved)
+          (PP (IN in)
+            (NP
+              (NP (JJ distinct) (NN signaling) (NNS pathways))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ important)
+                      (PP (IN for)
+                        (NP
+                          (NP (NN B) (NN cell) (NN development))
+                          (CC and)
+                          (NP (NN function)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB get)
+            (NP
+              (NP (NNS insights))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (NN regulation))
+                  (PP (IN of)
+                    (NP (NN Btk) (NN expression)))))))))
+      (NP (DT the)
+        (ADJP
+          (ADJP (JJ human))
+          (PRN (-LRB- -LRB-)
+            (NP (NN 40,41))
+            (-RRB- -RRB-))
+          (CC and)
+          (ADJP (JJ murine))
+          (PRN (-LRB- -LRB-)
+            (NP (NN 42,43))
+            (-RRB- -RRB-)))
+        (NN promoter) (NNS regions))
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP
+              (NP (JJ conserved) (JJ regulatory) (NNS elements))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 44–49))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Recently))
+      (, ,)
+      (NP
+        (NP (JJ regulatory) (NNS elements))
+        (ADJP (JJ necessary)
+          (PP (IN for)
+            (NP (NN Btk) (NN gene) (NN activation)))))
+      (VP (VBD were)
+        (ADVP (RB also))
+        (VP (VBN identified)
+          (PP (IN in)
+            (NP (NN intron1))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN btk) (NN promoter))
+      (VP (VBZ does) (RB not)
+        (VP (VB contain)
+          (NP (DT an) (JJ obvious) (NN TATA) (NN box)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Transcription))
+      (VP (VBZ is)
+        (VP (VBN initiated)
+          (PP (IN at)
+            (NP (DT a) (JJ putative) (NN initiator) (NN element))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Deletion) (NNS analyses))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (NN sequence))
+              (PP (IN of)
+                (NP
+                  (NP (CD 280) (NN bp))
+                  (ADVP (RB upstream)
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN start) (NN site))
+                        (PP (IN of)
+                          (NP (NN transcription)))))))))
+            (VP (VBZ is)
+              (ADJP (JJ sufficient)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (JJ cell-type-specific) (NN regulation))
+                    (PP (IN of)
+                      (NP (NN Btk) (NN expression)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN transcription) (NNS factors)
+        (NP
+          (NP (NN Sp1))
+          (, ,)
+          (NP (NN Sp3))
+          (, ,)
+          (NP (NN Spi-B))
+          (CC and)
+          (NP (NN PU.1))))
+      (VP (VBP are)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (ADVP (RB synergistically))
+              (VP (VB activate)
+                (NP (DT the) (NN Btk) (NN promoter))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (JJ PU.1-deficient) (JJ fetal) (NN liver) (NNS cells))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 48))
+              (-RRB- -RRB-)))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (JJ SP1−/−) (JJ embryonic) (NN stem) (NNS cells))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 49))
+              (-RRB- -RRB-)))))
+      (, ,)
+      (NP (NN Btk) (NN expression))
+      (VP
+        (VP (VBD was)
+          (ADJP (CC either)
+            (ADJP (VBN reduced))
+            (CC or)
+            (ADJP (RB not) (VBN affected))))
+        (CC but)
+        (RB not)
+        (VP (VBN abolished))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ indicates)
+        (SBAR (IN that)
+          (S
+            (NP
+              (ADJP
+                (ADJP (JJ additional))
+                (, ,)
+                (CC yet)
+                (ADJP (RB not) (VBN identified)))
+              (NNS factors))
+            (ADVP (RB also))
+            (VP (VBP contribute)
+              (PP (TO to)
+                (NP (NN Btk) (NN promoter) (NN activity))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Here))
+    (NP (PRP we))
+    (VP (VBP show)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN transcription) (NNS factors)
+            (NP
+              (NP (NN Oct1))
+              (CC and)
+              (NP (NN Oct2))))
+          (VP (VBP are)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB bind)
+                    (PP (IN in)
+                      (NP
+                        (NP (NN concert))
+                        (PP (IN with)
+                          (NP (DT the) (NN coactivator) (NN BOB.1/OBF.1)))))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a) (JJ non-perfect) (NN octamer) (NN site))
+                        (PP (IN within)
+                          (NP
+                            (NP (DT the)
+                              (ADJP
+                                (ADJP (JJ human))
+                                (CC and)
+                                (ADJP (JJ murine)))
+                              (NN Btk) (NNS promoters))
+                            (VP (VBG leading)
+                              (PP (TO to)
+                                (NP (PRP$ their) (NN activation))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Moreover))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN Oct))
+          (CC and)
+          (NP (NN BOB.1/OBF.1)))
+        (NNS proteins))
+      (VP (VBP activate)
+        (NP (DT the) (JJ murine) (NN Btk) (NN promoter))
+        (ADVP (RB synergistically))
+        (PP (IN with)
+          (NP (NN PU.1)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The) (NN importance))
+      (PP (IN of)
+        (NP (DT the) (NN Oct/BOB.1/OBF.1-mediated))))))
+
+(
+  (S
+    (NP (NN btk) (NN gene) (NN activation))
+    (VP (VBZ is)
+      (VP (VBN underlined)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN fact))
+            (WHNP (WDT that))
+            (PP (IN in)
+              (NP (NN BOB.1/OBF.1-deficient)))))))))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NN B) (NNS cells))
+          (NN expression))
+        (PP (IN of)
+          (NP (NN Btk))))
+      (VP (VBZ is)
+        (VP (VBN impaired))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Thus))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD identified)
+        (NP
+          (NP (DT the) (JJ non-perfect) (NN octamer) (NN site))
+          (ADJP (JJ present)
+            (PP (IN in)
+              (NP
+                (NP
+                  (ADJP (JJ human)))
+                (CONJP (RB as) (RB well) (IN in))
+                (NP (DT the) (JJ murine) (NN Btk) (NN promoter))))))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (VBN conserved) (JJ regulatory) (NN site))
+            (ADJP (JJ important)
+              (PP (IN for)
+                (NP
+                  (ADJP (NN B) (JJ cell-specific))
+                  (NN btk) (NN gene) (NN regulation))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NNS MATERIALS))
+      (CC AND)
+      (NP (NNS METHODS)))))
+
+(
+  (S
+    (NP
+      (NP (NN C57BL/6) (JJ wild) (NN type))
+      (CC and)
+      (NP (NN BOB.1/OBF.1−/−)))))
+
+(
+  (S
+    (NP
+      (NP
+        (NP (NNS mice))
+        (PP (IN on)
+          (NP (DT the) (JJ same) (JJ genetic) (NN background))))
+      (CONJP (RB as) (RB well) (IN as))
+      (NP (DT the) (NNS 1.5/B.1−/−)))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (VP (VBD were)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP (PRP$ our) (JJ breeding) (NN facility))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Mice))
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP
+            (NP (CD 8–12) (NNS weeks))
+            (IN after)
+            (NP (NN birth))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN generation))
+        (PP (IN of)
+          (NP (NNS mice))))
+      (VP (VBZ 1.5/B.1−/−)))
+    (. ,)))
+
+(
+  (S
+    (S
+      (S
+        (ADJP (JJ transgenic)
+          (PP (IN for)
+            (NP
+              (NP (NN µE-tTa))
+              (CC and)
+              (NP (NN tetO-BOB.1/OBF.1))))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN described)
+            (PRN (-LRB- -LRB-)
+              (NP (CD 21))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Cells))
+      (VP (VBD were)
+        (VP
+          (VP
+            (VP (VBN labeled)
+              (PP (IN with)
+                (NP (DT an) (NN anti-B220-biotin-antibody))))
+            (CC and)
+            (VP (VBN revealed)
+              (PP (IN by)
+                (NP (NN Streptavidin-Cy-Chrom)))))
+          (CC and)
+          (VP
+            (ADVP (RB subsequently))
+            (VBN sorted)
+            (PP (IN with)
+              (NP
+                (NP (DT a)
+                  (NP (NN FACSORT))
+                  (CC plus)
+                  (NP (NN cytometer)))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Becton) (NNP Dickinson))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Stainings))
+      (VP (VBD were)
+        (VP (VBN performed)
+          (PP (IN in)
+            (NP
+              (NP (NNS PBS))
+              (VP (VBG containing)
+                (NP
+                  (NP
+                    (NP (CD 0.1) (NN %) (NN BSA))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (NN Roche) (NN Diagnostics))
+                        (, ,)
+                        (NP (NNP Mannheim) (, ,) (NNP GER)))
+                      (-RRB- -RRB-)))
+                  (, ,)
+                  (NP
+                    (ADJP (CD 0.1) (NN %))
+                    (NN Na-azid))
+                  (CC and)
+                  (NP
+                    (NP (JJ saturating) (NNS concentrations))
+                    (PP (IN of)
+                      (NP (NN anti-CD16/CD32))))))))
+          (S
+            (VP (TO to)
+              (VP (VB block)
+                (NP (NN FcγIII/II) (NNS receptors))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT All) (NNS antibodies))
+      (VP (VBD were)
+        (VP (VBN purchased)
+          (PP (IN from)
+            (NP (NNP Becton) (NNP Dickinson))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP
+          (NP (JJ Single) (NN cell) (NNS suspensions))
+          (PP (IN from)
+            (NP (NN mouse) (NNS splenocytes))))
+        (VP (VBD were)
+          (VP (VBN incubated)
+            (PP (IN with)
+              (NP
+                (NP (NNS antibodies))
+                (PP (IN against)
+                  (NP
+                    (NP
+                      (NP (NN CD4))
+                      (, ,)
+                      (NP (NN CD8)))
+                    (-LRB- -LRB-)
+                    (VP (VBN derived)
+                      (PP (IN from)
+                        (NP (DT an) (JJ antibody-producing) (NN hybridoma) (NN cell) (NN line))))
+                    (-RRB- -RRB-))))))))
+      (CC and)
+      (S
+        (NP (JJ positive) (NNS cells))
+        (VP (VBD were)
+          (VP (VBN eliminated)
+            (PP (IN by)
+              (NP
+                (NP (NN complement) (NN lysis))
+                (VP (VBG using)
+                  (NP
+                    (NP (NN baby) (NN rabbit) (NN complement))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Cedarlane))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN treatment))
+      (VP (VBD was)
+        (VP (VBN followed)
+          (PP (IN by)
+            (NP
+              (NP
+                (NP (DT a) (JJ lympholyte) (NN M) (NN gradient))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN Cedarlane))
+                  (-RRB- -RRB-)))
+              (S
+                (VP (TO to)
+                  (VP (VB eliminate)
+                    (NP (JJ red) (NN blood)
+                      (CONJP (RB as) (RB well) (IN as))
+                      (JJ dead) (NNS cells))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN purity))
+        (PP (IN of)
+          (NP (DT the) (NN B220+) (NN B) (NN cell) (NN population))))
+      (VP (VBD was)
+        (NP (CD >95) (NN %))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN NIH/3T3)
+        (CC and)
+        (NN HeLa) (NNS cells))
+      (VP (VBD were)
+        (VP
+          (VP (VBN cultured)
+            (PP (IN in)
+              (NP
+                (NP
+                  (NP (NN DMEM))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NN Life) (NNS Technologies))
+                      (, ,)
+                      (NP (NNP Inc.)))
+                    (-RRB- -RRB-)))
+                (, ,)
+                (NP
+                  (NP (NN BJAB)
+                    (CC and)
+                    (NN S194) (NNS cells))
+                  (PP (IN in)
+                    (NP
+                      (NP
+                        (NP (NN RPMI))
+                        (PRN (-LRB- -LRB-)
+                          (NP
+                            (NP (NN Life) (NNS Technologies))
+                            (, ,)
+                            (NP (NNP Inc.)))
+                          (-RRB- -RRB-)))
+                      (VP (VBN supplemented)
+                        (PP (CC both)
+                          (IN with)
+                          (NP
+                            (NP
+                              (ADJP (CD 10) (NN %))
+                              (NN FCS))
+                            (, ,)
+                            (NP (NNS antibiotics))
+                            (CC and)
+                            (NP
+                              (ADJP (CD 50) (NN µM))
+                              (NN β-ME))))))))
+                (, ,))))
+          (CC and)
+          (VP (VBN grown)
+            (PP (IN at)
+              (NP
+                (NP (NN 37°C))
+                (CC and)
+                (NP
+                  (ADJP (CD 5) (NN %))
+                  (NN CO2))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Transfections))
+        (PP (IN of)
+          (NP (NN NIH/3T3) (NNS cells))))
+      (VP (VBD were)
+        (VP (VBN performed)
+          (PP (IN by)
+            (NP (NN electroporation)))
+          (PRN (-LRB- -LRB-)
+            (NP (JJ Bio-Rad))
+            (-RRB- -RRB-))
+          (PP (IN with)
+            (NP
+              (NP (CD 450) (NN V)
+                (CC and)
+                (CD 250) (NN µF))
+              (PP (IN in)
+                (NP (NN phosphate) (JJ buffered) (NN saline))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Pre-B) (NN cell) (NNS lines))
+      (VP (VBD were)
+        (VP (VBN established)
+          (PP (IN by)
+            (S
+              (VP (VBG culturing)
+                (NP
+                  (NP (NN bone) (NN marrow) (NNS cells))
+                  (PP (IN from)
+                    (NP
+                      (NP (NNS mice))
+                      (PP (IN of)
+                        (NP (DT the) (VBN indicated) (NN genotype))))))
+                (PP (IN under)
+                  (NP
+                    (NP (DT the) (JJ stimulatory) (NN influence))
+                    (PP (IN of)
+                      (NP (JJ irradiated) (JJ adherent) (JJ stromal) (NNS cells)
+                        (NP
+                          (NP (NN ST2))
+                          (CC and)
+                          (NP (DT the) (NN cytokine) (NN IL-7)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ As) (NN culture) (NN medium))
+      (VP (VBD was)
+        (VP (VBN used)
+          (NP
+            (NP
+              (NP (NN IMDM))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NN Life) (NNS Technologies))
+                  (, ,)
+                  (NP (NNP Inc.)))
+                (-RRB- -RRB-)))
+            (VP (VBN supplemented)
+              (PP (IN with)
+                (NP
+                  (NP
+                    (ADJP (CD 5) (NN %))
+                    (NN FCS))
+                  (, ,)
+                  (NP (NNS antibiotics))
+                  (, ,)
+                  (NP
+                    (ADJP (CD 50) (NN µM))
+                    (NN β-ME))
+                  (, ,)
+                  (NP
+                    (NP
+                      (NP
+                        (ADJP (CD 2) (NN %))
+                        (NN supernatant))
+                      (PP (IN from)
+                        (NP (NN IL-7) (NN producing) (NNS cells))))
+                    (NP (NN J558) (-LRB- -LRB-) (NN A))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (NNP Rolink))
+          (PRN (, ,)
+            (NP (NNP Basel))
+            (-RRB- -RRB-)))
+        (CC and)
+        (NP
+          (NP
+            (ADJP (CD 5) (NN %))
+            (NP (NNP Primatone)))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (NN PAN) (NNS Systems))
+              (NP (NNP GmbH)))
+            (-RRB- -RRB-))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP (NNS Cells))
+      (VP (VBD were)
+        (VP (VBN grown)
+          (PP (IN at)
+            (NP
+              (NP (NN 37°C))
+              (CC and)
+              (NP
+                (ADJP (CD 10) (NN %))
+                (NN CO2)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ murine) (NN Btk) (NN promotor))
+        (PRN (-LRB- -LRB-)
+          (NP (CD −436) (TO to) (CD +79))
+          (-RRB- -RRB-)))
+      (VP (VBD was)
+        (VP (VBN cloned)
+          (PP (IN into)
+            (NP
+              (NP (DT the) (NN pTKL/2) (NN vector))
+              (VP (VBG containing)
+                (NP
+                  (NP (DT the) (JJ HSV-thymidine) (NN kinase) (NN promoter))
+                  (PRN (-LRB- -LRB-)
+                    (NP (CD −105) (TO to) (CD +52))
+                    (-RRB- -RRB-)))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (NN pBLCAT2))
+                    (PP (IN in)
+                      (NP
+                        (NP (NN front))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (JJ firefly) (NN luciferase))
+                            (NN coding) (NN region)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN HSV-thymidine) (NN kinase) (NN promoter))
+      (VP (VBD was)
+        (VP
+          (VP (VBN excised)
+            (PP (IN by)
+              (NP
+                (NP (DT a) (NN restriction) (NN endonuclease) (NN digest))
+                (VP (VBG using)
+                  (NP
+                    (NP (NN HindIII))
+                    (CC and)
+                    (NP (NN BglII)))))))
+          (CC and)
+          (VP (VBN replaced)
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NN Btk) (NN promoter))
+                (VP (VBN cloned)
+                  (PP (IN via)
+                    (NP
+                      (NP (JJ genomic) (NN PCR))
+                      (VP (VBG using)
+                        (NP (DT the) (VBG following) (NNS primers))))))))))))
+    (: :)
+    (NP
+      (NP (NN mBtkpr-HindIII))
+      (: :)
+      (NP (NN GAG) (NN TAA) (NN GCT) (NN TTC) (NN TTT) (NN GTC) (NN TGT) (NN CCT) (NN CC))
+      (: ;)
+      (NP (NN mBtkprom-BglII))
+      (: :)
+      (NP (NN TGA) (NN GAT) (NN GCC) (NN AGA) (NN TCT) (NN TGG) (NN AAG) (NN GTG)))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ mutant) (NN Btk) (NN promoter))
+      (VP (VBD was)
+        (VP (VBN created)
+          (PP (IN by)
+            (NP
+              (NP (JJ site-directed)
+                (ADJP (FW in) (FW vitro))
+                (NN mutagenesis))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Stratagene))
+                (-RRB- -RRB-))))
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (VBG following) (NNS primers))
+                (: :)
+                (NP (NN mBTKprom) (CD 3M)
+                  (NP (CD 5) ('' ')))
+                (: :)
+                (NP
+                  (NP (NN GTA) (NN AAG) (NN AGG))
+                  (NP (NN TCC) (NN CAG) (NN TAC) (NN AAT) (NN GTC) (NN GGG) (NN GGG) (NN TGG))
+                  (: ;)
+                  (NP
+                    (NP (NN mBTKprom) (CD 3M))
+                    (CD 3) ('' ')))
+                (: :)
+                (NP (NN CCA) (NN CCC) (NN CCC) (NN GAC) (NN ATT) (NN GTA) (NN CTG) (NN GGA) (NN CCT) (NN CTT) (NN TAC))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ wild-type) (NN BOB.1/OBF.1) (NN cDNA))
+      (VP (VBD was)
+        (VP (VBN cloned)
+          (PP (IN into)
+            (NP (DT the) (NN expression) (NN vector) (NN pcDNA3))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN cloning))
+        (PP (IN of)
+          (NP (DT the)
+            (NP (NN Oct2))
+            (CC and)
+            (NP (NN PU.1))
+            (NP (NN expression) (NNS vectors)))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN described)
+            (PRN (-LRB- -LRB-)
+              (NP (NN 50,51))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP
+          (NP
+            (ADJP (FW in) (FW vitro))
+            (NN translation))
+          (PP (IN of)
+            (NP (NN BOB.1/OBF.1)))))
+      (NP (DT the) (JJ pMT/PKA-Bob) (NN expression) (NN vector))
+      (VP (VBD was)
+        (VP (VBN used)))
+      (PRN (-LRB- -LRB-)
+        (NP (CD 15))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Proteins))
+      (VP (VBD were)
+        (VP (VBN prepared)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (NN lysis) (NN buffer))
+                (VP (VBG containing)
+                  (NP
+                    (NP
+                      (ADJP (CD 20) (NN mM))
+                      (NN Tris))
+                    (NP (NN pH) (CD 7.5))
+                    (, ,)
+                    (NP
+                      (ADJP (CD 1) (NN mM))
+                      (NN EDTA))
+                    (, ,)
+                    (NP
+                      (ADJP (CD 100) (NN mM))
+                      (NN NaCl))
+                    (, ,)
+                    (NP
+                      (ADJP (CD 1) (NN %))
+                      (NN Triton) (NN X-100))
+                    (, ,)
+                    (NP
+                      (ADJP (CD 0.5) (NN %))
+                      (NN sodiumdeoxycholat))
+                    (CC and)
+                    (NP
+                      (ADJP (CD 0.1) (NN %))
+                      (NN SDS))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Proteins))
+      (VP (VBD were)
+        (VP
+          (VP (VBN resolved)
+            (PP (IN on)
+              (NP (DT a)
+                (ADJP (CD 12.5) (NN %))
+                (NN SDS–PAGE))))
+          (CC and)
+          (VP (VBN transferred)
+            (PP (TO to)
+              (NP
+                (NP (NN PVDF) (NN membrane))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN Millipore))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP
+          (NP (NN immunodetection))
+          (PP (IN of)
+            (NP (NN Btk)))))
+      (NP (DT a) (JJ polyclonal) (NN anti-Btk) (NN antibody))
+      (VP (VBD was)
+        (VP (VBN used)
+          (PRN (-LRB- -LRB-)
+            (NP (NN BD))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP
+          (NP (NN detection))
+          (PP (IN of)
+            (NP (NN Rel-A)))))
+      (NP
+        (NP (DT a) (JJ Rel-A-specific) (JJ polyclonal) (NN antibody))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP Santa) (NNP Cruz) (NN Biotechnology))
+          (-RRB- -RRB-)))
+      (VP (VBD was)
+        (VP (VBN purchased))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Proteins))
+      (VP (VBD were)
+        (VP (VBN visualized)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP
+                  (NP
+                    (NP
+                      (NP
+                        (ADJP
+                          (ADJP (JJ anti-mouse))
+                          (CC or)
+                          (ADJP (JJ anti-rabbit)))
+                        (NN horseradish) (NN peroxidase))
+                      (VBN conjugated) (NNS antibodies))
+                    (, ,)
+                    (ADVP (RB respectively)))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Pierce))
+                    (-RRB- -RRB-)))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN ECL) (NN detection) (NN system))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP Amersham))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Total) (NN RNA))
+      (VP (VBD was)
+        (VP (VBN prepared)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP
+                  (NP (DT the) (JJ Trizol®-reagent))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NN Life) (NNS Technologies))
+                      (, ,)
+                      (NP (NNP Inc.)))
+                    (-RRB- -RRB-)))
+                (VP (VBG according)
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (NN protocol))
+                      (PP (IN of)
+                        (NP (DT the) (NN manufacturer))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN After)
+        (NP
+          (NP (NN separation))
+          (PP (IN of)
+            (NP (NNS RNAs)))
+          (PP (IN on)
+            (NP (DT a)
+              (ADJP (CD 1) (NN %))
+              (NN formaldehyde) (NN agarose) (NN gel)))))
+      (, ,)
+      (NP (NN northern) (NN blot) (NNS analyses))
+      (VP (VBD were)
+        (VP (VBN performed)
+          (SBAR (IN as)
+            (S
+              (VP (VBN described)
+                (PP (IN in)
+                  (NP (NN Ref))))))))
+      (. .))
+    (PRN (-LRB- -LRB-)
+      (NP (CD 52))
+      (-RRB- -RRB-))))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NN Preparation))
+          (PP (IN of)
+            (NP
+              (NP (JJ whole) (NN cell) (NNS extracts))
+              (PP (IN for)
+                (NP
+                  (NP (JJ electrophoretic) (NN mobility) (NN shift) (NN assay))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN EMSA))
+                    (-RRB- -RRB-)))))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN protocol))
+          (PP (IN of)
+            (NP (DT the) (NN EMSA) (NN procedure)))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN described)
+            (ADVP (RBR earlier))
+            (PRN (-LRB- -LRB-)
+              (NP (NN 53,54))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S (IN For) (NN EMSA) (, ,) (DT the) (VBG following) (NNS oligonucleotides) (VBD were) (VBN annealed)
+    (CC and)
+    (RB subsequently) (VBN labeled) (VBG using) (NN P32) (NN αdCTP) (IN in) (DT a) (JJ fill-in) (NN reaction) (: :) (NN mBtkprom) (NN 5′-gcgg) (NN AGA) (NN GGT) (NN CCC) (NN AGG) (NN CAA) (NN ATG) (NN TCG) (NN GGG) (NN GG) (, ,) (NN mBtk) (NN prom) (NN 3′-gcgg) (NN CCC) (NN CCC) (NN GAC) (NN ATT) (NN TGC) (NN CTG) (NN GGA) (NN CCT) (NN CT) (: ;) (NN hBtkprom) (NN 5′) (NN gcgg) (NN AGA) (NN GGT) (NN CCC) (NN AAG) (NN CAA) (NN ATG) (NN AAG) (NN GGC) (NN GG) (, ,) (NN hBtkprom) (NN 3′-ggcg) (NN CCG) (NN CCC) (NN TTC) (NN ATT) (NN TGC) (NN TTG) (NN GGA) (NN CCT) (NN CT) (: ;) (JJ mBtkprom-Mut) (NN 5′-gcgg) (NN AGA) (NN GGT) (NN CCC) (NN AGT) (NN ACA) (NN ATG) (NN TCG) (NN GGG) (NN GG) (, ,) (JJ mBtkprom-Mut) (NN 3′-gcgg) (NN CCC) (NN CCC) (NN GAC) (NN ATT) (NN GTA) (NN CTG) (NN GGA) (NN CCT) (NN CT) (: ;) (JJ hBtkprom-Mut) (NN 5′-gcgg) (NN AGA) (NN GGT) (NN CCC) (NN AGT) (NN ACA) (NN ATG) (NN AAG) (NN GGC) (NN GG) (, ,) (JJ hBtkprom-Mut) (NN 3′-ggcg) (NN CCG) (NN CCC) (NN TTC) (NN ATT) (NN GTA) (NN CTG) (NN GGA) (NN CCT) (NN CT) (: ;) (NN Oct) (NN consensus) (NN 5′-gcgg) (NN ACC) (NN TGG) (NN GTA) (NN ATT) (NN TGC) (NN ATT) (NN TCT) (NN AAA) (IN AT) (, ,) (NN Oct) (NN consensus) (NN 3′-gcgg) (NN ATT) (NN TTA) (NN GAA) (NN ATG) (NN CAA) (NN ATT) (NN ACC) (NN CAG) (NN GT) (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP (NN competition) (NNS experiments)))
+      (, ,)
+      (NP (DT the) (JJ unlabeled) (JJ annealed) (NNS oligonucleotides))
+      (VP (VBD were)
+        (VP (VBN used))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (VBN indicated) (NN amount))
+        (PP (IN of)
+          (NP (NNS oligonucleotides))))
+      (VP (VBD was)
+        (VP (VBN added)
+          (PP (TO to)
+            (NP (DT the) (NN EMSA) (NN reaction) (NN mixture))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN For)
+        (NP (NN supershift) (NNS experiments)
+          (NP
+            (NP (DT an) (NN anti-Oct1-antibody))
+            (PRN (-LRB- -LRB-)
+              (NP (NN serum))
+              (-RRB- -RRB-)))))
+      (, ,)
+      (NP (NN anti-Oct2-antibody))
+      (-LRB- -LRB-)
+      (NP (NN C-20))
+      (: ;)
+      (NP (NNP Santa) (NNP Cruz) (NN Biotechnology))
+      (: ;)
+      (NP (NN no)))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN sc-233))
+      (-RRB- -RRB-)
+      (CC or)
+      (NP (NN anti-BOB.1/OBF.1-antibody)))))
+
+(
+  (S
+    (S
+      (PRN (-LRB- -LRB-)
+        (NP (NN serum))
+        (-RRB- -RRB-))
+      (VP (VBD were)
+        (VP (VBN used))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Modified) (NN EMSA) (NNS conditions))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN detection))
+            (PP (IN of)
+              (NP (JJ specific) (NN Oct/BOB.1/OBF.1) (NNS complexes))))))
+      (VP (VBD were)
+        (ADJP (RB previously) (VBN described) (-LRB- -LRB-)
+          (NP (CD 55))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (DT these) (NNS experiments)))
+    (NP
+      (NP (CD 2) (JJ µg) (NNS HeLa-extracts))
+      (CC and)
+      (NP
+        (NP
+          (NP (CD 2.5) (JJ µl)
+            (ADJP
+              (ADVP (FW in) (FW vitro))
+              (VBN translated))
+            (NN BOB.1/OBF.1) (NN protein))
+          (CC or)
+          (NP
+            (NP (DT the) (JJ same) (NN amount))
+            (PP (IN of)
+              (NP (JJ unprogrammed) (NNS TNT-lysates)))))
+        (PRN (-LRB- -LRB-)
+          (NP (NN Promega))
+          (-RRB- -RRB-))))
+    (VP (VBD were)
+      (VP (VBN added)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (VP (VBN indicated))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (NP
+            (NP (NN chromatin) (NN immunoprecipitation))
+            (PRN (-LRB- -LRB-)
+              (NP (NN ChIP))
+              (-RRB- -RRB-)))
+          (NN Assay) (NN kit))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NNP Biomol) (NNP GmbH) (, ,) (NNP Hamburg) (, ,) (NNP Germany))
+            (, ,)
+            (NP (NNP #) (CD 17-295)))
+          (-RRB- -RRB-)))
+      (VP (VBD was)
+        (VP (VBN used)
+          (PP (VBG according)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NNS manufacturers) (NNS instructions))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ minor) (NNS modifications))
+                    (VP (VBN described)
+                      (ADVP (RB elsewhere))
+                      (PRN (-LRB- -LRB-)
+                        (NP (CD 56))
+                        (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NNS samples))
+      (VP (VBD were)
+        (VP (VBN amplified)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (NN Taq) (NN DNA) (NN polymerase))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Amersham) (NNP Pharmacia) (NNP Biotech))
+                  (-RRB- -RRB-)))
+              (S
+                (VP (VBG using)
+                  (NP (DT the) (VBG following) (NNS primers)))))))))
+    (: :)
+    (FRAG
+      (NP (NN mBtkprom-ChIP) (NN 5′-GGT) (NN TAT) (NN GAC) (NN CTG) (NN TTG) (NN TTT) (NN GTT) (NN CAG) (NN C))
+      (, ,)
+      (NP
+        (NP (NN mBtkprom-ChIP) (NN 3′-CAC) (NN CCT) (NN TTC) (NN GCA) (NN GCC))
+        (VP (VB ACT)
+          (NP
+            (NP (NNP C.))
+            (S
+              (NP
+                (NP (DT The) (NNS primers))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NNS analyses))
+                    (PP (IN of)
+                      (NP (DT the) (NN H2B)
+                        (CC or)
+                        (NN Pax5) (NNS promoters))))))
+              (VP (VBP are)
+                (VP (VBN described)
+                  (PP (IN in)
+                    (NP (NN Ref))))))
+            (. .) (-LRB- -LRB-) (CD 56) (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (NP (NNS RESULTS))))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (NN search))
+          (PP (IN for)
+            (NP (CD BOB.1/OBF.1) (NN target) (NNS genes)))))
+      (NP (PRP we))
+      (VP (VBD analyzed)
+        (NP
+          (NP (DT the) (NN promoter) (NNS regions))
+          (PP (IN of)
+            (NP
+              (NP (NNS genes))
+              (VP (VBN implicated)
+                (PP (IN in)
+                  (NP
+                    (NP (NN B) (NN cell) (NN development))
+                    (CC and)
+                    (NP (NN function))))))))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN presence))
+            (PP (IN of)
+              (NP (DT the) (NN octamer) (NN motif)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS Analyses))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (ADJP (JJ human))
+              (CC and)
+              (ADJP (JJ murine)))
+            (NN Btk) (NNS promoters))))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT a) (VBN conserved) (JJ non-perfect) (NN octamer) (NN motif))
+          (PP (IN within)
+            (NP
+              (NP (DT the) (JJ first) (CD 200) (NN bp))
+              (ADVP (RB upstream)
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN start) (NN site))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN transcription))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN Figure) (CD 1))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT Both) (NN octamer) (NNS motifs))
+      (VP (VBP differ)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN consensus) (NN sequence))
+            (NN ATGCAAAT)))
+        (PP (IN at)
+          (NP (DT the) (JJ second) (NN position)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (DT The) (JJ human) (NN Btk) (NN promoter) (NN motif))
+        (VP (VBZ bears)
+          (NP (DT a) (JJ T→A) (NN transversion))))
+      (, ,) (IN whereas)
+      (S
+        (NP (DT the) (JJ murine) (NN variant))
+        (VP (VBZ shows)
+          (NP (DT a) (JJ T→G) (NN transversion)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Since)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBN shown)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT a) (NN mutation))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT this) (NN position))
+                        (PP (IN of)
+                          (NP (DT the) (NN octamer) (NN motif))))))
+                  (VP (VBZ interferes)
+                    (PP (IN with)
+                      (NP
+                        (NP (NN Oct) (NN binding))
+                        (PRN (-LRB- -LRB-)
+                          (NP (CD 9))
+                          (-RRB- -RRB-)))))))))))
+      (NP (PRP we))
+      (VP (VBD wondered)
+        (SBAR (IN whether)
+          (S
+            (NP (DT these) (NNS sites))
+            (VP (MD might)
+              (ADVP (RB nevertheless))
+              (VP (VB play)
+                (NP
+                  (NP (DT a) (NN role))
+                  (PP (IN for)
+                    (NP (NN Btk) (NN promoter) (NN activity))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Initially))
+      (, ,)
+      (NP
+        (NP (JJ nuclear) (NNS extracts))
+        (PP (IN from)
+          (NP (NN BJAB) (NNS cells))))
+      (VP (VBD were)
+        (VP (VBN incubated)
+          (PP (IN with)
+            (NP
+              (NP (VBN labeled) (NNS probes))
+              (VP (VBG bearing)
+                (NP
+                  (NP (CC either)
+                    (NP (DT the) (NN consensus) (NN octamer) (NN motif))
+                    (CC or)
+                    (NP (DT the) (JJ putative) (NN octamer) (NN binding) (NNS sites)))
+                  (VP (VBN identified)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the)
+                          (ADJP
+                            (ADJP (JJ murine))
+                            (CC or)
+                            (ADJP (JJ human)))
+                          (NN Btk) (NNS promoters))
+                        (PRN (-LRB- -LRB-)
+                          (NP
+                            (NP (NN Figure) (NN 2A))
+                            (CC and)
+                            (NP (NN B)))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP (NN complex) (NN formation))
+          (VP (VBD was)
+            (ADJP (RB much) (JJR weaker))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN case))
+                (PP (IN of)
+                  (NP (DT the) (NN Btk) (NN promoter) (NNS sites)))))
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP (DT the) (NN consensus) (NN octamer) (NN motif)))))))
+      (, ,)
+      (NP (JJ similar) (NNS complexes))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN detected)
+            (PP (IN upon)
+              (NP (JJ extended) (NN exposure)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP
+            (NP (DT the) (NN octamer) (NNS motifs))
+            (PP (IN in)
+              (NP (DT the)
+                (ADJP
+                  (ADJP (JJ murine))
+                  (CC and)
+                  (ADJP (JJ human)))
+                (NN Btk) (NNS promoters))))
+          (VP (VBD were)
+            (ADVP (RB further))
+            (VP
+              (VP (VBN mutated))
+              (CC and)
+              (VP
+                (ADVP (RB then))
+                (VBN used)
+                (PP (IN as)
+                  (NP (NNS probes))))))))
+      (, ,)
+      (NP (DT no) (JJ specific) (NN binding))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN detected)
+            (PRN (-LRB- -LRB-)
+              (NP (NN Figure) (NN 2C))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Furthermore))
+      (, ,)
+      (NP (NN complex) (NN formation))
+      (VP (MD could)
+        (VP (VB be)
+          (ADVP (RB efficiently))
+          (VP (VBN inhibited)
+            (PP (IN by)
+              (NP
+                (NP (NN competition))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ unlabeled) (NNS oligonucleotides))
+                    (VP (VBG bearing)
+                      (NP (DT the) (JJ wild-type)
+                        (ADJP
+                          (ADJP (JJ murine))
+                          (CC or)
+                          (ADJP (JJ human)))
+                        (NN Btk) (NN promoter) (NN octamer) (NNS motifs)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN contrast)))
+      (, ,)
+      (NP (VBN mutated) (NN octamer) (NNS motifs))
+      (VP (VBD failed)
+        (S
+          (VP (TO to)
+            (VP (VB compete)
+              (PP (IN for)
+                (NP
+                  (NP
+                    (NP
+                      (NP (NN Oct1))
+                      (CC and)
+                      (NP (NN Oct2)))
+                    (NN binding))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NN Figure) (NN 2A))
+                      (CC and)
+                      (NP (NN B)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Competition))
+      (VP (VBD was)
+        (ADJP (RB much) (RBR more) (JJ efficient))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT a) (NN consensus) (NN octamer) (NN motif))
+            (VP (VBD was)
+              (VP (VBN used)
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (NN Figure) (NN 2A))
+                    (CC and)
+                    (NP (NN B)))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN supershift) (NNS experiments)))
+      (NP (PRP we))
+      (VP (MD could)
+        (VP (VB demonstrate)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (VBN shifted) (NNS complexes))
+              (VP (VBP contain)
+                (NP
+                  (NP
+                    (NP
+                      (NP (NN Oct1))
+                      (CC and)
+                      (NP (NN Oct2)))
+                    (NNS proteins))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Figure) (NNS 2D))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (JJ Oct2-specific) (NNS antibodies))
+      (VP (VBD revealed)
+        (NP
+          (NP (JJ several) (VBN supershifted) (NNS complexes))
+          (ADJP (JJ consistent)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NN existence))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ several) (NN Oct2) (NNS isoforms))
+                    (PRN (-LRB- -LRB-)
+                      (NP (CD 57))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Together))
+    (NP (DT these) (NNS findings))
+    (VP (VBP indicate)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (VBN identified) (NN octamer) (NNS motifs))
+            (PP (IN within)
+              (NP (DT the)
+                (ADJP
+                  (ADJP (JJ murine))
+                  (CC and)
+                  (ADJP (JJ human)))
+                (NN Btk) (NNS promoters))))
+          (VP (VBP serve)
+            (PP (IN as)
+              (NP
+                (NP (VBG binding) (NNS sites))
+                (PP (IN for)
+                  (NP
+                    (NP (NN Oct1))
+                    (CC and)
+                    (NP (NN Oct2))))))
+            (, ,)
+            (PP (IN although)
+              (S
+                (VP (VBG showing)
+                  (NP
+                    (NP (VBN reduced) (NNS affinities))
+                    (PP (IN for)
+                      (NP
+                        (NP (NN Oct1))
+                        (CC and)
+                        (NP (NN Oct2)))))
+                  (PP (VBN compared)
+                    (PP (IN with)
+                      (NP (DT a) (NN consensus) (NN site)))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Next))
+    (NP (PRP we))
+    (VP (VBD asked) (, ,)
+      (SBAR (IN whether)
+        (S
+          (NP (NN BOB.1/OBF.1))
+          (VP (VBZ is)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB form)
+                    (NP
+                      (NP (JJ ternary) (NNS complexes))
+                      (PP
+                        (ADVP (RB together))
+                        (IN with)
+                        (NP
+                          (NP (NN Oct1))
+                          (CC and)
+                          (NP (NN Oct2))))
+                      (PP (IN on)
+                        (NP (DT the)
+                          (ADJP
+                            (ADJP (JJ murine))
+                            (CC and)
+                            (ADJP (JJ human)))
+                          (NN Btk) (NNS promoters))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (RB extremely) (JJ difficult)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (JJ ternary) (NNS complexes))
+                (PP
+                  (ADVP (RB even))
+                  (IN on)
+                  (NP (NN consensus) (NN octamer) (NNS motives)))
+                (PP (IN by)
+                  (NP
+                    (NP (NN EMSA))
+                    (PP (IN with)
+                      (NP
+                        (NP (JJ endogenous) (NNS proteins))
+                        (PP (IN in)
+                          (NP
+                            (NP (NN B) (NN cell) (NNS extracts))
+                            (PRN (-LRB- -LRB-)
+                              (NP (NN 55,58))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD used)
+        (NP (DT an)
+          (ADJP (FW in) (FW vitro))
+          (NN complementation) (NN system))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN HeLa) (JJ nuclear) (NNS extracts))
+      (VP (VBD were)
+        (VP
+          (VP (VBN complemented)
+            (PP (IN with)
+              (NP
+                (ADJP
+                  (ADVP (FW in) (FW vitro))
+                  (VBN translated))
+                (NN BOB.1/OBF.1))))
+          (CC and)
+          (VP (VBN incubated)
+            (PP (IN with)
+              (NP (CC either)
+                (NP (DT the) (VBN labeled)
+                  (NP (DT the) (NN consensus) (NN octamer) (NN motif)))
+                (CC or)
+                (NP
+                  (NP (DT the) (NNS motifs))
+                  (VP (VBN found)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the)
+                          (ADJP
+                            (ADJP (JJ human))
+                            (CC or)
+                            (ADJP (JJ murine)))
+                          (NN Btk) (NNS promoters))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN Figure) (CD 3))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Indeed))
+      (, ,)
+      (NP (JJ ternary) (NN complex) (NN formation))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN detected)
+            (PP (IN at)
+              (NP (DT these) (JJ non-conserved) (NN octamer) (NNS sequences)))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NN Figure) (NN 3B))
+                (CC and)
+                (NP (NN C)))
+              (, ,)
+              (NP (NNP lane) (CD 3))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Supershift) (NNS experiments))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP (DT these) (NNS complexes))
+            (VP (VBD were)
+              (VP (VBN composed)
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (NN Oct1))
+                      (CC and)
+                      (NP (NN BOB.1/OBF.1)))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (NN Figure) (CD 3))
+                        (, ,)
+                        (NP (NNS lanes)
+                          (QP (CD 4)
+                            (CC and)
+                            (CD 5))))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN BOB.1/OBF.1-specific))))
+
+(
+  (S
+    (S
+      (NP (NNS antibodies))
+      (VP (VBD prevented)
+        (NP (JJ ternary) (NN complex) (NN formation))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP
+        (NP (DT an) (NN Oct1))
+        (NN binding))
+      (VP (VBD was)
+        (ADVP (RB still))
+        (ADJP (JJ possible))
+        (PP (IN under)
+          (NP
+            (NP (DT these) (NNS conditions))
+            (VP (VBG using)
+              (NP (DT the) (NN consensus) (NN octamer) (NN site))
+              (PP (IN as)
+                (NP
+                  (NP (JJ labeled) (NN probe))
+                  (PRN (-LRB- -LRB-)
+                    (VP (VB compare)
+                      (NP (NNS lanes)
+                        (QP (CD 2) (, ,) (CD 4)
+                          (CC and)
+                          (CD 8)))
+                      (PP (IN in)
+                        (NP (NN Figure) (NN 3A))))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (NN contrast)))
+    (, ,)
+    (NP
+      (ADJP (RB only) (RB very) (JJ weak))
+      (NN Oct1) (NN binding))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN detected)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (JJ non-consensus) (NN Btk-octamer) (NNS motifs))
+              (PRN (-LRB- -LRB-)
+                (NP (NNS lanes)
+                  (NP
+                    (NP (CD 2))
+                    (, ,)
+                    (NP (CD 4))
+                    (CC and)
+                    (NP
+                      (NP (CD 8))
+                      (PP (IN in)
+                        (NP (NNS Figures)
+                          (NP
+                            (NP (NN 3B))
+                            (CC and)
+                            (NP (NN C))))))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Moreover))
+      (, ,)
+      (NP
+        (NP (DT the) (NN addition))
+        (PP (IN of)
+          (NP (NN anti-Oct1) (NNS antibodies))))
+      (VP (VBZ leads)
+        (PP (TO to)
+          (NP (DT a) (JJ clear) (NN Oct1) (NN supershift)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN consensus) (NN octamer) (NN site))
+            (VP (VBD was)
+              (VP (VBN used)
+                (PP (IN as)
+                  (NP (NN probe)))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN Figure) (NN 3A))
+                  (, ,)
+                  (NP (NNP lane) (CD 5))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (NN contrast)))
+    (, ,)
+    (NP (DT no) (JJ clear) (NN Oct1) (NN supershift))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN detected)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN Btk) (NN octamer) (NNS sites))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NNS Figures)
+                    (NP
+                      (NP (NN 3B))
+                      (CC and)
+                      (NP (NN C))))
+                  (, ,)
+                  (NP (NNP lane) (CD 5)))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP (DT the) (JJ ternary) (NN complex) (NN formation))
+      (VP (VBD was)
+        (VP (VBN prevented) (, ,)
+          (S
+            (VP (VBG indicating)
+              (SBAR (IN that)
+                (S
+                  (NP (DT this) (NN complex))
+                  (VP (VBZ is)
+                    (VP (VBN composed)
+                      (PP (IN of)
+                        (NP
+                          (NP (NN BOB.1/OBF.1))
+                          (CC and)
+                          (NP (NN Oct1)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN addition))
+        (PP (IN of)
+          (NP (DT an) (JJ anti-Oct2) (NN antibody))))
+      (VP (VBD did) (RB not)
+        (VP (VB interfere)
+          (PP (IN with)
+            (NP (NN complex) (NN formation)))
+          (PRN (-LRB- -LRB-)
+            (NP (NN Figure) (CD 3))
+            (, ,)
+            (NP (NNP lane) (CD 6))
+            (-RRB- -RRB-)))
+        (, ,)
+        (SBAR (IN since)
+          (S
+            (NP (NN HeLa) (NNS cells))
+            (VP (VBP do) (RB not)
+              (VP (VB express)
+                (NP (NN Oct2))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS data))
+      (VP (VBP indicate)
+        (SBAR (IN that)
+          (S
+            (PP (IN in)
+              (NP
+                (NP (NN case))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ non-consensus) (NN octamer) (NNS sites))
+                    (CD BOB.1/OBF.1)))))
+            (VP (VBZ supports)
+              (NP
+                (NP (DT the) (NN binding))
+                (PP (IN of)
+                  (NP (NN Oct1)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB investigate)
+            (SBAR (IN whether)
+              (S
+                (NP (NN BOB.1/OBF.1))
+                (VP (VBZ binds)
+                  (PP (TO to)
+                    (NP (DT the) (NN Btk) (NN promoter)))
+                  (ADVP (FW in) (FW vivo))))))))
+      (, ,)
+      (NP (NN ChIP) (NNS experiments))
+      (VP (VBD were)
+        (VP (VBN performed)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (JJ primary) (NN B) (NNS cells))
+                (VP (VBN isolated)
+                  (PP (IN from)
+                    (NP
+                      (NP (NNS spleens))
+                      (PP (IN of)
+                        (NP (JJ wild-type) (NNS mice))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Oct1))
+        (, ,)
+        (NP (NN Oct2))
+        (CC and)
+        (NP (NN BOB.1/OBF.1)))
+      (VP (VBP are)
+        (NP
+          (NP (DT all))
+          (VP (VBD bound)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (JJ murine) (NN Btk) (NN promoter))
+                (PP (IN in)
+                  (NP (NN B) (NNS cells)))))
+            (ADVP (FW in) (FW vivo))
+            (PP (IN albeit)
+              (PP (IN with)
+                (NP
+                  (NP (VBN reduced) (NN affinity))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN comparison))
+                      (PP (TO to)
+                        (NP (DT the)
+                          (NP
+                            (NP (NN H2B) (NN promoter))
+                            (PRN (-LRB- -LRB-)
+                              (NP (NN Figure) (CD 4))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB control)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN specificity))
+                (PP (IN of)
+                  (NP (DT the) (NN ChIP) (NNS experiments))))))))
+      (, ,)
+      (NP
+        (NP (NNS antibodies))
+        (VP (VBG recognizing)
+          (NP
+            (NP (JJ unrelated) (NNS proteins))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NN PLCγ1))
+                (CC and)
+                (NP (NN Lyn)))
+              (-RRB- -RRB-)))))
+      (VP (VBD were)
+        (VP (VBN used)
+          (PP (IN for)
+            (NP (NN precipitation))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN No) (NNS signals))
+      (VP (VBD were)
+        (VP (VBN observed)
+          (PP (IN in)
+            (NP
+              (NP (DT these) (NNS controls))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Figure) (CD 4))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP
+        (NP (DT no) (NN binding))
+        (PP (IN of)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP (DT these) (NNS proteins)))))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ murine) (NN Pax5) (NN promoter))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ does) (RB not)
+                  (VP (VB contain)
+                    (NP (DT an) (NN octamer) (NN motif)))))))))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN observed)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Since)
+        (S
+          (NP (PRP we))
+          (VP (VBD observed)
+            (NP
+              (NP (NN binding))
+              (PP (IN of)
+                (NP
+                  (NP (NN BOB.1/OBF.1))
+                  (PP
+                    (ADVP (RB together))
+                    (IN with)
+                    (NP (NNP Oct)))))
+              (PP (TO to)
+                (NP (DT the) (NN Btk) (NN promoter)))))))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD asked)
+        (SBAR (IN whether)
+          (S
+            (NP (DT this) (NN binding))
+            (VP (VBZ results)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN activation))
+                  (PP (IN of)
+                    (NP (NN Btk) (NN promoter) (NN activity))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (, ,)
+      (NP (DT the) (JJ murine) (NN Btk) (NN promoter))
+      (VP (VBD was)
+        (VP
+          (VP (VBN cloned)
+            (PP (IN in)
+              (NP
+                (NP (NN front))
+                (PP (IN of)
+                  (NP (DT a) (NN luciferase) (NN reporter) (NN gene))))))
+          (CC and)
+          (VP (VBN transfected)
+            (PP (IN into)
+              (NP (NN NIH/3T3) (NNS cells)))
+            (PP (IN along)
+              (PP (IN with)
+                (NP
+                  (NP (NN Oct2))
+                  (, ,)
+                  (NP (NN BOB.1/OBF1))))
+              (CC or)
+              (PP (IN with)
+                (NP
+                  (NP (NNS combinations))
+                  (PP (IN of)
+                    (NP (DT these) (NN expression) (NNS vectors))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADJP (JJ Consistent)
+        (PP (IN with)
+          (NP (PRP$ our) (NN binding) (NNS studies)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD observed)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN BOB.1/OBF.1))
+            (PP
+              (ADVP (RB together))
+              (IN with)
+              (NP (NN Oct2))))
+          (VP (VBD was)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB activate)
+                    (NP (DT the) (JJ murine) (NN Btk) (NN promoter))
+                    (ADVP (RB ∼150-fold))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (JJ dose-dependent) (NN manner))
+                        (PRN (-LRB- -LRB-)
+                          (NP
+                            (NP (NN Figure) (NN 5A))
+                            (, ,)
+                            (NP (NN B))
+                            (CC and)
+                            (NP
+                              (NP (NNS data))
+                              (VP (RB not) (VBN shown))))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Notably))
+    (, ,)
+    (NP
+      (NP (NN Oct2))
+      (PP
+        (ADVP (RB together))
+        (IN with)
+        (NP (NN BOB.1/OBF.1))))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ potent) (NN inducer))
+        (PP (IN of)
+          (NP (NN Btk) (NN promoter) (NN activity))))
+      (, ,)
+      (SBAR (IN whereas)
+        (S
+          (NP (NN Oct1))
+          (VP (VBD had)
+            (NP (DT no) (NN effect))
+            (PP (IN at)
+              (NP (NN all)))
+            (PRN (-LRB- -LRB-)
+              (S
+                (NP (NNS data))
+                (VP (RB not) (VBN shown)))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Since)
+        (S
+          (NP (DT the)
+            (NP
+              (NP
+                (NP (NN transcription) (NN factor) (NN PU.1))
+                (VP (VBD was)
+                  (VP (VBN shown)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (ADJP (JJ important)
+                            (PP (IN for)
+                              (NP (DT the) (NN Btk) (NN promoter) (NN activity))))))))))
+              (CC and)
+              (NP (DT the) (NN PU.1)))
+            (NNS sites))
+          (VP (VBP are)
+            (VP (VBN conserved)
+              (PP (IN between)
+                (NP
+                  (NP (DT the)
+                    (ADJP
+                      (ADJP (JJ human))
+                      (CC and)
+                      (ADJP (JJ murine)))
+                    (NN Btk) (NNS promoters))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Figure) (CD 1))
+                    (-RRB- -RRB-))))))))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD wondered)
+        (SBAR (IN whether)
+          (S
+            (NP
+              (NP (NN Oct2))
+              (CC and)
+              (NP (NN BOB.1/OBF.1)))
+            (VP (MD can)
+              (VP (VB enhance)
+                (NP
+                  (NP (JJ PU.1-mediated) (NN transactivation))
+                  (PP (IN of)
+                    (NP (DT the) (NN Btk) (NN promoter))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Transfection) (NNS experiments))
+        (VP (VBG using)
+          (NP (NN NIH/3T3) (NNS cells))))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN BOB.1/OBF.1))
+              (PP
+                (ADVP (RB together))
+                (IN with)
+                (NP (NN PU.1))))
+            (ADVP (RB only) (RB marginally))
+            (VP (VBD enhanced)
+              (NP (JJ PU.1-mediated) (NN Btk) (NN promoter) (NN activity)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN contrast)))
+      (, ,)
+      (NP
+        (NP (NN co-transfection))
+        (PP (IN of)
+          (NP (NN Oct2)))
+        (PP
+          (ADVP (RB together))
+          (IN with)
+          (NP (NN PU.1))))
+      (VP (VBD stimulated)
+        (NP (JJ PU.1-mediated) (NN Btk) (NN promoter) (NN activity))
+        (ADVP (RB significantly))
+        (PRN (-LRB- -LRB-)
+          (PP (IN from)
+            (NP (CD 6-) (TO to) (RB 75-fold)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Moreover))
+      (, ,)
+      (NP
+        (NP (NN co-transfection))
+        (PP (IN of)
+          (NP (NN PU.1)))
+        (PP
+          (ADVP (RB together))
+          (IN with)
+          (NP
+            (NP (NN Oct2))
+            (CC and)
+            (NP (NN BOB.1/OBF.1)))))
+      (VP (VBD led)
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (DT an)
+                (ADJP
+                  (ADJP (RB even) (JJR stronger))
+                  (CC and)
+                  (ADJP (JJ synergistic)))
+                (NN activation))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 325-fold))
+                (-RRB- -RRB-)))
+            (PP (IN of)
+              (NP (DT the)
+                (NP
+                  (NP (JJ murine) (NN Btk) (NN promoter))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN Figure) (NN 5C))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN conclusion)))
+      (NP (DT these) (NNS findings))
+      (VP (VBP indicate)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJ transcriptional) (NN coactivator) (NN BOB.1/OBF.1))
+            (VP (VBZ regulates)
+              (NP
+                (NP (DT the) (NN Btk) (NN promoter) (NN activity))
+                (PP (IN in)
+                  (NP (NN B) (NNS cells))))
+              (ADVP (FW in) (FW vitro)
+                (CONJP (RB as) (RB well) (IN as))
+                (ADVP (FW in) (FW vivo)))
+              (, ,)
+              (PP (IN in)
+                (NP
+                  (NP (NN concert))
+                  (PP (IN with)
+                    (NP (NN Oct)
+                      (CC and)
+                      (NN PU.1) (NNS proteins))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (ADVP (RB further))
+          (VP (VB analyze)
+            (NP
+              (NP (DT the)
+                (ADJP (FW in) (FW vivo))
+                (NN relevance))
+              (PP (IN of)
+                (NP (DT the) (NN Btk) (NN promoter) (NN octamer) (NN motif)))))))
+      (NP (PRP we))
+      (VP (VBD mutated)
+        (NP
+          (NP (DT the) (NN octamer) (NN sequence))
+          (PP (IN from)
+            (NP (NN AGGCAAAT))))
+        (PP (TO to)
+          (NP (NN AGtacAAT)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN mutation))
+      (VP (VBD prevented)
+        (NP
+          (NP (NN binding))
+          (PP (IN of)
+            (NP
+              (NP (NN Oct) (NN transcription) (NNS factors))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Figure) (NN 2C))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT this) (VBN mutated) (NN construct))
+        (VP (VBD was)
+          (VP (VBN transfected)
+            (PP (IN into)
+              (NP
+                (NP (DT the) (JJ murine) (NN B) (NN cell) (NN line))
+                (NP (NN S194))))))))
+    (NP (DT the) (NN activity))
+    (VP (VBD was)
+      (VP (VBN reduced)
+        (PP (TO to)
+          (NP (CD 60) (NN %)))
+        (PP (VBN compared)
+          (PP (IN with)
+            (NP (DT the) (JJ wild-type) (NN Btk) (NN promoter) (-LRB- -LRB-) (NN Figure) (NN 6A) (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ demonstrates)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN octamer) (NN motif))
+            (ADVP (RB significantly))
+            (VP (VBZ contributes)
+              (PP (TO to)
+                (NP
+                  (NP (JJ overall) (NN promoter) (NN activity))
+                  (PP (IN in)
+                    (NP (NN addition)))
+                  (PP (TO to)
+                    (NP (DT the)
+                      (NP
+                        (NP (NN PU.1))
+                        (CC and)
+                        (NP (NN Sp1/Sp3)))
+                      (NN binding) (NNS sites))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN prediction))
+        (VP (VBN based)
+          (PP (IN on)
+            (NP (DT this) (NN result)))))
+      (VP (MD would)
+        (VP (VB be)
+          (SBAR (IN that)
+            (S
+              (NP (NN Btk) (NN expression))
+              (VP (MD should)
+                (VP (VB be)
+                  (VP (VBN attenuated)
+                    (PP (IN in)
+                      (NP
+                        (NP (NN B) (NNS cells))
+                        (VP (VBG lacking)
+                          (NP (NN BOB.1/OBF.1) (NN expression)))))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (PRP We))
+    (ADVP (RB therefore))
+    (VP (VBD examined)
+      (NP
+        (NP
+          (NP
+            (NP (NN IL-7-dependent))
+            (CC and)
+            (NP (NN stroma)))
+          (JJ cell-dependent) (JJ pre) (NN B) (NN cell) (NNS lines))
+        (VP (VBN established)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN bone) (NN marrow))
+              (PP (IN of)
+                (NP
+                  (NP (JJ wild) (NN type))
+                  (CC and)
+                  (NP (NN BOB.1/OBF.1−/−)))))))))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS mice))
+        (PP (IN for)
+          (NP
+            (NP (NN expression))
+            (PP (IN of)
+              (NP (NN Btk))))))
+      (PRN (-LRB- -LRB-)
+        (NP (NN Figure) (CD 6B))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP (NN Btk) (NN protein) (NN expression))
+    (VP (VBZ is)
+      (VP (VBN reduced)
+        (PP (IN in)
+          (NP (NN BOB.1/OBF.1−/−)))))))
+
+(
+  (S
+    (S
+      (NP (JJ pre) (NN B) (NNS cells)))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The) (NN requirement))
+      (PP (IN of)
+        (NP (NN BOB.1/OBF.1)))
+      (PP (IN for)
+        (NP
+          (NP (NN Btk) (NN expression))
+          (PP (IN in)
+            (NP (NN pre-B) (NN cell) (NNS lines))))))
+    (VP (VBD was)
+      (ADVP (RB further))
+      (VP (VBN analysed)
+        (PP (IN in)
+          (NP
+            (NP (JJ IL-7-dependent) (NN cell) (NNS lines))
+            (VP (VBG expressing)
+              (NP (DT a) (JJ conditional) (NN BOB.1/OBF.1) (NN transgene))
+              (PP (IN on)
+                (NP (DT a) (NN BOB.1/OBF.1−/−))))))))))
+
+(
+  (S
+    (S
+      (NP (JJ mutant) (NN background)))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB achieve)
+            (NP
+              (NP (JJ conditional) (NN expression))
+              (PP (IN of)
+                (NP (NN BOB.1.OBF.1)))))))
+      (NP (DT the) (JJ tet-off) (NN system))
+      (VP (VBD was)
+        (VP (VBN used)
+          (PRN (-LRB- -LRB-)
+            (NP (NN 27,56,59))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (PP (IN In) (DT the) (NN absence) (IN of)
+          (NP
+            (NP (NN Doxycyclin))
+            (PRN (-LRB- -LRB-)
+              (NP (NN Dox))
+              (-RRB- -RRB-))))
+        (NP (DT the) (JJ co-activator) (NN BOB.1/OBF.1))
+        (VP (VBZ is)
+          (VP (VBN expressed))))
+      (, ,) (IN whereas)
+      (S
+        (PP (IN in) (DT the) (NN presence) (IN of)
+          (NP (NN Dox)))
+        (NP (PRP$ its) (NN expression))
+        (VP (VBZ is)
+          (VP (VBN repressed)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN RNA))
+      (VP (VBD was)
+        (VP
+          (VP (VBN prepared)
+            (PP (IN from)
+              (NP
+                (ADJP (CC either)
+                  (ADJP (JJ untreated))
+                  (CC or)
+                  (ADJP (NN Dox) (JJ treated)))
+                (NN pre-B) (NNS cells))))
+          (CC and)
+          (VP (VBN analysed)
+            (PP (IN in)
+              (NP (NN northern) (NN blot) (NNS experiments)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (NN BOB.1/OBF.1) (NN expression))
+          (VP (VBD was)
+            (NP
+              (NP (NN shut-off))
+              (PP (IN by)
+                (NP (NN doxycyclin) (NN addition)))))))
+      (, ,)
+      (NP
+        (NP (DT the) (NN expression))
+        (PP (IN of)
+          (NP (NN Btk))))
+      (VP (VBD was)
+        (VP (VBN reduced)
+          (S
+            (ADVP (RB further))
+            (VP (VBG supporting)
+              (NP
+                (NP (DT the) (JJ clear) (NN dependence))
+                (PP (IN of)
+                  (NP
+                    (NP (NN Btk) (NN expression))
+                    (PP (IN in)
+                      (NP (JJ pre-B) (NNS cells)))))
+                (PP (IN on)
+                  (NP
+                    (NP (NN BOB.1/OBF.1))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Figure) (NN 6C))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB investigate) (, ,)
+          (SBAR (IN whether)
+            (S
+              (NP
+                (NP (DT the) (NN down-regulation))
+                (PP (IN of)
+                  (NP (NN Btk) (NN expression)))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN absence))
+                    (PP (IN of)
+                      (NP (NN BOB.1/OBF.1))))))
+              (VP (VBZ is)
+                (ADVP (RB also))
+                (VP (VBN seen)
+                  (PP (IN in)
+                    (NP (JJ mature) (NN B220+) (NNS cells))))))))))
+    (, ,)
+    (S
+      (NP (DT these) (NNS cells))
+      (VP (VBD were)
+        (VP (VBN sorted)
+          (PP (IN by)
+            (NP (NN FACS)))
+          (PP (IN from)
+            (NP
+              (NP (NNS spleens))
+              (PP (IN of)
+                (NP
+                  (NP (JJ wild) (NN type))
+                  (CC and)
+                  (NP (NN BOB.1/OBF.1−/−)))))))))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (CC and)
+      (VP (VBN analyzed)
+        (PP (IN by)
+          (NP (NN protein) (NN immunoblot)))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Again))
+    (, ,)
+    (NP (NN Btk) (NN expression))
+    (VP (VBD was)
+      (ADVP (RB strongly))
+      (VP (VBN reduced)
+        (PP (IN in)
+          (NP (NN B220+) (NN BOB.1/OBF.1−/−)))))))
+
+(
+  (S
+    (S
+      (VP (NNS cells)
+        (PP (IN in)
+          (NP
+            (NP (NN comparison))
+            (PP (IN with)
+              (NP
+                (NP (JJ wild-type) (NNS cells))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN Figure) (NNS 6D))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Furthermore))
+    (, ,)
+    (PP (IN in)
+      (NP
+        (NP (NN northern) (NN blot) (NNS analyses))
+        (PP (IN of)
+          (NP
+            (NP (NN RNA))
+            (VP (VBN prepared)
+              (PP (IN from)
+                (NP
+                  (NP (NNS splenocytes))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ wild) (NN type))
+                      (CC or)
+                      (NP (NN BOB.1/OBF.1−/−)))))))))))))
+
+(
+  (S
+    (NP
+      (NP (NNS mice))
+      (S
+        (NP (DT a) (VBN reduced) (NN Btk–mRNA) (NN expression))
+        (VP (VBD was)
+          (VP (VBN detected)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (NN BOB.1/OBF.1))
+                (VP (VBZ is) (RB not)
+                  (VP (VBN expressed)
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Figure) (NN 6E))
+                      (-RRB- -RRB-)))))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (ADVP (RB Together))
+      (, ,)
+      (NP (DT these) (NNS experiments))
+      (ADVP (RB clearly))
+      (VP (VBP indicate)
+        (NP
+          (NP (DT the) (JJ physiological) (NN importance))
+          (PP (IN of)
+            (NP (NN BOB.1/OBF.1)))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ B-cell-specific) (NN expression))
+              (PP (IN of)
+                (NP (NN Btk))))))))
+    (. .)))
+
+(
+  (S
+    (NP (NN DISCUSSION))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN regulation))
+        (PP (IN of)
+          (NP
+            (ADJP (NN B) (NN cell) (JJ type-specific))
+            (NN gene) (NN expression))))
+      (VP (VBZ plays)
+        (NP
+          (NP (DT an) (JJ essential) (NN role))
+          (PP (IN for)
+            (NP
+              (NP (NN B) (NN cell) (NN generation))
+              (, ,)
+              (NP (NN maturation))
+              (, ,)
+              (NP (NN development))
+              (CC and)
+              (NP (NN function)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ large) (NN number))
+        (PP (IN of)
+          (NP (NN transcription) (NNS factors))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN shown)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN involved)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN regulation))
+                        (PP (IN of)
+                          (NP (NN B) (NN cell) (NN fate)))))))))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 60))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (CD One))
+        (PP (IN of)
+          (NP (DT those) (NNS factors))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJ transcriptional) (NN coactivator) (CD BOB.1/OBF.1))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ enhances)
+                (NP
+                  (NP (DT the) (JJ transcriptional) (NN activity))
+                  (PP (IN of)
+                    (NP (DT the)
+                      (NP
+                        (NP (NN Oct1))
+                        (CC and)
+                        (NP (NN Oct2)))
+                      (NN transcription) (NNS factors))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB get)
+            (NP
+              (NP (JJR more) (NNS insights))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (JJ physiological) (NN role))
+                  (PP (IN of)
+                    (NP (NN BOB.1/OBF.1)))))))))
+      (NP
+        (NP (DT the) (JJ transcriptional) (NN network))
+        (VP (VBN controlled)
+          (PP (IN by)
+            (NP (NN BOB.1/OBF.1)))))
+      (VP (VBZ needs)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN elucidated)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Here))
+      (NP (PRP we))
+      (VP (VBP show)
+        (SBAR (IN that)
+          (S
+            (NP (NN BOB.1/OBF.1))
+            (VP (VBZ regulates)
+              (NP (NN Btk) (NN gene) (NN expression)))))))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN Btk) (NN promoter))
+        (VP (VBD had)
+          (VP (VBN been)
+            (VP (VBN analyzed)
+              (ADVP (RB quite) (RB extensively))
+              (PP (IN for)
+                (NP
+                  (NP (NN binding))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN transcription) (NNS factors))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN 44–49))
+                        (-RRB- -RRB-)))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN presence))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (JJ functional) (NN octamer) (NN site))
+          (PP (IN within)
+            (NP
+              (NP (DT the) (JJ first) (CD 200) (NN bp))
+              (ADVP (RB upstream)
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN start) (NN site))
+                    (PP (IN of)
+                      (NP (NN transcription)))))))))))
+    (VP (VBD had) (RB not)
+      (VP (VBN been)
+        (VP (VBN reported))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP (NN footprint) (NNS experiments))
+          (VP (VBD identified)
+            (NP
+              (NP (DT a) (JJ protected) (NN region))
+              (PP (IN in)
+                (NP (DT the) (JJ human) (NN Btk) (NN promoter) (NN region)))
+              (VP (VBG extending)
+                (PP (IN from)
+                  (NP
+                    (NP (CD −130) (TO to) (CD −152) (NN bp))
+                    (PRN (-LRB- -LRB-)
+                      (S
+                        (S
+                          (NP (DT the) (JJ human) (NN Btk) (NN promoter) (NN octamer) (NN motif))
+                          (VP (VBZ is)
+                            (ADJP (JJ located)
+                              (PP (IN at)
+                                (NP
+                                  (QP (CD −145) (TO to) (CD −152))
+                                  (NN bp))))))
+                        (: ;)
+                        (S
+                          (VP (VB see)
+                            (NP (NN Figure) (CD 1)))))
+                      (-RRB- -RRB-)))))))))
+      (, ,)
+      (NP (DT this) (NN area))
+      (VP (VBD was)
+        (ADVP (RB only))
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN binding))
+              (PP (IN of)
+                (NP (NN Sp1/3) (NNS factors)))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN GC) (JJ rich) (NN box))
+                  (PRN (-LRB- -LRB-)
+                    (NP (CD 48))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP
+        (NP (DT the) (NN DNA) (NN probe))
+        (VP (VBN used)
+          (PP (IN in)
+            (NP (NN gel) (NN shift) (NNS experiments)))
+          (S
+            (VP (TO to)
+              (VP (VB detect)
+                (NP (NN Sp1/3) (NN binding)))))))
+      (VP (VBD did) (RB not)
+        (VP (VBP encompass)
+          (NP (DT the) (NN octamer) (NN motif)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (, ,)
+      (NP
+        (NP (JJ protein–DNA) (NNS complexes))
+        (VP (VBG reflecting)
+          (NP
+            (NP (NN Oct) (NN binding))
+            (PP (TO to)
+              (NP (DT the) (NN Btk) (NN promoter))))))
+      (VP (MD could) (RB not)
+        (VP (VB be)
+          (VP (VBN observed)
+            (PP (IN in)
+              (NP (DT these) (NNS experiments)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Furthermore))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (NN search))
+          (PP (IN for)
+            (NP
+              (NP (NNS factors))
+              (VP (VBN involved)
+                (PP (IN in)
+                  (NP (JJ cell-type-specific) (NN Btk) (NN expression))))))))
+      (, ,)
+      (NP
+        (NP (DT those) (NN protein) (NNS complexes))
+        (VP (VBN observed)
+          (PP (IN in)
+            (NP (NN gel) (NN shift) (NNS experiments)))))
+      (VP (VBD were)
+        (VP (VBN excluded)
+          (PP (IN from)
+            (NP
+              (NP (JJ detailed) (NNS analyses))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD were)
+                    (VP (VBN found)
+                      (S
+                        (VP (TO to)
+                          (VP (VB bind)
+                            (PP (TO to)
+                              (NP (DT the) (NN Btk) (NN promoter)))
+                            (PP
+                              (ADVP (RB also))
+                              (IN in)
+                              (NP
+                                (NP (NNS cells))
+                                (VP (VBD were)
+                                  (NP
+                                    (NP (NN Btk))
+                                    (VP (VBZ is) (RB not)
+                                      (VP (VBN expressed)
+                                        (PP (JJ such) (IN as)
+                                          (NP
+                                            (NP (NN T) (NNS cells))
+                                            (CC and)
+                                            (NP
+                                              (NP (NNS fibroblasts))
+                                              (PRN (-LRB- -LRB-)
+                                                (NP (CD 46))
+                                                (-RRB- -RRB-)))))))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (S
+        (NP (NN Oct) (NNS proteins))
+        (VP (VBP are) (RB not)
+          (ADVP (RB exclusively))
+          (VP (VBN expressed)
+            (PP (IN in)
+              (NP (NN B) (NNS cells))))))
+      (CC and)
+      (S
+        (NP (NN Oct1))
+        (VP (VBZ is)
+          (ADVP (RB also))
+          (VP (VBN found)
+            (PP (IN in)
+              (NP
+                (NP (NN T) (NNS cells))
+                (CC and)
+                (NP (NNS fibroblasts))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (PRP We))
+      (VP (MD could)
+        (VP (VB show)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (NN Oct1))
+                (CONJP (RB as) (RB well))
+                (NP (NN Oct2)))
+              (VP (VBP are)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB bind)
+                        (PP (TO to)
+                          (NP (DT the) (NN murine)))
+                        (ADVP (RB as) (RB well))
+                        (PP (TO to)
+                          (NP (DT the) (JJ human) (NN Btk) (NN promoter)))
+                        (, ,)
+                        (SBAR (IN albeit)
+                          (S
+                            (NP (DT this) (NN binding) (NN activity))
+                            (VP (VBD was)
+                              (ADJP
+                                (ADJP (RB much) (JJR weaker))
+                                (PP (IN than)
+                                  (NP
+                                    (NP (DT that))
+                                    (VP (VBN observed)
+                                      (S
+                                        (VP (VBG using)
+                                          (NP (DT a) (NN consensus) (NN octamer) (NN site)))))))))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP
+        (NP (JJ ternary) (NNS complexes))
+        (VP (VBN composed)
+          (PP (IN of)
+            (NP
+              (NP (NN Oct1))
+              (CC and)
+              (NP (NN BOB.1/OBF.1))))))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN detected)
+            (PP (IN on)
+              (NP
+                (NP (DT the)
+                  (ADJP
+                    (ADJP (JJ murine))
+                    (CC and)
+                    (ADJP (JJ human)))
+                  (NN Btk) (NN Oct) (NNS sites))
+                (PP (IN in)
+                  (NP (DT a) (JJ reconstituted) (NN system)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This))
+      (ADVP (RB clearly))
+      (VP (VBZ demonstrates)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN Oct) (NNS proteins))
+              (PP
+                (ADVP (RB together))
+                (IN with)
+                (NP (NN BOB.1/OBF.1))))
+            (VP (VBP are)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB bind)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NN non-perfect) (NN Oct) (NNS motifs))
+                          (VP (VBN found)
+                            (PP (IN in)
+                              (NP (DT the) (NN Btk) (NN promoter))))))
+                      (ADVP (FW in) (FW vitro)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Interestingly))
+      (, ,)
+      (SBAR (IN whereas)
+        (S
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN absence))
+              (PP (IN of)
+                (NP (NN BOB.1/OBF.1)))))
+          (NP
+            (NP (RB only) (DT a) (JJ weak) (NN binding))
+            (PP (IN of)
+              (NP (NN Oct) (NNS factors))))
+          (VP (VBD was)
+            (VP (VBN observed)))))
+      (, ,)
+      (NP (DT the) (JJ ternary) (NN complex) (NN formation))
+      (VP (VBD was)
+        (VP (VBN found)
+          (S
+            (ADJP (JJ similar)
+              (PP (TO to)
+                (NP
+                  (NP (DT that))
+                  (VP (VBN formed)
+                    (PP (IN on)
+                      (NP (DT the) (NN consensus) (NN octamer) (NN motif)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP (JJ Similar) (NNS results))
+    (VP (VBD were)
+      (VP (VBN observed)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the)
+              (NP
+                (NP (NN Oct-dependent))
+                (CC and)
+                (NP (NN BOB.1/OBF.1-dependent))))))))))
+
+(
+  (S
+    (S
+      (NP (NN osteopontin) (NN promoter))
+      (VP (VBD had)
+        (VP (VBN been)
+          (VP (VBN analyzed)
+            (PRN (-LRB- -LRB-)
+              (NP (NN 61,62))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN promoter))
+      (VP (VBZ contains)
+        (NP
+          (NP
+            (NP (DT a) (NN PORE))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (JJ Palindromic) (NN Oct) (NN factor) (NN Recognition) (NN Element))
+                (: ;)
+                (NP (NN ATTTG) (-LRB- -LRB-) (NN N5) (-RRB- -RRB-) (NN CAAAT)))
+              (-RRB- -RRB-)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ enables)
+                (S
+                  (NP (NN Oct) (NNS factors))
+                  (VP (TO to)
+                    (VP (VB assemble)
+                      (NP
+                        (NP
+                          (ADJP (JJ homo-)))
+                        (CC or)
+                        (NP (NNS hetero-dimers)))
+                      (PP (IN at)
+                        (NP (DT this) (NN site)))
+                      (ADVP (FW in) (FW vitro)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ PORE-mediated) (NN Oct) (NN dimerization))
+      (VP (VBD was)
+        (VP (VBN suggested)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (DT an) (JJ essential) (NN prerequisite))
+                  (PP (IN for)
+                    (NP
+                      (NP (NN binding))
+                      (PP (IN of)
+                        (NP (NN BOB.1/OBF.1)))
+                      (PP (TO to)
+                        (NP
+                          (NP (PDT such) (DT an) (NN octamer) (NN site))
+                          (PRN (-LRB- -LRB-)
+                            (NP (CD 63))
+                            (-RRB- -RRB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS studies))
+      (ADVP (RB also))
+      (VP (VBD demonstrated)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN transversion) (NN T→G))
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (JJ second) (NN position))
+                  (PP (IN of)
+                    (NP (DT the) (NN consensus) (NN octamer) (NN site)))))
+              (-LRB- -LRB-)
+              (VP (VBN identified)
+                (PP (IN in)
+                  (NP (DT the) (JJ murine) (NN Btk) (NN promoter))))
+              (-RRB- -RRB-))
+            (VP (VBZ impairs)
+              (NP (NN Oct) (NN binding)))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (NN luciferase) (NN reporter) (NNS assays))
+    (VP (VBD revealed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN T→G) (NN transversion))
+          (VP (VBZ results)
+            (PP (IN in)
+              (NP
+                (NP (VBN increased) (NN promoter) (NN activity))
+                (PP (IN in)
+                  (NP
+                    (NP (NN comparison))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (JJ wild-type) (NN PORE) (NN promoter))
+                        (PRN (-LRB- -LRB-)
+                          (NP (CD 62))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (NN line))
+          (PP (IN with)
+            (NP (DT this) (NN observation)))))
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN shown)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (NN presence))
+                (PP (IN of)
+                  (NP (NN BOB.1/OBF.1))))
+              (VP (VBZ enables)
+                (S
+                  (NP (NN Oct) (NNS factors))
+                  (VP (TO to)
+                    (VP (VB bind)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT this) (JJ unfavorable) (JJ non-consensus) (NN octamer) (NNS motifs))
+                          (PRN (-LRB- -LRB-)
+                            (NP (CD 62))
+                            (-RRB- -RRB-)))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP
+            (NP (DT the) (NN octamer) (NNS motifs))
+            (VP (VBN identified)
+              (PP (IN in)
+                (NP (NN Btk) (NN promoter)))))
+          (VP (VBP do) (RB not)
+            (VP (VB represent)
+              (NP (JJ classical) (NN PORE) (NNS motifs))))))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBP show)
+        (ADVP (RB here))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN Oct) (NNS proteins))
+              (CC and)
+              (NP (CD BOB.1/OBF.1)))
+            (VP (VBP bind)
+              (PP (TO to)
+                (NP (DT this) (NN site)))
+              (ADVP (FW in) (FW vitro)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Thus))
+      (NP
+        (NP (DT the) (NN presence))
+        (PP (IN of)
+          (NP (NN BOB.1/OBF.1))))
+      (VP (VBZ facilitates)
+        (NP
+          (NP (NN binding))
+          (PP (IN of)
+            (NP (NN Oct) (NNS proteins)))
+          (PP (TO to)
+            (NP
+              (NP
+                (ADVP (IN at) (JJS least))
+                (DT a) (NN subset))
+              (PP (IN of)
+                (NP (JJ non-consensus) (NN octamer) (NNS motifs))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN ChiP) (NNS experiments))
+      (VP (VBD revealed)
+        (SBAR (IN that)
+          (S
+            (NP (JJ ternary) (NN complex) (NN formation))
+            (ADVP (RB also))
+            (VP (VBZ occurs)
+              (ADVP (FW in) (FW vivo)))))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Furthermore))
+    (, ,)
+    (NP
+      (NP (NN Oct)
+        (CC and)
+        (NN BOB.1/OBF.1) (NNS proteins))
+      (VP (VB act)
+        (PP (IN in)
+          (NP
+            (NP (NN synergy))
+            (PP (IN with)
+              (NP
+                (NP
+                  (NP (DT PU.1—a)
+                    (ADJP (RB previously) (VBN identified))
+                    (NN factor))
+                  (ADJP (JJ important)
+                    (PP (IN for)
+                      (NP (NN Btk) (NN promoter) (NN regulation)))))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN 46,48,49))
+                  (-RRB- -RRB-))))))))
+    (ADVP (RB —to))
+    (VP (VBP induce)
+      (NP (NN Btk) (NN promoter) (NN activity)))
+    (. .)))
+
+(
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP
+          (NP (DT the) (NN PU.1) (NN binding) (NN site))
+          (VP (VBN identified)
+            (PP (IN in)
+              (NP (DT the) (JJ human) (NN Btk) (NN promoter)))))
+        (VP (VBZ is)
+          (VP
+            (VP (VBN conserved))
+            (CC and)
+            (ADJP (JJ present)
+              (PP (IN in)
+                (NP (DT the)
+                  (NP
+                    (NP (JJ murine) (NN Btk) (NN promoter))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN Figure) (CD 1))
+                      (-RRB- -RRB-))))))))))
+    (NP (PRP we))
+    (VP (VBP suggest)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN mechanism))
+            (PP (IN of)
+              (NP (NN Btk) (NN gene) (NN regulation)))
+            (PP (IN by)
+              (NP
+                (NP (NN Oct/BOB.1/OBF.1))
+                (CC and)
+                (NP (NN PU.1)))))
+          (VP (VBZ is)
+            (VP (VBN conserved)
+              (PP (IN between)
+                (NP
+                  (NP (NN mouse))
+                  (CC and)
+                  (NP (NNS humans)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN importance))
+        (PP (IN of)
+          (NP (NN PU.1)))
+        (PP (IN for)
+          (NP (NN Btk) (NN gene) (NN regulation))))
+      (VP (VBZ is)
+        (VP (VBN underlined)
+          (PP (IN by)
+            (NP (DT the) (NN fact)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT the) (NN absence))
+                    (PP (IN of)
+                      (NP (NN PU.1))))
+                  (VP (VBZ leads)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a)
+                          (QP (CD two-) (TO to) (JJ 3-fold))
+                          (NN reduction))
+                        (PP (IN of)
+                          (NP (NN Btk) (NN expression)))
+                        (-LRB- -LRB-) (CD 48) (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN contrast)))
+      (, ,)
+      (NP
+        (NP (DT the) (NN deficiency))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NN Sp1))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (ADVP (RB also))
+                  (VP (VBZ stimulates)
+                    (NP (NN Btk) (NN promoter) (NN activity))))))
+            (CONJP (RB together) (IN with))
+            (NP (NN PU.1) (-LRB- -LRB-) (CD 49) (-RRB- -RRB-)))))
+      (VP (VBD had)
+        (NP
+          (NP (DT no) (NN influence))
+          (PP (IN on)
+            (NP (NN Btk) (NN expression))))
+        (PRN (-LRB- -LRB-)
+          (NP (CD 49))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Here))
+    (NP (PRP we))
+    (VP (VBD showed)
+      (SBAR (IN that)
+        (S
+          (NP (NN BOB.1/OBF.1-deficiency)))))))
+
+(
+  (S
+    (NP
+      (NP (NNS results))
+      (PP
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ severe) (NN reduction))
+            (PP (IN of)
+              (NP (NN Btk) (NN expression)))
+            (PP (IN in)
+              (NP (JJ immature) (NN bone) (NN marrow) (VBN derived) (JJ pre-B) (NNS cells)))))
+        (CONJP (RB as) (RB well) (IN as))
+        (PP (IN in)
+          (NP (JJ peripheral) (NN B220+) (NNS splenocytes))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP (DT These) (NNS data))
+      (VP (VBP indicate)
+        (NP
+          (NP (DT the) (JJ physiological) (NN importance))
+          (PP (IN of)
+            (NP
+              (NP (NN Oct/BOB.1/OBF.1))
+              (PP
+                (ADVP (RB together))
+                (IN with)
+                (NP (NN PU.1)))))
+          (PP (IN in)
+            (NP
+              (ADJP (NN B) (JJ cell-specific))
+              (NN Btk) (NN gene) (NN regulation))))
+        (PP (IN at)
+          (NP
+            (NP
+              (ADJP
+                (ADJP (JJ early))
+                (CC and)
+                (ADJP (JJ late)))
+              (NNS stages))
+            (PP (IN of)
+              (NP (NN B) (NN cell) (NN development)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (NN Btk))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (JJ direct) (NN target))
+              (PP (IN of)
+                (NP (NN BOB.1/OBF.1)))))))
+      (NP
+        (NP (DT the) (NN phenotype))
+        (PP (IN of)
+          (NP
+            (NP (NNS mice))
+            (ADJP (JJ deficient)
+              (PP (IN in)
+                (NP (CC either)
+                  (NP (NN BOB.1/OBF.1))
+                  (CC or)
+                  (NP (NN Btk))))))))
+      (VP (MD should)
+        (VP (VB be)
+          (ADJP (JJ related)))))
+    (. .)))
+
+(
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP (DT both) (JJ knock-out) (NNS mice))
+    (VP (VBP share)
+      (NP (JJ similar) (NNS characteristics))
+      (, ,)
+      (PP (IN like)
+        (NP
+          (NP (NNS defects))
+          (PP (IN in)
+            (NP
+              (NP (NN B) (NN cell) (NN development))
+              (PP (IN in)
+                (NP
+                  (NP (NN bone) (NN marrow))
+                  (CC and)
+                  (NP (NN spleen))))))))
+      (, ,)
+      (S
+        (VP (VBG resulting)
+          (PP (IN in)
+            (NP
+              (NP (DT a)
+                (ADJP (CD 2-) (TO to) (JJ 4-fold))
+                (NN reduction))
+              (PP (IN of)
+                (NP
+                  (NP (JJ peripheral) (NN B) (NN cell) (NN number))
+                  (CC and)
+                  (NP
+                    (NP (NNS defects))
+                    (PP (IN in)
+                      (NP (NN B) (NN cell) (NN receptor) (NN signaling)))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP (DT both) (JJ knock-out) (NNS mice))
+      (VP (VBP have)
+        (ADVP (RB also))
+        (NP (JJ unique) (NNS features))))
+    (: :)
+    (SBAR (IN whereas)
+      (S
+        (NP (DT the) (JJ marginal) (NN zone) (NN B) (NN cell) (NN compartment))
+        (VP (VBZ is)
+          (ADJP (RB almost) (JJ missing)
+            (PP (IN in)
+              (NP (NN BOB.1/OBF.1−/−)))))))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (LST (-LRB- -LRB-) (CD 27) (-RRB- -RRB-))
+      (NP (DT this) (NN B) (NN cell) (NN subset))
+      (VP (VBD was)
+        (VP (VBN found)
+          (ADVP (JJ normal))
+          (PP (IN in)
+            (NP (JJ Xid) (NNS mice))))))
+    (. .)))
+
+(
+  (S
+    (PP (IN In)
+      (NP (NN contrast)))
+    (, ,)
+    (NP (DT the) (NN B-1) (NN population))
+    (VP (VBZ is)
+      (UCP
+        (VP (VBN depleted)
+          (PP (IN in)
+            (NP
+              (NP (JJ Xid) (NNS mice))
+              (PRN (-LRB- -LRB-)
+                (NP (NN 33,34,64))
+                (-RRB- -RRB-)))))
+        (CC and)
+        (ADJP (JJ normal)
+          (PP (IN in)
+            (NP (NN BOB.1/OBF.1−/−))))))))
+
+(
+  (S
+    (NP
+      (NP (NNS mice))
+      (. .))))
+
+(
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP
+        (NP (NNS mice))
+        (ADJP (JJ mutant)
+          (PP (IN for)
+            (NP (DT both) (NNS proteins)))))
+      (VP (VBP show)
+        (NP
+          (NP (DT a)
+            (ADJP (RBR more) (JJ severe))
+            (NN defect))
+          (PP (IN than)
+            (NP (DT each) (NN mouse) (PRP itself))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT This) (NN phenotype))
+      (VP (VBZ resembles)
+        (NP
+          (NP (DT that))
+          (PP (IN of)
+            (NP
+              (NP (JJ severe) (NN agammaglobulinemia))
+              (PP (IN in)
+                (NP
+                  (NP (JJ human) (NNS XLA))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NN 31,39))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (, ,)
+      (NP
+        (NP (NN Btk))
+        (CC and)
+        (NP (NN BOB.1/OBF.1)))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN involved)
+                (PP (IN in)
+                  (NP
+                    (ADJP
+                      (ADJP (JJ overlapping))
+                      (CONJP (RB as) (RB well) (IN as))
+                      (ADJP (JJ distinct)))
+                    (NN signaling) (NNS pathways)))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (VP (VBN Taken)
+          (ADVP (RB together))))
+      (, ,)
+      (NP
+        (NP (DT the) (NNS analyses))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (ADJP (JJ murine))
+              (CC and)
+              (ADJP (JJ human)))
+            (NN Btk) (NN promoter))))
+      (VP (VBD revealed)
+        (NP
+          (NP (DT the) (NN presence))
+          (PP (IN of)
+            (NP (DT a) (JJ functional) (NN octamer) (NN motif))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (DT The) (NN transcription) (NNS factors))
+          (NP (NN Oct1/2)))
+        (CONJP (RB as) (RB well) (IN as))
+        (NP (DT the) (NN coactivator) (NN BOB.1/OBF.1)))
+      (VP (VBP bind)
+        (PP (TO to)
+          (NP (DT these) (NNS sites)))
+        (ADVP
+          (ADVP (FW in) (FW vitro))
+          (CC and)
+          (ADVP (FW in) (FW vivo)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (DT The) (JJ physiological) (NN relevance))
+      (PP (IN of)
+        (NP (DT the) (NN octamer))))
+    (VP (VBD was)
+      (VP (VBN shown)
+        (PP (IN in)
+          (NP (NN BOB.1/OBF.1−/−)))))))
+
+(
+  (S
+    (S
+      (NP (NN B) (NNS cells))
+      (VP (VBD were)
+        (S
+          (NP
+            (NP (DT the) (NN expression))
+            (PP (IN of)
+              (NP (NN Btk))))
+          (VP (VBZ is)
+            (ADVP (RB strongly))
+            (VP (VBN reduced))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (NN finding)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN presence))
+              (PP (IN of)
+                (NP (NN BOB.1/OBF.1))))
+            (VP (VBZ facilitates)
+              (NP
+                (NP (DT the) (NN binding))
+                (PP (IN of)
+                  (NP (NN Oct) (NNS factors)))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJ non-consensus) (NN octamer) (NN sequence))
+                    (VP (VBN identified)
+                      (PP (IN in)
+                        (NP (DT the)
+                          (ADJP
+                            (ADJP (JJ human))
+                            (CC and)
+                            (ADJP (JJ murine)))
+                          (NN Btk) (NNS promoters)))))))))))
+      (VP (MD could)
+        (VP (VB reflect)
+          (NP
+            (NP (DT a) (NN mechanism))
+            (PP (IN of)
+              (NP
+                (NP (JJ fine-tuned) (NN regulation))
+                (PP (IN of)
+                  (NP (NN promoter) (NN activity))))))
+          (PP (VBG depending)
+            (PP (IN on)
+              (NP
+                (NP (NN Oct))
+                (CC and)
+                (NP (NN BOB.1/OBF.1))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure))
+      (CC and)
+      (NP (NN Table))
+      (NP (NNS captions)))))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 1))
+      (: :)
+      (NP
+        (NP (JJ Comparative) (NN analysis))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (ADJP (JJ human))
+              (CC and)
+              (ADJP (JJ murine)))
+            (NN Btk) (NNS promoters))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Nucleotide) (NNS sequences))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (ADJP (JJ human)
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (QP (CD +33) (TO to) (CD −232))
+                    (NN bp))
+                  (-RRB- -RRB-)))
+              (CC and)
+              (ADJP (JJ murine)
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (QP (CD +33) (TO to) (CD −243))
+                    (NN bp))
+                  (-RRB- -RRB-))))
+            (NN Btk) (NNS promoters))))
+      (VP (VBP are)
+        (VP (VBN presented))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNS positions))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN octamer) (NN motif))
+            (, ,)
+            (NP
+              (NP (DT the) (NN GT-))
+              (, ,)
+              (ADJP (JJ GC-)))
+            (CC and)
+            (NP (NN Pu-boxes))
+            (CONJP (RB as) (RB well) (IN as))
+            (NP
+              (NP
+                (NP (DT the) (NN initiator) (NN site))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN start) (NN site))
+                  (PP (IN of)
+                    (NP (NN transcription)))))
+              (PRN (-LRB- -LRB-)
+                (NP (NN +1))
+                (-RRB- -RRB-))))))
+      (VP (VBP are)
+        (VP (VBN indicated))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Figure) (CD 2))
+        (: :)
+        (NP (NN Octamer) (NNS factors)
+          (NP
+            (NP (NN Oct1))
+            (CC and)
+            (NP (NN Oct2)))))
+      (VP (VBP bind)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ non-consensus) (NN octamer) (NN site))
+            (PP (IN of)
+              (NP (DT the)
+                (ADJP
+                  (ADJP (JJ murine))
+                  (CC and)
+                  (ADJP (JJ human)))
+                (NN Btk) (NNS promoters)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP
+            (NP (-LRB- -LRB-)
+              (NP
+                (NP (NN A))
+                (CC and)
+                (NP (NN B)))
+              (-RRB- -RRB-) (NNS EMSA))
+            (PP (IN with)
+              (NP
+                (NP (JJ nuclear) (NNS extracts))
+                (PP (IN from)
+                  (NP (DT the) (NN B) (NN cell) (NN line) (NN BJAB))))))
+          (CC and)
+          (NP (VBN labeled) (NNS probes)))
+        (VP (VBG presenting)
+          (NP (CC either)
+            (NP
+              (NP (DT a) (NN consensus) (NN octamer) (NN site))
+              (PRN (-LRB- -LRB-)
+                (NP (NN Oct) (NNS cons))
+                (-RRB- -RRB-)))
+            (CC or)
+            (NP (DT the) (JJ non-conserved) (NN octamer) (NN site)))))
+      (VP (VBN identified)
+        (PP (IN in)
+          (NP (DT the)
+            (ADJP
+              (ADJP (JJ human))
+              (CC and)
+              (ADJP (JJ murine)))
+            (NN Btk) (NNS promoters)))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP murBtkprom) (, ,) (NNP humBtkprom))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Competitor) (NN binding) (NNS sites))
+      (PP
+        (PP (IN with)
+          (NP
+            (NP
+              (NP (DT the) (JJ wild-type))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NN murBtkprom))
+                  (, ,)
+                  (NP (NN humBtkprom)))
+                (-RRB- -RRB-)))
+            (CC or)
+            (NP
+              (NP (VBN mutated) (NN octamer) (NN mortif))
+              (PP (IN from)
+                (NP (DT the) (NN Btk) (NN promoter))))
+            (NP
+              (NP (JJ -LSB-mBtkprom) (NN Mut))
+              (PRN (, ,)
+                (NP
+                  (NP (NN humBtkprom) (NN Mut))
+                  (: ;)
+                  (S
+                    (NP
+                      (NP (DT the) (NN octamer) (NNS motifs))
+                      (NP (DT A) (-LRB- -LRB-) (NN A/G) (-RRB- -RRB-) (NN GCAAAT)))
+                    (VP (VBD were)
+                      (VP (VBN mutated)
+                        (PP (TO to)
+                          (NP (NN AgtacAAT)))))))
+                (-RRB- -RSB-)))))
+        (CC or)
+        (PP (IN with)
+          (NP (DT the) (NN consensus) (NN octamer)
+            (PRN (-LRB- -LRB-)
+              (NP (NN Oct) (NNS cons))
+              (-RRB- -RRB-))
+            (NN site)))))
+    (VP (VBD were)
+      (VP (VBN added)
+        (PP (IN in)
+          (NP
+            (NP (JJ different) (JJ molar) (NN excess))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NN 10×))
+                (, ,)
+                (NP (NN 30×))
+                (, ,)
+                (NP (NN 100×)))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS C) (-RRB- -RRB-))
+      (NP (DT The) (VBN mutated) (NNS sites))
+      (VP (VBD were)
+        (ADVP (RB also))
+        (ADJP (JJ unable)
+          (S
+            (VP (TO to)
+              (VP (VB bind)
+                (NP
+                  (NP
+                    (NP (NN Oct1))
+                    (CC or)
+                    (NP (NN Oct2)))
+                  (NNS proteins))))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBN tested)
+              (PP (IN as)
+                (NP (VBN labeled) (NNS probes))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS D) (-RRB- -RRB-))
+      (NP (NN EMSA))
+      (VP (NN supershift)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (VBN indicated) (NNS probes))
+            (CC and)
+            (NP
+              (NP (NNS antibodies))
+              (ADJP (JJ specific)
+                (PP (IN for)
+                  (NP
+                    (NP (NN Oct1))
+                    (CC and)
+                    (NP (NN Oct2))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN EMSA) (NNS experiments))
+        (VP (VBG using)
+          (NP
+            (NP (DT the) (JJ non-conserved) (NN octamer) (NN site))
+            (VP (VBN identified)
+              (PP (IN in)
+                (NP
+                  (NP (DT the)
+                    (ADJP
+                      (ADJP (JJ human))
+                      (CC and)
+                      (ADJP (JJ murine)))
+                    (NN Btk) (NNS promoters))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP murBtkprom) (, ,) (NNP humBtkprom))
+                    (-RRB- -RRB-))))))))
+      (VP (VBD were)
+        (NP
+          (NP (VBN exposed) (NNS three-times))
+          (ADJP (JJR longer)
+            (PP (IN than)
+              (NP
+                (NP (NNS experiments))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (DT the) (JJ wild-type) (NN octamer))
+                    (VP (VBD was)
+                      (VP (VBN used)))))))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 3))
+      (: :)
+      (NP
+        (NP (JJ Ternary) (NN complex) (NN formation))
+        (PP (IN on)
+          (NP (NN Btk) (NN promoter) (NN octamer) (NNS motifs))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN EMSA) (NNS experiments))
+        (PP (IN with)
+          (NP (NN HeLa) (JJ nuclear) (NNS extracts))))
+      (VP (VBD were)
+        (VP (VBN performed)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (VBN labeled) (NNS probes))
+                (VP (VBG bearing)
+                  (NP (CC either)
+                    (NP
+                      (NP (DT a) (NN consensus) (NN octamer) (NN motif))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN cons) (NN Oct) (NN site))
+                        (-RRB- -RRB-)))
+                    (CC or)
+                    (NP
+                      (NP (DT the) (NN octamer) (NNS sequences))
+                      (VP (VBN identified)
+                        (PP (IN within)
+                          (NP
+                            (NP (DT the)
+                              (ADJP
+                                (ADJP (JJ murine))
+                                (CC or)
+                                (ADJP (JJ human)))
+                              (NN Btk) (NN promoter))
+                            (PRN (-LRB- -LRB-)
+                              (NP
+                                (NP (NN Oct-hum) (NN Btk) (NN prom))
+                                (, ,)
+                                (NP (NN Oct-mur) (NN Btk) (NN prom)))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (JJ Unprogrammed) (NN reticulocyte) (NN lysate))
+        (CC or)
+        (NP
+          (ADJP
+            (ADVP (FW in) (FW vitro))
+            (VBN translated))
+          (NN BOB.1/OBF.1) (NN protein)))
+      (VP (VBD were)
+        (VP (VBN included))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NNS Complexes))
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP (IN by)
+            (S
+              (VP (VBG adding)
+                (NP (JJ specific) (NNS antibodies))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (NP (NN Oct1))
+                      (, ,)
+                      (NP (NN Oct2))
+                      (CC or)
+                      (NP (NN BOB.1/OBF.1)))
+                    (SBAR (IN as)
+                      (S
+                        (VP (VBN indicated))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN Figure) (CD 4))
+      (: :)
+      (NP (NN ChIP) (NN assay)))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (NN BOB.1/OBF.1))
+      (VP (VBZ binds)
+        (PP
+          (ADVP (RB together))
+          (IN with)
+          (NP
+            (NP (NN Oct1))
+            (CC and)
+            (NP (NN Oct2))))
+        (PP (TO to)
+          (NP (DT the) (JJ murine) (NN Btk) (NN promoter)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN chromatin))
+        (PP (IN of)
+          (NP (JJ primary) (JJ wild-type) (NN B) (NNS cells))))
+      (VP (VBD was)
+        (UCP
+          (ADJP (JJ cross-linked))
+          (, ,)
+          (ADJP (JJ sheared))
+          (CC and)
+          (VP (VBN immunoprecipitated)
+            (PP (IN with)
+              (NP (DT the) (VBN indicated) (NNS antibodies)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (VBN Immunoprecipitated) (NN DNA))
+      (VP (VBD was)
+        (VP
+          (VP (VBN purified))
+          (CC and)
+          (VP (VBN used)
+            (PP (IN as)
+              (NP (NN template)))
+            (PP (IN in)
+              (NP
+                (NP (NN PCR))
+                (PP (IN with)
+                  (NP
+                    (NP (NNS primers))
+                    (ADJP (JJ specific)
+                      (PP
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (JJ murine) (NN Btk) (NN promoter))
+                            (PRN (-LRB- -LRB-)
+                              (NP (CD −280) (TO to) (CD −10))
+                              (-RRB- -RRB-))))
+                        (, ,)
+                        (CC or)
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (NN H2B)
+                              (CC and)
+                              (NN Pax5) (NNS promoters))
+                            (PP (IN as)
+                              (NP (JJ internal) (NNS controls)))))))))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Chromatin))
+        (VP (VBN immunoprecipitated)
+          (PP (IN with)
+            (NP
+              (NP (NN anti-PLCγ1))
+              (CC and)
+              (NP (NN anti-Lyn))
+              (NP (NNS antibodies))))))
+      (VP (VBD was)
+        (VP (VBN included)
+          (PP (IN as)
+            (NP (JJ negative) (NNS controls))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (VBN Amplified) (NNS products))
+      (VP (VBD were)
+        (VP (VBN detected)
+          (PP (IN on)
+            (NP
+              (NP (NN ethidium) (NN bromide))
+              (VBN stained) (NN agarose) (NNS gels))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (NN Figure) (CD 5))
+      (: :)
+      (NP
+        (NP (NN Analysis))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN dependence))
+            (PP (IN of)
+              (NP (DT the) (JJ murine) (NN Btk) (NN promoter) (NN activity)))
+            (PP (IN on)
+              (NP
+                (NP
+                  (NP (NN Oct))
+                  (CC and)
+                  (NP (NN BOB.1/OBF.1) (NNS proteins)))
+                (PP (IN in)
+                  (NP
+                    (NP (JJ transient) (NN transfection) (NNS experiments))
+                    (VP (VBG using)
+                      (NP (NN NIH/3T3) (NNS fibroblasts))))))))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Activity))
+        (PP (IN of)
+          (NP (DT the) (JJ murine) (NN Btk) (NN promoter)))
+        (PP (IN without)
+          (NP (NN co-transfection))))
+      (VP (VBD was)
+        (VP (VBN set)
+          (PP (TO to)
+            (NP (NN one))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ fold) (NN induction))
+        (PP (IN upon)
+          (NP
+            (NP
+              (NP (NN co-transfection))
+              (PP (IN of)
+                (NP
+                  (NP (NN Oct2))
+                  (, ,)
+                  (NP (NN BOB.1/OBF.1))
+                  (CC or)
+                  (NP (NN PU.1)))))
+            (CC or)
+            (NP
+              (NP (NNS combinations))
+              (PP (IN of)
+                (NP (DT these) (NN expression) (NNS vectors)))))))
+      (VP (VBD was)
+        (VP (VBN determined))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (DT The) (NNS experiments))
+        (VP (VBD were)
+          (VP (VBN repeated)
+            (NP (CD five) (NNS times)))))
+      (CC and)
+      (S
+        (NP
+          (NP (JJ mean) (NNS values))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (NN SD)))
+        (VP (VBD were)
+          (VP (VBN determined)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS A) (-RRB- -RRB-))
+      (NP (DT The) (JJ murine) (NN Btk) (NN promoter))
+      (VP (VBZ is)
+        (VP (VBN induced)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP
+                (NP (NN Oct2))
+                (CC and)
+                (NP (NN BOB.1/OBF.1)))
+              (VP (VBP are)
+                (VP (VBN coexpressed))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS B) (-RRB- -RRB-))
+      (NP
+        (NP (DT The) (NN activation))
+        (PP (IN of)
+          (NP (DT the) (JJ murine) (NN Btk) (NN promoter)))
+        (PP (IN by)
+          (NP
+            (NP (NN Oct2))
+            (CC and)
+            (NP (NN BOB.1/OBF.1)))))
+      (VP (VBZ is)
+        (ADJP (JJ dose-dependent))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (LST (-LRB- -LRB-) (LS C) (-RRB- -RRB-))
+        (JJ Synergistic) (NN activation))
+      (PP (IN of)
+        (NP (DT the) (JJ murine) (NN Btk) (NN promoter)))
+      (PP (IN by)
+        (NP
+          (NP (NN Oct2))
+          (, ,)
+          (NP (NN BOB.1/OBF.1))
+          (, ,)
+          (CC and)
+          (NP (NN PU.1))))
+      (. .))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN Figure) (CD 6))
+        (: :)
+        (NP (DT The) (JJ transcriptional) (NN coactivator) (NN BOB.1/OBF.1)))
+      (VP (VBZ is)
+        (ADJP (JJ critical)
+          (PP (IN for)
+            (NP (NN Btk) (NN expression)))
+          (ADVP (FW in) (FW vivo)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (LST (-LRB- -LRB-) (LS A) (-RRB- -RRB-))
+      (NP
+        (NP (NNS Mutations))
+        (PP (IN within)
+          (NP
+            (NP (DT the) (NN octamer) (NN motif))
+            (PP (IN of)
+              (NP (DT the) (JJ murine) (NN btk) (NN promoter))))))
+      (VP (VBP lead)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN reduction))
+            (PP (IN of)
+              (NP (NN promoter) (NN activity)))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP (DT The) (JJ murine) (NN S194) (NN B) (NN cell) (NN line))
+      (VP (VBD was)
+        (VP (VBN transfected)
+          (PP (IN with)
+            (NP (CC either)
+              (NP
+                (NP (DT the) (JJ wild) (NN type))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN murBtk) (NN pr))
+                  (-RRB- -RRB-)))
+              (CC or)
+              (NP
+                (NP (DT the) (JJ mutant) (NN Btk) (NN promoter))
+                (PRN (-LRB- -LRB-)
+                  (NP (NN mBtk) (NN pr) (NN Mut))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN activity))
+        (PP (IN of)
+          (NP (DT the) (JJ wild-type) (NN promoter))))
+      (VP (VBD was)
+        (VP (VBN set)
+          (PP (TO to)
+            (NP (CD 100) (NN %))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN activity))
+        (PP (IN of)
+          (NP (DT the) (JJ mutant) (NN Btk) (NN promoter))))
+      (VP (VBD was)
+        (VP (VBN determined)
+          (PP (JJ relative) (TO to)
+            (NP (DT the) (JJ wild-type) (NN promoter) (NN activity))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (DT The) (NNS experiments))
+        (VP (VBD were)
+          (VP (VBN repeated)
+            (NP (CD five) (NNS times)))))
+      (CC and)
+      (S
+        (NP
+          (NP (JJ mean) (NNS values))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (NN SD)))
+        (VP (VBD were)
+          (VP (VBN determined)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP (-LRB- -LRB-) (NN B) (-RRB- -RRB-) (NN Protein) (NNS extracts))
+      (PP (IN from)
+        (NP
+          (NP (NN pre) (NN B) (NN cell) (NNS lines))
+          (VP (VBN established)
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN bone) (NN marrow))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ wild) (NN type))
+                    (CC or)
+                    (NP (NN BOB.1/OBF.1−/−mice))))))))))))
+
+(
+  (S
+    (S
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP (NN Btk) (NN expression)))
+          (PP (IN by)
+            (NP (NN western) (NN blot))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (LST (-LRB- -LRB-) (LS C) (-RRB- -RRB-))
+        (NN RNA))
+      (VP (VBN prepared)
+        (PP (IN from)
+          (NP
+            (NP
+              (ADJP
+                (NP (NN bone) (NN marrow))
+                (VBN derived))
+              (NN pre) (NN B) (NN cell) (NNS lines))
+            (, ,)
+            (VP (VBN established)
+              (PP (IN from)
+                (NP
+                  (NP (NNS mice))
+                  (VP (VBG expressing)
+                    (NP (DT a) (JJ conditional) (NN BOB.1/OBF.1) (NN transgene))
+                    (PP (IN on)
+                      (NP (DT a) (NN BOB.1/OBF.1-mutant)))))))))))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN background))
+        (, ,))
+      (VP (VBD was)
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP (NN Btk) (NN mRNA) (NN expression)))
+          (PP (IN by)
+            (NP (NN northern) (NN blot))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (PP (IN In) (DT the) (NN absence) (IN of)
+          (NP
+            (NP (NN Doxycyclin))
+            (PRN (-LRB- -LRB-)
+              (NP (NN Dox))
+              (-RRB- -RRB-))))
+        (NP (DT the) (JJ co-activator) (NN BOB.1/OBF.1))
+        (VP (VBZ is)
+          (VP (VBN expressed))))
+      (, ,) (IN whereas)
+      (S
+        (PP (IN in) (DT the) (NN presence) (IN of)
+          (NP (NN Dox)))
+        (NP (PRP$ its) (NN expression))
+        (VP (VBZ is)
+          (VP (VBN repressed)))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP (-LRB- -LRB-) (NN D) (-RRB- -RRB-) (NN Protein) (NNS extracts))
+        (VP (VBD were) (VBN prepared)
+          (PP (IN from)
+            (NP (VBN sorted) (NN B220+mice)))))
+      (VP (VBD were)
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP (NN Btk) (NN expression)))
+          (PP (IN by)
+            (NP (NN western) (NN blot))))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (LST (-LRB- -LRB-) (LS C) (-RRB- -RRB-))
+        (NN RNA))
+      (VP (VBN prepared)
+        (PP (IN from)
+          (NP
+            (NP
+              (ADJP
+                (NP (NN bone) (NN marrow))
+                (VBN derived))
+              (NN pre) (NN B) (NN cell) (NNS lines))
+            (, ,)
+            (VP (VBN established)
+              (PP (IN from)
+                (NP
+                  (NP (NNS mice))
+                  (VP (VBG expressing)
+                    (NP (DT a) (JJ conditional) (NN BOB.1/OBF.1) (NN transgene))
+                    (PP (IN on)
+                      (NP (DT a) (NN BOB.1/OBF.1-mutant)))))))))))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NN background))
+        (, ,))
+      (VP (VBD was)
+        (VP (VBN analyzed)
+          (PP (IN for)
+            (NP (NN Btk) (NN mRNA) (NN expression)))
+          (PP (IN by)
+            (NP (NN northern) (NN blot))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (PP (IN In) (DT the) (NN absence) (IN of)
+          (NP
+            (NP (NN Doxycyclin))
+            (PRN (-LRB- -LRB-)
+              (NP (NN Dox))
+              (-RRB- -RRB-))))
+        (NP (DT the) (JJ co-activator) (NN BOB.1/OBF.1))
+        (VP (VBZ is)
+          (VP (VBN expressed))))
+      (, ,) (IN whereas)
+      (S
+        (PP (IN in) (DT the) (NN presence) (IN of)
+          (NP (NN Dox)))
+        (NP (PRP$ its) (NN expression))
+        (VP (VBZ is)
+          (VP (VBN repressed)))))
+    (. .)))
+
+(
+  (S
+    (LST (-LRB- -LRB-) (LS D) (-RRB- -RRB-))
+    (NP (NN Protein) (NNS extracts))
+    (VP (VBD were)
+      (VP (VBN prepared)
+        (PP (IN from)
+          (NP
+            (NP (VBN sorted) (NN B220+) (NNS splenocytes))
+            (PP (IN from)
+              (NP (CC either)
+                (NP (JJ wild) (NN type))
+                (CC or)
+                (NP (NNS BOB.1/OBF.1−/−))))))))))
+
+(
+  (S
+    (S
+      (NP (NNS mice))
+      (CC and)
+      (VP (VBN analyzed)
+        (PP (IN for)
+          (NP (NN Btk) (NN expression)))))
+    (. .)))
+
+(
+  (S
+    (NP
+      (NP
+        (PRN (-LRB- -LRB-)
+          (NP (NN E))
+          (-RRB- -RRB-))
+        (NN RNA))
+      (VP (VBD was) (VBN prepared)
+        (PP (IN from)
+          (NP (NNS splenocytes)))
+        (PP (IN from)
+          (NP
+            (NP (JJ wild) (NN type))
+            (CC or)
+            (NP (NN BOB.1/OBF.1−/−))))))))
+
+(
+  (S
+    (S
+      (NP
+        (NP (NNS mice))
+        (CC and)
+        (NP (DT the) (NN Btk–mRNA) (NN expression)))
+      (VP (VBD was)
+        (VP (VBN analyzed)
+          (PP (IN by)
+            (NP (NN northern) (NN blot))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NN RelA))
+          (PRN (-LRB- -LRB-)
+            (NP (NN p65))
+            (-RRB- -RRB-)))
+        (CC or)
+        (NP (NNS GAPDH)))
+      (VP (VBD were)
+        (VP (VBN used)
+          (PP (IN as)
+            (NP (NN loading) (NNS controls))))))
+    (. .)))
+
+(
+  (S
+    (S
+      (S
+        (NP (NN WB))
+        (VP (VBG =)
+          (NP (NN western) (NN blot))))
+      (: ;)
+      (S
+        (NP (NN NB))
+        (VP (VBG =)
+          (NP (NN northern) (NN blot)))))
+    (. .)))
+
